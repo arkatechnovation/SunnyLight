@@ -513,14 +513,14 @@
                   class="fa-solid fa-chevron-down"></i></a>
             <ul class="dropdown-menu" id="desktop-profile-products">
               <li><a href="profile-lights.php#Led-Aluminium-Profiles">Led Aluminium Profiles</a></li>
-              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile
-                  Accessories</a>
-              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed
-                  Flexible Neon Profile Without Thread</a>
-              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a>
-              </li>
+              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a></li>
+              <li><a href="profile-lights.php#Shadow-Gap-LED-Aluminium-Profile">Shadow Gap LED Aluminium Profile</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile Accessories</a></li>
+              <li><a href="profile-lights.php#LED-Profile-Flexible-Neon-Profile">LED Profile / Flexible Neon Profile</a></li>
+              <li><a href="profile-lights.php#LED-Skirting-Profile-Accessories">LED Skirting Profile &amp; Accessories</a></li>
+              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed Flexible Neon Profile Without Thread</a></li>
+              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#">FLEXI LIGHTS <span><i class="fa-solid fa-chevron-down"></i></a>
@@ -544,12 +544,17 @@
               <li><a href="smps.php#SMPS-Waterproof-24V-DC">SMPS Waterproof 24V DC</a></li>
               <li><a href="smps.php#SMPS-Rainproof-12V-DC">SMPS Rainproof 12V DC</a></li>
               <li><a href="smps.php#SMPS-Waterproof-12V-DC">SMPS Waterproof 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 24V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 12V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 24V DC</a></li>
               <li><a href="smps.php#SL-Indoor-SMPS">SL Indoor SMPS</a></li>
+              <li><a href="smps.php#Slim-SMPS-Auto-Switch-12V-24V">Slim SMPS Series Auto Switch (12V to 24V)</a></li>
+              <li><a href="smps.php#DC-12V-Premium-Quality-SMPS">DC 12V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Premium-Quality-SMPS">DC 24V Premium Current Adjustable Dimmable SMPS</a></li>
+              <li><a href="smps.php#DC-48V-Premium-Quality-SMPS">DC 48V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#TUYA-Smart-App-Control-Premium-SMPS">TUYA Smart App Control Premium SMPS</a></li>
               <li><a href="smps.php#SL-IP67-Outdoor-SMPS">SL IP67 Outdoor SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Waterproof-Premium-SMPS">DC 24V IP67 Waterproof Premium SMPS</a></li>
+              <li><a href="smps.php#DC-12V-Waterproof-Premium-SMPS">DC 12V IP67 Waterproof Premium SMPS</a></li>
             </ul>
           </li>
 
@@ -557,20 +562,28 @@
             <ul class="dropdown-menu" id="desktop-led-drivers-products">
               <li><a href="LED-drivers.php#LED-Drivers">LED Drivers</a></li>
               <li><a href="LED-drivers.php#Waterproof-LED-Drivers">Waterproof LED Drivers</a></li>
-              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic
-                  Dimming)</a></li>
+              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic Dimming)</a></li>
               <li><a href="LED-drivers.php#Phase-Cut-Dimmable">Phase Cut Dimmable LED Drivers</a></li>
               <li><a href="LED-drivers.php#Analogue-Dimmable-LED-Driver">Analogue Dimmable LED Driver(0-10)</a></li>
-              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Drivers">Dali Adjustable Dimmable LED
-                  Drivers</a></li>
+              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Driver">Dali Adjustable Dimmable LED Drivers</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT6-DALI-Driver">Constant Current DT6 DALI Dimmable Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT8-DALI-CCT-Driver">Constant Current DT8 DALI Dimmable CCT Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-Driver">Constant Voltage DC 12V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-Driver">Constant Voltage DC 24V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT8-Driver">Constant Voltage DC 12V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT8-Driver">Constant Voltage DC 24V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-IP67-Driver">Constant Voltage DC 12V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-IP67-Driver">Constant Voltage DC 24V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Staircase-Controllers">Staircase Controllers</a></li>
+              <li><a href="LED-drivers.php#DMX-512-Decoder-DALI-Controllers">DMX 512 Decoder &amp; DALI LED Controllers</a></li>
+              <li><a href="LED-drivers.php#TRIAC-Phase-Cut-Dimmers">TRIAC / Phase Cut Dimmers</a></li>
             </ul>
           </li>
           
           <li class="dropdown"><a href="#">OUR CATALOGUE <span><i class="fa-solid fa-chevron-down"></i></a>
-            <ul class="dropdown-menu" id="desktop-led-drivers-products">
+            <ul class="dropdown-menu">
               <li><a href="assets/img/catalogue/SL-PRICE-LIST-2020.pdf" target="_blank">SL PRICE LIST 2020</a></li>
               <li><a href="assets/img/catalogue/SUNNY-LIGHT-CATALOGUE-2026.pdf" target="_blank">SUNNY LIGHT CATALOGUE 2026</a></li>
-              
             </ul>
           </li>
         </ul>
@@ -1135,8 +1148,18 @@ document.addEventListener('DOMContentLoaded', function() {
                             <li><a href="#Phase-Cut-Dimmable" class="filter-link" data-category="adjustable-wall">PhaseCut Dimmable LED Drivers</a></li>
                             <li><a href="#Analogue-Dimmable-LED-Driver" class="filter-link" data-category="garden-spike">Analogue Dimmable LED Driver(0-10)</a></li>
                             <li><a href="#Dali-Adjustable-Dimmable-LED-Driver" class="filter-link" data-category="garden-spike">Dali Adjustable Dimmable LED Driver(0-10)</a></li>
-                        
-                           </ul>
+                            <li><a href="#Constant-Current-DT6-DALI-Driver" class="filter-link" data-category="dali-cc-dt6">Constant Current DT6 DALI Dimmable Driver</a></li>
+                            <li><a href="#Constant-Current-DT8-DALI-CCT-Driver" class="filter-link" data-category="dali-cc-dt8">Constant Current DT8 DALI Dimmable CCT Driver</a></li>
+                            <li><a href="#Constant-Voltage-DC12V-DALI-DT6-Driver" class="filter-link" data-category="dali-cv12-dt6">Constant Voltage DC 12V DALI Dimmable DT6 Driver</a></li>
+                            <li><a href="#Constant-Voltage-DC24V-DALI-DT6-Driver" class="filter-link" data-category="dali-cv24-dt6">Constant Voltage DC 24V DALI Dimmable DT6 Driver</a></li>
+                            <li><a href="#Constant-Voltage-DC12V-DALI-DT8-Driver" class="filter-link" data-category="dali-cv12-dt8">Constant Voltage DC 12V DALI Dimmable DT8 Driver</a></li>
+                            <li><a href="#Constant-Voltage-DC24V-DALI-DT8-Driver" class="filter-link" data-category="dali-cv24-dt8">Constant Voltage DC 24V DALI Dimmable DT8 Driver</a></li>
+                            <li><a href="#Constant-Voltage-DC12V-DALI-DT6-IP67-Driver" class="filter-link" data-category="dali-ip67-12">Constant Voltage DC 12V DALI DT6 IP67 Waterproof</a></li>
+                            <li><a href="#Constant-Voltage-DC24V-DALI-DT6-IP67-Driver" class="filter-link" data-category="dali-ip67-24">Constant Voltage DC 24V DALI DT6 IP67 Waterproof</a></li>
+                            <li><a href="#Staircase-Controllers" class="filter-link" data-category="staircase-ctrl">Staircase Controllers</a></li>
+                            <li><a href="#DMX-512-Decoder-DALI-Controllers" class="filter-link" data-category="dmx-dali-ctrl">DMX 512 Decoder &amp; DALI LED Controllers</a></li>
+                            <li><a href="#TRIAC-Phase-Cut-Dimmers" class="filter-link" data-category="triac-dimmers">TRIAC / Phase Cut Dimmers</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -1403,6 +1426,358 @@ document.addEventListener('DOMContentLoaded', function() {
     <tr><td>SLOT45DA</td><td>100-250V AC</td><td>6-42V 900/950/1000/1050mA</td><td>35-45W</td><td>IP-20</td><td>2 Year</td></tr>
   </tbody>
 </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Constant Current DT6 DALI Dimmable Driver -->
+                    <div class="product-group" id="Constant-Current-DT6-DALI-Driver">
+                        <h3 class="product-group-title">Constant Current DT6 DALI Dimmable Driver</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left">
+                                <div class="smps-product-image">
+                                    <img src="assets/img/products/product_559.png" alt="Constant Current DT6 DALI Dimmable Driver">
+                                </div>
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output Voltage &amp; Current</th>
+                                            <th>Wattage</th>
+                                            <th>Size</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>LF-ADD009-0200-42</td><td>100-240V</td><td>9-42V 100-200mA</td><td>3-8W</td><td>L142*W30*H22MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>LF-ADD0013-0400-42</td><td>100-240V</td><td>9-37V 250-400mA</td><td>8-15W</td><td>L142*W30*H22MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>LF-ADD0030-0750-42</td><td>100-240V</td><td>15-30V 400-750mA</td><td>30W</td><td>L145*W46*H27.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Constant Current DT8 DALI Dimmable CCT Driver -->
+                    <div class="product-group" id="Constant-Current-DT8-DALI-CCT-Driver">
+                        <h3 class="product-group-title">Constant Current DT8 DALI Dimmable CCT Driver</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left">
+                                <div class="smps-product-image">
+                                    <img src="assets/img/products/product_562.png" alt="Constant Current DT8 DALI Dimmable CCT Driver">
+                                </div>
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output Voltage</th>
+                                            <th>Wattage</th>
+                                            <th>Size</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>LF-GSD012YK</td><td>100-240V</td><td>9-37V</td><td>4-12W</td><td>L121.9*W39.9*H25MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>LF-GSD020YK</td><td>100-240V</td><td>9-37V</td><td>15-20W</td><td>L141.5*W46*H27.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Constant Voltage DC 12V DALI Dimmable DT6 Driver -->
+                    <div class="product-group" id="Constant-Voltage-DC12V-DALI-DT6-Driver">
+                        <h3 class="product-group-title">Constant Voltage DC 12V DALI Dimmable DT6 Driver</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left">
+                                <div class="smps-product-image">
+                                    <img src="assets/img/products/product_564.png" alt="Constant Voltage DC 12V DALI Dimmable DT6 Driver">
+                                </div>
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output</th>
+                                            <th>Max Wattage</th>
+                                            <th>Size</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>SPV D6 36-12DA</td><td>100-240V</td><td>12V</td><td>36W</td><td>L264*W30*H18.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>SPV D6 75-12DA</td><td>100-240V</td><td>12V</td><td>75W</td><td>L334*W31*H22.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>SPV D6 100-12DA</td><td>100-240V</td><td>12V</td><td>100W</td><td>L364*W31*H22.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Constant Voltage DC 24V DALI Dimmable DT6 Driver -->
+                    <div class="product-group" id="Constant-Voltage-DC24V-DALI-DT6-Driver">
+                        <h3 class="product-group-title">Constant Voltage DC 24V DALI Dimmable DT6 Driver</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left">
+                                <div class="smps-product-image">
+                                    <img src="assets/img/products/product_567.png" alt="Constant Voltage DC 24V DALI Dimmable DT6 Driver">
+                                </div>
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output</th>
+                                            <th>Max Wattage</th>
+                                            <th>Size</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>SPV D6 36-24DA</td><td>100-240V</td><td>24V</td><td>36W</td><td>L264*W30*H18.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>SPV D6 75-24DA</td><td>100-240V</td><td>24V</td><td>75W</td><td>L334*W31*H22.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>SPV D6 100-24DA</td><td>100-240V</td><td>24V</td><td>100W</td><td>L364*W31*H22.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>SPV D6 150-24DA</td><td>200-240V</td><td>24V</td><td>150W</td><td>L364*W31*H22.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>SPV D6 200-24DA</td><td>200-240V</td><td>24V</td><td>200W</td><td>L364*W31*H22.5MM</td><td>IP20</td><td>5 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Constant Voltage DC 12V DALI Dimmable DT8 Driver -->
+                    <div class="product-group" id="Constant-Voltage-DC12V-DALI-DT8-Driver">
+                        <h3 class="product-group-title">Constant Voltage DC 12V DALI Dimmable DT8 Driver</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left">
+                                <div class="smps-product-image">
+                                    <img src="assets/img/products/product_572.png" alt="Constant Voltage DC 12V DALI Dimmable DT8 Driver">
+                                </div>
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output</th>
+                                            <th>Max Wattage</th>
+                                            <th>Size</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>LPV D8 100-12DA</td><td>200-240V</td><td>12V</td><td>100W</td><td>L286*W42*H31MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>LPV D8 150-12DA</td><td>200-240V</td><td>12V</td><td>150W</td><td>L286*W42*H31MM</td><td>IP20</td><td>5 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Constant Voltage DC 24V DALI Dimmable DT8 Driver -->
+                    <div class="product-group" id="Constant-Voltage-DC24V-DALI-DT8-Driver">
+                        <h3 class="product-group-title">Constant Voltage DC 24V DALI Dimmable DT8 Driver</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left">
+                                <div class="smps-product-image">
+                                    <img src="assets/img/products/product_574.png" alt="Constant Voltage DC 24V DALI Dimmable DT8 Driver">
+                                </div>
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output</th>
+                                            <th>Max Wattage</th>
+                                            <th>Size</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>LPV D8 100-24DA</td><td>200-240V</td><td>24V</td><td>100W</td><td>L286*W42*H31MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>LPV D8 150-24DA</td><td>200-240V</td><td>24V</td><td>150W</td><td>L286*W42*H31MM</td><td>IP20</td><td>5 Years</td></tr>
+                                        <tr><td>LPV D8 200-24DA</td><td>200-240V</td><td>24V</td><td>200W</td><td>L286*W42*H31MM</td><td>IP20</td><td>5 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Constant Voltage DC 12V DALI Dimmable DT6 IP67 Waterproof Driver -->
+                    <div class="product-group" id="Constant-Voltage-DC12V-DALI-DT6-IP67-Driver">
+                        <h3 class="product-group-title">Constant Voltage DC 12V DALI Dimmable DT6 IP67 Waterproof Driver</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left">
+                                <div class="smps-product-image">
+                                    <img src="assets/img/products/product_577.png" alt="Constant Voltage DC 12V DALI Dimmable DT6 IP67 Waterproof Driver">
+                                </div>
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output</th>
+                                            <th>Max Wattage</th>
+                                            <th>Size</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>MPV D6 36-12DA</td><td>100-240V</td><td>12V</td><td>36W</td><td>L240*W37*H22MM</td><td>IP67</td><td>5 Years</td></tr>
+                                        <tr><td>MPV D6 75-12DA</td><td>100-240V</td><td>12V</td><td>75W</td><td>L272*W37*H22MM</td><td>IP67</td><td>5 Years</td></tr>
+                                        <tr><td>MPV D6 100-12DA</td><td>100-240V</td><td>12V</td><td>100W</td><td>L272*W37*H22MM</td><td>IP67</td><td>5 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Constant Voltage DC 24V DALI Dimmable DT6 IP67 Waterproof Driver -->
+                    <div class="product-group" id="Constant-Voltage-DC24V-DALI-DT6-IP67-Driver">
+                        <h3 class="product-group-title">Constant Voltage DC 24V DALI Dimmable DT6 IP67 Waterproof Driver</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left">
+                                <div class="smps-product-image">
+                                    <img src="assets/img/products/product_580.png" alt="Constant Voltage DC 24V DALI Dimmable DT6 IP67 Waterproof Driver">
+                                </div>
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output</th>
+                                            <th>Max Wattage</th>
+                                            <th>Size</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>MPV D6 36-24DA</td><td>100-240V</td><td>24V</td><td>36W</td><td>L240*W37*H22MM</td><td>IP67</td><td>5 Years</td></tr>
+                                        <tr><td>MPV D6 75-24DA</td><td>100-240V</td><td>24V</td><td>75W</td><td>L272*W37*H22MM</td><td>IP67</td><td>5 Years</td></tr>
+                                        <tr><td>MPV D6 100-24DA</td><td>100-240V</td><td>24V</td><td>100W</td><td>L272*W37*H22MM</td><td>IP67</td><td>5 Years</td></tr>
+                                        <tr><td>MPV D6 150-24DA</td><td>170-264V</td><td>24V</td><td>150W</td><td>L342*W37*H22MM</td><td>IP67</td><td>5 Years</td></tr>
+                                        <tr><td>MPV D6 200-24DA</td><td>170-264V</td><td>24V</td><td>200W</td><td>L342*W37*H22MM</td><td>IP67</td><td>5 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Staircase Controllers -->
+                    <div class="product-group" id="Staircase-Controllers">
+                        <h3 class="product-group-title">Staircase Controllers</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
+                                <img src="assets/img/products/product_553.png" alt="SL ST-1670 PIR" style="max-height:130px; width:auto;">
+                                <img src="assets/img/products/product_554.png" alt="SL ST-1671LSR" style="max-height:130px; width:auto;">
+                                <img src="assets/img/products/product_555.png" alt="SL LSR 1672 (2in1)" style="max-height:130px; width:auto;">
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output</th>
+                                            <th>Max Wattage</th>
+                                            <th>Size</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>SL ST-1670 PIR</td><td>DC12-24V</td><td>3A*32STEPS</td><td>Max 500W (15W/Step)</td><td>260*120*35MM</td><td>IP20</td><td>2 Years</td></tr>
+                                        <tr><td>SL ST-1671LSR</td><td>DC12-24V</td><td>3A*32STEPS</td><td>Max 500W (15W/Step)</td><td>260*120*35MM</td><td>IP20</td><td>2 Years</td></tr>
+                                        <tr><td>SL LSR 1672 (2in1)</td><td>DC12-24V</td><td>3A*32STEPS</td><td>Max 500W (15W/Step)</td><td>260*120*35MM</td><td>IP20</td><td>2 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: DMX 512 Decoder & DALI LED Controllers -->
+                    <div class="product-group" id="DMX-512-Decoder-DALI-Controllers">
+                        <h3 class="product-group-title">DMX 512 Decoder &amp; DALI LED Controllers</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
+                                <img src="assets/img/products/product_556.png" alt="SL D4-F-DMX/RDM/CV" style="max-height:130px; width:auto;">
+                                <img src="assets/img/products/product_557.png" alt="DA4-M-DALI LED DIMMER" style="max-height:130px; width:auto;">
+                                <img src="assets/img/products/product_558.png" alt="DA5-M-DALI LED DIMMER" style="max-height:130px; width:auto;">
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output</th>
+                                            <th>Max Wattage</th>
+                                            <th>IP Rating</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>SL D4-F-DMX/RDM/CV</td><td>DC12-24V</td><td>4CH CV (DC12-24V)</td><td>Max 12V-240W/24V-480W</td><td>IP20</td><td>3 Years</td></tr>
+                                        <tr><td>DA4-M-DALI LED DIMMER</td><td>DC12-24V</td><td>4CH*5AMP</td><td>Max 12V-60W/24V-120W</td><td>IP20</td><td>3 Years</td></tr>
+                                        <tr><td>DA5-M-DALI LED DIMMER</td><td>DC12-48V</td><td>5CH*4AMP</td><td>Max 12V-240W/24V-480W</td><td>IP20</td><td>3 Years</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: TRIAC / Phase Cut Dimmers -->
+                    <div class="product-group" id="TRIAC-Phase-Cut-Dimmers">
+                        <h3 class="product-group-title">TRIAC / Phase Cut Dimmers</h3>
+                        <div class="smps-product-wrapper">
+                            <div class="product-left" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
+                                <img src="assets/img/products/product_585.png" alt="S1-K Triac Dimmer" style="max-height:150px; width:auto;">
+                                <img src="assets/img/products/product_586.png" alt="SL DIM 551" style="max-height:150px; width:auto;">
+                            </div>
+                            <div class="product-right">
+                                <table class="product-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Product Code</th>
+                                            <th>Input Voltage</th>
+                                            <th>Output Voltage</th>
+                                            <th>Current</th>
+                                            <th>Power</th>
+                                            <th>Body Color</th>
+                                            <th>Input Signal</th>
+                                            <th>Warranty</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>S1-K Traic dimmer</td><td>AC100-240V</td><td>AC100-240V</td><td>1.5A</td><td>150-360W</td><td>White/Black</td><td>Rotary Knob + RF 2.4GHz</td><td>2 Years</td></tr>
+                                        <tr><td>SL DIM 551</td><td>AC100-240V</td><td>AC100-240V</td><td>1.5A</td><td>150-360W</td><td>White/Black</td><td>Touch Key + RF 2.4GHz</td><td>2 Years</td></tr>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>
@@ -1852,8 +2227,8 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="https://www.jaikviktechnology.com/"
-            target="_blank"><span>Jaikvik Technology India Pvt Ltd</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
+            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>

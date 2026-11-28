@@ -534,10 +534,9 @@
           </li>
           
           <li class="dropdown"><a href="#">OUR CATALOGUE <span><i class="fa-solid fa-chevron-down"></i></a>
-            <ul class="dropdown-menu" id="desktop-led-drivers-products">
+            <ul class="dropdown-menu">
               <li><a href="assets/img/catalogue/SL-PRICE-LIST-2020.pdf" target="_blank">SL PRICE LIST 2020</a></li>
               <li><a href="assets/img/catalogue/SUNNY-LIGHT-CATALOGUE-2026.pdf" target="_blank">SUNNY LIGHT CATALOGUE 2026</a></li>
-              
             </ul>
           </li>
         </ul>

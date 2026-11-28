@@ -520,14 +520,14 @@
                   class="fa-solid fa-chevron-down"></i></a>
             <ul class="dropdown-menu" id="desktop-profile-products">
               <li><a href="profile-lights.php#Led-Aluminium-Profiles">Led Aluminium Profiles</a></li>
-              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile
-                  Accessories</a>
-              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed
-                  Flexible Neon Profile Without Thread</a>
-              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a>
-              </li>
+              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a></li>
+              <li><a href="profile-lights.php#Shadow-Gap-LED-Aluminium-Profile">Shadow Gap LED Aluminium Profile</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile Accessories</a></li>
+              <li><a href="profile-lights.php#LED-Profile-Flexible-Neon-Profile">LED Profile / Flexible Neon Profile</a></li>
+              <li><a href="profile-lights.php#LED-Skirting-Profile-Accessories">LED Skirting Profile &amp; Accessories</a></li>
+              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed Flexible Neon Profile Without Thread</a></li>
+              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#">FLEXI LIGHTS <span><i class="fa-solid fa-chevron-down"></i></a>
@@ -551,12 +551,17 @@
               <li><a href="smps.php#SMPS-Waterproof-24V-DC">SMPS Waterproof 24V DC</a></li>
               <li><a href="smps.php#SMPS-Rainproof-12V-DC">SMPS Rainproof 12V DC</a></li>
               <li><a href="smps.php#SMPS-Waterproof-12V-DC">SMPS Waterproof 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 24V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 12V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 24V DC</a></li>
               <li><a href="smps.php#SL-Indoor-SMPS">SL Indoor SMPS</a></li>
+              <li><a href="smps.php#Slim-SMPS-Auto-Switch-12V-24V">Slim SMPS Series Auto Switch (12V to 24V)</a></li>
+              <li><a href="smps.php#DC-12V-Premium-Quality-SMPS">DC 12V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Premium-Quality-SMPS">DC 24V Premium Current Adjustable Dimmable SMPS</a></li>
+              <li><a href="smps.php#DC-48V-Premium-Quality-SMPS">DC 48V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#TUYA-Smart-App-Control-Premium-SMPS">TUYA Smart App Control Premium SMPS</a></li>
               <li><a href="smps.php#SL-IP67-Outdoor-SMPS">SL IP67 Outdoor SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Waterproof-Premium-SMPS">DC 24V IP67 Waterproof Premium SMPS</a></li>
+              <li><a href="smps.php#DC-12V-Waterproof-Premium-SMPS">DC 12V IP67 Waterproof Premium SMPS</a></li>
             </ul>
           </li>
 
@@ -564,20 +569,28 @@
             <ul class="dropdown-menu" id="desktop-led-drivers-products">
               <li><a href="LED-drivers.php#LED-Drivers">LED Drivers</a></li>
               <li><a href="LED-drivers.php#Waterproof-LED-Drivers">Waterproof LED Drivers</a></li>
-              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic
-                  Dimming)</a></li>
+              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic Dimming)</a></li>
               <li><a href="LED-drivers.php#Phase-Cut-Dimmable">Phase Cut Dimmable LED Drivers</a></li>
               <li><a href="LED-drivers.php#Analogue-Dimmable-LED-Driver">Analogue Dimmable LED Driver(0-10)</a></li>
-              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Drivers">Dali Adjustable Dimmable LED
-                  Drivers</a></li>
+              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Driver">Dali Adjustable Dimmable LED Drivers</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT6-DALI-Driver">Constant Current DT6 DALI Dimmable Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT8-DALI-CCT-Driver">Constant Current DT8 DALI Dimmable CCT Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-Driver">Constant Voltage DC 12V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-Driver">Constant Voltage DC 24V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT8-Driver">Constant Voltage DC 12V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT8-Driver">Constant Voltage DC 24V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-IP67-Driver">Constant Voltage DC 12V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-IP67-Driver">Constant Voltage DC 24V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Staircase-Controllers">Staircase Controllers</a></li>
+              <li><a href="LED-drivers.php#DMX-512-Decoder-DALI-Controllers">DMX 512 Decoder &amp; DALI LED Controllers</a></li>
+              <li><a href="LED-drivers.php#TRIAC-Phase-Cut-Dimmers">TRIAC / Phase Cut Dimmers</a></li>
             </ul>
           </li>
           
           <li class="dropdown"><a href="#">OUR CATALOGUE <span><i class="fa-solid fa-chevron-down"></i></a>
-            <ul class="dropdown-menu" id="desktop-led-drivers-products">
+            <ul class="dropdown-menu">
               <li><a href="assets/img/catalogue/SL-PRICE-LIST-2020.pdf" target="_blank">SL PRICE LIST 2020</a></li>
               <li><a href="assets/img/catalogue/SUNNY-LIGHT-CATALOGUE-2026.pdf" target="_blank">SUNNY LIGHT CATALOGUE 2026</a></li>
-              
             </ul>
           </li>
         </ul>
@@ -1321,6 +1334,42 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <h3 class="product-name">SL Track Lights</h3>
                                     </div>
                                 </div>
+                            </a>
+                            <a href="track-light-details-page.php?id=1317" class="product-card-link">
+                                <div class="product-card" data-price="2400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_317.png" alt="SL MX TR 4430" class="default-image">
+                                        <img src="assets/img/products/product_317.png" alt="SL MX TR 4430" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Commercial Track Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX TR 4430</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="track-light-details-page.php?id=1318" class="product-card-link">
+                                <div class="product-card" data-price="2700">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_318.png" alt="SL MX TR 4440" class="default-image">
+                                        <img src="assets/img/products/product_318.png" alt="SL MX TR 4440" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Commercial Track Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX TR 4440</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="track-light-details-page.php?id=1324" class="product-card-link">
+                                <div class="product-card" data-price="1600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_324.png" alt="SL-TR-4040E" class="default-image">
+                                        <img src="assets/img/products/product_324.png" alt="SL-TR-4040E" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Economic Track Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL-TR-4040E</div>
+                                    </div>
+                                </div>
                             </a>  
                             
                         </div>
@@ -1342,6 +1391,54 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Track Light Channels & Connectors</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="track-light-details-page.php?id=1415" class="product-card-link">
+                                <div class="product-card" data-price="1200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_415.png" alt="SL-4 WIRE TRACK 3 FACE" class="default-image">
+                                        <img src="assets/img/products/product_415.png" alt="SL-4 WIRE TRACK 3 FACE" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">3 Phase Track Channel &amp; Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-4 WIRE TRACK 3 FACE</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="track-light-details-page.php?id=1416" class="product-card-link">
+                                <div class="product-card" data-price="400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_416.png" alt="SL-4 WIRE STRAIGHT" class="default-image">
+                                        <img src="assets/img/products/product_416.png" alt="SL-4 WIRE STRAIGHT" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">3 Phase Track Channel &amp; Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-4 WIRE STRAIGHT</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="track-light-details-page.php?id=1417" class="product-card-link">
+                                <div class="product-card" data-price="360">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_417.png" alt="SL-2456-4 WIRE BASE 027" class="default-image">
+                                        <img src="assets/img/products/product_417.png" alt="SL-2456-4 WIRE BASE 027" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">3 Phase Track Channel &amp; Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-2456-4 WIRE BASE 027</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="track-light-details-page.php?id=1418" class="product-card-link">
+                                <div class="product-card" data-price="750">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_418.png" alt="SL-2456-4 WIRE BASE 029" class="default-image">
+                                        <img src="assets/img/products/product_418.png" alt="SL-2456-4 WIRE BASE 029" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">3 Phase Track Channel &amp; Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-2456-4 WIRE BASE 029</div>
                                     </div>
                                 </div>
                             </a>                             
@@ -1800,8 +1897,8 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="https://www.jaikviktechnology.com/"
-            target="_blank"><span>Jaikvik Technology India Pvt Ltd</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
+            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>

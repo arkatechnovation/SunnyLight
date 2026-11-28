@@ -124,4 +124,7 @@
   </div>
 </div>
 
+<!-- Universal Product Image Preview & Zoom System -->
+<link rel="stylesheet" href="assets/CSS/image-preview.css">
+<script src="assets/JS/image-preview.js"></script>
 

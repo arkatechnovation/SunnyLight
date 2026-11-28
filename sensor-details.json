@@ -1,60 +1,60 @@
 [
- {
-  "id": 1,
-  "title": "Quick Sense Sensor - Wall Recessed",
-  "model": "SL WL PIR 220",
-  "description": "The SL WL PIR 220 Quick Sense Wall Recessed Sensor is a compact and efficient wall-mounted motion sensor designed for modern interiors. With its sleek square design and white finish, it blends seamlessly into walls while offering reliable motion detection. Operating within an AC 185V-240V input range, this wall sensor enhances energy efficiency and automation by activating lights or devices only when motion is detected. Its recessed design ensures a neat and unobtrusive installation, making it suitable for both residential and commercial applications.",
-  "details": {
-    "Product Details": "Designed for energy-saving and convenience, the Quick Sense Wall Recessed Sensor ensures lights and devices operate only when required. This automation not only improves efficiency but also enhances comfort and security within the space.",
-    "Premium Construction": "Finished in a clean white color with a modern square profile, the sensor is built to blend seamlessly into walls. The recessed mounting provides a smooth, professional appearance without protrusions.",
-    "Sensor Performance": "Powered by AC 185V-240V, the sensor delivers consistent motion detection, ensuring responsive performance in controlling connected devices. With an IP20 rating, it is suitable for indoor environments such as homes, offices, and commercial interiors.",
-    "Easy Installation": "Compact with dimensions of 85 × 75MM, the sensor is easy to install in standard wall spaces. Its recessed design makes it ideal for flush mounting in modern architecture.",
-    "Versatile Application": "Perfect for residential hallways, living rooms, staircases, offices, and commercial spaces, the Quick Sense Wall Recessed Sensor enhances safety, convenience, and energy savings."
+  {
+    "id": 1,
+    "title": "Quick Sense Sensor - Wall Recessed",
+    "model": "SL WL PIR 220",
+    "description": "The SL WL PIR 220 Quick Sense Wall Recessed Sensor is a compact and efficient wall-mounted motion sensor designed for modern interiors. With its sleek square design and white finish, it blends seamlessly into walls while offering reliable motion detection. Operating within an AC 185V-240V input range, this wall sensor enhances energy efficiency and automation by activating lights or devices only when motion is detected. Its recessed design ensures a neat and unobtrusive installation, making it suitable for both residential and commercial applications.",
+    "details": {
+      "Product Details": "Designed for energy-saving and convenience, the Quick Sense Wall Recessed Sensor ensures lights and devices operate only when required. This automation not only improves efficiency but also enhances comfort and security within the space.",
+      "Premium Construction": "Finished in a clean white color with a modern square profile, the sensor is built to blend seamlessly into walls. The recessed mounting provides a smooth, professional appearance without protrusions.",
+      "Sensor Performance": "Powered by AC 185V-240V, the sensor delivers consistent motion detection, ensuring responsive performance in controlling connected devices. With an IP20 rating, it is suitable for indoor environments such as homes, offices, and commercial interiors.",
+      "Easy Installation": "Compact with dimensions of 85 × 75MM, the sensor is easy to install in standard wall spaces. Its recessed design makes it ideal for flush mounting in modern architecture.",
+      "Versatile Application": "Perfect for residential hallways, living rooms, staircases, offices, and commercial spaces, the Quick Sense Wall Recessed Sensor enhances safety, convenience, and energy savings."
+    },
+    "specifications": {
+      "Model Number": "SL WL PIR 220",
+      "Shape": "Square",
+      "Body Color": "White",
+      "Input": "AC 185V-240V",
+      "Type": "Wall Sensor",
+      "Size": "85 × 75MM",
+      "Rating": "IP20",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/sensor/sns-3.jpg",
+      "assets/img/sensor/sns-6.jpg",
+      "assets/img/sensor/sns-1.jpg",
+      "assets/img/sensor/sns-8.jpg"
+    ]
   },
-  "specifications": {
-    "Model Number": "SL WL PIR 220",
-    "Shape": "Square",
-    "Body Color": "White",
-    "Input": "AC 185V-240V",
-    "Type": "Wall Sensor",
-    "Size": "85 × 75MM",
-    "Rating": "IP20",
-    "Warranty": "1 Year"
+  {
+    "id": 2,
+    "title": "Quick Sense Sensor - Ceiling Recessed",
+    "model": "SL MIR 220",
+    "description": "The SL MIR 220 Quick Sense Ceiling Recessed Sensor is a reliable motion detection solution designed for modern indoor environments. With its round recessed design and clean white finish, it integrates seamlessly into ceilings, offering efficient motion sensing while maintaining a minimalist look. Operating on AC 185V-240V, this sensor is ideal for automating lighting systems, improving energy savings, and enhancing safety across residential and commercial interiors.",
+    "details": {
+      "Product Details": "The Quick Sense Ceiling Recessed Sensor ensures that lighting systems operate only when motion is detected, optimizing energy consumption and providing hands-free convenience. Its discreet round shape blends naturally into ceiling spaces.",
+      "Premium Construction": "Crafted in a sleek white finish, this sensor provides a neat and modern appearance. The recessed mounting design allows for an unobtrusive installation that complements a wide range of interiors.",
+      "Sensor Performance": "With an input range of AC 185V-240V, the SL MIR 220 delivers consistent and accurate motion sensing. Its IP20 rating makes it suitable for protected indoor applications, ensuring safe and efficient operation.",
+      "Easy Installation": "Measuring 85 × 60 × 65H MM, the compact design allows for simple recessed ceiling installation. It is compatible with standard ceiling cutouts, ensuring a professional flush-mounted finish.",
+      "Versatile Application": "Perfect for hallways, offices, living rooms, conference areas, and other indoor spaces. The sensor enhances safety and efficiency by activating lights automatically when movement is detected."
+    },
+    "specifications": {
+      "Model Number": "SL MIR 220",
+      "Shape": "Round",
+      "Body Color": "White",
+      "Input": "AC 185V-240V",
+      "Type": "Ceiling Recessed",
+      "Size": "85 × 60 × 65H MM",
+      "Rating": "IP20",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/sensor/sns-14.jpg",
+      "assets/img/sensor/sns-12.jpg"
+    ]
   },
-  "images": [
-    "assets/img/sensor/sns-3.jpg",
-    "assets/img/sensor/sns-6.jpg",
-    "assets/img/sensor/sns-1.jpg",
-    "assets/img/sensor/sns-8.jpg"
-  ]
-}, 
-{
-  "id": 2,
-  "title": "Quick Sense Sensor - Ceiling Recessed",
-  "model": "SL MIR 220",
-  "description": "The SL MIR 220 Quick Sense Ceiling Recessed Sensor is a reliable motion detection solution designed for modern indoor environments. With its round recessed design and clean white finish, it integrates seamlessly into ceilings, offering efficient motion sensing while maintaining a minimalist look. Operating on AC 185V-240V, this sensor is ideal for automating lighting systems, improving energy savings, and enhancing safety across residential and commercial interiors.",
-  "details": {
-    "Product Details": "The Quick Sense Ceiling Recessed Sensor ensures that lighting systems operate only when motion is detected, optimizing energy consumption and providing hands-free convenience. Its discreet round shape blends naturally into ceiling spaces.",
-    "Premium Construction": "Crafted in a sleek white finish, this sensor provides a neat and modern appearance. The recessed mounting design allows for an unobtrusive installation that complements a wide range of interiors.",
-    "Sensor Performance": "With an input range of AC 185V-240V, the SL MIR 220 delivers consistent and accurate motion sensing. Its IP20 rating makes it suitable for protected indoor applications, ensuring safe and efficient operation.",
-    "Easy Installation": "Measuring 85 × 60 × 65H MM, the compact design allows for simple recessed ceiling installation. It is compatible with standard ceiling cutouts, ensuring a professional flush-mounted finish.",
-    "Versatile Application": "Perfect for hallways, offices, living rooms, conference areas, and other indoor spaces. The sensor enhances safety and efficiency by activating lights automatically when movement is detected."
-  },
-  "specifications": {
-    "Model Number": "SL MIR 220",
-    "Shape": "Round",
-    "Body Color": "White",
-    "Input": "AC 185V-240V",
-    "Type": "Ceiling Recessed",
-    "Size": "85 × 60 × 65H MM",
-    "Rating": "IP20",
-    "Warranty": "1 Year"
-  },
-  "images": [
-    "assets/img/sensor/sns-14.jpg",
-    "assets/img/sensor/sns-12.jpg"
-  ]
-},
   {
     "id": 3,
     "title": "Quick Sense Sensor - Surface Mount",
@@ -77,7 +77,9 @@
       "Rating": "IP20",
       "Warranty": "1 Year"
     },
-    "images": ["assets/img/sensor/sns-20.jpg"]
+    "images": [
+      "assets/img/sensor/sns-20.jpg"
+    ]
   },
   {
     "id": 4,
@@ -98,7 +100,9 @@
       "Rechargeable": "Yes",
       "Warranty": "1 Year"
     },
-    "images": ["assets/img/sensor/sensor-1.png"]
+    "images": [
+      "assets/img/sensor/sensor-1.png"
+    ]
   },
   {
     "id": 5,
@@ -119,7 +123,9 @@
       "Rechargeable": "Yes",
       "Warranty": "1 Year"
     },
-    "images": ["assets/img/sensor/sensor-2.jpg"]
+    "images": [
+      "assets/img/sensor/sensor-2.jpg"
+    ]
   },
   {
     "id": 6,
@@ -141,9 +147,10 @@
       "Rechargeable": "Yes",
       "Warranty": "1 Year"
     },
-    "images": ["assets/img/sensor/sensor-3.png"]
+    "images": [
+      "assets/img/sensor/sensor-3.png"
+    ]
   },
-
   {
     "id": 7,
     "title": "Outdoor Motion Sensor Light",
@@ -200,10 +207,8 @@
       "assets/img/sensor/sen-2use.jpg",
       "assets/img/sensor/sen-2.jpg",
       "assets/img/sensor/sen2-2use.jpg"
-    
     ]
   },
-
   {
     "id": 9,
     "title": "SL SMART SENSORS & ACCESORIES",
@@ -365,7 +370,6 @@
       "assets/img/zz-indoor/sns-a10.jpg"
     ]
   },
-
   {
     "id": 16,
     "title": "SL SMART SENSORS & ACCESORIES",
@@ -440,23 +444,137 @@
       "assets/img/sensor/slwl317-1.jpg",
       "assets/img/sensor/slwl317-2.jpg"
     ]
+  },
+  {
+    "id": 1406,
+    "title": "Rechargable/Motion LED Cabinet Lights",
+    "model": "SL PIR 142-400",
+    "description": "Rechargable/Motion LED Cabinet Lights (SL PIR 142-400) — 2W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL PIR 142-400 belongs to the Rechargable/Motion LED Cabinet Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Silver Anodize | CCT: 3IN1. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (33. MOTION SENSOR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 142-400",
+      "Watt": "2W",
+      "Body Color": "Silver Anodize",
+      "CCT": "3IN1",
+      "Size": "400*40MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_406.png"
+    ]
+  },
+  {
+    "id": 1407,
+    "title": "Rechargable/Motion LED Cabinet Lights",
+    "model": "SL PIR 142-600",
+    "description": "Rechargable/Motion LED Cabinet Lights (SL PIR 142-600) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL PIR 142-600 belongs to the Rechargable/Motion LED Cabinet Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Silver Anodize | CCT: 3IN1. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (33. MOTION SENSOR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 142-600",
+      "Watt": "3W",
+      "Body Color": "Silver Anodize",
+      "CCT": "3IN1",
+      "Size": "600*40MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_407.png"
+    ]
+  },
+  {
+    "id": 1408,
+    "title": "Rechargable/Motion LED Cabinet Lights",
+    "model": "SL PIR 142-800",
+    "description": "Rechargable/Motion LED Cabinet Lights (SL PIR 142-800) — 4W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL PIR 142-800 belongs to the Rechargable/Motion LED Cabinet Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Silver Anodize | CCT: 3IN1. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (33. MOTION SENSOR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 142-800",
+      "Watt": "4W",
+      "Body Color": "Silver Anodize",
+      "CCT": "3IN1",
+      "Size": "800*40MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_408.png"
+    ]
+  },
+  {
+    "id": 1409,
+    "title": "Rechargable/Motion LED Cabinet Lights",
+    "model": "SL PIR 143-400",
+    "description": "Rechargable/Motion LED Cabinet Lights (SL PIR 143-400) — 0.63W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL PIR 143-400 belongs to the Rechargable/Motion LED Cabinet Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Silver Anodize | CCT: 3IN1. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (33. MOTION SENSOR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 143-400",
+      "Watt": "0.63W",
+      "Body Color": "Silver Anodize",
+      "CCT": "3IN1",
+      "Size": "400*40MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_409.png"
+    ]
+  },
+  {
+    "id": 1410,
+    "title": "Rechargable/Motion LED Cabinet Lights",
+    "model": "SL PIR 143-600",
+    "description": "Rechargable/Motion LED Cabinet Lights (SL PIR 143-600) — 0.84W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL PIR 143-600 belongs to the Rechargable/Motion LED Cabinet Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Silver Anodize | CCT: 3IN1. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (33. MOTION SENSOR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 143-600",
+      "Watt": "0.84W",
+      "Body Color": "Silver Anodize",
+      "CCT": "3IN1",
+      "Size": "600*40MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_410.png"
+    ]
+  },
+  {
+    "id": 1411,
+    "title": "Rechargable/Motion LED Cabinet Lights",
+    "model": "SL PIR 143-1000",
+    "description": "Rechargable/Motion LED Cabinet Lights (SL PIR 143-1000) — 1.5W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL PIR 143-1000 belongs to the Rechargable/Motion LED Cabinet Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Silver Anodize | CCT: 3IN1. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (33. MOTION SENSOR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 143-1000",
+      "Watt": "1.5W",
+      "Body Color": "Silver Anodize",
+      "CCT": "3IN1",
+      "Size": "1000*40MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_411.png"
+    ]
   }
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
 ]

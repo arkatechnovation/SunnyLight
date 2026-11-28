@@ -5324,6 +5324,30 @@
     },
     "images": [
       "assets/img/smd/smd-27.jpg"
+    ],
+    "options": [
+      {
+        "name": "3000K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4000K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6000K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      }
     ]
   },
   {
@@ -5352,6 +5376,30 @@
     },
     "images": [
       "assets/img/smd/smd-28.jpg"
+    ],
+    "options": [
+      {
+        "name": "3000K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4000K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6000K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      }
     ]
   },
   {
@@ -6068,7 +6116,9 @@
       "Cut Out": "75MM"
     },
     "images": [
-      "assets/img/indoor/ind-13.png"
+      "assets/img/indoor/ind-13.png",
+      "assets/img/indoor/ind-13_2.png",
+      "assets/img/indoor/ind-13_3.png"
     ]
   },
   {
@@ -6454,6 +6504,4387 @@
       "assets/img/Indoor-light-img/anti-glare-light/1192_2.png",
       "assets/img/Indoor-light-img/anti-glare-light/1192_3.png",
       "assets/img/Indoor-light-img/anti-glare-light/1192_4.png"
+    ]
+  },
+  {
+    "id": 1002,
+    "title": "New Edition 2026 Indoor Showcase",
+    "model": "BY SF 0150",
+    "description": "New Edition 2026 Indoor Showcase (BY SF 0150) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "BY SF 0150 belongs to the New Edition 2026 Indoor Showcase series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Gold / Rose Gold. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (00. NEW EDITION 2026 SHOWCASE)."
+    },
+    "specifications": {
+      "Model Number": "BY SF 0150",
+      "Body Color": "Gold / Rose Gold",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_2.png"
+    ]
+  },
+  {
+    "id": 1003,
+    "title": "New Edition 2026 Indoor Showcase",
+    "model": "SL 2405 HEXA RGB",
+    "description": "New Edition 2026 Indoor Showcase (SL 2405 HEXA RGB) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 2405 HEXA RGB belongs to the New Edition 2026 Indoor Showcase series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: CCT: RGB (Smart Control). Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (00. NEW EDITION 2026 SHOWCASE)."
+    },
+    "specifications": {
+      "Model Number": "SL 2405 HEXA RGB",
+      "CCT": "RGB (Smart Control)",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_3.png"
+    ]
+  },
+  {
+    "id": 1143,
+    "title": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB",
+    "model": "SL MX 0981",
+    "description": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB (SL MX 0981) — 8W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 0981 belongs to the Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (03. ECO DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 0981",
+      "Watt": "8W",
+      "Input": "AC85-265V",
+      "LED": "Bridgelux",
+      "Shape": "Round",
+      "Body Color": "White",
+      "CCT": "3K / 4K",
+      "Size": "65*H80MM",
+      "Cut-Out": "55MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH / RG)"
+    },
+    "images": [
+      "assets/img/products/product_143.png",
+      "assets/img/products/product_143_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1144,
+    "title": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB",
+    "model": "SL MX 0982",
+    "description": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB (SL MX 0982) — 15W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 0982 belongs to the Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (03. ECO DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 0982",
+      "Watt": "15W",
+      "Input": "AC85-265V",
+      "LED": "Bridgelux",
+      "Shape": "Round",
+      "Body Color": "White",
+      "CCT": "3K / 4K",
+      "Size": "85*H90MM",
+      "Cut-Out": "75MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH / RG)"
+    },
+    "images": [
+      "assets/img/products/product_144.png",
+      "assets/img/products/product_143_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1145,
+    "title": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB",
+    "model": "SL MX 0983",
+    "description": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB (SL MX 0983) — 20W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 0983 belongs to the Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (03. ECO DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 0983",
+      "Watt": "20W",
+      "Input": "AC85-265V",
+      "LED": "Bridgelux",
+      "Shape": "Round",
+      "Body Color": "White",
+      "CCT": "3K / 4K",
+      "Size": "100*H105MM",
+      "Cut-Out": "90MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH / RG)"
+    },
+    "images": [
+      "assets/img/products/product_145.png",
+      "assets/img/products/product_143_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1146,
+    "title": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB",
+    "model": "SL MX 0991 (Trimless)",
+    "description": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB (SL MX 0991 (Trimless)) — 8W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 0991 (Trimless) belongs to the Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (03. ECO DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 0991 (Trimless)",
+      "Watt": "8W",
+      "Input": "AC85-265V",
+      "LED": "Bridgelux",
+      "Shape": "Round",
+      "Body Color": "White",
+      "CCT": "3K / 4K",
+      "Size": "75*H55MM",
+      "Cut-Out": "55MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH / RG)"
+    },
+    "images": [
+      "assets/img/products/product_146.png",
+      "assets/img/products/product_143_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1147,
+    "title": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB",
+    "model": "SL MX 0992 (Trimless)",
+    "description": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB (SL MX 0992 (Trimless)) — 15W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 0992 (Trimless) belongs to the Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (03. ECO DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 0992 (Trimless)",
+      "Watt": "15W",
+      "Input": "AC85-265V",
+      "LED": "Bridgelux",
+      "Shape": "Round",
+      "Body Color": "White",
+      "CCT": "3K / 4K",
+      "Size": "98*H88MM",
+      "Cut-Out": "75MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH / RG)"
+    },
+    "images": [
+      "assets/img/products/product_147.png",
+      "assets/img/products/product_143_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1148,
+    "title": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB",
+    "model": "SL MX 0993 (Trimless)",
+    "description": "Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB (SL MX 0993 (Trimless)) — 20W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 0993 (Trimless) belongs to the Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K. Notes: 3K 4K | WH BK DCH RG.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (03. ECO DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 0993 (Trimless)",
+      "Watt": "20W",
+      "Input": "AC85-265V",
+      "LED": "Bridgelux",
+      "Shape": "Round",
+      "Body Color": "White",
+      "CCT": "3K / 4K",
+      "Size": "117*H104MM",
+      "Cut-Out": "95MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH / RG)"
+    },
+    "images": [
+      "assets/img/products/product_148.png",
+      "assets/img/products/product_143_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1167,
+    "title": "Eco Tiltable COB Spotlights",
+    "model": "SL2120-50",
+    "description": "Eco Tiltable COB Spotlights (SL2120-50) — 50W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL2120-50 belongs to the Eco Tiltable COB Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: WH | CCT: 3000K/4000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (05. TILTABLE COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL2120-50",
+      "Watt": "50W",
+      "Input": "AC 185-265V",
+      "Shape": "Round",
+      "Body Color": "WH",
+      "CCT": "3000K/4000K",
+      "Beam Angle": "60°",
+      "Size": "88*52H MM",
+      "Cut-Out": "72MM",
+      "IP Rating": "IP20",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_167.png",
+      "assets/img/products/product_167_2.png",
+      "assets/img/products/product_167_3.png"
+    ]
+  },
+  {
+    "id": 1181,
+    "title": "Premium Deep Recessed Ceiling Secure Trimless Antiglare",
+    "model": "SI MX 4120",
+    "description": "Premium Deep Recessed Ceiling Secure Trimless Antiglare (SI MX 4120) — 20W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SI MX 4120 belongs to the Premium Deep Recessed Ceiling Secure Trimless Antiglare series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/ Dark Chrome. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SI MX 4120",
+      "Watt": "20W",
+      "Input": "AC 185-265V",
+      "Body Color": "White/ Dark Chrome",
+      "Beam Angle": "38°",
+      "Size": "128*H121MM",
+      "Cut-Out": "75MM",
+      "IP Rating": "IP20",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_181.png",
+      "assets/img/products/product_181_2.png",
+      "assets/img/products/product_181_3.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tunable + Dimmable",
+        "image": "assets/img/other-version/tunable.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "3000K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4000K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6000K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "Matt Silver",
+        "image": "assets/img/reflector/reflector-mt-sl.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      }
+    ]
+  },
+  {
+    "id": 1188,
+    "title": "Premium Fix Deep Recessed Anti Glare COB Lights",
+    "model": "SL MX 2191",
+    "description": "Premium Fix Deep Recessed Anti Glare COB Lights (SL MX 2191) — 7W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 2191 belongs to the Premium Fix Deep Recessed Anti Glare COB Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 2191",
+      "Watt": "7W",
+      "Input": "AC-85-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "62*H59",
+      "Cut-Out": "55MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_188.png",
+      "assets/img/products/product_188_spec.png",
+      "assets/img/products/product_188_2.png",
+      "assets/img/products/product_188_3.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1189,
+    "title": "Premium Fix Deep Recessed Anti Glare COB Lights",
+    "model": "SL MX 2192",
+    "description": "Premium Fix Deep Recessed Anti Glare COB Lights (SL MX 2192) — 12W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 2192 belongs to the Premium Fix Deep Recessed Anti Glare COB Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 2192",
+      "Watt": "12W",
+      "Input": "AC-85-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "D85*H64MM",
+      "Cut-Out": "D75MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_189.png",
+      "assets/img/products/product_189_spec.png",
+      "assets/img/products/product_189_2.png",
+      "assets/img/products/product_189_3.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1190,
+    "title": "Premium Fix Deep Recessed Anti Glare COB Lights",
+    "model": "SL MX 2193",
+    "description": "Premium Fix Deep Recessed Anti Glare COB Lights (SL MX 2193) — 18W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 2193 belongs to the Premium Fix Deep Recessed Anti Glare COB Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 2193",
+      "Watt": "18W",
+      "Input": "AC-85-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "D105*H75MM",
+      "Cut-Out": "D95MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_190.png",
+      "assets/img/products/product_190_spec.png",
+      "assets/img/products/product_190_2.png",
+      "assets/img/products/product_190_3.png",
+      "assets/img/products/product_190_4.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1191,
+    "title": "Premium Fix Deep Recessed Anti Glare COB Lights",
+    "model": "SL MX 2194",
+    "description": "Premium Fix Deep Recessed Anti Glare COB Lights (SL MX 2194) — 30W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 2194 belongs to the Premium Fix Deep Recessed Anti Glare COB Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 2194",
+      "Watt": "30W",
+      "Input": "AC85-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "D170*H80MM",
+      "Cut-Out": "D145MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_191.png",
+      "assets/img/products/product_191_spec.png",
+      "assets/img/products/product_191_2.png",
+      "assets/img/products/product_191_3.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1192,
+    "title": "Premium Fix Deep Recessed Anti Glare COB Lights",
+    "model": "SL MX 2195",
+    "description": "Premium Fix Deep Recessed Anti Glare COB Lights (SL MX 2195) — 40W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 2195 belongs to the Premium Fix Deep Recessed Anti Glare COB Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | Reflector: Aluminium Metal Reflector | CCT: 2.7/3K/3.5K/4K/5K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K). Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 2195",
+      "Watt": "40W",
+      "Input": "AC85-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "Reflector": "Aluminium Metal Reflector",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K)",
+      "Size": "D195*H85MM",
+      "Cut-Out": "D170MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_192.png",
+      "assets/img/products/product_192_spec.png",
+      "assets/img/products/product_192_2.png",
+      "assets/img/products/product_192_3.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1193,
+    "title": "Premium Low High Tiltable Deep Recessed Antiglare",
+    "model": "SL MX 2291",
+    "description": "Premium Low High Tiltable Deep Recessed Antiglare (SL MX 2291) — 7W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 2291 belongs to the Premium Low High Tiltable Deep Recessed Antiglare series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | Reflector: MAT.WH/,MAT BK/GUN | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 2291",
+      "Watt": "7W",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "Reflector": "MAT.WH/,MAT BK/GUN",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "D62*H43MM",
+      "Cut-Out": "D55MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_193.png",
+      "assets/img/products/product_193_spec.png",
+      "assets/img/products/product_193_2.png",
+      "assets/img/products/product_193_3.png",
+      "assets/img/products/product_193_4.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1194,
+    "title": "Premium Low High Tiltable Deep Recessed Antiglare",
+    "model": "SL MX 2292",
+    "description": "Premium Low High Tiltable Deep Recessed Antiglare (SL MX 2292) — 12W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 2292 belongs to the Premium Low High Tiltable Deep Recessed Antiglare series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | Reflector: MAT.WH/,MAT BK/GUN | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 2292",
+      "Watt": "12W",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "Reflector": "MAT.WH/,MAT BK/GUN",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "D82*H48MM",
+      "Cut-Out": "D75MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_194.png",
+      "assets/img/products/product_194_spec.png",
+      "assets/img/products/product_194_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1195,
+    "title": "Premium Low High Tiltable Deep Recessed Antiglare",
+    "model": "SL MX 2293",
+    "description": "Premium Low High Tiltable Deep Recessed Antiglare (SL MX 2293) — 18W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 2293 belongs to the Premium Low High Tiltable Deep Recessed Antiglare series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | Reflector: MAT.WH/,MAT BK/GUN | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 2293",
+      "Watt": "18W",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "Reflector": "MAT.WH/,MAT BK/GUN",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "D105*H49MM",
+      "Cut-Out": "D95MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_195.png",
+      "assets/img/products/product_195_spec.png",
+      "assets/img/products/product_195_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1196,
+    "title": "Premium Deep Recessed Ceiling Secure COB Spotlights",
+    "model": "SL MX SW 15001",
+    "description": "Premium Deep Recessed Ceiling Secure COB Spotlights (SL MX SW 15001) — 6W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX SW 15001 belongs to the Premium Deep Recessed Ceiling Secure COB Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White+Black/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: Trimless frame on extra cost..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX SW 15001",
+      "Watt": "6W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White+Black/Black",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "D65*H100MM",
+      "Cut-Out": "D55MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_196.png",
+      "assets/img/products/product_196_spec.png",
+      "assets/img/products/product_196_2.png",
+      "assets/img/products/product_196_3.png",
+      "assets/img/products/product_196_4.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1197,
+    "title": "Premium Deep Recessed Ceiling Secure COB Spotlights",
+    "model": "SL MX SW 15002",
+    "description": "Premium Deep Recessed Ceiling Secure COB Spotlights (SL MX SW 15002) — 12W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX SW 15002 belongs to the Premium Deep Recessed Ceiling Secure COB Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White+Black/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: Trimless frame on extra cost..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX SW 15002",
+      "Watt": "12W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White+Black/Black",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "D85*H110MM",
+      "Cut-Out": "D75MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_197.png",
+      "assets/img/products/product_197_spec.png",
+      "assets/img/products/product_196_2.png",
+      "assets/img/products/product_196_3.png",
+      "assets/img/products/product_196_4.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1198,
+    "title": "Premium Deep Recessed Ceiling Secure COB Spotlights",
+    "model": "SL MX SW 15003",
+    "description": "Premium Deep Recessed Ceiling Secure COB Spotlights (SL MX SW 15003) — 18W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX SW 15003 belongs to the Premium Deep Recessed Ceiling Secure COB Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White+Black/Black | Reflector: Aluminium Metal Reflector, WH BK DCH | CCT: 2.7/3K/3.5K/4K/5K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K). Notes: Note: Trimless frame on extra cost..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX SW 15003",
+      "Watt": "18W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White+Black/Black",
+      "Reflector": "Aluminium Metal Reflector, WH BK DCH",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K)",
+      "Size": "D105*H120MM",
+      "Cut-Out": "D95MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_198.png",
+      "assets/img/products/product_196_2.png",
+      "assets/img/products/product_196_3.png",
+      "assets/img/products/product_196_4.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1199,
+    "title": "Premium Low High Deep Recessed Ceiling Secure",
+    "model": "SL MX RF 18001",
+    "description": "Premium Low High Deep Recessed Ceiling Secure (SL MX RF 18001) — 7W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF 18001 belongs to the Premium Low High Deep Recessed Ceiling Secure series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: Trimless frame on extra cost..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF 18001",
+      "Watt": "7W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K",
+      "Size": "D65*H75MM",
+      "Cut-Out": "D55MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_199.png",
+      "assets/img/products/product_199_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1200,
+    "title": "Premium Low High Deep Recessed Ceiling Secure",
+    "model": "SL MX RF 18002",
+    "description": "Premium Low High Deep Recessed Ceiling Secure (SL MX RF 18002) — 12W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF 18002 belongs to the Premium Low High Deep Recessed Ceiling Secure series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K (2.7K / 3K). Notes: Note: Trimless frame on extra cost..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF 18002",
+      "Watt": "12W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7/3K/3.5K/4K/5K/6K (2.7K / 3K)",
+      "Size": "D85*H83MM",
+      "Cut-Out": "D75MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_200.png",
+      "assets/img/products/product_199_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1201,
+    "title": "Premium Mini Small Dia Deep Recessed Spotlights",
+    "model": "SL MX RF 16001",
+    "description": "Premium Mini Small Dia Deep Recessed Spotlights (SL MX RF 16001) — 6W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF 16001 belongs to the Premium Mini Small Dia Deep Recessed Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black/Gun Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF 16001",
+      "Watt": "6W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black/Gun Black",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D45*H70MM",
+      "Cut-Out": "D40MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH)"
+    },
+    "images": [
+      "assets/img/products/product_201.png",
+      "assets/img/products/product_201_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#e87d2f"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f5c26b"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      },
+      {
+        "name": "5K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1202,
+    "title": "Premium Mini Small Dia Deep Recessed Spotlights",
+    "model": "SL MX RF 16002",
+    "description": "Premium Mini Small Dia Deep Recessed Spotlights (SL MX RF 16002) — 12W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF 16002 belongs to the Premium Mini Small Dia Deep Recessed Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black/Gun Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF 16002",
+      "Watt": "12W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black/Gun Black",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D45*H90MM",
+      "Cut-Out": "D40MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH)"
+    },
+    "images": [
+      "assets/img/products/product_202.png",
+      "assets/img/products/product_201_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#e87d2f"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f5c26b"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      },
+      {
+        "name": "5K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1203,
+    "title": "Premium Mini Small Dia Deep Recessed Spotlights",
+    "model": "SL MX RF 16003",
+    "description": "Premium Mini Small Dia Deep Recessed Spotlights (SL MX RF 16003) — 18W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF 16003 belongs to the Premium Mini Small Dia Deep Recessed Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black/Gun Black | Reflector: Aluminium Metal Reflector, WH BK DCH | CCT: 2.7/3K/3.5K/4K/5K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K). Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF 16003",
+      "Watt": "18W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black/Gun Black",
+      "Reflector": "Aluminium Metal Reflector, WH BK DCH",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D55*H90MM",
+      "Cut-Out": "D50MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH)"
+    },
+    "images": [
+      "assets/img/products/product_203.png",
+      "assets/img/products/product_201_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#e87d2f"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f5c26b"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      },
+      {
+        "name": "5K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1206,
+    "title": "Premium Mini Small Dia Deep Recessed Ceiling Secure",
+    "model": "SL MX RF 11001",
+    "description": "Premium Mini Small Dia Deep Recessed Ceiling Secure (SL MX RF 11001) — 6W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF 11001 belongs to the Premium Mini Small Dia Deep Recessed Ceiling Secure series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: Trimless frame on extra cost..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF 11001",
+      "Watt": "6W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D43*H75MM",
+      "Cut-Out": "D35MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH)",
+      "Note": "Trimless frame on extra cost. CRI above 90 also available."
+    },
+    "images": [
+      "assets/img/products/product_206.png",
+      "assets/img/products/product_206_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#e87d2f"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f5c26b"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      },
+      {
+        "name": "5K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1207,
+    "title": "Premium Mini Small Dia Deep Recessed Ceiling Secure",
+    "model": "SL MX RF11002",
+    "description": "Premium Mini Small Dia Deep Recessed Ceiling Secure (SL MX RF11002) — 12W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF11002 belongs to the Premium Mini Small Dia Deep Recessed Ceiling Secure series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: Trimless frame on extra cost..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF11002",
+      "Watt": "12W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D53*H94MM",
+      "Cut-Out": "D45MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH)",
+      "Note": "Trimless frame on extra cost. CRI above 90 also available."
+    },
+    "images": [
+      "assets/img/products/product_207.png",
+      "assets/img/products/product_206_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#e87d2f"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f5c26b"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      },
+      {
+        "name": "5K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1208,
+    "title": "Premium Mini Small Dia Deep Recessed Ceiling Secure",
+    "model": "SL MX RF11003",
+    "description": "Premium Mini Small Dia Deep Recessed Ceiling Secure (SL MX RF11003) — 18W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF11003 belongs to the Premium Mini Small Dia Deep Recessed Ceiling Secure series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | Reflector: Aluminium Metal Reflector, WH BK DCH | CCT: 2.7/3K/3.5K/4K/5K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K). Notes: Note: Trimless frame on extra cost..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF11003",
+      "Watt": "18W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "Reflector": "Aluminium Metal Reflector, WH BK DCH",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D83*H112MM",
+      "Cut-Out": "D55MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH)",
+      "Note": "Trimless frame on extra cost. CRI above 90 also available."
+    },
+    "images": [
+      "assets/img/products/product_208.png",
+      "assets/img/products/product_206_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#e87d2f"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f5c26b"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      },
+      {
+        "name": "5K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1214,
+    "title": "Premium Mini Small Dia Deep Recessed COB Spotlights",
+    "model": "SL MX RF 17001",
+    "description": "Premium Mini Small Dia Deep Recessed COB Spotlights (SL MX RF 17001) — 6W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF 17001 belongs to the Premium Mini Small Dia Deep Recessed COB Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White+Black/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF 17001",
+      "Watt": "6W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White+Black/Black",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D42*H60MM",
+      "Cut-Out": "D35MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH)"
+    },
+    "images": [
+      "assets/img/products/product_214.png",
+      "assets/img/products/product_214_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#e87d2f"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f5c26b"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      },
+      {
+        "name": "5K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1215,
+    "title": "Premium Mini Small Dia Deep Recessed COB Spotlights",
+    "model": "SL MX RF 17002",
+    "description": "Premium Mini Small Dia Deep Recessed COB Spotlights (SL MX RF 17002) — 12W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF 17002 belongs to the Premium Mini Small Dia Deep Recessed COB Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White+Black/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF 17002",
+      "Watt": "12W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White+Black/Black",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D42*H100MM",
+      "Cut-Out": "D35MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH)"
+    },
+    "images": [
+      "assets/img/products/product_215.png",
+      "assets/img/products/product_214_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#e87d2f"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f5c26b"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      },
+      {
+        "name": "5K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1216,
+    "title": "Premium Mini Small Dia Deep Recessed COB Spotlights",
+    "model": "SL MX RF 17003",
+    "description": "Premium Mini Small Dia Deep Recessed COB Spotlights (SL MX RF 17003) — 18W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX RF 17003 belongs to the Premium Mini Small Dia Deep Recessed COB Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White+Black/Black | Reflector: Aluminium Metal Reflector, WH BK DCH | CCT: 2.7/3K/3.5K/4K/5K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K). Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (06. DEEP RECESSED COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX RF 17003",
+      "Watt": "18W",
+      "Input": "AC165-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White+Black/Black",
+      "Reflector": "Aluminium Metal Reflector, WH BK DCH",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D55*H112MM",
+      "Cut-Out": "D45MM",
+      "Warranty": "2 Years",
+      "Reflector Color Options": "Aluminium Metal Reflector (WH / BK / DCH)"
+    },
+    "images": [
+      "assets/img/products/product_216.png",
+      "assets/img/products/product_214_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#e87d2f"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f5c26b"
+      },
+      {
+        "name": "4K",
+        "color": "#ffd99e"
+      },
+      {
+        "name": "5K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      }
+    ]
+  },
+  {
+    "id": 1226,
+    "title": "Premium Narrow Beam 6 Degree Adjustable Spotlights",
+    "model": "SL MX Z 890",
+    "description": "Premium Narrow Beam 6 Degree Adjustable Spotlights (SL MX Z 890) — 8W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX Z 890 belongs to the Premium Narrow Beam 6 Degree Adjustable Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White+Black/Black | CCT: 3K/4K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (09. NARROW BEAM LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX Z 890",
+      "Watt": "8W",
+      "Input": "AC165-265V",
+      "LED": "Bridgelux",
+      "Shape": "Round",
+      "Body Color": "White+Black/Black",
+      "CCT": "3K/4K",
+      "Size": "D58*H85MM",
+      "Cut-Out": "D48MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_226.png",
+      "assets/img/products/product_226_2.png",
+      "assets/img/products/product_226_3.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ]
+  },
+  {
+    "id": 1227,
+    "title": "Premium Deep Recessed Antiglare Linear Lights",
+    "model": "SL CY 4N",
+    "description": "Premium Deep Recessed Antiglare Linear Lights (SL CY 4N) — 4W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL CY 4N belongs to the Premium Deep Recessed Antiglare Linear Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 3K/4K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (10. DEEP RECESSED LINEAR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL CY 4N",
+      "Watt": "4W",
+      "Input": "AC85-265V",
+      "LED": "USA CREE",
+      "Body Color": "White/Black",
+      "CCT": "3K/4K",
+      "Size": "45*45*50MM",
+      "Cut-Out": "35*37MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_227.png",
+      "assets/img/products/product_227_2.png"
+    ]
+  },
+  {
+    "id": 1254,
+    "title": "Premium Front Openable Ceiling Secure Frame For (MR-16/",
+    "model": "SL MX 122-0",
+    "description": "Premium Front Openable Ceiling Secure Frame For (MR-16/ (SL MX 122-0) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 122-0 belongs to the Premium Front Openable Ceiling Secure Frame For (MR-16/ series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black. Notes: Note: Price mentioned above doesn’t include.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (11. ADOPTABLE COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 122-0",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "Size": "85MM",
+      "Cut-Out": "75MM"
+    },
+    "images": [
+      "assets/img/products/product_254.png",
+      "assets/img/products/product_254_2.png",
+      "assets/img/products/product_254_3.png"
+    ],
+    "options": [
+      {
+        "name": "3000K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4000K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6000K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      },
+      {
+        "name": "DCH",
+        "image": "assets/img/reflector/reflector-dch.png"
+      },
+      {
+        "name": "RG",
+        "image": "assets/img/reflector/reflector-rg.png"
+      },
+      {
+        "name": "MRG",
+        "image": "assets/img/reflector/reflector-mt-rg.png"
+      }
+    ]
+  },
+  {
+    "id": 1258,
+    "title": "Premium Front Openable Ceiling Secure Frame For (MR-16/",
+    "model": "SL MX 125-0",
+    "description": "Premium Front Openable Ceiling Secure Frame For (MR-16/ (SL MX 125-0) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX 125-0 belongs to the Premium Front Openable Ceiling Secure Frame For (MR-16/ series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | Reflector: MAT.WH/,MAT BK. Notes: Note: Price mentioned above doesn’t include.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (11. ADOPTABLE COB LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX 125-0",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "Reflector": "MAT.WH/,MAT BK",
+      "Size": "93MM",
+      "Cut-Out": "80*80MM"
+    },
+    "images": [
+      "assets/img/products/product_258.png",
+      "assets/img/products/product_258_2.png",
+      "assets/img/products/product_258_3.png"
+    ],
+    "options": [
+      {
+        "name": "3000K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "4000K",
+        "color": "#fff3c4"
+      },
+      {
+        "name": "6000K",
+        "color": "#d8f2ff"
+      }
+    ],
+    "reflector_options": [
+      {
+        "name": "WH",
+        "image": "assets/img/reflector/reflector-wh.png"
+      },
+      {
+        "name": "BK",
+        "image": "assets/img/reflector/reflector-mt-bk.png"
+      }
+    ]
+  },
+  {
+    "id": 1274,
+    "title": "Premium Beauty Mirror Lights",
+    "model": "SLMX698",
+    "description": "Premium Beauty Mirror Lights (SLMX698) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SLMX698 belongs to the Premium Beauty Mirror Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available. | To person: 15degree | 4K 5K 6K | TRAIC TUYA.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (13. MIRROR/STEAM ROOM LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SLMX698",
+      "Input": "AC165-265V",
+      "Output": "12W",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Beam Angle": "To mirror: 35degree",
+      "Size": "84*78MM",
+      "Cut-Out": "75MM",
+      "IP Rating": "IP44",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_274.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ]
+  },
+  {
+    "id": 1275,
+    "title": "Premium Beauty Mirror Lights",
+    "model": "SLMX699 (Trimless)",
+    "description": "Premium Beauty Mirror Lights (SLMX699 (Trimless)) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SLMX699 (Trimless) belongs to the Premium Beauty Mirror Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available. | To person: 15degree.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (13. MIRROR/STEAM ROOM LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SLMX699 (Trimless)",
+      "Input": "AC165-265V",
+      "Output": "12W",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Beam Angle": "To mirror: 35degree",
+      "Size": "108*78.7MM",
+      "Cut-Out": "75MM",
+      "IP Rating": "IP44",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_275.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRIAC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "Tuya",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ]
+  },
+  {
+    "id": 1316,
+    "title": "Sunset Effect Surface COB Cylinder Light",
+    "model": "SL K01",
+    "description": "Sunset Effect Surface COB Cylinder Light (SL K01) — 12W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL K01 belongs to the Sunset Effect Surface COB Cylinder Light series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 1800K(Sunset effect). Notes: Note: CRI above 90 also available. | Speciality : 360* Adjustable.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (20. SUNSET EFFECT SURFACE LIGHT)."
+    },
+    "specifications": {
+      "Model Number": "SL K01",
+      "Watt": "12W",
+      "Input": "AC165-265V",
+      "LED": "Bridgelux",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7K / 3K / 3.5K / 4K / 5K / 6K",
+      "Size": "D76*H85MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_316.png",
+      "assets/img/products/product_316_2.png",
+      "assets/img/products/product_316_3.png"
+    ]
+  },
+  {
+    "id": 1336,
+    "title": "Premium Slim 30MM Pendant Ring Lights",
+    "model": "SL 3030-600",
+    "description": "Premium Slim 30MM Pendant Ring Lights (SL 3030-600) — 40W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 3030-600 belongs to the Premium Slim 30MM Pendant Ring Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black/Ep Gold | CCT: 2.7K/3K/4K/5K/6K. Notes: Base Size : D150*30*1.0MM.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (22. PENDANT LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 3030-600",
+      "Watt": "40W",
+      "Input": "185-265V",
+      "Shape": "Round",
+      "Body Color": "White/Black/Ep Gold",
+      "CCT": "2.7K/3K/4K/5K/6K",
+      "Size": "D600*30MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_336.png",
+      "assets/img/products/product_336_2.png",
+      "assets/img/products/product_336_3.png"
+    ]
+  },
+  {
+    "id": 1337,
+    "title": "Premium Slim 30MM Pendant Ring Lights",
+    "model": "SL 3030-900",
+    "description": "Premium Slim 30MM Pendant Ring Lights (SL 3030-900) — 60W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 3030-900 belongs to the Premium Slim 30MM Pendant Ring Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black/Ep Gold | CCT: 2.7K3K/4K/5K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K). Notes: Base Size : D150*30*1.0MM.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (22. PENDANT LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 3030-900",
+      "Watt": "60W",
+      "Input": "185-265V",
+      "Shape": "Round",
+      "Body Color": "White/Black/Ep Gold",
+      "CCT": "2.7K3K/4K/5K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K)",
+      "Size": "D900*30MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_337.png",
+      "assets/img/products/product_336_2.png",
+      "assets/img/products/product_336_3.png"
+    ]
+  },
+  {
+    "id": 1338,
+    "title": "Premium Bed Sides Reading Night Lamp",
+    "model": "SL BD-361 BLACK 3000K",
+    "description": "Premium Bed Sides Reading Night Lamp (SL BD-361 BLACK 3000K) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD-361 BLACK 3000K belongs to the Premium Bed Sides Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD-361 BLACK 3000K",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Bridgelux",
+      "Shape": "Round Base",
+      "Body Color": "Black",
+      "CCT": "3000K",
+      "Size": "H19x78xF280xB63xH28mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_338.png"
+    ]
+  },
+  {
+    "id": 1339,
+    "title": "Premium Bed Sides Reading Night Lamp",
+    "model": "SL BD-361 PKW 3000K",
+    "description": "Premium Bed Sides Reading Night Lamp (SL BD-361 PKW 3000K) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD-361 PKW 3000K belongs to the Premium Bed Sides Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD-361 PKW 3000K",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Bridgelux",
+      "Shape": "Round Base",
+      "Body Color": "White",
+      "CCT": "3000K",
+      "Size": "H19x78xF280xB63xH28mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_339.png"
+    ]
+  },
+  {
+    "id": 1340,
+    "title": "Premium Bed Sides Reading Night Lamp",
+    "model": "SL BD-361 AB 3000K",
+    "description": "Premium Bed Sides Reading Night Lamp (SL BD-361 AB 3000K) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD-361 AB 3000K belongs to the Premium Bed Sides Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Antique Brass | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD-361 AB 3000K",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Bridgelux",
+      "Shape": "Round Base",
+      "Body Color": "Antique Brass",
+      "CCT": "3000K",
+      "Size": "H19x78xF280xB63xH28mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_340.png",
+      "assets/img/products/product_340_2.png"
+    ]
+  },
+  {
+    "id": 1341,
+    "title": "Premium Bed Sides Reading Night Lamp",
+    "model": "SL BD-361 GD 3000K",
+    "description": "Premium Bed Sides Reading Night Lamp (SL BD-361 GD 3000K) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD-361 GD 3000K belongs to the Premium Bed Sides Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Mat Gold | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD-361 GD 3000K",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Bridgelux",
+      "Shape": "Round Base",
+      "Body Color": "Mat Gold",
+      "CCT": "3000K",
+      "Size": "H19x78xF280xB63xH28mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_341.png",
+      "assets/img/products/product_340_2.png"
+    ]
+  },
+  {
+    "id": 1342,
+    "title": "Premium Bed Sides Recessed Reading Night Lamp",
+    "model": "SL BD 366 PKW",
+    "description": "Premium Bed Sides Recessed Reading Night Lamp (SL BD 366 PKW) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD 366 PKW belongs to the Premium Bed Sides Recessed Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD 366 PKW",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Osram",
+      "Shape": "Square Base",
+      "Body Color": "White",
+      "CCT": "3000K",
+      "Size": "S90x90xH25x25xC86x86mm",
+      "Cut-Out": "86x86 Juction Box",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_342.png",
+      "assets/img/products/product_342_2.png",
+      "assets/img/products/product_342_3.png"
+    ]
+  },
+  {
+    "id": 1343,
+    "title": "Premium Bed Sides Recessed Reading Night Lamp",
+    "model": "SL BD 366 BK",
+    "description": "Premium Bed Sides Recessed Reading Night Lamp (SL BD 366 BK) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD 366 BK belongs to the Premium Bed Sides Recessed Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD 366 BK",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Osram",
+      "Shape": "Square Base",
+      "Body Color": "Black",
+      "CCT": "3000K",
+      "Size": "S90x90xH25x25xC86x86mm",
+      "Cut-Out": "86x86 Juction Box",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_343.png",
+      "assets/img/products/product_343_2.png",
+      "assets/img/products/product_343_3.png"
+    ]
+  },
+  {
+    "id": 1344,
+    "title": "Premium Bed Sides Recessed Reading Night Lamp",
+    "model": "SL BD 366",
+    "description": "Premium Bed Sides Recessed Reading Night Lamp (SL BD 366) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD 366 belongs to the Premium Bed Sides Recessed Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black/Antique Brass | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD 366",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Cree",
+      "Shape": "Rectangular Base & Round Nozzle",
+      "Body Color": "White/Black/Antique Brass",
+      "CCT": "3000K",
+      "Size": "160*60*37MM",
+      "Cut-Out": "150*50*35MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_344.png",
+      "assets/img/products/product_342_2.png",
+      "assets/img/products/product_342_3.png"
+    ]
+  },
+  {
+    "id": 1345,
+    "title": "Premium Bed Sides Recessed Reading Night Lamp",
+    "model": "SL BD 367",
+    "description": "Premium Bed Sides Recessed Reading Night Lamp (SL BD 367) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD 367 belongs to the Premium Bed Sides Recessed Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black+Gold | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD 367",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Cree",
+      "Shape": "Rectangular Base & Square Nozzle",
+      "Body Color": "Black+Gold",
+      "CCT": "3000K",
+      "Size": "160*60*37MM",
+      "Cut-Out": "150*50*35MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_345.png",
+      "assets/img/products/product_342_2.png",
+      "assets/img/products/product_342_3.png"
+    ]
+  },
+  {
+    "id": 1346,
+    "title": "Premium Bed Sides 3 In 1 Reading Night Lamp",
+    "model": "SL BD 371",
+    "description": "Premium Bed Sides 3 In 1 Reading Night Lamp (SL BD 371) — 3+3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD 371 belongs to the Premium Bed Sides 3 In 1 Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 3000K. Notes: 3 watt COB light.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD 371",
+      "Watt": "3+3W",
+      "Input": "85-260V",
+      "LED": "Cree",
+      "Shape": "Rectangular Base & Round Nozzle",
+      "Body Color": "White/Black",
+      "CCT": "3000K",
+      "Size": "150*100*24MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_346.png",
+      "assets/img/products/product_346_2.png"
+    ]
+  },
+  {
+    "id": 1347,
+    "title": "Premium Bed Sides 3 In 1 Reading Night Lamp",
+    "model": "SL BD 370",
+    "description": "Premium Bed Sides 3 In 1 Reading Night Lamp (SL BD 370) — 3+3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD 370 belongs to the Premium Bed Sides 3 In 1 Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White /Black | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD 370",
+      "Watt": "3+3W",
+      "Input": "85-260V",
+      "LED": "Cree",
+      "Shape": "Rectangular Base & Round Nozzle",
+      "Body Color": "White /Black",
+      "CCT": "3000K",
+      "Size": "120*100*30MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_347.png",
+      "assets/img/products/product_347_2.png"
+    ]
+  },
+  {
+    "id": 1348,
+    "title": "Premium Surface Bed Sides Reading Night Lamp",
+    "model": "SL BD 362 BLACK 3000K",
+    "description": "Premium Surface Bed Sides Reading Night Lamp (SL BD 362 BLACK 3000K) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD 362 BLACK 3000K belongs to the Premium Surface Bed Sides Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3000K. Notes: xW40xH30mm.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD 362 BLACK 3000K",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Osram",
+      "Shape": "Rectangular Base",
+      "Body Color": "Black",
+      "CCT": "3000K",
+      "Size": "D27xH118x78xL140",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_348.png",
+      "assets/img/products/product_348_2.png"
+    ]
+  },
+  {
+    "id": 1349,
+    "title": "Premium Surface Bed Sides Reading Night Lamp",
+    "model": "SL BD 362 PKW 3000K",
+    "description": "Premium Surface Bed Sides Reading Night Lamp (SL BD 362 PKW 3000K) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD 362 PKW 3000K belongs to the Premium Surface Bed Sides Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3000K. Notes: xW40xH30mm.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD 362 PKW 3000K",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Osram",
+      "Shape": "Rectangular Base",
+      "Body Color": "White",
+      "CCT": "3000K",
+      "Size": "D27xH118x78xL140",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_349.png"
+    ]
+  },
+  {
+    "id": 1350,
+    "title": "Premium Surface Bed Sides Reading Night Lamp",
+    "model": "SL BD 362 GD 3000K",
+    "description": "Premium Surface Bed Sides Reading Night Lamp (SL BD 362 GD 3000K) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL BD 362 GD 3000K belongs to the Premium Surface Bed Sides Reading Night Lamp series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Mat Gold | CCT: 3000K. Notes: xW40xH30mm.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (23. BED SIDE LAMP)."
+    },
+    "specifications": {
+      "Model Number": "SL BD 362 GD 3000K",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Osram",
+      "Shape": "Rectangular Base",
+      "Body Color": "Mat Gold",
+      "CCT": "3000K",
+      "Size": "D27xH118x78xL140",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_350.png",
+      "assets/img/products/product_350_2.png"
+    ]
+  },
+  {
+    "id": 1353,
+    "title": "Premium Attachable Linear LED Profile Lights",
+    "model": "SL 5055 100W",
+    "description": "Premium Attachable Linear LED Profile Lights (SL 5055 100W) — 100W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 5055 100W belongs to the Premium Attachable Linear LED Profile Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K/6K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (24. ATTACHABLE LINEAR LED PROFILE LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 5055 100W",
+      "Watt": "100W",
+      "Input": "100-265V",
+      "LED": "Epistar",
+      "Body Color": "Black",
+      "CCT": "3K/4K/6K",
+      "Size": "3000*50*5MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_353.png"
+    ]
+  },
+  {
+    "id": 1357,
+    "title": "Premium Attachable Linear LED Profile Lights",
+    "model": "SL 5055-120° JOINTER",
+    "description": "Premium Attachable Linear LED Profile Lights (SL 5055-120° JOINTER) — 8W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 5055-120° JOINTER belongs to the Premium Attachable Linear LED Profile Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (24. ATTACHABLE LINEAR LED PROFILE LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 5055-120° JOINTER",
+      "Watt": "8W",
+      "Input": "100-265V",
+      "LED": "Epistar",
+      "Body Color": "Black",
+      "CCT": "3000K",
+      "IP Rating": "IP20",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_357.png"
+    ]
+  },
+  {
+    "id": 1358,
+    "title": "Premium Attachable Linear LED Profile Lights",
+    "model": "SL 5055-Y JOINTER",
+    "description": "Premium Attachable Linear LED Profile Lights (SL 5055-Y JOINTER) — 10W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 5055-Y JOINTER belongs to the Premium Attachable Linear LED Profile Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (24. ATTACHABLE LINEAR LED PROFILE LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 5055-Y JOINTER",
+      "Watt": "10W",
+      "Input": "100-265V",
+      "LED": "Epistar",
+      "Body Color": "Black",
+      "CCT": "3000K",
+      "IP Rating": "IP20",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_358.png"
+    ]
+  },
+  {
+    "id": 1359,
+    "title": "Premium Attachable Linear LED Profile Lights",
+    "model": "Linear light Hoisting Kit",
+    "description": "Premium Attachable Linear LED Profile Lights (Linear light Hoisting Kit) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "Linear light Hoisting Kit belongs to the Premium Attachable Linear LED Profile Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: -. Notes: Rally head*2, 1.5m steel cable, lagging*2, 7*15 M4*2, 60 cover*2.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (24. ATTACHABLE LINEAR LED PROFILE LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "Linear light Hoisting Kit"
+    },
+    "images": [
+      "assets/img/products/product_359.png"
+    ]
+  },
+  {
+    "id": 1360,
+    "title": "Premium Attachable Linear LED Profile Lights",
+    "model": "POWER CABLE (White 1.5m)",
+    "description": "Premium Attachable Linear LED Profile Lights (POWER CABLE (White 1.5m)) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "POWER CABLE (White 1.5m) belongs to the Premium Attachable Linear LED Profile Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (24. ATTACHABLE LINEAR LED PROFILE LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "POWER CABLE (White 1.5m)",
+      "Body Color": "White",
+      "Size": "1.5m (3*0.75mm²)"
+    },
+    "images": [
+      "assets/img/products/product_360.png"
+    ]
+  },
+  {
+    "id": 1363,
+    "title": "Premium Office/Gym Lighting Powered By OSRAM",
+    "model": "SL 6600-900",
+    "description": "Premium Office/Gym Lighting Powered By OSRAM (SL 6600-900) — 100W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 6600-900 belongs to the Premium Office/Gym Lighting Powered By OSRAM series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K/6K (3000K / 4000K / 6000K). Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (26. OFFICE/GYM LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 6600-900",
+      "Watt": "100W",
+      "Input": "AC85-265V",
+      "LED": "Osram",
+      "Shape": "Round",
+      "Body Color": "Black",
+      "CCT": "3K/4K/6K (3000K / 4000K / 6000K)",
+      "Size": "D900*H70MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_363.png",
+      "assets/img/products/product_363_2.png",
+      "assets/img/products/product_363_3.png",
+      "assets/img/products/product_363_4.png"
+    ]
+  },
+  {
+    "id": 1369,
+    "title": "Premium Office/Gym Lighting Powered By OSRAM",
+    "model": "SL 6666-900",
+    "description": "Premium Office/Gym Lighting Powered By OSRAM (SL 6666-900) — 72W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 6666-900 belongs to the Premium Office/Gym Lighting Powered By OSRAM series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K/6K (3000K / 4000K / 6000K). Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (26. OFFICE/GYM LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 6666-900",
+      "Watt": "72W",
+      "Input": "AC85-265V",
+      "LED": "Osram",
+      "Shape": "Tringle",
+      "Body Color": "Black",
+      "CCT": "3K/4K/6K (3000K / 4000K / 6000K)",
+      "Size": "D900*W100*H70MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_369.png",
+      "assets/img/products/product_369_2.png",
+      "assets/img/products/product_369_3.png"
+    ]
+  },
+  {
+    "id": 1371,
+    "title": "Eco Attachable 20MM Lenior Hexa Lights",
+    "model": "SL-2405-5 HEXA",
+    "description": "Eco Attachable 20MM Lenior Hexa Lights (SL-2405-5 HEXA) — 192 W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-2405-5 HEXA belongs to the Eco Attachable 20MM Lenior Hexa Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K/6K. Notes: Note: Burnt piece not to be replace..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-2405-5 HEXA",
+      "Watt": "192 W",
+      "Input": "185-265V AC",
+      "LED": "Epistar",
+      "Body Color": "White",
+      "CCT": "3K/4K/6K",
+      "Size": "1680*2400MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_371.png",
+      "assets/img/products/product_371_2.png",
+      "assets/img/products/product_371_3.png"
+    ]
+  },
+  {
+    "id": 1372,
+    "title": "Eco Attachable 20MM Lenior Hexa Lights",
+    "model": "SL 2448-N-HB HEXA",
+    "description": "Eco Attachable 20MM Lenior Hexa Lights (SL 2448-N-HB HEXA) — 672 W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 2448-N-HB HEXA belongs to the Eco Attachable 20MM Lenior Hexa Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K/6K. Notes: Note: Burnt piece not to be replace..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 2448-N-HB HEXA",
+      "Watt": "672 W",
+      "Input": "185-265V AC",
+      "LED": "Epistar",
+      "Body Color": "White",
+      "CCT": "3K/4K/6K",
+      "Size": "2400*4800MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_372.png",
+      "assets/img/products/product_371_2.png",
+      "assets/img/products/product_371_3.png"
+    ]
+  },
+  {
+    "id": 1373,
+    "title": "Eco Attachable 20MM Lenior Hexa Lights",
+    "model": "SL-2406- STAR",
+    "description": "Eco Attachable 20MM Lenior Hexa Lights (SL-2406- STAR) — 144 W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-2406- STAR belongs to the Eco Attachable 20MM Lenior Hexa Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black/White | CCT: 3K/4K/6K. Notes: Note: Burnt piece not to be replace..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-2406- STAR",
+      "Watt": "144 W",
+      "Input": "185-265V AC",
+      "LED": "Epistar",
+      "Body Color": "Black/White",
+      "CCT": "3K/4K/6K",
+      "Size": "1580*1380MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_373.png",
+      "assets/img/products/product_373_2.png",
+      "assets/img/products/product_373_3.png"
+    ]
+  },
+  {
+    "id": 1374,
+    "title": "40MM Lenior Hexa Lights",
+    "model": "SL 4405-HB(40*420MM)",
+    "description": "40MM Lenior Hexa Lights (SL 4405-HB(40*420MM)) — 420 W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 4405-HB(40*420MM) belongs to the 40MM Lenior Hexa Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K/6K. Notes: Note: Burnt piece not to be replace..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 4405-HB(40*420MM)",
+      "Watt": "420 W",
+      "Input": "220V",
+      "LED": "Epistar",
+      "Shape": "Rectangular",
+      "Body Color": "White",
+      "CCT": "3K/4K/6K",
+      "Size": "1600*2260MM 1200*40MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_374.png"
+    ]
+  },
+  {
+    "id": 1375,
+    "title": "40MM Lenior Hexa Lights",
+    "model": "SL 4406-HB(40*1200MM)",
+    "description": "40MM Lenior Hexa Lights (SL 4406-HB(40*1200MM)) — 960 W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 4406-HB(40*1200MM) belongs to the 40MM Lenior Hexa Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K/6K. Notes: Note: Burnt piece not to be replace..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 4406-HB(40*1200MM)",
+      "Watt": "960 W",
+      "Input": "220V",
+      "LED": "Epistar",
+      "Shape": "Rectangular",
+      "Body Color": "White",
+      "CCT": "3K/4K/6K",
+      "Size": "7300*3260MM 400*40MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_375.png",
+      "assets/img/products/product_375_2.png"
+    ]
+  },
+  {
+    "id": 1376,
+    "title": "40MM Lenior Hexa Lights",
+    "model": "SL 4414-14HB",
+    "description": "40MM Lenior Hexa Lights (SL 4414-14HB) — 1478 W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 4414-14HB belongs to the 40MM Lenior Hexa Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K/6K. Notes: Note: Burnt piece not to be replace..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 4414-14HB",
+      "Watt": "1478 W",
+      "Input": "220V",
+      "LED": "Epistar",
+      "Shape": "Rectangular",
+      "Body Color": "White",
+      "CCT": "3K/4K/6K",
+      "Size": "8F*16F",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_376.png"
+    ]
+  },
+  {
+    "id": 1377,
+    "title": "Hexa lights Accessories",
+    "model": "SL 4055-1",
+    "description": "Hexa lights Accessories (SL 4055-1) — 7W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 4055-1 belongs to the Hexa lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K/6K. Notes: Note: All the accessories details & price on request..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 4055-1",
+      "Watt": "7W",
+      "Input": "AC165-265V",
+      "LED": "Epistar",
+      "Body Color": "White",
+      "CCT": "3K/4K/6K",
+      "Size": "440MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_377.png"
+    ]
+  },
+  {
+    "id": 1378,
+    "title": "Hexa lights Accessories",
+    "model": "SL 4055-2",
+    "description": "Hexa lights Accessories (SL 4055-2) — 17W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 4055-2 belongs to the Hexa lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K/6K. Notes: Note: All the accessories details & price on request..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 4055-2",
+      "Watt": "17W",
+      "Input": "AC165-265",
+      "LED": "Epistar",
+      "Body Color": "White",
+      "CCT": "3K/4K/6K",
+      "Size": "1175MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_378.png"
+    ]
+  },
+  {
+    "id": 1379,
+    "title": "Hexa lights Accessories",
+    "model": "SL 4055-3",
+    "description": "Hexa lights Accessories (SL 4055-3) — 34W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 4055-3 belongs to the Hexa lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: 3K/4K/6K. Notes: Note: All the accessories details & price on request..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 4055-3",
+      "Watt": "34W",
+      "Input": "AC165-265V",
+      "LED": "Epistar",
+      "Body Color": "White",
+      "CCT": "3K/4K/6K",
+      "Size": "2400MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_379.png"
+    ]
+  },
+  {
+    "id": 1380,
+    "title": "Smart RGB Hexa Lights",
+    "model": "SL 2405-5 HB-TUYA RGB",
+    "description": "Smart RGB Hexa Lights (SL 2405-5 HB-TUYA RGB) — 96 W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 2405-5 HB-TUYA RGB belongs to the Smart RGB Hexa Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: TUYA RGB. Notes: Note: Burnt piece not to be replace..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 2405-5 HB-TUYA RGB",
+      "Watt": "96 W",
+      "Input": "DC 5V",
+      "LED": "Sanan",
+      "Body Color": "White",
+      "CCT": "TUYA RGB",
+      "Size": "1580*2240MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_380.png",
+      "assets/img/products/product_371_2.png"
+    ]
+  },
+  {
+    "id": 1381,
+    "title": "Smart RGB Hexa Lights",
+    "model": "SL 2448-HB-TUYA RGB",
+    "description": "Smart RGB Hexa Lights (SL 2448-HB-TUYA RGB) — 366 W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 2448-HB-TUYA RGB belongs to the Smart RGB Hexa Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: TUYA RGB. Notes: Note: Burnt piece not to be replace..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 2448-HB-TUYA RGB",
+      "Watt": "366 W",
+      "Input": "DC 5V",
+      "LED": "Sanan",
+      "Body Color": "White",
+      "CCT": "TUYA RGB",
+      "Size": "1580*2240MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_381.png",
+      "assets/img/products/product_371_2.png"
+    ]
+  },
+  {
+    "id": 1382,
+    "title": "Smart RGB Hexa Lights",
+    "model": "SL 2406-HB-TUYA RGB",
+    "description": "Smart RGB Hexa Lights (SL 2406-HB-TUYA RGB) — 72 W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 2406-HB-TUYA RGB belongs to the Smart RGB Hexa Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White | CCT: TUYA RGB. Notes: Note: Burnt piece not to be replace..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (27. HEXA LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 2406-HB-TUYA RGB",
+      "Watt": "72 W",
+      "Input": "DC 5V",
+      "LED": "Sanan",
+      "Body Color": "White",
+      "CCT": "TUYA RGB",
+      "Size": "1580*2240MM",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/products/product_382.png"
+    ]
+  },
+  {
+    "id": 1383,
+    "title": "Premium Slim Laser Blade Linear Lights",
+    "model": "SL LB-3870",
+    "description": "Premium Slim Laser Blade Linear Lights (SL LB-3870) — 40W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL LB-3870 belongs to the Premium Slim Laser Blade Linear Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 3K/4K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (28. SLIM LASER BLADE LINEAR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL LB-3870",
+      "Watt": "40W",
+      "Input": "AC165-265V",
+      "LED": "Osram",
+      "Shape": "Rectangular",
+      "Body Color": "White/Black",
+      "CCT": "3K/4K",
+      "Size": "L1200*W38*H70MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_383.png",
+      "assets/img/products/product_383_2.png"
+    ]
+  },
+  {
+    "id": 1393,
+    "title": "Exclusive Jewellery/Watches Display Counter Lights",
+    "model": "SL JW-SF-004",
+    "description": "Exclusive Jewellery/Watches Display Counter Lights (SL JW-SF-004) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL JW-SF-004 belongs to the Exclusive Jewellery/Watches Display Counter Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black/Silver/Mat Gold | CCT: 3K/4K/6K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (31. EXCLUSIVE DISPLAY COUNTER LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL JW-SF-004",
+      "Watt": "3W",
+      "Input": "AC85-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "Black/Silver/Mat Gold",
+      "CCT": "3K/4K/6K",
+      "Size": "35*50MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_393.png",
+      "assets/img/products/product_393_2.png",
+      "assets/img/products/product_393_3.png"
+    ]
+  },
+  {
+    "id": 1394,
+    "title": "Exclusive Jewellery/Watches Display Counter Lights",
+    "model": "SL JW 010",
+    "description": "Exclusive Jewellery/Watches Display Counter Lights (SL JW 010) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL JW 010 belongs to the Exclusive Jewellery/Watches Display Counter Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Silver/Gold/Black | CCT: 3K/4K/6K. Notes: Note: Customizable upto 10 feet with any color of choice..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (31. EXCLUSIVE DISPLAY COUNTER LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL JW 010",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Osram",
+      "Body Color": "Silver/Gold/Black",
+      "CCT": "3K/4K/6K",
+      "Size": "L 70*W 20MM / H 300MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_394.png",
+      "assets/img/products/product_394_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ]
+  },
+  {
+    "id": 1395,
+    "title": "Exclusive Jewellery/Watches Display Counter Lights",
+    "model": "SL JW-006",
+    "description": "Exclusive Jewellery/Watches Display Counter Lights (SL JW-006) — 10W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL JW-006 belongs to the Exclusive Jewellery/Watches Display Counter Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black/Silver/Gold | CCT: 3K/4K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K). Notes: Note: Customizable upto 10 feet with any color of choice..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (31. EXCLUSIVE DISPLAY COUNTER LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL JW-006",
+      "Watt": "10W",
+      "Input": "DC12V",
+      "LED": "Epistar",
+      "Shape": "Round",
+      "Body Color": "Black/Silver/Gold",
+      "CCT": "3K/4K/6K (2.7K / 3K / 3.5K / 4K / 5K / 6K)",
+      "Size": "L 600*H 200MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_395.png",
+      "assets/img/products/product_395_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ]
+  },
+  {
+    "id": 1396,
+    "title": "Exclusive Jewellery/Watches Display Counter Lights",
+    "model": "SL JW-007",
+    "description": "Exclusive Jewellery/Watches Display Counter Lights (SL JW-007) — 20W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL JW-007 belongs to the Exclusive Jewellery/Watches Display Counter Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black/Silver/Gold | CCT: 3K/4K/6K. Notes: Note: Customizable upto 10 feet with any color of choice..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (31. EXCLUSIVE DISPLAY COUNTER LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL JW-007",
+      "Watt": "20W",
+      "Input": "DC12V",
+      "LED": "Epistar",
+      "Shape": "Round",
+      "Body Color": "Black/Silver/Gold",
+      "CCT": "3K/4K/6K",
+      "Size": "L 1200*H 200MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_396.png",
+      "assets/img/products/product_395_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ],
+    "options": [
+      {
+        "name": "2.7K",
+        "color": "#f28c28"
+      },
+      {
+        "name": "3K",
+        "color": "#f5a623"
+      },
+      {
+        "name": "3.5K",
+        "color": "#f4be72"
+      },
+      {
+        "name": "4K",
+        "color": "#f9d6a0"
+      },
+      {
+        "name": "5K",
+        "color": "#faedd8"
+      },
+      {
+        "name": "6K",
+        "color": "#f0f4f8"
+      }
+    ]
+  },
+  {
+    "id": 1397,
+    "title": "Exclusive Jewellery/Watches Display Counter Lights",
+    "model": "SL JW 008",
+    "description": "Exclusive Jewellery/Watches Display Counter Lights (SL JW 008) — 2W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL JW 008 belongs to the Exclusive Jewellery/Watches Display Counter Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black/Silver/Gold | CCT: 3K/4K/6K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (31. EXCLUSIVE DISPLAY COUNTER LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL JW 008",
+      "Watt": "2W",
+      "Input": "85-260V",
+      "LED": "Osram",
+      "Shape": "Round",
+      "Body Color": "Black/Silver/Gold",
+      "CCT": "3K/4K/6K",
+      "Size": "H150MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_397.png",
+      "assets/img/products/product_397_2.png"
+    ]
+  },
+  {
+    "id": 1398,
+    "title": "Exclusive Jewellery/Watches Display Counter Lights",
+    "model": "SL JW 009",
+    "description": "Exclusive Jewellery/Watches Display Counter Lights (SL JW 009) — 3W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL JW 009 belongs to the Exclusive Jewellery/Watches Display Counter Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black/Silver/Gold | CCT: 3K/4K/6K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (31. EXCLUSIVE DISPLAY COUNTER LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL JW 009",
+      "Watt": "3W",
+      "Input": "85-260V",
+      "LED": "Osram",
+      "Shape": "Round",
+      "Body Color": "Black/Silver/Gold",
+      "CCT": "3K/4K/6K",
+      "Size": "H250MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_398.png",
+      "assets/img/products/product_397_2.png"
+    ]
+  },
+  {
+    "id": 1399,
+    "title": "Exclusive Jewellery/Watches Display Counter Lights",
+    "model": "SL JW-111",
+    "description": "Exclusive Jewellery/Watches Display Counter Lights (SL JW-111) — 9W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL JW-111 belongs to the Exclusive Jewellery/Watches Display Counter Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Silver | CCT: 6K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (31. EXCLUSIVE DISPLAY COUNTER LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL JW-111",
+      "Watt": "9W",
+      "Input": "85-256V",
+      "LED": "USA CREE",
+      "Body Color": "Silver",
+      "CCT": "6K",
+      "Size": "D17*L1000*H400MM",
+      "Warranty": "2years"
+    },
+    "images": [
+      "assets/img/products/product_399.png",
+      "assets/img/products/product_399_2.png"
+    ],
+    "other_versions": [
+      {
+        "name": "ON/OFF",
+        "image": "assets/img/other-version/on-off.png"
+      },
+      {
+        "name": "DALI",
+        "image": "assets/img/other-version/dali.png"
+      },
+      {
+        "name": "1-10V",
+        "image": "assets/img/other-version/1-10v.png"
+      },
+      {
+        "name": "TRAIC",
+        "image": "assets/img/other-version/triac.png"
+      },
+      {
+        "name": "TUYA",
+        "image": "assets/img/other-version/tuya.png"
+      }
+    ]
+  },
+  {
+    "id": 1413,
+    "title": "Indoor Single Logo Movable Projector Lights",
+    "model": "SL-GOBO-35R",
+    "description": "Indoor Single Logo Movable Projector Lights (SL-GOBO-35R) — 35W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-GOBO-35R belongs to the Indoor Single Logo Movable Projector Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 5000K. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (34. GOBO PROJECTOR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-GOBO-35R",
+      "Watt": "35W",
+      "Input": "AC110-240V",
+      "LED": "OSRAM",
+      "Body Color": "Black",
+      "CCT": "5000K",
+      "IP Rating": "IP65",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_413.png"
+    ]
+  },
+  {
+    "id": 1801,
+    "title": "Customised 20/40MM Hexa Lenior Lights",
+    "model": "SL HEXA-CUSTOM-01",
+    "description": "Customised 20/40MM Hexa Lenior Light (SL HEXA-CUSTOM-01) — bespoke architectural geometric ceiling light layout (Price: On Request).",
+    "details": {
+      "Product Details": "Available in 20MM and 40MM linear profile widths with customised geometric layout configurations.",
+      "Pricing & Availability": "Price: On Request — contact our team with your ceiling dimensions for custom sizing and quotation.",
+      "Applications": "Ideal for gyms, showrooms, studios, gaming rooms, garages, and modern commercial interiors."
+    },
+    "specifications": {
+      "Model Number": "SL HEXA-CUSTOM-01",
+      "Profile Width": "20MM / 40MM",
+      "Design": "Custom Pattern 1",
+      "Price": "On Request"
+    },
+    "images": [
+      "assets/img/products/custom_hexa_1.png",
+      "assets/img/products/custom_hexa_1_2.png"
+    ]
+  },
+  {
+    "id": 1802,
+    "title": "Customised 20/40MM Hexa Lenior Lights",
+    "model": "SL HEXA-CUSTOM-02",
+    "description": "Customised 20/40MM Hexa Lenior Light (SL HEXA-CUSTOM-02) — bespoke architectural geometric ceiling light layout (Price: On Request).",
+    "details": {
+      "Product Details": "Available in 20MM and 40MM linear profile widths with customised geometric layout configurations.",
+      "Pricing & Availability": "Price: On Request — contact our team with your ceiling dimensions for custom sizing and quotation.",
+      "Applications": "Ideal for gyms, showrooms, studios, gaming rooms, garages, and modern commercial interiors."
+    },
+    "specifications": {
+      "Model Number": "SL HEXA-CUSTOM-02",
+      "Profile Width": "20MM / 40MM",
+      "Design": "Custom Pattern 2",
+      "Price": "On Request"
+    },
+    "images": [
+      "assets/img/products/custom_hexa_2.png",
+      "assets/img/products/custom_hexa_2_2.png"
+    ]
+  },
+  {
+    "id": 1803,
+    "title": "Customised 20/40MM Hexa Lenior Lights",
+    "model": "SL HEXA-CUSTOM-03",
+    "description": "Customised 20/40MM Hexa Lenior Light (SL HEXA-CUSTOM-03) — bespoke architectural geometric ceiling light layout (Price: On Request).",
+    "details": {
+      "Product Details": "Available in 20MM and 40MM linear profile widths with customised geometric layout configurations.",
+      "Pricing & Availability": "Price: On Request — contact our team with your ceiling dimensions for custom sizing and quotation.",
+      "Applications": "Ideal for gyms, showrooms, studios, gaming rooms, garages, and modern commercial interiors."
+    },
+    "specifications": {
+      "Model Number": "SL HEXA-CUSTOM-03",
+      "Profile Width": "20MM / 40MM",
+      "Design": "Custom Pattern 3",
+      "Price": "On Request"
+    },
+    "images": [
+      "assets/img/products/custom_hexa_3.png",
+      "assets/img/products/custom_hexa_3_2.png"
+    ]
+  },
+  {
+    "id": 1804,
+    "title": "Customised 20/40MM Hexa Lenior Lights",
+    "model": "SL HEXA-CUSTOM-04",
+    "description": "Customised 20/40MM Hexa Lenior Light (SL HEXA-CUSTOM-04) — bespoke architectural geometric ceiling light layout (Price: On Request).",
+    "details": {
+      "Product Details": "Available in 20MM and 40MM linear profile widths with customised geometric layout configurations.",
+      "Pricing & Availability": "Price: On Request — contact our team with your ceiling dimensions for custom sizing and quotation.",
+      "Applications": "Ideal for gyms, showrooms, studios, gaming rooms, garages, and modern commercial interiors."
+    },
+    "specifications": {
+      "Model Number": "SL HEXA-CUSTOM-04",
+      "Profile Width": "20MM / 40MM",
+      "Design": "Custom Pattern 4",
+      "Price": "On Request"
+    },
+    "images": [
+      "assets/img/products/custom_hexa_4.png",
+      "assets/img/products/custom_hexa_4_2.png"
+    ]
+  },
+  {
+    "id": 1805,
+    "title": "Customised 20/40MM Hexa Lenior Lights",
+    "model": "SL HEXA-CUSTOM-05",
+    "description": "Customised 20/40MM Hexa Lenior Light (SL HEXA-CUSTOM-05) — bespoke architectural geometric ceiling light layout (Price: On Request).",
+    "details": {
+      "Product Details": "Available in 20MM and 40MM linear profile widths with customised geometric layout configurations.",
+      "Pricing & Availability": "Price: On Request — contact our team with your ceiling dimensions for custom sizing and quotation.",
+      "Applications": "Ideal for gyms, showrooms, studios, gaming rooms, garages, and modern commercial interiors."
+    },
+    "specifications": {
+      "Model Number": "SL HEXA-CUSTOM-05",
+      "Profile Width": "20MM / 40MM",
+      "Design": "Custom Pattern 5",
+      "Price": "On Request"
+    },
+    "images": [
+      "assets/img/products/custom_hexa_5.png",
+      "assets/img/products/custom_hexa_5_2.png"
+    ]
+  },
+  {
+    "id": 1228,
+    "title": "Premium Deep Recessed Antiglare Linear Lights",
+    "model": "SL CY 10N",
+    "description": "Premium Deep Recessed Antiglare Linear Lights (SL CY 10N) — 10W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL CY 10N belongs to the Premium Deep Recessed Antiglare Linear Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Body Color: White/Black | CCT: 3K/4K | LED: USA CREE.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (10. DEEP RECESSED LINEAR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL CY 10N",
+      "Watt": "10W",
+      "Input": "AC85-265V",
+      "LED": "USA CREE",
+      "Body Color": "White/Black",
+      "CCT": "3K/4K",
+      "Size": "148*45*50MM",
+      "Cut-Out": "138*37MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_228.png",
+      "assets/img/products/product_227_2.png"
+    ]
+  },
+  {
+    "id": 1229,
+    "title": "Premium Deep Recessed Antiglare Linear Lights",
+    "model": "SL CY 20N",
+    "description": "Premium Deep Recessed Antiglare Linear Lights (SL CY 20N) — 20W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL CY 20N belongs to the Premium Deep Recessed Antiglare Linear Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Body Color: White/Black | CCT: 3K/4K | LED: USA CREE.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (10. DEEP RECESSED LINEAR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL CY 20N",
+      "Watt": "20W",
+      "Input": "AC85-265V",
+      "LED": "USA CREE",
+      "Body Color": "White/Black",
+      "CCT": "3K/4K",
+      "Size": "279*45*50MM",
+      "Cut-Out": "272*37MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_229.png",
+      "assets/img/products/product_227_2.png"
+    ]
+  },
+  {
+    "id": 1230,
+    "title": "Premium Deep Recessed Antiglare Linear Lights",
+    "model": "SL CY 30N",
+    "description": "Premium Deep Recessed Antiglare Linear Lights (SL CY 30N) — 30W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL CY 30N belongs to the Premium Deep Recessed Antiglare Linear Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Body Color: White/Black | CCT: 3K/4K | LED: USA CREE.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (10. DEEP RECESSED LINEAR LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL CY 30N",
+      "Watt": "30W",
+      "Input": "AC85-265V",
+      "LED": "USA CREE",
+      "Body Color": "White/Black",
+      "CCT": "3K/4K",
+      "Size": "411*45*50MM",
+      "Cut-Out": "403*37MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_230.png",
+      "assets/img/products/product_227_2.png"
     ]
   }
 ]

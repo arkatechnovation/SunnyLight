@@ -513,14 +513,14 @@
                   class="fa-solid fa-chevron-down"></i></a>
             <ul class="dropdown-menu" id="desktop-profile-products">
               <li><a href="profile-lights.php#Led-Aluminium-Profiles">Led Aluminium Profiles</a></li>
-              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile
-                  Accessories</a>
-              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed
-                  Flexible Neon Profile Without Thread</a>
-              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a>
-              </li>
+              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a></li>
+              <li><a href="profile-lights.php#Shadow-Gap-LED-Aluminium-Profile">Shadow Gap LED Aluminium Profile</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile Accessories</a></li>
+              <li><a href="profile-lights.php#LED-Profile-Flexible-Neon-Profile">LED Profile / Flexible Neon Profile</a></li>
+              <li><a href="profile-lights.php#LED-Skirting-Profile-Accessories">LED Skirting Profile &amp; Accessories</a></li>
+              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed Flexible Neon Profile Without Thread</a></li>
+              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#">FLEXI LIGHTS <span><i class="fa-solid fa-chevron-down"></i></a>
@@ -544,12 +544,17 @@
               <li><a href="smps.php#SMPS-Waterproof-24V-DC">SMPS Waterproof 24V DC</a></li>
               <li><a href="smps.php#SMPS-Rainproof-12V-DC">SMPS Rainproof 12V DC</a></li>
               <li><a href="smps.php#SMPS-Waterproof-12V-DC">SMPS Waterproof 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 24V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 12V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 24V DC</a></li>
               <li><a href="smps.php#SL-Indoor-SMPS">SL Indoor SMPS</a></li>
+              <li><a href="smps.php#Slim-SMPS-Auto-Switch-12V-24V">Slim SMPS Series Auto Switch (12V to 24V)</a></li>
+              <li><a href="smps.php#DC-12V-Premium-Quality-SMPS">DC 12V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Premium-Quality-SMPS">DC 24V Premium Current Adjustable Dimmable SMPS</a></li>
+              <li><a href="smps.php#DC-48V-Premium-Quality-SMPS">DC 48V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#TUYA-Smart-App-Control-Premium-SMPS">TUYA Smart App Control Premium SMPS</a></li>
               <li><a href="smps.php#SL-IP67-Outdoor-SMPS">SL IP67 Outdoor SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Waterproof-Premium-SMPS">DC 24V IP67 Waterproof Premium SMPS</a></li>
+              <li><a href="smps.php#DC-12V-Waterproof-Premium-SMPS">DC 12V IP67 Waterproof Premium SMPS</a></li>
             </ul>
           </li>
 
@@ -557,20 +562,28 @@
             <ul class="dropdown-menu" id="desktop-led-drivers-products">
               <li><a href="LED-drivers.php#LED-Drivers">LED Drivers</a></li>
               <li><a href="LED-drivers.php#Waterproof-LED-Drivers">Waterproof LED Drivers</a></li>
-              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic
-                  Dimming)</a></li>
+              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic Dimming)</a></li>
               <li><a href="LED-drivers.php#Phase-Cut-Dimmable">Phase Cut Dimmable LED Drivers</a></li>
               <li><a href="LED-drivers.php#Analogue-Dimmable-LED-Driver">Analogue Dimmable LED Driver(0-10)</a></li>
-              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Drivers">Dali Adjustable Dimmable LED
-                  Drivers</a></li>
+              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Driver">Dali Adjustable Dimmable LED Drivers</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT6-DALI-Driver">Constant Current DT6 DALI Dimmable Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT8-DALI-CCT-Driver">Constant Current DT8 DALI Dimmable CCT Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-Driver">Constant Voltage DC 12V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-Driver">Constant Voltage DC 24V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT8-Driver">Constant Voltage DC 12V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT8-Driver">Constant Voltage DC 24V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-IP67-Driver">Constant Voltage DC 12V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-IP67-Driver">Constant Voltage DC 24V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Staircase-Controllers">Staircase Controllers</a></li>
+              <li><a href="LED-drivers.php#DMX-512-Decoder-DALI-Controllers">DMX 512 Decoder &amp; DALI LED Controllers</a></li>
+              <li><a href="LED-drivers.php#TRIAC-Phase-Cut-Dimmers">TRIAC / Phase Cut Dimmers</a></li>
             </ul>
           </li>
           
           <li class="dropdown"><a href="#">OUR CATALOGUE <span><i class="fa-solid fa-chevron-down"></i></a>
-            <ul class="dropdown-menu" id="desktop-led-drivers-products">
+            <ul class="dropdown-menu">
               <li><a href="assets/img/catalogue/SL-PRICE-LIST-2020.pdf" target="_blank">SL PRICE LIST 2020</a></li>
               <li><a href="assets/img/catalogue/SUNNY-LIGHT-CATALOGUE-2026.pdf" target="_blank">SUNNY LIGHT CATALOGUE 2026</a></li>
-              
             </ul>
           </li>
         </ul>
@@ -1152,9 +1165,23 @@ document.addEventListener('DOMContentLoaded', function() {
 
                            <li><a href="#SL-Indoor-SMPS" class="filter-link"
                                     data-category="burial">SL Indoor SMPS</a></li>
+                           <li><a href="#Slim-SMPS-Auto-Switch-12V-24V" class="filter-link"
+                                    data-category="burial">Slim SMPS Series Auto Switch (12V to 24V)</a></li>
+                           <li><a href="#DC-12V-Premium-Quality-SMPS" class="filter-link"
+                                    data-category="burial">DC 12V Premium Quality SMPS</a></li>
+                           <li><a href="#DC-24V-Premium-Quality-SMPS" class="filter-link"
+                                    data-category="burial">DC 24V Premium Current Adjustable Dimmable SMPS</a></li>
+                           <li><a href="#DC-48V-Premium-Quality-SMPS" class="filter-link"
+                                    data-category="burial">DC 48V Premium Quality SMPS</a></li>
+                           <li><a href="#TUYA-Smart-App-Control-Premium-SMPS" class="filter-link"
+                                    data-category="burial">TUYA Smart App Control Premium SMPS</a></li>
 
                                      <li><a href="#SL-IP67-Outdoor-SMPS" class="filter-link"
                                     data-category="burial">SL IP67 Outdoor SMPS</a></li>
+                           <li><a href="#DC-24V-Waterproof-Premium-SMPS" class="filter-link"
+                                    data-category="burial">DC 24V IP67 Waterproof Premium SMPS</a></li>
+                           <li><a href="#DC-12V-Waterproof-Premium-SMPS" class="filter-link"
+                                    data-category="burial">DC 12V IP67 Waterproof Premium SMPS</a></li>
                                     
                                     
                         </ul>
@@ -2171,11 +2198,183 @@ document.addEventListener('DOMContentLoaded', function() {
             <td>IP-20</td>
             <td>1 Year</td>
           </tr>
-        </tbody>
+        
+                                    <tr><td>BB 24-400 Q</td><td>AC 86V-265V</td><td>DC 24V</td><td>340*53*22</td><td>300W</td><td>IP20</td><td>1 Year</td></tr>
+                                </tbody>
       </table>
     </div>
   </div>
   </div>
+
+<!-- Product Group: Slim SMPS Series Auto Switch (12V to 24V) -->
+<div class="product-group" id="Slim-SMPS-Auto-Switch-12V-24V">
+  <h3 class="product-group-title">Slim SMPS Series Auto Switch (12V to 24V)</h3>
+  <div class="smps-product-wrapper">
+    <div class="product-left">
+      <div class="smps-product-image">
+        <img src="assets/img/products/product_516.png" alt="Slim SMPS Series Auto Switch (12V to 24V)">
+      </div>
+    </div>
+    <div class="product-right">
+      <table class="product-table">
+        <thead>
+          <tr>
+            <th>Product Code</th>
+            <th>Input Voltage</th>
+            <th>Output Voltage</th>
+            <th>Size</th>
+            <th>Power</th>
+            <th>IP Rating</th>
+            <th>Guarantee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>SL RS-60-12-24</td><td>AC 185-265V</td><td>DC 12V-24V</td><td>147*32*24MM</td><td>60W</td><td>IP20</td><td>2 Years</td></tr>
+          <tr><td>SL RS-100-12-24</td><td>AC 185-265V</td><td>DC 12V-24V</td><td>177*32*24MM</td><td>100W</td><td>IP20</td><td>2 Years</td></tr>
+          <tr><td>SL RS-150-12-24</td><td>AC 185-265V</td><td>DC 12V-24V</td><td>217*32*24MM</td><td>150W</td><td>IP20</td><td>2 Years</td></tr>
+          <tr><td>SL RS-200-12-24</td><td>AC 185-265V</td><td>DC 12V-24V</td><td>237*32*24MM</td><td>200W</td><td>IP20</td><td>2 Years</td></tr>
+          <tr><td>SL RS-300-12-24</td><td>AC 185-265V</td><td>DC 12V-24V</td><td>257*32*24MM</td><td>300W</td><td>IP20</td><td>2 Years</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Product Group: DC 12V Premium Quality SMPS -->
+<div class="product-group" id="DC-12V-Premium-Quality-SMPS">
+  <h3 class="product-group-title">DC 12V Premium Quality SMPS</h3>
+  <div class="smps-product-wrapper">
+    <div class="product-left">
+      <div class="smps-product-image">
+        <img src="assets/img/products/product_521.png" alt="DC 12V Premium Quality SMPS">
+      </div>
+    </div>
+    <div class="product-right">
+      <table class="product-table">
+        <thead>
+          <tr>
+            <th>Product Code</th>
+            <th>Input Voltage</th>
+            <th>Output Voltage</th>
+            <th>Size</th>
+            <th>Power</th>
+            <th>IP Rating</th>
+            <th>Guarantee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>SL 60D-12PR</td><td>185-265V</td><td>12V</td><td>123*35*25</td><td>60W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 100D-12PR</td><td>185-265V</td><td>12V</td><td>141*50*27</td><td>100W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 200D-12PR</td><td>185-265V</td><td>12V</td><td>188*30*27</td><td>200W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 300D-12PR</td><td>185-265V</td><td>12V</td><td>220*50*31</td><td>300W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 400D-12PR</td><td>185-265V</td><td>12V</td><td>247*50*31</td><td>400W</td><td>IP20</td><td>3 Years</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Product Group: DC 24V Premium Current Adjustable Dimmable SMPS -->
+<div class="product-group" id="DC-24V-Premium-Quality-SMPS">
+  <h3 class="product-group-title">DC 24V Premium Current Adjustable Dimmable SMPS</h3>
+  <div class="smps-product-wrapper">
+    <div class="product-left">
+      <div class="smps-product-image">
+        <img src="assets/img/products/product_526.png" alt="DC 24V Premium Current Adjustable Dimmable SMPS">
+      </div>
+    </div>
+    <div class="product-right">
+      <table class="product-table">
+        <thead>
+          <tr>
+            <th>Product Code</th>
+            <th>Input Voltage</th>
+            <th>Output Voltage</th>
+            <th>Size</th>
+            <th>Power</th>
+            <th>IP Rating</th>
+            <th>Guarantee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>SL 60D-24PR</td><td>185-265V</td><td>24V With DIP</td><td>123*35*25</td><td>60W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 100D-24PR</td><td>185-265V</td><td>24V With DIP</td><td>141*50*27</td><td>100W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 200D-24PR</td><td>185-265V</td><td>24V With DIP</td><td>188*50*27</td><td>200W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 300D-24PR</td><td>185-265V</td><td>24V With DIP</td><td>220*50*31</td><td>300W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 400D-24PR</td><td>185-265V</td><td>24V With DIP</td><td>247*50*31</td><td>400W</td><td>IP20</td><td>3 Years</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Product Group: DC 48V Premium Quality SMPS -->
+<div class="product-group" id="DC-48V-Premium-Quality-SMPS">
+  <h3 class="product-group-title">DC 48V Premium Quality SMPS</h3>
+  <div class="smps-product-wrapper">
+    <div class="product-left">
+      <div class="smps-product-image">
+        <img src="assets/img/products/product_531.png" alt="DC 48V Premium Quality SMPS">
+      </div>
+    </div>
+    <div class="product-right">
+      <table class="product-table">
+        <thead>
+          <tr>
+            <th>Product Code</th>
+            <th>Input Voltage</th>
+            <th>Output Voltage</th>
+            <th>Size</th>
+            <th>Power</th>
+            <th>IP Rating</th>
+            <th>Guarantee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>SL 60D-48PR</td><td>165-265V</td><td>48V</td><td>120*35*22.5</td><td>60W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 100D-48PR</td><td>165-265V</td><td>48V</td><td>140*50*25</td><td>100W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 200D-48PR</td><td>165-265V</td><td>48V</td><td>180*50*25</td><td>200W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL 300D-48PR</td><td>165-265V</td><td>48V</td><td>190*60*28.5</td><td>300W</td><td>IP20</td><td>3 Years</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Product Group: TUYA Smart App Control Premium SMPS -->
+<div class="product-group" id="TUYA-Smart-App-Control-Premium-SMPS">
+  <h3 class="product-group-title">TUYA Smart App Control Premium SMPS</h3>
+  <div class="smps-product-wrapper">
+    <div class="product-left">
+      <div class="smps-product-image">
+        <img src="assets/img/products/product_535.png" alt="TUYA Smart App Control Premium SMPS">
+      </div>
+    </div>
+    <div class="product-right">
+      <table class="product-table">
+        <thead>
+          <tr>
+            <th>Product Code</th>
+            <th>Input Voltage</th>
+            <th>Output Voltage</th>
+            <th>Size</th>
+            <th>Power</th>
+            <th>IP Rating</th>
+            <th>Guarantee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>SL-TY-CCT-100-24PR</td><td>185-265V</td><td>24V</td><td>141*50*27</td><td>100W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL-TY-CCT-200-24PR</td><td>185-265V</td><td>24V</td><td>188*50*27</td><td>200W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL-TY-CCT-300-24PR</td><td>185-265V</td><td>24V</td><td>247*50*31</td><td>300W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL-TY-CCT-100-12PR</td><td>185-265V</td><td>12V</td><td>141*50*27</td><td>100W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL-TY-CCT-200-12PR</td><td>185-265V</td><td>12V</td><td>188*50*27</td><td>200W</td><td>IP20</td><td>3 Years</td></tr>
+          <tr><td>SL-TY-CCT-300-12PR</td><td>185-265V</td><td>12V</td><td>247*50*31</td><td>300W</td><td>IP20</td><td>3 Years</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
 
  <!--<div class="smps-product-wrapper">-->
  <!--   <div class="product-left">-->
@@ -2263,6 +2462,76 @@ document.addEventListener('DOMContentLoaded', function() {
             <td>IP67</td>
             <td>1 Year</td>
           </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Product Group: DC 24V IP67 Waterproof Premium SMPS -->
+<div class="product-group" id="DC-24V-Waterproof-Premium-SMPS">
+  <h3 class="product-group-title">DC 24V IP67 Waterproof Premium SMPS</h3>
+  <div class="smps-product-wrapper">
+    <div class="product-left">
+      <div class="smps-product-image">
+        <img src="assets/img/products/product_541.png" alt="DC 24V IP67 Waterproof Premium SMPS">
+      </div>
+    </div>
+    <div class="product-right">
+      <table class="product-table">
+        <thead>
+          <tr>
+            <th>Product Code</th>
+            <th>Input Voltage</th>
+            <th>Output Voltage</th>
+            <th>Size</th>
+            <th>Power</th>
+            <th>IP Rating</th>
+            <th>Guarantee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>SL-G-60-24PR(IP67)</td><td>185-265V</td><td>24V</td><td>160*37*20</td><td>60W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-100-24PR(IP67)</td><td>185-265V</td><td>24V</td><td>162*56*26</td><td>100W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-150-24PR(IP67)</td><td>185-265V</td><td>24V</td><td>207*56*26</td><td>150W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-200-24PR(IP67)</td><td>185-265V</td><td>24V</td><td>207*56*26</td><td>200W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-300-24PR(IP67)</td><td>185-265V</td><td>24V</td><td>241*60*30</td><td>300W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-400-24PR(IP67)</td><td>185-265V</td><td>24V</td><td>267*60*30</td><td>400W</td><td>IP67</td><td>3 Years</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Product Group: DC 12V IP67 Waterproof Premium SMPS -->
+<div class="product-group" id="DC-12V-Waterproof-Premium-SMPS">
+  <h3 class="product-group-title">DC 12V IP67 Waterproof Premium SMPS</h3>
+  <div class="smps-product-wrapper">
+    <div class="product-left">
+      <div class="smps-product-image">
+        <img src="assets/img/products/product_547.png" alt="DC 12V IP67 Waterproof Premium SMPS">
+      </div>
+    </div>
+    <div class="product-right">
+      <table class="product-table">
+        <thead>
+          <tr>
+            <th>Product Code</th>
+            <th>Input Voltage</th>
+            <th>Output Voltage</th>
+            <th>Size</th>
+            <th>Power</th>
+            <th>IP Rating</th>
+            <th>Guarantee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>SL-G-60-12PR(IP67)</td><td>185-265V</td><td>12V</td><td>160*37*20</td><td>60W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-100-12PR(IP67)</td><td>185-265V</td><td>12V</td><td>162*56*26</td><td>100W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-150-12PR(IP67)</td><td>185-265V</td><td>12V</td><td>207*56*26</td><td>150W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-200-12PR(IP67)</td><td>185-265V</td><td>12V</td><td>207*56*26</td><td>200W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-300-12PR(IP67)</td><td>185-265V</td><td>12V</td><td>241*60*30</td><td>300W</td><td>IP67</td><td>3 Years</td></tr>
+          <tr><td>SL-G-400-12PR(IP67)</td><td>185-265V</td><td>12V</td><td>267*60*30</td><td>400W</td><td>IP67</td><td>3 Years</td></tr>
         </tbody>
       </table>
     </div>
@@ -2714,8 +2983,8 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="https://www.jaikviktechnology.com/"
-            target="_blank"><span>Jaikvik Technology India Pvt Ltd</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
+            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>

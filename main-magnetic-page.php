@@ -517,14 +517,14 @@
                   class="fa-solid fa-chevron-down"></i></a>
             <ul class="dropdown-menu" id="desktop-profile-products">
               <li><a href="profile-lights.php#Led-Aluminium-Profiles">Led Aluminium Profiles</a></li>
-              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile
-                  Accessories</a>
-              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed
-                  Flexible Neon Profile Without Thread</a>
-              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a>
-              </li>
+              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a></li>
+              <li><a href="profile-lights.php#Shadow-Gap-LED-Aluminium-Profile">Shadow Gap LED Aluminium Profile</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile Accessories</a></li>
+              <li><a href="profile-lights.php#LED-Profile-Flexible-Neon-Profile">LED Profile / Flexible Neon Profile</a></li>
+              <li><a href="profile-lights.php#LED-Skirting-Profile-Accessories">LED Skirting Profile &amp; Accessories</a></li>
+              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed Flexible Neon Profile Without Thread</a></li>
+              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#">FLEXI LIGHTS <span><i class="fa-solid fa-chevron-down"></i></a>
@@ -548,12 +548,17 @@
               <li><a href="smps.php#SMPS-Waterproof-24V-DC">SMPS Waterproof 24V DC</a></li>
               <li><a href="smps.php#SMPS-Rainproof-12V-DC">SMPS Rainproof 12V DC</a></li>
               <li><a href="smps.php#SMPS-Waterproof-12V-DC">SMPS Waterproof 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 24V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 12V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 24V DC</a></li>
               <li><a href="smps.php#SL-Indoor-SMPS">SL Indoor SMPS</a></li>
+              <li><a href="smps.php#Slim-SMPS-Auto-Switch-12V-24V">Slim SMPS Series Auto Switch (12V to 24V)</a></li>
+              <li><a href="smps.php#DC-12V-Premium-Quality-SMPS">DC 12V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Premium-Quality-SMPS">DC 24V Premium Current Adjustable Dimmable SMPS</a></li>
+              <li><a href="smps.php#DC-48V-Premium-Quality-SMPS">DC 48V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#TUYA-Smart-App-Control-Premium-SMPS">TUYA Smart App Control Premium SMPS</a></li>
               <li><a href="smps.php#SL-IP67-Outdoor-SMPS">SL IP67 Outdoor SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Waterproof-Premium-SMPS">DC 24V IP67 Waterproof Premium SMPS</a></li>
+              <li><a href="smps.php#DC-12V-Waterproof-Premium-SMPS">DC 12V IP67 Waterproof Premium SMPS</a></li>
             </ul>
           </li>
 
@@ -561,20 +566,28 @@
             <ul class="dropdown-menu" id="desktop-led-drivers-products">
               <li><a href="LED-drivers.php#LED-Drivers">LED Drivers</a></li>
               <li><a href="LED-drivers.php#Waterproof-LED-Drivers">Waterproof LED Drivers</a></li>
-              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic
-                  Dimming)</a></li>
+              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic Dimming)</a></li>
               <li><a href="LED-drivers.php#Phase-Cut-Dimmable">Phase Cut Dimmable LED Drivers</a></li>
               <li><a href="LED-drivers.php#Analogue-Dimmable-LED-Driver">Analogue Dimmable LED Driver(0-10)</a></li>
-              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Drivers">Dali Adjustable Dimmable LED
-                  Drivers</a></li>
+              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Driver">Dali Adjustable Dimmable LED Drivers</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT6-DALI-Driver">Constant Current DT6 DALI Dimmable Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT8-DALI-CCT-Driver">Constant Current DT8 DALI Dimmable CCT Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-Driver">Constant Voltage DC 12V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-Driver">Constant Voltage DC 24V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT8-Driver">Constant Voltage DC 12V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT8-Driver">Constant Voltage DC 24V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-IP67-Driver">Constant Voltage DC 12V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-IP67-Driver">Constant Voltage DC 24V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Staircase-Controllers">Staircase Controllers</a></li>
+              <li><a href="LED-drivers.php#DMX-512-Decoder-DALI-Controllers">DMX 512 Decoder &amp; DALI LED Controllers</a></li>
+              <li><a href="LED-drivers.php#TRIAC-Phase-Cut-Dimmers">TRIAC / Phase Cut Dimmers</a></li>
             </ul>
           </li>
           
           <li class="dropdown"><a href="#">OUR CATALOGUE <span><i class="fa-solid fa-chevron-down"></i></a>
-            <ul class="dropdown-menu" id="desktop-led-drivers-products">
+            <ul class="dropdown-menu">
               <li><a href="assets/img/catalogue/SL-PRICE-LIST-2020.pdf" target="_blank">SL PRICE LIST 2020</a></li>
               <li><a href="assets/img/catalogue/SUNNY-LIGHT-CATALOGUE-2026.pdf" target="_blank">SUNNY LIGHT CATALOGUE 2026</a></li>
-              
             </ul>
           </li>
         </ul>
@@ -1222,6 +1235,90 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="magnetic-light-details-page.php?id=1086" class="product-card-link">
+                                <div class="product-card" data-price="600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_86.png" alt="Live end with wire 100mm" class="default-image">
+                                        <img src="assets/img/products/product_86.png" alt="Live end with wire 100mm" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">New Generation Round Shape Magnetic Track</h3>
+                                        <div class="product-model"><span>Model:</span> Live end with wire 100mm</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1087" class="product-card-link">
+                                <div class="product-card" data-price="3000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_87.png" alt="V11 Built in Curved SMPS" class="default-image">
+                                        <img src="assets/img/products/product_87.png" alt="V11 Built in Curved SMPS" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">New Generation Round Shape Magnetic Track</h3>
+                                        <div class="product-model"><span>Model:</span> V11 Built in Curved SMPS</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1091" class="product-card-link">
+                                <div class="product-card" data-price="900">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_91.png" alt="Curved L wire jointer" class="default-image">
+                                        <img src="assets/img/products/product_91.png" alt="Curved L wire jointer" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">New Generation Round Shape Magnetic Track</h3>
+                                        <div class="product-model"><span>Model:</span> Curved L wire jointer</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1092" class="product-card-link">
+                                <div class="product-card" data-price="250">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_92.png" alt="Hanging wire" class="default-image">
+                                        <img src="assets/img/products/product_92.png" alt="Hanging wire" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">New Generation Round Shape Magnetic Track</h3>
+                                        <div class="product-model"><span>Model:</span> Hanging wire</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1093" class="product-card-link">
+                                <div class="product-card" data-price="2500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_93.png" alt="V-15/ V-16/ V-17-PC" class="default-image">
+                                        <img src="assets/img/products/product_93.png" alt="V-15/ V-16/ V-17-PC" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">New Generation Curved Shape Magnetic Track</h3>
+                                        <div class="product-model"><span>Model:</span> V-15/ V-16/ V-17-PC</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1094" class="product-card-link">
+                                <div class="product-card" data-price="3000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_94.png" alt="V-21/V-22/V-23-TR" class="default-image">
+                                        <img src="assets/img/products/product_94.png" alt="V-21/V-22/V-23-TR" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">New Generation Curved Shape Magnetic Track</h3>
+                                        <div class="product-model"><span>Model:</span> V-21/V-22/V-23-TR</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1095" class="product-card-link">
+                                <div class="product-card" data-price="3000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_95.png" alt="V-18/ V-19/ V-20-LB" class="default-image">
+                                        <img src="assets/img/products/product_95.png" alt="V-18/ V-19/ V-20-LB" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">New Generation Curved Shape Magnetic Track</h3>
+                                        <div class="product-model"><span>Model:</span> V-18/ V-19/ V-20-LB</div>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
 
@@ -1580,6 +1677,162 @@ Track Wire Jointer</div>
                                     </div>
                                 </div>
                             </a>
+                            <a href="magnetic-light-details-page.php?id=1100" class="product-card-link">
+                                <div class="product-card" data-price="2400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_100.png" alt="SL M-1010SF-600-C90" class="default-image">
+                                        <img src="assets/img/products/product_100.png" alt="SL M-1010SF-600-C90" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-1010SF-600-C90</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1101" class="product-card-link">
+                                <div class="product-card" data-price="3000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_101.png" alt="SL M-1010SF-900-C90" class="default-image">
+                                        <img src="assets/img/products/product_101.png" alt="SL M-1010SF-900-C90" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-1010SF-900-C90</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1102" class="product-card-link">
+                                <div class="product-card" data-price="2600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_102.png" alt="SL M-1010RH-600-C90" class="default-image">
+                                        <img src="assets/img/products/product_102.png" alt="SL M-1010RH-600-C90" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-1010RH-600-C90</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1103" class="product-card-link">
+                                <div class="product-card" data-price="3200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_103.png" alt="SL M-1010RH-900-C90" class="default-image">
+                                        <img src="assets/img/products/product_103.png" alt="SL M-1010RH-900-C90" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-1010RH-900-C90</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1104" class="product-card-link">
+                                <div class="product-card" data-price="850">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_104.png" alt="SL 1010SF-L90" class="default-image">
+                                        <img src="assets/img/products/product_104.png" alt="SL 1010SF-L90" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL 1010SF-L90</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1105" class="product-card-link">
+                                <div class="product-card" data-price="850">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_105.png" alt="SL 1010RH-L-90" class="default-image">
+                                        <img src="assets/img/products/product_105.png" alt="SL 1010RH-L-90" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL 1010RH-L-90</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1106" class="product-card-link">
+                                <div class="product-card" data-price="500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_106.png" alt="SL-1010-4 WIRE LIVE END" class="default-image">
+                                        <img src="assets/img/products/product_106.png" alt="SL-1010-4 WIRE LIVE END" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-1010-4 WIRE LIVE END</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1107" class="product-card-link">
+                                <div class="product-card" data-price="450">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_107.png" alt="SL-1010 STRAIGHT JOINTER" class="default-image">
+                                        <img src="assets/img/products/product_107.png" alt="SL-1010 STRAIGHT JOINTER" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-1010 STRAIGHT JOINTER</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1108" class="product-card-link">
+                                <div class="product-card" data-price="600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_108.png" alt="SL-1010L-WIRE JOINTER" class="default-image">
+                                        <img src="assets/img/products/product_108.png" alt="SL-1010L-WIRE JOINTER" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-1010L-WIRE JOINTER</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1109" class="product-card-link">
+                                <div class="product-card" data-price="100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_109.png" alt="SL-1010 RH END CAP" class="default-image">
+                                        <img src="assets/img/products/product_109.png" alt="SL-1010 RH END CAP" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-1010 RH END CAP</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1110" class="product-card-link">
+                                <div class="product-card" data-price="100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_110.png" alt="SL-1010SF-END CAP" class="default-image">
+                                        <img src="assets/img/products/product_110.png" alt="SL-1010SF-END CAP" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-1010SF-END CAP</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1111" class="product-card-link">
+                                <div class="product-card" data-price="100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_111.png" alt="SL-1010RH JOINTER" class="default-image">
+                                        <img src="assets/img/products/product_111.png" alt="SL-1010RH JOINTER" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL-1010RH JOINTER</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1112" class="product-card-link">
+                                <div class="product-card" data-price="100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_112.png" alt="SL 1010SF JOINTER" class="default-image">
+                                        <img src="assets/img/products/product_112.png" alt="SL 1010SF JOINTER" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL 1010SF JOINTER</div>
+                                    </div>
+                                </div>
+                            </a>
 
                            
                         </div>
@@ -1621,6 +1874,54 @@ Track Wire Jointer</div>
                                         <h3 class="product-name">Premium Smart Magnetic SMPS</h3>
                                         <div class="product-model"><span>Model:</span> MGT 48-200</div>
                                         
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1096" class="product-card-link">
+                                <div class="product-card" data-price="1600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_96.png" alt="SL M-1010-TRIMLESS" class="default-image">
+                                        <img src="assets/img/products/product_96.png" alt="SL M-1010-TRIMLESS" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Track Rail &amp; SMPS</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-1010-TRIMLESS</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1097" class="product-card-link">
+                                <div class="product-card" data-price="1300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_97.png" alt="SL M-1010-SURFACE" class="default-image">
+                                        <img src="assets/img/products/product_97.png" alt="SL M-1010-SURFACE" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Track Rail &amp; SMPS</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-1010-SURFACE</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1098" class="product-card-link">
+                                <div class="product-card" data-price="2300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_98.png" alt="SL-MGT1010-100W" class="default-image">
+                                        <img src="assets/img/products/product_98.png" alt="SL-MGT1010-100W" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Track Rail &amp; SMPS</h3>
+                                        <div class="product-model"><span>Model:</span> SL-MGT1010-100W</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1099" class="product-card-link">
+                                <div class="product-card" data-price="3000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_99.png" alt="SL-MGT1010-200W" class="default-image">
+                                        <img src="assets/img/products/product_99.png" alt="SL-MGT1010-200W" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Track Rail &amp; SMPS</h3>
+                                        <div class="product-model"><span>Model:</span> SL-MGT1010-200W</div>
                                     </div>
                                 </div>
                             </a>
@@ -2234,6 +2535,126 @@ Track Wire Jointer</div>
                                         <h3 class="product-name">Premium Magnetic Light</h3>
                                         <div class="product-model"><span>Model:</span> SL M 2111 Track</div>
                                         
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1113" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_113.png" alt="SL M-3101" class="default-image">
+                                        <img src="assets/img/products/product_113.png" alt="SL M-3101" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Flood Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3101</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1114" class="product-card-link">
+                                <div class="product-card" data-price="2000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_114.png" alt="SL M-3102" class="default-image">
+                                        <img src="assets/img/products/product_114.png" alt="SL M-3102" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Flood Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3102</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1115" class="product-card-link">
+                                <div class="product-card" data-price="2800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_115.png" alt="SL M-3103" class="default-image">
+                                        <img src="assets/img/products/product_115.png" alt="SL M-3103" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Flood Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3103</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1116" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_116.png" alt="SL M-3104" class="default-image">
+                                        <img src="assets/img/products/product_116.png" alt="SL M-3104" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Grill Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3104</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1117" class="product-card-link">
+                                <div class="product-card" data-price="2500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_117.png" alt="SL M-3105" class="default-image">
+                                        <img src="assets/img/products/product_117.png" alt="SL M-3105" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Grill Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3105</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1118" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_118.png" alt="SL M-3107" class="default-image">
+                                        <img src="assets/img/products/product_118.png" alt="SL M-3107" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Wall Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3107</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1119" class="product-card-link">
+                                <div class="product-card" data-price="2000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_119.png" alt="SL M-3108" class="default-image">
+                                        <img src="assets/img/products/product_119.png" alt="SL M-3108" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Wall Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3108</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1120" class="product-card-link">
+                                <div class="product-card" data-price="2200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_120.png" alt="SL M-3109" class="default-image">
+                                        <img src="assets/img/products/product_120.png" alt="SL M-3109" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Foldable Grill Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3109</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1121" class="product-card-link">
+                                <div class="product-card" data-price="3000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_121.png" alt="SL M-3110" class="default-image">
+                                        <img src="assets/img/products/product_121.png" alt="SL M-3110" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Foldable Grill Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3110</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="magnetic-light-details-page.php?id=1122" class="product-card-link">
+                                <div class="product-card" data-price="9000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_122.png" alt="SL M-3111" class="default-image">
+                                        <img src="assets/img/products/product_122.png" alt="SL M-3111" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium 10MM Slim Magnetic Bluetooth Speaker</h3>
+                                        <div class="product-model"><span>Model:</span> SL M-3111</div>
                                     </div>
                                 </div>
                             </a>
@@ -3419,8 +3840,8 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="https://www.jaikviktechnology.com/"
-            target="_blank"><span>Jaikvik Technology India Pvt Ltd</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
+            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>

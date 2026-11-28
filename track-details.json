@@ -22,7 +22,9 @@
       "Beam Angle": "25°",
       "Warranty": "2 Years"
     },
-    "images": ["assets/img/track/track-1.jpg"]
+    "images": [
+      "assets/img/track/track-1.jpg"
+    ]
   },
   {
     "id": 2,
@@ -47,7 +49,9 @@
       "Mounting Option": "Wall/Track Base",
       "Warranty": "2 Years"
     },
-    "images": ["assets/img/track/track-2.jpg"]
+    "images": [
+      "assets/img/track/track-2.jpg"
+    ]
   },
   {
     "id": 3,
@@ -73,7 +77,9 @@
       "Mounting Option": "Track/Wall Base",
       "Warranty": "2 Years"
     },
-    "images": ["assets/img/track/track-3.jpg"]
+    "images": [
+      "assets/img/track/track-3.jpg"
+    ]
   },
   {
     "id": 4,
@@ -99,7 +105,9 @@
       "Mounting Option": "Track/Wall Base",
       "Warranty": "2 Years"
     },
-    "images": ["assets/img/track/track-4.jpg"]
+    "images": [
+      "assets/img/track/track-4.jpg"
+    ]
   },
   {
     "id": 5,
@@ -125,7 +133,9 @@
       "Mounting Option": "Track/Wall Base",
       "Warranty": "2 Years"
     },
-    "images": ["assets/img/track/track-5.jpg"]
+    "images": [
+      "assets/img/track/track-5.jpg"
+    ]
   },
   {
     "id": 6,
@@ -148,7 +158,9 @@
       "Mounting Option": "Track/Wall",
       "Warranty": "2 Years"
     },
-    "images": ["assets/img/track/gu-1.jpg"]
+    "images": [
+      "assets/img/track/gu-1.jpg"
+    ]
   },
   {
     "id": 7,
@@ -171,16 +183,157 @@
       "Mounting Option": "Wall",
       "Warranty": "2 Years"
     },
-    "images": ["assets/img/track/gu-2.jpg"]
+    "images": [
+      "assets/img/track/gu-2.jpg"
+    ]
+  },
+  {
+    "id": 1317,
+    "title": "Premium Commercial Track Lights",
+    "model": "SL MX TR 4430",
+    "description": "Premium Commercial Track Lights (SL MX TR 4430) — 30W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX TR 4430 belongs to the Premium Commercial Track Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7K/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (21. PREMIUM TRACK LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX TR 4430",
+      "Watt": "30W",
+      "Input": "AC85-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7K/3K/3.5K/4K/5K/6K",
+      "Size": "D90*100MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_317.png"
+    ]
+  },
+  {
+    "id": 1318,
+    "title": "Premium Commercial Track Lights",
+    "model": "SL MX TR 4440",
+    "description": "Premium Commercial Track Lights (SL MX TR 4440) — 40W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL MX TR 4440 belongs to the Premium Commercial Track Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 2.7K/3K/3.5K/4K/5K/6K. Notes: Note: CRI above 90 also available..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (21. PREMIUM TRACK LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL MX TR 4440",
+      "Watt": "40W",
+      "Input": "AC85-265V",
+      "LED": "USA CREE",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "2.7K/3K/3.5K/4K/5K/6K",
+      "Size": "D97*110MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_318.png"
+    ]
+  },
+  {
+    "id": 1324,
+    "title": "Economic Track Lights",
+    "model": "SL-TR-4040E",
+    "description": "Economic Track Lights (SL-TR-4040E) — 40W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-TR-4040E belongs to the Economic Track Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: White/Black | CCT: 3k/4k/6k. Notes: Note: Wall base on extra cost..",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (21. PREMIUM TRACK LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-TR-4040E",
+      "Watt": "40W",
+      "Input": "AC220-240V",
+      "LED": "Toyonia Japan",
+      "Shape": "Round",
+      "Body Color": "White/Black",
+      "CCT": "3k/4k/6k",
+      "Beam Angle": "36degree",
+      "Size": "D90*H180MM",
+      "IP Rating": "IP20",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_324.png"
+    ]
+  },
+  {
+    "id": 1415,
+    "title": "3 Phase Track Channel & Accessories",
+    "model": "SL-4 WIRE TRACK 3 FACE",
+    "description": "3 Phase Track Channel & Accessories (SL-4 WIRE TRACK 3 FACE) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-4 WIRE TRACK 3 FACE belongs to the 3 Phase Track Channel & Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black/White. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (35. 3 PHASE TRACK CHANNEL)."
+    },
+    "specifications": {
+      "Model Number": "SL-4 WIRE TRACK 3 FACE",
+      "Body Color": "Black/White"
+    },
+    "images": [
+      "assets/img/products/product_415.png"
+    ]
+  },
+  {
+    "id": 1416,
+    "title": "3 Phase Track Channel & Accessories",
+    "model": "SL-4 WIRE STRAIGHT",
+    "description": "3 Phase Track Channel & Accessories (SL-4 WIRE STRAIGHT) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-4 WIRE STRAIGHT belongs to the 3 Phase Track Channel & Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black/White. Notes: JOINTER.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (35. 3 PHASE TRACK CHANNEL)."
+    },
+    "specifications": {
+      "Model Number": "SL-4 WIRE STRAIGHT",
+      "Body Color": "Black/White"
+    },
+    "images": [
+      "assets/img/products/product_416.png"
+    ]
+  },
+  {
+    "id": 1417,
+    "title": "3 Phase Track Channel & Accessories",
+    "model": "SL-2456-4 WIRE BASE 027",
+    "description": "3 Phase Track Channel & Accessories (SL-2456-4 WIRE BASE 027) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-2456-4 WIRE BASE 027 belongs to the 3 Phase Track Channel & Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (35. 3 PHASE TRACK CHANNEL)."
+    },
+    "specifications": {
+      "Model Number": "SL-2456-4 WIRE BASE 027",
+      "Body Color": "Black"
+    },
+    "images": [
+      "assets/img/products/product_417.png"
+    ]
+  },
+  {
+    "id": 1418,
+    "title": "3 Phase Track Channel & Accessories",
+    "model": "SL-2456-4 WIRE BASE 029",
+    "description": "3 Phase Track Channel & Accessories (SL-2456-4 WIRE BASE 029) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-2456-4 WIRE BASE 029 belongs to the 3 Phase Track Channel & Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (35. 3 PHASE TRACK CHANNEL)."
+    },
+    "specifications": {
+      "Model Number": "SL-2456-4 WIRE BASE 029",
+      "Body Color": "Black"
+    },
+    "images": [
+      "assets/img/products/product_418.png"
+    ]
   }
-
-
-
-
-
-
-
-
-
-
 ]

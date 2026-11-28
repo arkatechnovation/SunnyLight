@@ -1,0 +1,14 @@
+*.py
+*.xlsx
+*.xls
+~$*
+__pycache__/
+.DS_Store
+**/.DS_Store
+Catalogue_Separated_Categories/
+product_thumbnails/
+product_thumbnails_revised/
+catalogue_discrepancies.txt
+MASTER  CATALOGUE 2026-27.pdf
+test_*.png
+test_p12_images/

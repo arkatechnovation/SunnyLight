@@ -506,14 +506,14 @@
                   class="fa-solid fa-chevron-down"></i></a>
             <ul class="dropdown-menu" id="desktop-profile-products">
               <li><a href="profile-lights.php#Led-Aluminium-Profiles">Led Aluminium Profiles</a></li>
-              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile
-                  Accessories</a>
-              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed
-                  Flexible Neon Profile Without Thread</a>
-              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a>
-              </li>
+              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a></li>
+              <li><a href="profile-lights.php#Shadow-Gap-LED-Aluminium-Profile">Shadow Gap LED Aluminium Profile</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile Accessories</a></li>
+              <li><a href="profile-lights.php#LED-Profile-Flexible-Neon-Profile">LED Profile / Flexible Neon Profile</a></li>
+              <li><a href="profile-lights.php#LED-Skirting-Profile-Accessories">LED Skirting Profile &amp; Accessories</a></li>
+              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed Flexible Neon Profile Without Thread</a></li>
+              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#">FLEXI LIGHTS <span><i class="fa-solid fa-chevron-down"></i></a>
@@ -537,12 +537,17 @@
               <li><a href="smps.php#SMPS-Waterproof-24V-DC">SMPS Waterproof 24V DC</a></li>
               <li><a href="smps.php#SMPS-Rainproof-12V-DC">SMPS Rainproof 12V DC</a></li>
               <li><a href="smps.php#SMPS-Waterproof-12V-DC">SMPS Waterproof 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 24V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 12V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 24V DC</a></li>
               <li><a href="smps.php#SL-Indoor-SMPS">SL Indoor SMPS</a></li>
+              <li><a href="smps.php#Slim-SMPS-Auto-Switch-12V-24V">Slim SMPS Series Auto Switch (12V to 24V)</a></li>
+              <li><a href="smps.php#DC-12V-Premium-Quality-SMPS">DC 12V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Premium-Quality-SMPS">DC 24V Premium Current Adjustable Dimmable SMPS</a></li>
+              <li><a href="smps.php#DC-48V-Premium-Quality-SMPS">DC 48V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#TUYA-Smart-App-Control-Premium-SMPS">TUYA Smart App Control Premium SMPS</a></li>
               <li><a href="smps.php#SL-IP67-Outdoor-SMPS">SL IP67 Outdoor SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Waterproof-Premium-SMPS">DC 24V IP67 Waterproof Premium SMPS</a></li>
+              <li><a href="smps.php#DC-12V-Waterproof-Premium-SMPS">DC 12V IP67 Waterproof Premium SMPS</a></li>
             </ul>
           </li>
 
@@ -550,20 +555,28 @@
             <ul class="dropdown-menu" id="desktop-led-drivers-products">
               <li><a href="LED-drivers.php#LED-Drivers">LED Drivers</a></li>
               <li><a href="LED-drivers.php#Waterproof-LED-Drivers">Waterproof LED Drivers</a></li>
-              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic
-                  Dimming)</a></li>
+              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic Dimming)</a></li>
               <li><a href="LED-drivers.php#Phase-Cut-Dimmable">Phase Cut Dimmable LED Drivers</a></li>
               <li><a href="LED-drivers.php#Analogue-Dimmable-LED-Driver">Analogue Dimmable LED Driver(0-10)</a></li>
-              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Drivers">Dali Adjustable Dimmable LED
-                  Drivers</a></li>
+              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Driver">Dali Adjustable Dimmable LED Drivers</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT6-DALI-Driver">Constant Current DT6 DALI Dimmable Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT8-DALI-CCT-Driver">Constant Current DT8 DALI Dimmable CCT Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-Driver">Constant Voltage DC 12V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-Driver">Constant Voltage DC 24V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT8-Driver">Constant Voltage DC 12V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT8-Driver">Constant Voltage DC 24V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-IP67-Driver">Constant Voltage DC 12V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-IP67-Driver">Constant Voltage DC 24V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Staircase-Controllers">Staircase Controllers</a></li>
+              <li><a href="LED-drivers.php#DMX-512-Decoder-DALI-Controllers">DMX 512 Decoder &amp; DALI LED Controllers</a></li>
+              <li><a href="LED-drivers.php#TRIAC-Phase-Cut-Dimmers">TRIAC / Phase Cut Dimmers</a></li>
             </ul>
           </li>
           
           <li class="dropdown"><a href="#">OUR CATALOGUE <span><i class="fa-solid fa-chevron-down"></i></a>
-            <ul class="dropdown-menu" id="desktop-led-drivers-products">
+            <ul class="dropdown-menu">
               <li><a href="assets/img/catalogue/SL-PRICE-LIST-2020.pdf" target="_blank">SL PRICE LIST 2020</a></li>
               <li><a href="assets/img/catalogue/SUNNY-LIGHT-CATALOGUE-2026.pdf" target="_blank">SUNNY LIGHT CATALOGUE 2026</a></li>
-              
             </ul>
           </li>
         </ul>
@@ -1526,8 +1539,8 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="https://www.jaikviktechnology.com/"
-            target="_blank"><span>Jaikvik Technology India Pvt Ltd</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
+            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>

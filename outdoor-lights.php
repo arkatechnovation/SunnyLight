@@ -512,14 +512,14 @@
                   class="fa-solid fa-chevron-down"></i></a>
             <ul class="dropdown-menu" id="desktop-profile-products">
               <li><a href="profile-lights.php#Led-Aluminium-Profiles">Led Aluminium Profiles</a></li>
-              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile
-                  Accessories</a>
-              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed
-                  Flexible Neon Profile Without Thread</a>
-              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a>
-              </li>
+              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a></li>
+              <li><a href="profile-lights.php#Shadow-Gap-LED-Aluminium-Profile">Shadow Gap LED Aluminium Profile</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile Accessories</a></li>
+              <li><a href="profile-lights.php#LED-Profile-Flexible-Neon-Profile">LED Profile / Flexible Neon Profile</a></li>
+              <li><a href="profile-lights.php#LED-Skirting-Profile-Accessories">LED Skirting Profile &amp; Accessories</a></li>
+              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed Flexible Neon Profile Without Thread</a></li>
+              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#">FLEXI LIGHTS <span><i class="fa-solid fa-chevron-down"></i></a>
@@ -543,12 +543,17 @@
               <li><a href="smps.php#SMPS-Waterproof-24V-DC">SMPS Waterproof 24V DC</a></li>
               <li><a href="smps.php#SMPS-Rainproof-12V-DC">SMPS Rainproof 12V DC</a></li>
               <li><a href="smps.php#SMPS-Waterproof-12V-DC">SMPS Waterproof 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 24V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 12V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 24V DC</a></li>
               <li><a href="smps.php#SL-Indoor-SMPS">SL Indoor SMPS</a></li>
+              <li><a href="smps.php#Slim-SMPS-Auto-Switch-12V-24V">Slim SMPS Series Auto Switch (12V to 24V)</a></li>
+              <li><a href="smps.php#DC-12V-Premium-Quality-SMPS">DC 12V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Premium-Quality-SMPS">DC 24V Premium Current Adjustable Dimmable SMPS</a></li>
+              <li><a href="smps.php#DC-48V-Premium-Quality-SMPS">DC 48V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#TUYA-Smart-App-Control-Premium-SMPS">TUYA Smart App Control Premium SMPS</a></li>
               <li><a href="smps.php#SL-IP67-Outdoor-SMPS">SL IP67 Outdoor SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Waterproof-Premium-SMPS">DC 24V IP67 Waterproof Premium SMPS</a></li>
+              <li><a href="smps.php#DC-12V-Waterproof-Premium-SMPS">DC 12V IP67 Waterproof Premium SMPS</a></li>
             </ul>
           </li>
 
@@ -556,20 +561,28 @@
             <ul class="dropdown-menu" id="desktop-led-drivers-products">
               <li><a href="LED-drivers.php#LED-Drivers">LED Drivers</a></li>
               <li><a href="LED-drivers.php#Waterproof-LED-Drivers">Waterproof LED Drivers</a></li>
-              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic
-                  Dimming)</a></li>
+              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic Dimming)</a></li>
               <li><a href="LED-drivers.php#Phase-Cut-Dimmable">Phase Cut Dimmable LED Drivers</a></li>
               <li><a href="LED-drivers.php#Analogue-Dimmable-LED-Driver">Analogue Dimmable LED Driver(0-10)</a></li>
-              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Drivers">Dali Adjustable Dimmable LED
-                  Drivers</a></li>
+              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Driver">Dali Adjustable Dimmable LED Drivers</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT6-DALI-Driver">Constant Current DT6 DALI Dimmable Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT8-DALI-CCT-Driver">Constant Current DT8 DALI Dimmable CCT Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-Driver">Constant Voltage DC 12V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-Driver">Constant Voltage DC 24V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT8-Driver">Constant Voltage DC 12V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT8-Driver">Constant Voltage DC 24V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-IP67-Driver">Constant Voltage DC 12V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-IP67-Driver">Constant Voltage DC 24V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Staircase-Controllers">Staircase Controllers</a></li>
+              <li><a href="LED-drivers.php#DMX-512-Decoder-DALI-Controllers">DMX 512 Decoder &amp; DALI LED Controllers</a></li>
+              <li><a href="LED-drivers.php#TRIAC-Phase-Cut-Dimmers">TRIAC / Phase Cut Dimmers</a></li>
             </ul>
           </li>
           
           <li class="dropdown"><a href="#">OUR CATALOGUE <span><i class="fa-solid fa-chevron-down"></i></a>
-            <ul class="dropdown-menu" id="desktop-led-drivers-products">
+            <ul class="dropdown-menu">
               <li><a href="assets/img/catalogue/SL-PRICE-LIST-2020.pdf" target="_blank">SL PRICE LIST 2020</a></li>
               <li><a href="assets/img/catalogue/SUNNY-LIGHT-CATALOGUE-2026.pdf" target="_blank">SUNNY LIGHT CATALOGUE 2026</a></li>
-              
             </ul>
           </li>
         </ul>
@@ -1360,6 +1373,30 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="outdoor-product-detail-page.php?id=1635" class="product-card-link">
+                                <div class="product-card" data-price="650">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_635.png" alt="SL FL-004R" class="default-image">
+                                        <img src="assets/img/products/product_635_2.png" alt="SL FL-004R" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Surface Step/Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL FL-004R</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1636" class="product-card-link">
+                                <div class="product-card" data-price="2100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_636.png" alt="SL CYSF-221" class="default-image">
+                                        <img src="assets/img/products/product_636_2.png" alt="SL CYSF-221" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Surface Step/Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CYSF-221</div>
+                                    </div>
+                                </div>
+                            </a>
 
 
                         </div>
@@ -1481,6 +1518,126 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="outdoor-product-detail-page.php?id=1650" class="product-card-link">
+                                <div class="product-card" data-price="900">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_650.png" alt="SL CY 9003 WHITE" class="default-image">
+                                        <img src="assets/img/products/product_650_2.png" alt="SL CY 9003 WHITE" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 9003 WHITE</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1651" class="product-card-link">
+                                <div class="product-card" data-price="1600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_651.png" alt="SL CY-2192 DARK GREY" class="default-image">
+                                        <img src="assets/img/products/product_651_2.png" alt="SL CY-2192 DARK GREY" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY-2192 DARK GREY</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1652" class="product-card-link">
+                                <div class="product-card" data-price="1100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_652.png" alt="SL CY 9001 BLACK" class="default-image">
+                                        <img src="assets/img/products/product_652_2.png" alt="SL CY 9001 BLACK" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 9001 BLACK</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1653" class="product-card-link">
+                                <div class="product-card" data-price="1300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_653.png" alt="SL CY 9009 BLACK" class="default-image">
+                                        <img src="assets/img/products/product_653_2.png" alt="SL CY 9009 BLACK" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 9009 BLACK</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1654" class="product-card-link">
+                                <div class="product-card" data-price="800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_654.png" alt="SL CY 9002" class="default-image">
+                                        <img src="assets/img/products/product_654_2.png" alt="SL CY 9002" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 9002</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1655" class="product-card-link">
+                                <div class="product-card" data-price="1000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_655.png" alt="SL CY 9002-2" class="default-image">
+                                        <img src="assets/img/products/product_655_2.png" alt="SL CY 9002-2" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 9002-2</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1656" class="product-card-link">
+                                <div class="product-card" data-price="1100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_656.png" alt="SL CY 9004" class="default-image">
+                                        <img src="assets/img/products/product_656_2.png" alt="SL CY 9004" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 9004</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1657" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_657.png" alt="SL CY 9004-2" class="default-image">
+                                        <img src="assets/img/products/product_657_2.png" alt="SL CY 9004-2" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 9004-2</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1658" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_658.png" alt="SL CY 9006" class="default-image">
+                                        <img src="assets/img/products/product_658_2.png" alt="SL CY 9006" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 9006</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1659" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_659.png" alt="SL CY 9006-2" class="default-image">
+                                        <img src="assets/img/products/product_659_2.png" alt="SL CY 9006-2" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 9006-2</div>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
 
@@ -1533,6 +1690,73 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <h3 class="product-name">Led Linear Adjustable Outdoor Wall Washer Light</h3>
                                         <div class="product-model"><span>Model:</span> SL-K-30723</div>
                                         <!-- <p class="product-price">₹ 650</p> -->
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: 2In1 Angle Adjustable Outdoor Wall Light -->
+                    <div class="product-group" id="2In1-Angle-Adjustable-Outdoor-Wall-Light">
+                        <h3 class="product-group-title">2In1 Angle Adjustable Outdoor Wall Light</h3>
+                        <div class="products-container">
+                            <a href="outdoor-product-detail-page.php?id=1660" class="product-card-link">
+                                <div class="product-card" data-price="1500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_660.png" alt="SL CY-2188" class="default-image">
+                                        <img src="assets/img/products/product_660_2.png" alt="SL CY-2188" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">2 In 1 Angle Adjustable Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY-2188</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Angle Adjustable Outdoor Wall Lights -->
+                    <div class="product-group" id="Angle-Adjustable-Outdoor-Wall-Lights">
+                        <h3 class="product-group-title">Angle Adjustable Outdoor Wall Lights</h3>
+                        <div class="products-container">
+                            <a href="outdoor-product-detail-page.php?id=1661" class="product-card-link">
+                                <div class="product-card" data-price="2000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_661.png" alt="SL CY-2190" class="default-image">
+                                        <img src="assets/img/products/product_661_2.png" alt="SL CY-2190" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Angle Adjustable Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY-2190</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1662" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_662.png" alt="SL CY-2191" class="default-image">
+                                        <img src="assets/img/products/product_662_2.png" alt="SL CY-2191" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Angle Adjustable Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY-2191</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="product-group" id="outdoor-wall-washer-cont">
+                        <div class="products-container">
+                            <a href="outdoor-product-detail-page.php?id=1663" class="product-card-link">
+                                <div class="product-card" data-price="1600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_663.png" alt="SL CY-2189" class="default-image">
+                                        <img src="assets/img/products/product_663_2.png" alt="SL CY-2189" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Adjustable Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY-2189</div>
                                     </div>
                                 </div>
                             </a>
@@ -1632,6 +1856,30 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <h3 class="product-name">Adjustable Spike/ Wall Light</h3>
                                         <div class="product-model"><span>Model:</span> SL-1822</div>
                                         <!-- <p class="product-price">₹ 650</p> -->
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1600" class="product-card-link">
+                                <div class="product-card" data-price="1500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_600.png" alt="SL-S721" class="default-image">
+                                        <img src="assets/img/products/product_600_2.png" alt="SL-S721" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden Tree Spike Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL-S721</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1601" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_601.png" alt="SL-S722" class="default-image">
+                                        <img src="assets/img/products/product_600_2.png" alt="SL-S722" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden Tree Spike Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL-S722</div>
                                     </div>
                                 </div>
                             </a>
@@ -1851,6 +2099,54 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <h3 class="product-name">Tiltable Inground LED Burial Light</h3>
                                         <div class="product-model"><span>Model:</span> SLGB1028</div>
                                         <!-- <p class="product-price">₹ 950</p> -->
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1687" class="product-card-link">
+                                <div class="product-card" data-price="1200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_687.png" alt="SLGB-M711-1" class="default-image">
+                                        <img src="assets/img/products/product_687_2.png" alt="SLGB-M711-1" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor In Ground Burial Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SLGB-M711-1</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1688" class="product-card-link">
+                                <div class="product-card" data-price="1300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_688.png" alt="SLGB-M711-2" class="default-image">
+                                        <img src="assets/img/products/product_688_2.png" alt="SLGB-M711-2" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor In Ground Burial Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SLGB-M711-2</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1689" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_689.png" alt="SLGB-M711-3" class="default-image">
+                                        <img src="assets/img/products/product_689_2.png" alt="SLGB-M711-3" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor In Ground Burial Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SLGB-M711-3</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1690" class="product-card-link">
+                                <div class="product-card" data-price="1500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_690.png" alt="SLGB-M711-4" class="default-image">
+                                        <img src="assets/img/products/product_690_2.png" alt="SLGB-M711-4" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor In Ground Burial Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SLGB-M711-4</div>
                                     </div>
                                 </div>
                             </a>
@@ -2892,6 +3188,54 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="outdoor-product-detail-page.php?id=1667" class="product-card-link">
+                                <div class="product-card" data-price="2200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_667.png" alt="SL WL-5606" class="default-image">
+                                        <img src="assets/img/products/product_667_2.png" alt="SL WL-5606" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL WL-5606</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1668" class="product-card-link">
+                                <div class="product-card" data-price="2500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_668.png" alt="SL WL-5607" class="default-image">
+                                        <img src="assets/img/products/product_668_2.png" alt="SL WL-5607" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL WL-5607</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1669" class="product-card-link">
+                                <div class="product-card" data-price="3500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_669.png" alt="SL WL-5608" class="default-image">
+                                        <img src="assets/img/products/product_669_2.png" alt="SL WL-5608" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL WL-5608</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1674" class="product-card-link">
+                                <div class="product-card" data-price="2800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_674.png" alt="SL PR-BL-9801" class="default-image">
+                                        <img src="assets/img/products/product_674.png" alt="SL PR-BL-9801" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Wall Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL PR-BL-9801</div>
+                                    </div>
+                                </div>
+                            </a>
 
                          
 
@@ -2987,6 +3331,126 @@ document.addEventListener('DOMContentLoaded', function() {
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Bollard Light</h3>
                                         <div class="product-model"><span>Model:</span> SL BL 1125-8</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1705" class="product-card-link">
+                                <div class="product-card" data-price="7000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_705.png" alt="SL PR- BL-9803-3" class="default-image">
+                                        <img src="assets/img/products/product_705_2.png" alt="SL PR- BL-9803-3" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL PR- BL-9803-3</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1706" class="product-card-link">
+                                <div class="product-card" data-price="9500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_706.png" alt="SL PR-BL-9803-6" class="default-image">
+                                        <img src="assets/img/products/product_705_2.png" alt="SL PR-BL-9803-6" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL PR-BL-9803-6</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1707" class="product-card-link">
+                                <div class="product-card" data-price="4000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_707.png" alt="SL PR-BL-9801-3" class="default-image">
+                                        <img src="assets/img/products/product_707_2.png" alt="SL PR-BL-9801-3" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL PR-BL-9801-3</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1708" class="product-card-link">
+                                <div class="product-card" data-price="5500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_708.png" alt="SL PR BL-9801-6" class="default-image">
+                                        <img src="assets/img/products/product_707_2.png" alt="SL PR BL-9801-6" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL PR BL-9801-6</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1709" class="product-card-link">
+                                <div class="product-card" data-price="7000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_709.png" alt="SL PR BL-9801-8" class="default-image">
+                                        <img src="assets/img/products/product_707_2.png" alt="SL PR BL-9801-8" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL PR BL-9801-8</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1711" class="product-card-link">
+                                <div class="product-card" data-price="5500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_711.png" alt="SL PR-BL-9802-3" class="default-image">
+                                        <img src="assets/img/products/product_711_2.png" alt="SL PR-BL-9802-3" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL PR-BL-9802-3</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1712" class="product-card-link">
+                                <div class="product-card" data-price="7500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_712.png" alt="SL PR-BL-9802-6" class="default-image">
+                                        <img src="assets/img/products/product_711_2.png" alt="SL PR-BL-9802-6" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL PR-BL-9802-6</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1716" class="product-card-link">
+                                <div class="product-card" data-price="3100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_716.png" alt="SL BL-1011-5" class="default-image">
+                                        <img src="assets/img/products/product_716_2.png" alt="SL BL-1011-5" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL BL-1011-5</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1717" class="product-card-link">
+                                <div class="product-card" data-price="4200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_717.png" alt="SL BL-1011-8" class="default-image">
+                                        <img src="assets/img/products/product_716_2.png" alt="SL BL-1011-8" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL BL-1011-8</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1718" class="product-card-link">
+                                <div class="product-card" data-price="3500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_718.png" alt="SL BL-780-6" class="default-image">
+                                        <img src="assets/img/products/product_718_2.png" alt="SL BL-780-6" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden Bollard Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL BL-780-6</div>
                                     </div>
                                 </div>
                             </a>
@@ -3122,6 +3586,90 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="outdoor-product-detail-page.php?id=1719" class="product-card-link">
+                                <div class="product-card" data-price="2800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_719.png" alt="SL GT-779" class="default-image">
+                                        <img src="assets/img/products/product_719_2.png" alt="SL GT-779" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden/Gate Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL GT-779</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1720" class="product-card-link">
+                                <div class="product-card" data-price="2500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_720.png" alt="SL GT-780" class="default-image">
+                                        <img src="assets/img/products/product_720_2.png" alt="SL GT-780" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden/Gate Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL GT-780</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1721" class="product-card-link">
+                                <div class="product-card" data-price="3100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_721.png" alt="SL GT-781" class="default-image">
+                                        <img src="assets/img/products/product_721_2.png" alt="SL GT-781" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden/Gate Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL GT-781</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1722" class="product-card-link">
+                                <div class="product-card" data-price="2800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_722.png" alt="SL GT-889-S" class="default-image">
+                                        <img src="assets/img/products/product_722_2.png" alt="SL GT-889-S" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Outdoor Garden/Gate Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL GT-889-S</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1723" class="product-card-link">
+                                <div class="product-card" data-price="4000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_723.png" alt="SL GT-889-B" class="default-image">
+                                        <img src="assets/img/products/product_722_2.png" alt="SL GT-889-B" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Outdoor Garden/Gate Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL GT-889-B</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1724" class="product-card-link">
+                                <div class="product-card" data-price="2200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_724.png" alt="SL GT-782 RD" class="default-image">
+                                        <img src="assets/img/products/product_724_2.png" alt="SL GT-782 RD" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Gate Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL GT-782 RD</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1725" class="product-card-link">
+                                <div class="product-card" data-price="2400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_725.png" alt="SL GT-782 SQ" class="default-image">
+                                        <img src="assets/img/products/product_725_2.png" alt="SL GT-782 SQ" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Gate Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL GT-782 SQ</div>
+                                    </div>
+                                </div>
+                            </a>
                          
 
                         </div>
@@ -3236,6 +3784,30 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="outdoor-product-detail-page.php?id=1736" class="product-card-link">
+                                <div class="product-card" data-price="1200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_736.png" alt="SLGB-M723-5W" class="default-image">
+                                        <img src="assets/img/products/product_736_2.png" alt="SLGB-M723-5W" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washers</h3>
+                                        <div class="product-model"><span>Model:</span> SLGB-M723-5W</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1737" class="product-card-link">
+                                <div class="product-card" data-price="1500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_737.png" alt="SLGB-M713-10W" class="default-image">
+                                        <img src="assets/img/products/product_736_2.png" alt="SLGB-M713-10W" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washers</h3>
+                                        <div class="product-model"><span>Model:</span> SLGB-M713-10W</div>
+                                    </div>
+                                </div>
+                            </a>
 
                         </div>
                     </div>
@@ -3254,7 +3826,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <img src="assets/img/outdoor/out-f-1.jpg"
                                             alt="Outdoor Garden Light"
                                             class="default-image">
-                                        <img src="assets/img/outdoor/out-f-1.jpg"
+                                        <img src="assets/img/products/product_588_2.png"
                                             alt="Outdoor Garden Light-use"
                                             class="hover-image">
                                     </div>
@@ -3271,13 +3843,25 @@ document.addEventListener('DOMContentLoaded', function() {
                                          <img src="assets/img/outdoor/out-f-2.jpg"
                                             alt="Outdoor Garden Light"
                                             class="default-image">
-                                        <img src="assets/img/outdoor/out-f-2.jpg"
+                                        <img src="assets/img/products/product_588_2.png"
                                             alt="Outdoor Garden Light-use"
                                             class="hover-image">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor IP68 Underwater/Outdoor Flexible Wall Washer</h3>
                                         <div class="product-model"><span>Model:</span> SL FX WWP-124-18</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1588" class="product-card-link">
+                                <div class="product-card" data-price="1600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_588.png" alt="SL FX WWR-124-18" class="default-image">
+                                        <img src="assets/img/products/product_588_2.png" alt="SL FX WWR-124-18" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">IP 65 Outdoor Flexible Wall Washers</h3>
+                                        <div class="product-model"><span>Model:</span> SL FX WWR-124-18</div>
                                     </div>
                                 </div>
                             </a>
@@ -3410,6 +3994,90 @@ document.addEventListener('DOMContentLoaded', function() {
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Washer</h3>
                                         <div class="product-model"><span>Model:</span> DECORDER</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1753" class="product-card-link">
+                                <div class="product-card" data-price="5000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_753.png" alt="SL CY-248" class="default-image">
+                                        <img src="assets/img/products/product_753_2.png" alt="SL CY-248" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden/Wall Washer Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY-248</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1754" class="product-card-link">
+                                <div class="product-card" data-price="6000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_754.png" alt="SL CY-272" class="default-image">
+                                        <img src="assets/img/products/product_753_2.png" alt="SL CY-272" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Garden/Wall Washer Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY-272</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1755" class="product-card-link">
+                                <div class="product-card" data-price="2000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_755.png" alt="SL WWR 902" class="default-image">
+                                        <img src="assets/img/products/product_755_2.png" alt="SL WWR 902" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Slim Wall Washer</h3>
+                                        <div class="product-model"><span>Model:</span> SL WWR 902</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1756" class="product-card-link">
+                                <div class="product-card" data-price="3000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_756.png" alt="SL WWR 903" class="default-image">
+                                        <img src="assets/img/products/product_755_2.png" alt="SL WWR 903" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Slim Wall Washer</h3>
+                                        <div class="product-model"><span>Model:</span> SL WWR 903</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1757" class="product-card-link">
+                                <div class="product-card" data-price="4000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_757.png" alt="SL WWR 224" class="default-image">
+                                        <img src="assets/img/products/product_755_2.png" alt="SL WWR 224" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor Slim Wall Washer</h3>
+                                        <div class="product-model"><span>Model:</span> SL WWR 224</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1768" class="product-card-link">
+                                <div class="product-card" data-price="12000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_768.png" alt="SL WWR 347" class="default-image">
+                                        <img src="assets/img/products/product_768_2.png" alt="SL WWR 347" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">High Power Narrow Beam Outdoor Wall Washer</h3>
+                                        <div class="product-model"><span>Model:</span> SL WWR 347</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1769" class="product-card-link">
+                                <div class="product-card" data-price="12000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_769.png" alt="SL WWR 348" class="default-image">
+                                        <img src="assets/img/products/product_768_2.png" alt="SL WWR 348" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">High Power Narrow Beam Outdoor Wall Washer</h3>
+                                        <div class="product-model"><span>Model:</span> SL WWR 348</div>
                                     </div>
                                 </div>
                             </a>
@@ -3654,6 +4322,30 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="outdoor-product-detail-page.php?id=1778" class="product-card-link">
+                                <div class="product-card" data-price="1500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_778.png" alt="SL-180" class="default-image">
+                                        <img src="assets/img/products/product_778_2.png" alt="SL-180" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Window Trick Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL-180</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1779" class="product-card-link">
+                                <div class="product-card" data-price="2000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_779.png" alt="SL-181" class="default-image">
+                                        <img src="assets/img/products/product_778_2.png" alt="SL-181" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Window Trick Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL-181</div>
+                                    </div>
+                                </div>
+                            </a>
 
                         </div>
                     </div>
@@ -3772,6 +4464,30 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="outdoor-product-detail-page.php?id=1785" class="product-card-link">
+                                <div class="product-card" data-price="2800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_785.png" alt="SL UFO Ed100" class="default-image">
+                                        <img src="assets/img/products/product_785_2.png" alt="SL UFO Ed100" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">UFO/Hibay Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL UFO Ed100</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1786" class="product-card-link">
+                                <div class="product-card" data-price="4000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_786.png" alt="SL UFO Ed150" class="default-image">
+                                        <img src="assets/img/products/product_785_2.png" alt="SL UFO Ed150" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">UFO/Hibay Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL UFO Ed150</div>
+                                    </div>
+                                </div>
+                            </a>
 
                         </div>
                     </div>
@@ -3867,6 +4583,54 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Colored LED Flood Lights - Splash Series</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1781" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_781.png" alt="SL FL-RGB 30" class="default-image">
+                                        <img src="assets/img/products/product_781_2.png" alt="SL FL-RGB 30" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor RGB Flood Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL FL-RGB 30</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1782" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_782.png" alt="SL FL-RGB 50" class="default-image">
+                                        <img src="assets/img/products/product_781_2.png" alt="SL FL-RGB 50" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor RGB Flood Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL FL-RGB 50</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1783" class="product-card-link">
+                                <div class="product-card" data-price="3600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_783.png" alt="SL FL-RGB 100" class="default-image">
+                                        <img src="assets/img/products/product_781_2.png" alt="SL FL-RGB 100" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor RGB Flood Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL FL-RGB 100</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="outdoor-product-detail-page.php?id=1784" class="product-card-link">
+                                <div class="product-card" data-price="7000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_784.png" alt="SL FL-RGB 200" class="default-image">
+                                        <img src="assets/img/products/product_781_2.png" alt="SL FL-RGB 200" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Outdoor RGB Flood Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL FL-RGB 200</div>
                                     </div>
                                 </div>
                             </a>
@@ -4395,8 +5159,8 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="https://www.jaikviktechnology.com/"
-            target="_blank"><span>Jaikvik Technology India Pvt Ltd</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
+            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>

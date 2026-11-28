@@ -625,14 +625,14 @@
                   class="fa-solid fa-chevron-down"></i></a>
             <ul class="dropdown-menu" id="desktop-profile-products">
               <li><a href="profile-lights.php#Led-Aluminium-Profiles">Led Aluminium Profiles</a></li>
-              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile
-                  Accessories</a>
-              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed
-                  Flexible Neon Profile Without Thread</a>
-              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a>
-              </li>
+              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a></li>
+              <li><a href="profile-lights.php#Shadow-Gap-LED-Aluminium-Profile">Shadow Gap LED Aluminium Profile</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile Accessories</a></li>
+              <li><a href="profile-lights.php#LED-Profile-Flexible-Neon-Profile">LED Profile / Flexible Neon Profile</a></li>
+              <li><a href="profile-lights.php#LED-Skirting-Profile-Accessories">LED Skirting Profile &amp; Accessories</a></li>
+              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed Flexible Neon Profile Without Thread</a></li>
+              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#">FLEXI LIGHTS <span><i class="fa-solid fa-chevron-down"></i></a>
@@ -656,12 +656,17 @@
               <li><a href="smps.php#SMPS-Waterproof-24V-DC">SMPS Waterproof 24V DC</a></li>
               <li><a href="smps.php#SMPS-Rainproof-12V-DC">SMPS Rainproof 12V DC</a></li>
               <li><a href="smps.php#SMPS-Waterproof-12V-DC">SMPS Waterproof 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 24V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 12V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 24V DC</a></li>
               <li><a href="smps.php#SL-Indoor-SMPS">SL Indoor SMPS</a></li>
+              <li><a href="smps.php#Slim-SMPS-Auto-Switch-12V-24V">Slim SMPS Series Auto Switch (12V to 24V)</a></li>
+              <li><a href="smps.php#DC-12V-Premium-Quality-SMPS">DC 12V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Premium-Quality-SMPS">DC 24V Premium Current Adjustable Dimmable SMPS</a></li>
+              <li><a href="smps.php#DC-48V-Premium-Quality-SMPS">DC 48V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#TUYA-Smart-App-Control-Premium-SMPS">TUYA Smart App Control Premium SMPS</a></li>
               <li><a href="smps.php#SL-IP67-Outdoor-SMPS">SL IP67 Outdoor SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Waterproof-Premium-SMPS">DC 24V IP67 Waterproof Premium SMPS</a></li>
+              <li><a href="smps.php#DC-12V-Waterproof-Premium-SMPS">DC 12V IP67 Waterproof Premium SMPS</a></li>
             </ul>
           </li>
 
@@ -669,20 +674,28 @@
             <ul class="dropdown-menu" id="desktop-led-drivers-products">
               <li><a href="LED-drivers.php#LED-Drivers">LED Drivers</a></li>
               <li><a href="LED-drivers.php#Waterproof-LED-Drivers">Waterproof LED Drivers</a></li>
-              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic
-                  Dimming)</a></li>
+              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic Dimming)</a></li>
               <li><a href="LED-drivers.php#Phase-Cut-Dimmable">Phase Cut Dimmable LED Drivers</a></li>
               <li><a href="LED-drivers.php#Analogue-Dimmable-LED-Driver">Analogue Dimmable LED Driver(0-10)</a></li>
-              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Drivers">Dali Adjustable Dimmable LED
-                  Drivers</a></li>
+              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Driver">Dali Adjustable Dimmable LED Drivers</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT6-DALI-Driver">Constant Current DT6 DALI Dimmable Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT8-DALI-CCT-Driver">Constant Current DT8 DALI Dimmable CCT Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-Driver">Constant Voltage DC 12V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-Driver">Constant Voltage DC 24V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT8-Driver">Constant Voltage DC 12V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT8-Driver">Constant Voltage DC 24V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-IP67-Driver">Constant Voltage DC 12V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-IP67-Driver">Constant Voltage DC 24V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Staircase-Controllers">Staircase Controllers</a></li>
+              <li><a href="LED-drivers.php#DMX-512-Decoder-DALI-Controllers">DMX 512 Decoder &amp; DALI LED Controllers</a></li>
+              <li><a href="LED-drivers.php#TRIAC-Phase-Cut-Dimmers">TRIAC / Phase Cut Dimmers</a></li>
             </ul>
           </li>
           
           <li class="dropdown"><a href="#">OUR CATALOGUE <span><i class="fa-solid fa-chevron-down"></i></a>
-            <ul class="dropdown-menu" id="desktop-led-drivers-products">
+            <ul class="dropdown-menu">
               <li><a href="assets/img/catalogue/SL-PRICE-LIST-2020.pdf" target="_blank">SL PRICE LIST 2020</a></li>
               <li><a href="assets/img/catalogue/SUNNY-LIGHT-CATALOGUE-2026.pdf" target="_blank">SUNNY LIGHT CATALOGUE 2026</a></li>
-              
             </ul>
           </li>
         </ul>
@@ -1242,10 +1255,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         <ul class="mysidebar-list">
                             <li><a href="#Led-Aluminium-Profiles" class="filter-link" data-category="step-light">Led
                                     Aluminium Profiles</a></li>
-                            <li><a href="#Sl-Profiles" class="filter-link" data-category="step-light">SL Profiles</a>
-                            <li><a href="#Ip67-Flexible-Neon-Profiles" class="filter-link" data-category="step-light">Ip67 Flexible Neon Profiles</a>
-                            <li><a href="#Ip67-Flexible-Neon-Profile-Accessories" class="filter-link" data-category="step-light">IP67 Flexible Neon Profile Accessories</a>
-                            <li><a href="#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread" class="filter-link" data-category="step-light">C Series Recessed Flexible Neon Profile Without Thread</a>
+                            <li><a href="#Sl-Profiles" class="filter-link" data-category="step-light">SL Profiles</a></li>
+                            <li><a href="#Shadow-Gap-LED-Aluminium-Profile" class="filter-link" data-category="step-light">Shadow Gap LED Aluminium Profile</a></li>
+                            <li><a href="#Ip67-Flexible-Neon-Profiles" class="filter-link" data-category="step-light">Ip67 Flexible Neon Profiles</a></li>
+                            <li><a href="#Ip67-Flexible-Neon-Profile-Accessories" class="filter-link" data-category="step-light">IP67 Flexible Neon Profile Accessories</a></li>
+                            <li><a href="#LED-Profile-Flexible-Neon-Profile" class="filter-link" data-category="step-light">LED Profile / Flexible Neon Profile</a></li>
+                            <li><a href="#LED-Skirting-Profile-Accessories" class="filter-link" data-category="step-light">LED Skirting Profile &amp; Accessories</a></li>
+                            <li><a href="#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread" class="filter-link" data-category="step-light">C Series Recessed Flexible Neon Profile Without Thread</a></li>
                             <li><a href="#D-Series-Led-Flexible-Neon-Profile" class="filter-link" data-category="step-light">D Series LED Flexible Neon Profile</a>
                             </li>
                         </ul>
@@ -3519,9 +3535,263 @@ document.addEventListener('DOMContentLoaded', function() {
                                 </div>
                             </div>
 
+    <!-- Added Missing S.No 423 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_423.png" alt="SL H-606-V-3M" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL H-606-V-3M</td></tr>
+              <tr><th>Body Color</th><td>Silver anodize</td></tr>
+              <tr><th>Size</th><td>L3000*W42*H24MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 424 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_424.png" alt="SL-H-G08-8MM" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-H-G08-8MM</td></tr>
+              <tr><th>Body Color</th><td>Silver anodize</td></tr>
+              <tr><th>Size</th><td>L3000*W11.2*H16.3MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 425 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_425.png" alt="SL-H-G10-10MM" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-H-G10-10MM</td></tr>
+              <tr><th>Body Color</th><td>Silver anodize</td></tr>
+              <tr><th>Size</th><td>L3000*W16.5*H28.5MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 426 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_426.png" alt="SL-WL009" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-WL009</td></tr>
+              <tr><th>Body Color</th><td>Silver Anodize</td></tr>
+              <tr><th>Size</th><td>L3000*W8.5*H17.8MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 427 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_427.png" alt="SL-L6969" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-L6969</td></tr>
+              <tr><th>Body Color</th><td>White</td></tr>
+              <tr><th>Size</th><td>L3000*W69*H69MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 428 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_428.png" alt="SL-L9035" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-L9035</td></tr>
+              <tr><th>Body Color</th><td>WH/BK</td></tr>
+              <tr><th>Size</th><td>L3000*W90*H35MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 429 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_429.png" alt="SL-1111V" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-1111V</td></tr>
+              <tr><th>Body Color</th><td>Silver Anodize</td></tr>
+              <tr><th>Size</th><td>L3000*W8.5*H17.8MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 430 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_430.png" alt="SL-H-3020H" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-H-3020H</td></tr>
+              <tr><th>Body Color</th><td>Silver Anodize</td></tr>
+              <tr><th>Size</th><td>L3000*W8.65*H28MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 431 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_431.png" alt="SL-H-639C" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-H-639C</td></tr>
+              <tr><th>Body Color</th><td>Silver anodize</td></tr>
+              <tr><th>Size</th><td>L3000*W12*H13MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 432 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_432.png" alt="SL-H-125C-3M" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-H-125C-3M</td></tr>
+              <tr><th>Body Color</th><td>Silver anodize</td></tr>
+              <tr><th>Size</th><td>L3000*W63*H14MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 433 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_433.png" alt="SL-H-A004-3M BLACK" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-H-A004-3M BLACK</td></tr>
+              <tr><th>Body Color</th><td>Black/Silicon</td></tr>
+              <tr><th>Size</th><td>L3000*W8.5*H17.8MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 434 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_434.png" alt="SL-H-A027-BLACK" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-H-A027-BLACK</td></tr>
+              <tr><th>Body Color</th><td>Titanium grey</td></tr>
+              <tr><th>Size</th><td>L3000*W8.65*H28MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
                         </div> <!-- End Row -->
                     </div>
                      <!-- End Product Group -->
+
+              <!-- Product Group: Shadow Gap LED Aluminium Profile -->
+              <div class="product-group" id="Shadow-Gap-LED-Aluminium-Profile">
+                <h3 class="product-group-title">Shadow Gap LED Aluminium Profile</h3>
+                <div class="row">
+    <!-- Added Missing S.No 447 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_447.png" alt="SL-K-1422B" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-K-1422B</td></tr>
+              <tr><th>Body Color</th><td>White/Black</td></tr>
+              <tr><th>Size</th><td>L3000*W52.4*H54MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+                </div> <!-- End Row -->
+              </div>
+              <!-- End Product Group -->
 
               <!-- Product Group -->       
 <div class="product-group" id="Ip67-Flexible-Neon-Profiles">
@@ -4058,8 +4328,202 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
 </div>
 
+  </div> <!-- End Row -->
+</div>
 
-    
+<!-- Product Group: LED Profile / Flexible Neon Profile -->
+<div class="product-group" id="LED-Profile-Flexible-Neon-Profile">
+  <h3 class="product-group-title">LED Profile / Flexible Neon Profile</h3>
+  <div class="row">
+    <!-- Added Missing S.No 448 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_448.png" alt="SL-0609" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-0609</td></tr>
+              <tr><th>Body Color</th><td>Black</td></tr>
+              <tr><th>Size</th><td>L3000*W5.6*H9.2MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 449 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_449.png" alt="SL-0408N" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-0408N</td></tr>
+              <tr><th>Body Color</th><td>Milky White</td></tr>
+              <tr><th>Size</th><td>W4MM*H8MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 450 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_450.png" alt="SL-H-198" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-H-198</td></tr>
+              <tr><th>Body Color</th><td>White</td></tr>
+              <tr><th>Size</th><td>L3000*W97.7*H58.2MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 451 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_451.png" alt="Endcap (SL-0408N / Neon Profile)" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">Endcap (SL-0408N / Neon Profile)</td></tr>
+              <tr><th>Body Color</th><td>Milky White</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+  </div> <!-- End Row -->
+</div>
+
+<!-- Product Group: LED Skirting Profile & Accessories -->
+<div class="product-group" id="LED-Skirting-Profile-Accessories">
+  <h3 class="product-group-title">LED Skirting Profile &amp; Accessories</h3>
+  <div class="row">
+    <!-- Added Missing S.No 452 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_452.png" alt="SL-CN001" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-CN001</td></tr>
+              <tr><th>Body Color</th><td>Black</td></tr>
+              <tr><th>Size</th><td>L2400*W10.8*H80MM</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 453 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_453.png" alt="SL-CN001 Endcap" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-CN001 Endcap</td></tr>
+              <tr><th>Body Color</th><td>Black</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 454 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_454.png" alt="SL-CN001 Straight Jointer" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-CN001 Straight Jointer</td></tr>
+              <tr><th>Body Color</th><td>Black</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 455 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_455.png" alt="SL-CN001 Back Clamp" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-CN001 Back Clamp</td></tr>
+              <tr><th>Body Color</th><td>Black</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 456 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_456.png" alt="SL-CN001 Inner Corner Connector" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-CN001 Inner Corner Connector</td></tr>
+              <tr><th>Body Color</th><td>Black</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Added Missing S.No 457 -->
+    <div class="col-md-6">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="assets/img/products/product_457.png" alt="SL-CN001 Outer Corner Connector" class="img-fluid" style="max-width:180px;">
+        </div>
+        <div class="product-details flex-grow-1">
+          <table class="table table-sm table-bordered mb-3">
+            <tbody>
+              <tr><th>Product Code</th><td class="product-code">SL-CN001 Outer Corner Connector</td></tr>
+              <tr><th>Body Color</th><td>Black</td></tr>
+            </tbody>
+          </table>
+          <button class="btn profile-btn mt-2 request-btn" data-bs-toggle="modal" data-bs-target="#queryModal">Request Query</button>
+        </div>
+      </div>
+    </div>
   </div> <!-- End Row -->
 </div>
 
@@ -4761,8 +5225,8 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="https://www.jaikviktechnology.com/"
-            target="_blank"><span>Jaikvik Technology India Pvt Ltd</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
+            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>

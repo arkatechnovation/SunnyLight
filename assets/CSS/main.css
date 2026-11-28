@@ -607,11 +607,21 @@ h5{
   position: relative;
   overflow: hidden;
 }
+.video-container::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(10, 15, 25, 0.38) 0%, rgba(10, 15, 25, 0.48) 100%);
+  pointer-events: none;
+  z-index: 1;
+}
 .video {
   width: 100%;
   max-width: 100%;
   max-height: 500px;
   object-fit: cover;
+  filter: brightness(0.68) contrast(1.08);
+  display: block;
 }
 
 .video-overlay-text {
@@ -623,6 +633,7 @@ h5{
   text-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);
   text-align: center;
   padding: 0 20px;
+  z-index: 2;
 }
 
 .video-overlay-text h2 {

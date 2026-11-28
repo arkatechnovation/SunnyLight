@@ -520,14 +520,14 @@
                   class="fa-solid fa-chevron-down"></i></a>
             <ul class="dropdown-menu" id="desktop-profile-products">
               <li><a href="profile-lights.php#Led-Aluminium-Profiles">Led Aluminium Profiles</a></li>
-              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a>
-              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile
-                  Accessories</a>
-              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed
-                  Flexible Neon Profile Without Thread</a>
-              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a>
-              </li>
+              <li><a href="profile-lights.php#Sl-Profiles">SL Profiles</a></li>
+              <li><a href="profile-lights.php#Shadow-Gap-LED-Aluminium-Profile">Shadow Gap LED Aluminium Profile</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profiles">Ip67 Flexible Neon Profiles</a></li>
+              <li><a href="profile-lights.php#Ip67-Flexible-Neon-Profile-Accessories">IP67 Flexible Neon Profile Accessories</a></li>
+              <li><a href="profile-lights.php#LED-Profile-Flexible-Neon-Profile">LED Profile / Flexible Neon Profile</a></li>
+              <li><a href="profile-lights.php#LED-Skirting-Profile-Accessories">LED Skirting Profile &amp; Accessories</a></li>
+              <li><a href="profile-lights.php#C-Series-Recessed-Flexible-Neon-Profile-Without-Thread">C Series Recessed Flexible Neon Profile Without Thread</a></li>
+              <li><a href="profile-lights.php#D-Series-Led-Flexible-Neon-Profile">D Series LED Flexible Neon Profile</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#">FLEXI LIGHTS <span><i class="fa-solid fa-chevron-down"></i></a>
@@ -551,12 +551,17 @@
               <li><a href="smps.php#SMPS-Waterproof-24V-DC">SMPS Waterproof 24V DC</a></li>
               <li><a href="smps.php#SMPS-Rainproof-12V-DC">SMPS Rainproof 12V DC</a></li>
               <li><a href="smps.php#SMPS-Waterproof-12V-DC">SMPS Waterproof 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 12V DC</a></li>
-              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue
-                  Dimmer 24V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-12V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 12V DC</a></li>
+              <li><a href="smps.php#SMPS-Ultra-Slim-Phase-Cut-Analogue-Dimmer-24V-DC">SMPS Ultra Slim Phase Cut+Analogue Dimmer 24V DC</a></li>
               <li><a href="smps.php#SL-Indoor-SMPS">SL Indoor SMPS</a></li>
+              <li><a href="smps.php#Slim-SMPS-Auto-Switch-12V-24V">Slim SMPS Series Auto Switch (12V to 24V)</a></li>
+              <li><a href="smps.php#DC-12V-Premium-Quality-SMPS">DC 12V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Premium-Quality-SMPS">DC 24V Premium Current Adjustable Dimmable SMPS</a></li>
+              <li><a href="smps.php#DC-48V-Premium-Quality-SMPS">DC 48V Premium Quality SMPS</a></li>
+              <li><a href="smps.php#TUYA-Smart-App-Control-Premium-SMPS">TUYA Smart App Control Premium SMPS</a></li>
               <li><a href="smps.php#SL-IP67-Outdoor-SMPS">SL IP67 Outdoor SMPS</a></li>
+              <li><a href="smps.php#DC-24V-Waterproof-Premium-SMPS">DC 24V IP67 Waterproof Premium SMPS</a></li>
+              <li><a href="smps.php#DC-12V-Waterproof-Premium-SMPS">DC 12V IP67 Waterproof Premium SMPS</a></li>
             </ul>
           </li>
 
@@ -564,20 +569,28 @@
             <ul class="dropdown-menu" id="desktop-led-drivers-products">
               <li><a href="LED-drivers.php#LED-Drivers">LED Drivers</a></li>
               <li><a href="LED-drivers.php#Waterproof-LED-Drivers">Waterproof LED Drivers</a></li>
-              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic
-                  Dimming)</a></li>
+              <li><a href="LED-drivers.php#Phase-Cut-Dimmable-LED-Drivers">Phase Cut Dimmable LED Drivers (Traic Dimming)</a></li>
               <li><a href="LED-drivers.php#Phase-Cut-Dimmable">Phase Cut Dimmable LED Drivers</a></li>
               <li><a href="LED-drivers.php#Analogue-Dimmable-LED-Driver">Analogue Dimmable LED Driver(0-10)</a></li>
-              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Drivers">Dali Adjustable Dimmable LED
-                  Drivers</a></li>
+              <li><a href="LED-drivers.php#Dali-Adjustable-Dimmable-LED-Driver">Dali Adjustable Dimmable LED Drivers</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT6-DALI-Driver">Constant Current DT6 DALI Dimmable Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Current-DT8-DALI-CCT-Driver">Constant Current DT8 DALI Dimmable CCT Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-Driver">Constant Voltage DC 12V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-Driver">Constant Voltage DC 24V DALI Dimmable DT6 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT8-Driver">Constant Voltage DC 12V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT8-Driver">Constant Voltage DC 24V DALI Dimmable DT8 Driver</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC12V-DALI-DT6-IP67-Driver">Constant Voltage DC 12V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Constant-Voltage-DC24V-DALI-DT6-IP67-Driver">Constant Voltage DC 24V DALI DT6 IP67 Waterproof</a></li>
+              <li><a href="LED-drivers.php#Staircase-Controllers">Staircase Controllers</a></li>
+              <li><a href="LED-drivers.php#DMX-512-Decoder-DALI-Controllers">DMX 512 Decoder &amp; DALI LED Controllers</a></li>
+              <li><a href="LED-drivers.php#TRIAC-Phase-Cut-Dimmers">TRIAC / Phase Cut Dimmers</a></li>
             </ul>
           </li>
           
           <li class="dropdown"><a href="#">OUR CATALOGUE <span><i class="fa-solid fa-chevron-down"></i></a>
-            <ul class="dropdown-menu" id="desktop-led-drivers-products">
+            <ul class="dropdown-menu">
               <li><a href="assets/img/catalogue/SL-PRICE-LIST-2020.pdf" target="_blank">SL PRICE LIST 2020</a></li>
               <li><a href="assets/img/catalogue/SUNNY-LIGHT-CATALOGUE-2026.pdf" target="_blank">SUNNY LIGHT CATALOGUE 2026</a></li>
-              
             </ul>
           </li>
         </ul>
@@ -1153,6 +1166,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <li><a href="#Mini-Series-Niche-Spot-Lights" class="filter-link" data-category="mini-niche">Mini Series Niche Spot Lights</a></li>
         <li><a href="#Zoom-15-To-60-Degree" class="filter-link" data-category="zoom">Zoom 15 To 60 Degree Adjustable Spot Lights</a></li>
         <li><a href="#Laser-Blade-Tiltable-Trimless-Linear-Lights" class="filter-link" data-category="laser-tilt">Laser Blade Tiltable/Trimless Linear Lights</a></li>
+        <li><a href="#Premium-Slim-Laser-Blade-Linear-Lights" class="filter-link" data-category="laser-tilt">Premium Slim Laser Blade Linear Lights</a></li>
         <li><a href="#Premium-High-Power-Laser-Blade-Lights" class="filter-link" data-category="laser-premium">Laser Blade High Power COB Spot Lights</a></li>
         <li><a href="#Economic-Laser-Blade-Linear-Spot-Lights" class="filter-link" data-category="laser-economic">Laser Blade Linear Spot Lights</a></li>
                 <li><a href="#Surface-Pendant-Cylindrical-Lights" class="filter-link" data-category="cylinder">Surface/Pendant Cylindrical Lights</a></li>
@@ -1459,6 +1473,18 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="indoor-product-detail-page.php?id=1181" class="product-card-link">
+                                <div class="product-card" data-price="2600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_181.png" alt="SI MX 4120" class="default-image">
+                                        <img src="assets/img/products/product_181_2.png" alt="SI MX 4120" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Deep Recessed Ceiling Secure Trimless Antiglare</h3>
+                                        <div class="product-model"><span>Model:</span> SI MX 4120</div>
+                                    </div>
+                                </div>
+                            </a>
 
                            
 
@@ -1589,6 +1615,162 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="indoor-product-detail-page.php?id=1188" class="product-card-link">
+                                <div class="product-card" data-price="750">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_188.png" alt="SL MX 2191" class="default-image">
+                                        <img src="assets/img/products/product_188_2.png" alt="SL MX 2191" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Fix Deep Recessed Anti Glare COB Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 2191</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1189" class="product-card-link">
+                                <div class="product-card" data-price="950">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_189.png" alt="SL MX 2192" class="default-image">
+                                        <img src="assets/img/products/product_189_2.png" alt="SL MX 2192" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Fix Deep Recessed Anti Glare COB Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 2192</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1190" class="product-card-link">
+                                <div class="product-card" data-price="1300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_190.png" alt="SL MX 2193" class="default-image">
+                                        <img src="assets/img/products/product_190_2.png" alt="SL MX 2193" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Fix Deep Recessed Anti Glare COB Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 2193</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1191" class="product-card-link">
+                                <div class="product-card" data-price="2000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_191.png" alt="SL MX 2194" class="default-image">
+                                        <img src="assets/img/products/product_191.png" alt="SL MX 2194" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Fix Deep Recessed Anti Glare COB Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 2194</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1192" class="product-card-link">
+                                <div class="product-card" data-price="2800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_192.png" alt="SL MX 2195" class="default-image">
+                                        <img src="assets/img/products/product_192.png" alt="SL MX 2195" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Fix Deep Recessed Anti Glare COB Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 2195</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1193" class="product-card-link">
+                                <div class="product-card" data-price="800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_193.png" alt="SL MX 2291" class="default-image">
+                                        <img src="assets/img/products/product_193.png" alt="SL MX 2291" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Low High Tiltable Deep Recessed Antiglare</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 2291</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1194" class="product-card-link">
+                                <div class="product-card" data-price="1000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_194.png" alt="SL MX 2292" class="default-image">
+                                        <img src="assets/img/products/product_194.png" alt="SL MX 2292" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Low High Tiltable Deep Recessed Antiglare</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 2292</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1195" class="product-card-link">
+                                <div class="product-card" data-price="1500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_195.png" alt="SL MX 2293" class="default-image">
+                                        <img src="assets/img/products/product_195.png" alt="SL MX 2293" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Low High Tiltable Deep Recessed Antiglare</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 2293</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1196" class="product-card-link">
+                                <div class="product-card" data-price="1000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_196.png" alt="SL MX SW 15001" class="default-image">
+                                        <img src="assets/img/products/product_196.png" alt="SL MX SW 15001" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Deep Recessed Ceiling Secure COB Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX SW 15001</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1197" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_197.png" alt="SL MX SW 15002" class="default-image">
+                                        <img src="assets/img/products/product_197.png" alt="SL MX SW 15002" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Deep Recessed Ceiling Secure COB Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX SW 15002</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1198" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_198.png" alt="SL MX SW 15003" class="default-image">
+                                        <img src="assets/img/products/product_198.png" alt="SL MX SW 15003" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Deep Recessed Ceiling Secure COB Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX SW 15003</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1199" class="product-card-link">
+                                <div class="product-card" data-price="1300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_199.png" alt="SL MX RF 18001" class="default-image">
+                                        <img src="assets/img/products/product_199.png" alt="SL MX RF 18001" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Low High Deep Recessed Ceiling Secure</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF 18001</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1200" class="product-card-link">
+                                <div class="product-card" data-price="1600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_200.png" alt="SL MX RF 18002" class="default-image">
+                                        <img src="assets/img/products/product_200.png" alt="SL MX RF 18002" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Low High Deep Recessed Ceiling Secure</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF 18002</div>
+                                    </div>
+                                </div>
+                            </a>
 
                         </div>
                     </div>
@@ -1685,6 +1867,62 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
 
                     <!-- Product Group 9 Tiltable LED COB Spotlights-->
+                    
+                    <!-- Product Group: Premium Deep Recessed Antiglare Linear Lights -->
+                    <div class="product-group" id="Premium-Deep-Recessed-Antiglare-Linear-Lights">
+                        <h3 class="product-group-title">Premium Deep Recessed Antiglare Linear Lights</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1227" class="product-card-link">
+                                <div class="product-card" data-price="1050">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_227.png" alt="SL CY 4N" class="default-image">
+                                        <img src="assets/img/products/product_227.png" alt="SL CY 4N" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Deep Recessed Antiglare Linear Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 4N</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1228" class="product-card-link">
+                                <div class="product-card" data-price="1600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_228.png" alt="SL CY 10N" class="default-image">
+                                        <img src="assets/img/products/product_228.png" alt="SL CY 10N" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Deep Recessed Antiglare Linear Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 10N</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1229" class="product-card-link">
+                                <div class="product-card" data-price="3000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_229.png" alt="SL CY 20N" class="default-image">
+                                        <img src="assets/img/products/product_229.png" alt="SL CY 20N" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Deep Recessed Antiglare Linear Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 20N</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1230" class="product-card-link">
+                                <div class="product-card" data-price="4500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_230.png" alt="SL CY 30N" class="default-image">
+                                        <img src="assets/img/products/product_230.png" alt="SL CY 30N" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Deep Recessed Antiglare Linear Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL CY 30N</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
                     <div class="product-group" id="Tiltable-LED-COB-Spotlight">
                         <h3 id="#" class="product-group-title">Economic Recessed Tiltable LED COB Spotlights</h3>
                         <div class="products-container">
@@ -1761,6 +1999,18 @@ document.addEventListener('DOMContentLoaded', function() {
                                     <div class="product-info">
                                         <h3 class="product-name">Economic Recessed Tiltable Cob Spot Light</h3>
                                         <div class="product-model"><span>Model:</span> SL2120-30</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1167" class="product-card-link">
+                                <div class="product-card" data-price="1900">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_167.png" alt="SL2120-50" class="default-image">
+                                        <img src="assets/img/products/product_167.png" alt="SL2120-50" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Tiltable COB Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL2120-50</div>
                                     </div>
                                 </div>
                             </a>
@@ -1995,6 +2245,18 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="indoor-product-detail-page.php?id=1226" class="product-card-link">
+                                <div class="product-card" data-price="2800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_226.png" alt="SL MX Z 890" class="default-image">
+                                        <img src="assets/img/products/product_226.png" alt="SL MX Z 890" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Narrow Beam 6 Degree Adjustable Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX Z 890</div>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
 
@@ -2038,6 +2300,26 @@ document.addEventListener('DOMContentLoaded', function() {
                         </div>
                     </div>
                     <!-- Product Group 16 Laser Blade High Power COB Spot Light-->
+                    
+                    <!-- Product Group: Premium Slim Laser Blade Linear Lights -->
+                    <div class="product-group" id="Premium-Slim-Laser-Blade-Linear-Lights">
+                        <h3 class="product-group-title">Premium Slim Laser Blade Linear Lights</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1383" class="product-card-link">
+                                <div class="product-card" data-price="5500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_383.png" alt="SL LB-3870" class="default-image">
+                                        <img src="assets/img/products/product_383.png" alt="SL LB-3870" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Slim Laser Blade Linear Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL LB-3870</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
                     <div class="product-group" id="Premium-High-Power-Laser-Blade-Lights">
                         <h3 id="#" class="product-group-title">Laser Blade High Power COB Spot Lights</h3>
                         <div class="products-container">
@@ -2503,6 +2785,78 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="indoor-product-detail-page.php?id=1003" class="product-card-link">
+                                <div class="product-card" data-price="0">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_3.png" alt="SL 2405 HEXA RGB" class="default-image">
+                                        <img src="assets/img/products/product_3.png" alt="SL 2405 HEXA RGB" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">New Edition 2026 Indoor Showcase</h3>
+                                        <div class="product-model"><span>Model:</span> SL 2405 HEXA RGB</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1353" class="product-card-link">
+                                <div class="product-card" data-price="6500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_353.png" alt="SL 5055 100W" class="default-image">
+                                        <img src="assets/img/products/product_353.png" alt="SL 5055 100W" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Attachable Linear LED Profile Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 5055 100W</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1357" class="product-card-link">
+                                <div class="product-card" data-price="1100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_357.png" alt="SL 5055-120° JOINTER" class="default-image">
+                                        <img src="assets/img/products/product_357.png" alt="SL 5055-120° JOINTER" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Attachable Linear LED Profile Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 5055-120° JOINTER</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1358" class="product-card-link">
+                                <div class="product-card" data-price="1300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_358.png" alt="SL 5055-Y JOINTER" class="default-image">
+                                        <img src="assets/img/products/product_358.png" alt="SL 5055-Y JOINTER" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Attachable Linear LED Profile Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 5055-Y JOINTER</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1359" class="product-card-link">
+                                <div class="product-card" data-price="360">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_359.png" alt="Linear light Hoisting Kit" class="default-image">
+                                        <img src="assets/img/products/product_359.png" alt="Linear light Hoisting Kit" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Attachable Linear LED Profile Lights</h3>
+                                        <div class="product-model"><span>Model:</span> Linear light Hoisting Kit</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1360" class="product-card-link">
+                                <div class="product-card" data-price="360">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_360.png" alt="POWER CABLE (White 1.5m)" class="default-image">
+                                        <img src="assets/img/products/product_360.png" alt="POWER CABLE (White 1.5m)" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Attachable Linear LED Profile Lights</h3>
+                                        <div class="product-model"><span>Model:</span> POWER CABLE (White 1.5m)</div>
+                                    </div>
+                                </div>
+                            </a>
 
 
 
@@ -2511,7 +2865,251 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
 
    <!-- Product Group 15 Customized Gym & Office Lighting-->
-                    <!-- <div class="product-group" id="Customized-Gym-Office-Lighting">
+                    <!-- 
+                    <!-- Product Group: Smart RGB Hexa Lights -->
+                    <div class="product-group" id="Smart-RGB-Hexa-Lights">
+                        <h3 class="product-group-title">Smart RGB Hexa Lights</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1380" class="product-card-link">
+                                <div class="product-card" data-price="15000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_380.png" alt="SL 2405-5 HB-TUYA RGB" class="default-image">
+                                        <img src="assets/img/products/product_380.png" alt="SL 2405-5 HB-TUYA RGB" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Smart RGB Hexa Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 2405-5 HB-TUYA RGB</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1381" class="product-card-link">
+                                <div class="product-card" data-price="36000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_381.png" alt="SL 2448-HB-TUYA RGB" class="default-image">
+                                        <img src="assets/img/products/product_381.png" alt="SL 2448-HB-TUYA RGB" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Smart RGB Hexa Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 2448-HB-TUYA RGB</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1382" class="product-card-link">
+                                <div class="product-card" data-price="15000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_382.png" alt="SL 2406-HB-TUYA RGB" class="default-image">
+                                        <img src="assets/img/products/product_382.png" alt="SL 2406-HB-TUYA RGB" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Smart RGB Hexa Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 2406-HB-TUYA RGB</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    
+                    <!-- Product Group: Eco Attachable 20MM Lenior Hexa Lights -->
+                    <div class="product-group" id="Eco-Attachable-20MM-Lenior-Hexa-Lights">
+                        <h3 class="product-group-title">Eco Attachable 20MM Lenior Hexa Lights</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1371" class="product-card-link">
+                                <div class="product-card" data-price="7000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_371.png" alt="SL-2405-5 HEXA" class="default-image">
+                                        <img src="assets/img/products/product_371.png" alt="SL-2405-5 HEXA" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Attachable 20MM Lenior Hexa Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL-2405-5 HEXA</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1372" class="product-card-link">
+                                <div class="product-card" data-price="14000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_372.png" alt="SL 2448-N-HB HEXA" class="default-image">
+                                        <img src="assets/img/products/product_372.png" alt="SL 2448-N-HB HEXA" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Attachable 20MM Lenior Hexa Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 2448-N-HB HEXA</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1373" class="product-card-link">
+                                <div class="product-card" data-price="6800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_373.png" alt="SL-2406- STAR" class="default-image">
+                                        <img src="assets/img/products/product_373.png" alt="SL-2406- STAR" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Attachable 20MM Lenior Hexa Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL-2406- STAR</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    
+                    <!-- Product Group: 40MM Lenior Hexa Lights -->
+                    <div class="product-group" id="40MM-Lenior-Hexa-Lights">
+                        <h3 class="product-group-title">40MM Lenior Hexa Lights</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1374" class="product-card-link">
+                                <div class="product-card" data-price="14000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_374.png" alt="SL 4405-HB(40*420MM)" class="default-image">
+                                        <img src="assets/img/products/product_374.png" alt="SL 4405-HB(40*420MM)" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">40MM Lenior Hexa Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 4405-HB(40*420MM)</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1375" class="product-card-link">
+                                <div class="product-card" data-price="25000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_375.png" alt="SL 4406-HB(40*1200MM)" class="default-image">
+                                        <img src="assets/img/products/product_375.png" alt="SL 4406-HB(40*1200MM)" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">40MM Lenior Hexa Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 4406-HB(40*1200MM)</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1376" class="product-card-link">
+                                <div class="product-card" data-price="45000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_376.png" alt="SL 4414-14HB" class="default-image">
+                                        <img src="assets/img/products/product_376.png" alt="SL 4414-14HB" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">40MM Lenior Hexa Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 4414-14HB</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    
+                    <!-- Product Group: Hexa Lights Accessories -->
+                    <div class="product-group" id="Hexa-Lights-Accessories">
+                        <h3 class="product-group-title">Hexa Lights Accessories</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1377" class="product-card-link">
+                                <div class="product-card" data-price="250">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_377.png" alt="SL 4055-1" class="default-image">
+                                        <img src="assets/img/products/product_377.png" alt="SL 4055-1" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Hexa lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL 4055-1</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1378" class="product-card-link">
+                                <div class="product-card" data-price="400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_378.png" alt="SL 4055-2" class="default-image">
+                                        <img src="assets/img/products/product_378.png" alt="SL 4055-2" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Hexa lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL 4055-2</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1379" class="product-card-link">
+                                <div class="product-card" data-price="800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_379.png" alt="SL 4055-3" class="default-image">
+                                        <img src="assets/img/products/product_379.png" alt="SL 4055-3" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Hexa lights Accessories</h3>
+                                        <div class="product-model"><span>Model:</span> SL 4055-3</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    
+                    <!-- Product Group: Customised 20/40MM Hexa Lenior Lights -->
+                    <div class="product-group" id="Customised-20-40MM-Hexa-Lenior-Lights">
+                        <h3 class="product-group-title">Customised 20/40MM Hexa Lenior Lights</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1801" class="product-card-link">
+                                <div class="product-card" data-price="0">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/custom_hexa_1.png" alt="SL HEXA-CUSTOM-01" class="default-image">
+                                        <img src="assets/img/products/custom_hexa_1.png" alt="SL HEXA-CUSTOM-01" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Customised 20/40MM Hexa Lenior Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL HEXA-CUSTOM-01</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1802" class="product-card-link">
+                                <div class="product-card" data-price="0">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/custom_hexa_2.png" alt="SL HEXA-CUSTOM-02" class="default-image">
+                                        <img src="assets/img/products/custom_hexa_2.png" alt="SL HEXA-CUSTOM-02" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Customised 20/40MM Hexa Lenior Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL HEXA-CUSTOM-02</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1803" class="product-card-link">
+                                <div class="product-card" data-price="0">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/custom_hexa_3.png" alt="SL HEXA-CUSTOM-03" class="default-image">
+                                        <img src="assets/img/products/custom_hexa_3.png" alt="SL HEXA-CUSTOM-03" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Customised 20/40MM Hexa Lenior Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL HEXA-CUSTOM-03</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1804" class="product-card-link">
+                                <div class="product-card" data-price="0">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/custom_hexa_4.png" alt="SL HEXA-CUSTOM-04" class="default-image">
+                                        <img src="assets/img/products/custom_hexa_4.png" alt="SL HEXA-CUSTOM-04" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Customised 20/40MM Hexa Lenior Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL HEXA-CUSTOM-04</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1805" class="product-card-link">
+                                <div class="product-card" data-price="0">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/custom_hexa_5.png" alt="SL HEXA-CUSTOM-05" class="default-image">
+                                        <img src="assets/img/products/custom_hexa_5.png" alt="SL HEXA-CUSTOM-05" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Customised 20/40MM Hexa Lenior Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL HEXA-CUSTOM-05</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="product-group" id="Customized-Gym-Office-Lighting">
                         <h3 id="#" class="product-group-title">Customized Gym & Office Lighting</h3>
                         <div class="products-container">
 
@@ -2667,6 +3265,30 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <h3 class="product-name">Office/Gym Lighting Powered By Osram</h3>
                                         <div class="product-model"><span>Model:</span> SL 6606-600</div>
                                         <!-- <p class="product-price">₹ 1200</p> -->
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1363" class="product-card-link">
+                                <div class="product-card" data-price="9000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_363.png" alt="SL 6600-900" class="default-image">
+                                        <img src="assets/img/products/product_363.png" alt="SL 6600-900" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Office/Gym Lighting Powered By OSRAM</h3>
+                                        <div class="product-model"><span>Model:</span> SL 6600-900</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1369" class="product-card-link">
+                                <div class="product-card" data-price="8500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_369.png" alt="SL 6666-900" class="default-image">
+                                        <img src="assets/img/products/product_369.png" alt="SL 6666-900" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Office/Gym Lighting Powered By OSRAM</h3>
+                                        <div class="product-model"><span>Model:</span> SL 6666-900</div>
                                     </div>
                                 </div>
                             </a>
@@ -2838,6 +3460,90 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="indoor-product-detail-page.php?id=1393" class="product-card-link">
+                                <div class="product-card" data-price="800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_393.png" alt="SL JW-SF-004" class="default-image">
+                                        <img src="assets/img/products/product_393.png" alt="SL JW-SF-004" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Exclusive Jewellery/Watches Display Counter Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL JW-SF-004</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1394" class="product-card-link">
+                                <div class="product-card" data-price="2100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_394.png" alt="SL JW 010" class="default-image">
+                                        <img src="assets/img/products/product_394.png" alt="SL JW 010" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Exclusive Jewellery/Watches Display Counter Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL JW 010</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1395" class="product-card-link">
+                                <div class="product-card" data-price="2300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_395.png" alt="SL JW-006" class="default-image">
+                                        <img src="assets/img/products/product_395.png" alt="SL JW-006" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Exclusive Jewellery/Watches Display Counter Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL JW-006</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1396" class="product-card-link">
+                                <div class="product-card" data-price="3500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_396.png" alt="SL JW-007" class="default-image">
+                                        <img src="assets/img/products/product_396.png" alt="SL JW-007" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Exclusive Jewellery/Watches Display Counter Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL JW-007</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1397" class="product-card-link">
+                                <div class="product-card" data-price="1200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_397.png" alt="SL JW 008" class="default-image">
+                                        <img src="assets/img/products/product_397.png" alt="SL JW 008" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Exclusive Jewellery/Watches Display Counter Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL JW 008</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1398" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_398.png" alt="SL JW 009" class="default-image">
+                                        <img src="assets/img/products/product_398.png" alt="SL JW 009" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Exclusive Jewellery/Watches Display Counter Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL JW 009</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1399" class="product-card-link">
+                                <div class="product-card" data-price="2500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_399.png" alt="SL JW-111" class="default-image">
+                                        <img src="assets/img/products/product_399.png" alt="SL JW-111" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Exclusive Jewellery/Watches Display Counter Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL JW-111</div>
+                                    </div>
+                                </div>
+                            </a>
 
 
                         </div>
@@ -2877,6 +3583,18 @@ document.addEventListener('DOMContentLoaded', function() {
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor 4 Logo Projector Movable Projector Light</h3>
                                         <div class="product-model"><span>Model: </span>SL-LA10D-IP67</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1413" class="product-card-link">
+                                <div class="product-card" data-price="16000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_413.png" alt="SL-GOBO-35R" class="default-image">
+                                        <img src="assets/img/products/product_413.png" alt="SL-GOBO-35R" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Indoor Single Logo Movable Projector Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL-GOBO-35R</div>
                                     </div>
                                 </div>
                             </a>
@@ -3854,6 +4572,30 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
+                            <a href="indoor-product-detail-page.php?id=1254" class="product-card-link">
+                                <div class="product-card" data-price="400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_254.png" alt="SL MX 122-0" class="default-image">
+                                        <img src="assets/img/products/product_254.png" alt="SL MX 122-0" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Front Openable Ceiling Secure Frame For (MR-16/</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 122-0</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1258" class="product-card-link">
+                                <div class="product-card" data-price="400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_258.png" alt="SL MX 125-0" class="default-image">
+                                        <img src="assets/img/products/product_258.png" alt="SL MX 125-0" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Front Openable Ceiling Secure Frame For (MR-16/</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 125-0</div>
+                                    </div>
+                                </div>
+                            </a>
                             
                         </div>
                     </div>
@@ -4425,6 +5167,18 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <h3 class="product-name">SL Anti-Glare Surface Downlight - Beyond Series</h3>
                                     </div>
                                 </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1002" class="product-card-link">
+                                <div class="product-card" data-price="0">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_2.png" alt="BY SF 0150" class="default-image">
+                                        <img src="assets/img/products/product_2.png" alt="BY SF 0150" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">New Edition 2026 Indoor Showcase</h3>
+                                        <div class="product-model"><span>Model:</span> BY SF 0150</div>
+                                    </div>
+                                </div>
                             </a>                             
                             
                         </div>
@@ -4501,6 +5255,162 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL COB Reading Lamp</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1338" class="product-card-link">
+                                <div class="product-card" data-price="850">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_338.png" alt="SL BD-361 BLACK 3000K" class="default-image">
+                                        <img src="assets/img/products/product_338.png" alt="SL BD-361 BLACK 3000K" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD-361 BLACK 3000K</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1339" class="product-card-link">
+                                <div class="product-card" data-price="850">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_339.png" alt="SL BD-361 PKW 3000K" class="default-image">
+                                        <img src="assets/img/products/product_339.png" alt="SL BD-361 PKW 3000K" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD-361 PKW 3000K</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1340" class="product-card-link">
+                                <div class="product-card" data-price="1200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_340.png" alt="SL BD-361 AB 3000K" class="default-image">
+                                        <img src="assets/img/products/product_340.png" alt="SL BD-361 AB 3000K" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD-361 AB 3000K</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1341" class="product-card-link">
+                                <div class="product-card" data-price="1200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_341.png" alt="SL BD-361 GD 3000K" class="default-image">
+                                        <img src="assets/img/products/product_341.png" alt="SL BD-361 GD 3000K" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD-361 GD 3000K</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1342" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_342.png" alt="SL BD 366 PKW" class="default-image">
+                                        <img src="assets/img/products/product_342.png" alt="SL BD 366 PKW" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides Recessed Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD 366 PKW</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1343" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_343.png" alt="SL BD 366 BK" class="default-image">
+                                        <img src="assets/img/products/product_343.png" alt="SL BD 366 BK" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides Recessed Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD 366 BK</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1344" class="product-card-link">
+                                <div class="product-card" data-price="1500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_344.png" alt="SL BD 366" class="default-image">
+                                        <img src="assets/img/products/product_344.png" alt="SL BD 366" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides Recessed Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD 366</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1345" class="product-card-link">
+                                <div class="product-card" data-price="1700">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_345.png" alt="SL BD 367" class="default-image">
+                                        <img src="assets/img/products/product_345.png" alt="SL BD 367" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides Recessed Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD 367</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1346" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_346.png" alt="SL BD 371" class="default-image">
+                                        <img src="assets/img/products/product_346.png" alt="SL BD 371" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides 3 In 1 Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD 371</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1347" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_347.png" alt="SL BD 370" class="default-image">
+                                        <img src="assets/img/products/product_347.png" alt="SL BD 370" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Bed Sides 3 In 1 Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD 370</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1348" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_348.png" alt="SL BD 362 BLACK 3000K" class="default-image">
+                                        <img src="assets/img/products/product_348.png" alt="SL BD 362 BLACK 3000K" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Surface Bed Sides Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD 362 BLACK 3000K</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1349" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_349.png" alt="SL BD 362 PKW 3000K" class="default-image">
+                                        <img src="assets/img/products/product_349.png" alt="SL BD 362 PKW 3000K" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Surface Bed Sides Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD 362 PKW 3000K</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1350" class="product-card-link">
+                                <div class="product-card" data-price="1700">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_350.png" alt="SL BD 362 GD 3000K" class="default-image">
+                                        <img src="assets/img/products/product_350.png" alt="SL BD 362 GD 3000K" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Surface Bed Sides Reading Night Lamp</h3>
+                                        <div class="product-model"><span>Model:</span> SL BD 362 GD 3000K</div>
                                     </div>
                                 </div>
                             </a>                             
@@ -4852,7 +5762,37 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                 </div>
                             </a>
-                            
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Premium Beauty Mirror Lights -->
+                    <div class="product-group" id="Premium-Beauty-Mirror-Lights">
+                        <h3 class="product-group-title">Premium Beauty Mirror Lights (35° Mirror | 15° Person)</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1274" class="product-card-link">
+                                <div class="product-card" data-price="2600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_274.png" alt="SLMX698" class="default-image">
+                                        <img src="assets/img/products/product_274.png" alt="SLMX698" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Beauty Mirror Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SLMX698</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1275" class="product-card-link">
+                                <div class="product-card" data-price="2800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_275.png" alt="SLMX699 (Trimless)" class="default-image">
+                                        <img src="assets/img/products/product_275.png" alt="SLMX699 (Trimless)" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Beauty Mirror Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SLMX699 (Trimless)</div>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
                     
@@ -4873,8 +5813,38 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <h3 class="product-name">Linear Led Pendant Light</h3>
                                     </div>
                                 </div>
-                            </a>                             
-                            
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Premium Slim 30MM Pendant Ring Lights -->
+                    <div class="product-group" id="Premium-Slim-30MM-Pendant-Ring-Lights">
+                        <h3 class="product-group-title">Premium Slim 30MM Pendant Ring Lights</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1336" class="product-card-link">
+                                <div class="product-card" data-price="7500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_336.png" alt="SL 3030-600" class="default-image">
+                                        <img src="assets/img/products/product_336.png" alt="SL 3030-600" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Slim 30MM Pendant Ring Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 3030-600</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1337" class="product-card-link">
+                                <div class="product-card" data-price="10000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_337.png" alt="SL 3030-900" class="default-image">
+                                        <img src="assets/img/products/product_337.png" alt="SL 3030-900" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Slim 30MM Pendant Ring Lights</h3>
+                                        <div class="product-model"><span>Model:</span> SL 3030-900</div>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
                     
@@ -4958,7 +5928,85 @@ document.addEventListener('DOMContentLoaded', function() {
                     
                                 </div>
                             </a>
-                    
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Eco Ceiling Secure Antiglare & Trimless Deep Recessed COB -->
+                    <div class="product-group" id="Eco-Ceiling-Secure-Antiglare-Trimless-Deep-Recessed-COB">
+                        <h3 class="product-group-title">Eco Ceiling Secure Antiglare &amp; Trimless Deep Recessed COB</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1143" class="product-card-link">
+                                <div class="product-card" data-price="800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_143.png" alt="SL MX 0981" class="default-image">
+                                        <img src="assets/img/products/product_143.png" alt="SL MX 0981" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Ceiling Secure Antiglare &amp; Trimless Deep Recessed COB</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 0981</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1144" class="product-card-link">
+                                <div class="product-card" data-price="1100">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_144.png" alt="SL MX 0982" class="default-image">
+                                        <img src="assets/img/products/product_144.png" alt="SL MX 0982" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Ceiling Secure Antiglare &amp; Trimless Deep Recessed COB</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 0982</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1145" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_145.png" alt="SL MX 0983" class="default-image">
+                                        <img src="assets/img/products/product_145.png" alt="SL MX 0983" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Ceiling Secure Antiglare &amp; Trimless Deep Recessed COB</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 0983</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1146" class="product-card-link">
+                                <div class="product-card" data-price="900">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_146.png" alt="SL MX 0991 (Trimless)" class="default-image">
+                                        <img src="assets/img/products/product_146.png" alt="SL MX 0991 (Trimless)" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Ceiling Secure Antiglare &amp; Trimless Deep Recessed COB</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 0991 (Trimless)</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1147" class="product-card-link">
+                                <div class="product-card" data-price="1200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_147.png" alt="SL MX 0992 (Trimless)" class="default-image">
+                                        <img src="assets/img/products/product_147.png" alt="SL MX 0992 (Trimless)" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Ceiling Secure Antiglare &amp; Trimless Deep Recessed COB</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 0992 (Trimless)</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1148" class="product-card-link">
+                                <div class="product-card" data-price="1500">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_148.png" alt="SL MX 0993 (Trimless)" class="default-image">
+                                        <img src="assets/img/products/product_148.png" alt="SL MX 0993 (Trimless)" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Eco Ceiling Secure Antiglare &amp; Trimless Deep Recessed COB</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX 0993 (Trimless)</div>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
                     
@@ -5053,6 +6101,126 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL MX 1371</h3>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Product Group: Premium Mini Small Dia Deep Recessed COB Spot Lights -->
+                    <div class="product-group" id="Premium-Mini-Small-Dia-Deep-Recessed-COB-Spot-Lights">
+                        <h3 class="product-group-title">Premium Mini Small Dia Deep Recessed COB Spot Lights</h3>
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1201" class="product-card-link">
+                                <div class="product-card" data-price="1200">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_201.png" alt="SL MX RF 16001" class="default-image">
+                                        <img src="assets/img/products/product_201.png" alt="SL MX RF 16001" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Mini Small Dia Deep Recessed Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF 16001</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1202" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_202.png" alt="SL MX RF 16002" class="default-image">
+                                        <img src="assets/img/products/product_202.png" alt="SL MX RF 16002" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Mini Small Dia Deep Recessed Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF 16002</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1203" class="product-card-link">
+                                <div class="product-card" data-price="1800">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_203.png" alt="SL MX RF 16003" class="default-image">
+                                        <img src="assets/img/products/product_203.png" alt="SL MX RF 16003" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Mini Small Dia Deep Recessed Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF 16003</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="product-group" id="mini-series-small-dia-deep-recessed-cob-cont">
+                        <div class="products-container">
+                            <a href="indoor-product-detail-page.php?id=1206" class="product-card-link">
+                                <div class="product-card" data-price="1300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_206.png" alt="SL MX RF 11001" class="default-image">
+                                        <img src="assets/img/products/product_206.png" alt="SL MX RF 11001" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Mini Small Dia Deep Recessed Ceiling Secure</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF 11001</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1207" class="product-card-link">
+                                <div class="product-card" data-price="1600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_207.png" alt="SL MX RF11002" class="default-image">
+                                        <img src="assets/img/products/product_207.png" alt="SL MX RF11002" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Mini Small Dia Deep Recessed Ceiling Secure</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF11002</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1208" class="product-card-link">
+                                <div class="product-card" data-price="2000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_208.png" alt="SL MX RF11003" class="default-image">
+                                        <img src="assets/img/products/product_208.png" alt="SL MX RF11003" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Mini Small Dia Deep Recessed Ceiling Secure</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF11003</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1214" class="product-card-link">
+                                <div class="product-card" data-price="1000">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_214.png" alt="SL MX RF 17001" class="default-image">
+                                        <img src="assets/img/products/product_214.png" alt="SL MX RF 17001" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Mini Small Dia Deep Recessed COB Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF 17001</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1215" class="product-card-link">
+                                <div class="product-card" data-price="1300">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_215.png" alt="SL MX RF 17002" class="default-image">
+                                        <img src="assets/img/products/product_215.png" alt="SL MX RF 17002" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Mini Small Dia Deep Recessed COB Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF 17002</div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1216" class="product-card-link">
+                                <div class="product-card" data-price="1600">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_216.png" alt="SL MX RF 17003" class="default-image">
+                                        <img src="assets/img/products/product_216.png" alt="SL MX RF 17003" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Premium Mini Small Dia Deep Recessed COB Spotlights</h3>
+                                        <div class="product-model"><span>Model:</span> SL MX RF 17003</div>
                                     </div>
                                 </div>
                             </a>
@@ -5161,6 +6329,18 @@ document.addEventListener('DOMContentLoaded', function() {
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL BY SF 1318</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="indoor-product-detail-page.php?id=1316" class="product-card-link">
+                                <div class="product-card" data-price="1400">
+                                    <div class="product-image">
+                                        <img src="assets/img/products/product_316.png" alt="SL K01" class="default-image">
+                                        <img src="assets/img/products/product_316.png" alt="SL K01" class="hover-image">
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name">Sunset Effect Surface COB Cylinder Light</h3>
+                                        <div class="product-model"><span>Model:</span> SL K01</div>
                                     </div>
                                 </div>
                             </a>
@@ -5621,8 +6801,8 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="https://www.jaikviktechnology.com/"
-            target="_blank"><span>Jaikvik Technology India Pvt Ltd</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
+            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>

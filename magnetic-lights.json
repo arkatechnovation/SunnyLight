@@ -458,7 +458,7 @@
       "Warranty": "2 Years"
     },
     "images": [
-     "assets/img/magnetic/mg-use-9.jpg",
+      "assets/img/magnetic/mg-use-9.jpg",
       "assets/img/magnetic/mggg.jpg",
       "assets/img/magnetic/mg-use-8.jpg"
     ]
@@ -532,7 +532,7 @@
       "Warranty": "2 Years"
     },
     "images": [
-            "assets/img/magnetic/mg-use-13.jpg",
+      "assets/img/magnetic/mg-use-13.jpg",
       "assets/img/magnetic/mg-20.jpg"
     ]
   },
@@ -556,7 +556,7 @@
       "Warranty": "2 Years"
     },
     "images": [
-       "assets/img/magnetic/mg-use-15.jpg",
+      "assets/img/magnetic/mg-use-15.jpg",
       "assets/img/magnetic/mg-21.jpg"
     ]
   },
@@ -580,7 +580,7 @@
       "Warranty": "2 Years"
     },
     "images": [
-         "assets/img/magnetic/mg-use-17.jpg",
+      "assets/img/magnetic/mg-use-17.jpg",
       "assets/img/magnetic/mgg-4.jpg",
       "assets/img/magnetic/mg-use-16.jpg",
       "assets/img/magnetic/mg-use-18.jpg"
@@ -606,8 +606,7 @@
       "Warranty": "2 Years"
     },
     "images": [
-     
-       "assets/img/magnetic/mg-use-9.jpg",
+      "assets/img/magnetic/mg-use-9.jpg",
       "assets/img/magnetic/mg-22.jpg"
     ]
   },
@@ -829,7 +828,6 @@
       "CCT": "3000K/4000K",
       "Input Voltage": "DC 48V",
       "Warranty": "2 Years"
-      
     },
     "images": [
       "assets/img/magnetic/mg-use-14.png",
@@ -854,7 +852,6 @@
       "CCT": "3000K/4000K",
       "Input Voltage": "DC 48V",
       "Warranty": "2 Years"
-      
     },
     "images": [
       "assets/img/magnetic/mg-use-5.jpg",
@@ -879,10 +876,9 @@
       "CCT": "3000K/4000K",
       "Input Voltage": "DC 48V",
       "Warranty": "2 Years"
-      
     },
     "images": [
-"assets/img/magnetic/mg-use-9.jpg",
+      "assets/img/magnetic/mg-use-9.jpg",
       "assets/img/magnetic/mggg.jpg",
       "assets/img/magnetic/mg-use-28.png"
     ]
@@ -905,7 +901,6 @@
       "CCT": "3000K/4000K",
       "Input Voltage": "DC 48V",
       "Warranty": "2 Years"
-      
     },
     "images": [
       "assets/img/magnetic/mg-use-10.jpg",
@@ -931,10 +926,9 @@
       "CCT": "3000K/4000K",
       "Input Voltage": "DC 48V",
       "Warranty": "2 Years"
-      
     },
     "images": [
-       "assets/img/magnetic/mg-use-13.jpg",
+      "assets/img/magnetic/mg-use-13.jpg",
       "assets/img/magnetic/mg-20.jpg"
     ]
   },
@@ -956,7 +950,6 @@
       "CCT": "3000K/4000K",
       "Input Voltage": "DC 48V",
       "Warranty": "2 Years"
-      
     },
     "images": [
       "assets/img/magnetic/mg-use-15.jpg",
@@ -981,10 +974,9 @@
       "CCT": "3000K/4000K",
       "Input Voltage": "DC 48V",
       "Warranty": "2 Years"
-      
     },
     "images": [
-       "assets/img/magnetic/mg-use-11.jpg",
+      "assets/img/magnetic/mg-use-11.jpg",
       "assets/img/magnetic/mg-13.jpg"
     ]
   },
@@ -1006,214 +998,204 @@
       "CCT": "3000K/4000K",
       "Input Voltage": "DC 48V",
       "Warranty": "2 Years"
-      
     },
     "images": [
-        "assets/img/magnetic/mg-use-11.jpg",
+      "assets/img/magnetic/mg-use-11.jpg",
       "assets/img/magnetic/mggg-2.jpg"
     ]
   },
   {
-  "id": 42,
-  "title": "Smart Tuneable & Dimmable Magnetic Light",
-      "model": "SL M 4101",
-      "description": "The SL M 4101 is a 12W Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for modern interiors requiring adjustable and energy-efficient illumination.",
-      "details": {
-        "Product Details": "Operating on DC 48V, this 12W fixture delivers smooth, stable, and controllable light with low power consumption.",
-        "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
-        "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
-        "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
-      },
-      "specifications": {
-        "Model Number": "SL M 4101",
-        "Watt": "12W",
-        "LED": "Osram",
-        "CCT": "2700K–6500K",
-        "Input Voltage": "DC 48V",
-        "Warranty": "2 Years"
-        
-      },
-      "images": [
-        "assets/img/magnetic/mg-use-14.png",
+    "id": 42,
+    "title": "Smart Tuneable & Dimmable Magnetic Light",
+    "model": "SL M 4101",
+    "description": "The SL M 4101 is a 12W Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for modern interiors requiring adjustable and energy-efficient illumination.",
+    "details": {
+      "Product Details": "Operating on DC 48V, this 12W fixture delivers smooth, stable, and controllable light with low power consumption.",
+      "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
+      "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
+      "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
+    },
+    "specifications": {
+      "Model Number": "SL M 4101",
+      "Watt": "12W",
+      "LED": "Osram",
+      "CCT": "2700K–6500K",
+      "Input Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mg-use-14.png",
       "assets/img/magnetic/mg-1.jpg"
-      ]
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Smart Tuneable & Dimmable Magnetic Light",
+    "model": "SL M 4102",
+    "description": "The SL M 4102 is a 20W Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for modern interiors requiring adjustable and energy-efficient illumination.",
+    "details": {
+      "Product Details": "Operating on DC 48V, this 20W fixture delivers smooth, stable, and controllable light with low power consumption.",
+      "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
+      "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
+      "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
     },
-    {
-        "id": 43,
-  "title": "Smart Tuneable & Dimmable Magnetic Light",
-      "model": "SL M 4102",
-      "description": "The SL M 4102 is a 20W Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for modern interiors requiring adjustable and energy-efficient illumination.",
-      "details": {
-        "Product Details": "Operating on DC 48V, this 20W fixture delivers smooth, stable, and controllable light with low power consumption.",
-        "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
-        "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
-        "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
-      },
-      "specifications": {
-        "Model Number": "SL M 4102",
-        "Watt": "20W",
-        "LED": "Osram",
-        "CCT": "2700K–6500K",
-        "Input Voltage": "DC 48V",
-        "Warranty": "2 Years"
-        
-      },
-      "images": [
-         "assets/img/magnetic/mg-use-5.jpg",
+    "specifications": {
+      "Model Number": "SL M 4102",
+      "Watt": "20W",
+      "LED": "Osram",
+      "CCT": "2700K–6500K",
+      "Input Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mg-use-5.jpg",
       "assets/img/magnetic/mg-2.jpg"
-      ]
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Smart Tuneable & Dimmable Magnetic Light",
+    "model": "SL M 4103",
+    "description": "The SL M 4103 is a 6W Osram magnetic light with tuneable CCT and dimmable functionality. Suitable for energy-efficient and flexible lighting applications.",
+    "details": {
+      "Product Details": "Operating on DC 48V, this 6W fixture delivers smooth, stable, and controllable light with low power consumption.",
+      "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
+      "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
+      "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
     },
-    {
-        "id": 44,
-  "title": "Smart Tuneable & Dimmable Magnetic Light",
-      "model": "SL M 4103",
-      "description": "The SL M 4103 is a 6W Osram magnetic light with tuneable CCT and dimmable functionality. Suitable for energy-efficient and flexible lighting applications.",
-      "details": {
-        "Product Details": "Operating on DC 48V, this 6W fixture delivers smooth, stable, and controllable light with low power consumption.",
-        "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
-        "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
-        "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
-      },
-      "specifications": {
-        "Model Number": "SL M 4103",
-        "Watt": "6W",
-        "LED": "Osram",
-        "CCT": "2700K–6500K",
-        "Input Voltage": "DC 48V",
-        "Warranty": "2 Years"
-        
-      },
-      "images": [
-        "assets/img/magnetic/mg-use-9.jpg",
+    "specifications": {
+      "Model Number": "SL M 4103",
+      "Watt": "6W",
+      "LED": "Osram",
+      "CCT": "2700K–6500K",
+      "Input Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mg-use-9.jpg",
       "assets/img/magnetic/mggg.jpg"
-      ]
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Smart Tuneable & Dimmable Magnetic Light",
+    "model": "SL M 4104",
+    "description": "The SL M 4104 is a 12W Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for adjustable, energy-efficient interior lighting.",
+    "details": {
+      "Product Details": "Operating on DC 48V, this 12W fixture delivers smooth, stable, and controllable light with low power consumption.",
+      "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
+      "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
+      "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
     },
-    {
-        "id": 45,
-  "title": "Smart Tuneable & Dimmable Magnetic Light",
-      "model": "SL M 4104",
-      "description": "The SL M 4104 is a 12W Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for adjustable, energy-efficient interior lighting.",
-      "details": {
-        "Product Details": "Operating on DC 48V, this 12W fixture delivers smooth, stable, and controllable light with low power consumption.",
-        "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
-        "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
-        "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
-      },
-      "specifications": {
-        "Model Number": "SL M 4104",
-        "Watt": "12W",
-        "LED": "Osram",
-        "CCT": "2700K–6500K",
-        "Input Voltage": "DC 48V",
-        "Warranty": "2 Years"
-        
-      },
-      "images": [
-         "assets/img/magnetic/mg-use-10.jpg",
+    "specifications": {
+      "Model Number": "SL M 4104",
+      "Watt": "12W",
+      "LED": "Osram",
+      "CCT": "2700K–6500K",
+      "Input Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mg-use-10.jpg",
       "assets/img/magnetic/mggg-1.jpg"
-      ]
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Smart Tuneable & Dimmable Magnetic Light",
+    "model": "SLM 4107",
+    "description": "The SLM 4107 is a 7W Cree/Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for energy-efficient, flexible interior lighting.",
+    "details": {
+      "Product Details": "Operating on DC 48V, this 7W fixture delivers smooth, stable, and controllable light with low power consumption.",
+      "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
+      "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
+      "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
     },
-    {
-        "id": 46,
-  "title": "Smart Tuneable & Dimmable Magnetic Light",
-      "model": "SLM 4107",
-      "description": "The SLM 4107 is a 7W Cree/Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for energy-efficient, flexible interior lighting.",
-      "details": {
-        "Product Details": "Operating on DC 48V, this 7W fixture delivers smooth, stable, and controllable light with low power consumption.",
-        "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
-        "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
-        "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
-      },
-      "specifications": {
-        "Model Number": "SLM 4107",
-        "Watt": "7W",
-        "LED": "Cree / Osram",
-        "CCT": "2700K–6500K",
-        "Input Voltage": "DC 48V",
-        "Warranty": "2 Years"
-        
-      },
-      "images": [
-         "assets/img/magnetic/mg-use-13.jpg",
+    "specifications": {
+      "Model Number": "SLM 4107",
+      "Watt": "7W",
+      "LED": "Cree / Osram",
+      "CCT": "2700K–6500K",
+      "Input Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mg-use-13.jpg",
       "assets/img/magnetic/mg-20.jpg"
-      ]
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Smart Tuneable & Dimmable Magnetic Light",
+    "model": "SLM 4112",
+    "description": "The SLM 4112 is a 12W Cree/Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for offices, homes, and commercial interiors requiring flexible lighting.",
+    "details": {
+      "Product Details": "Operating on DC 48V, this 12W fixture delivers smooth, stable, and controllable light with low power consumption.",
+      "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
+      "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
+      "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
     },
-    {
-        "id": 47,
-  "title": "Smart Tuneable & Dimmable Magnetic Light",
-      "model": "SLM 4112",
-      "description": "The SLM 4112 is a 12W Cree/Osram magnetic light with tuneable CCT and dimmable functionality. Ideal for offices, homes, and commercial interiors requiring flexible lighting.",
-      "details": {
-        "Product Details": "Operating on DC 48V, this 12W fixture delivers smooth, stable, and controllable light with low power consumption.",
-        "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
-        "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
-        "Versatile Application": "Perfect for offices, homes, galleries, and retail spaces needing flexible, energy-efficient lighting."
-      },
-      "specifications": {
-        "Model Number": "SLM 4112",
-        "Watt": "12W",
-        "LED": "Cree / Osram",
-        "CCT": "2700K–6500K",
-        "Input Voltage": "DC 48V",
-        "Warranty": "2 Years"
-        
-      },
-      "images": [
-         "assets/img/magnetic/mg-use-15.jpg",
+    "specifications": {
+      "Model Number": "SLM 4112",
+      "Watt": "12W",
+      "LED": "Cree / Osram",
+      "CCT": "2700K–6500K",
+      "Input Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mg-use-15.jpg",
       "assets/img/magnetic/mg-21.jpg"
-      ]
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Smart Tuneable & Dimmable Magnetic Light",
+    "model": "SL M 4109",
+    "description": "The SL M 4109 is a 7W Osram magnetic light with tuneable CCT and dimmable functionality. Designed For Offline Control via remote or luxury wireless switch, ideal for modern interiors requiring adjustable and energy-efficient illumination.",
+    "details": {
+      "Product Details": "Operating on DC 48V, this 7W fixture delivers smooth, stable, and controllable light with low power consumption.",
+      "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
+      "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
+      "Control Features": "Supports offline control with remote control or luxury wireless switch."
     },
-    {
-  "id": 48,
-  "title": "Smart Tuneable & Dimmable Magnetic Light",
-      "model": "SL M 4109",
-      "description": "The SL M 4109 is a 7W Osram magnetic light with tuneable CCT and dimmable functionality. Designed For Offline Control via remote or luxury wireless switch, ideal for modern interiors requiring adjustable and energy-efficient illumination.",
-      "details": {
-        "Product Details": "Operating on DC 48V, this 7W fixture delivers smooth, stable, and controllable light with low power consumption.",
-        "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
-        "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
-        "Control Features": "Supports offline control with remote control or luxury wireless switch."
-      },
-      "specifications": {
-        "Model Number": "SL M 4109",
-        "Watt": "7W",
-        "LED": "Osram",
-        "CCT": "2700K–6500K",
-        "Input Voltage": "DC 48V",
-        "Warranty": "2 Years"
-        
-      },
-      "images": [
-         "assets/img/magnetic/mg-use-11.jpg",
+    "specifications": {
+      "Model Number": "SL M 4109",
+      "Watt": "7W",
+      "LED": "Osram",
+      "CCT": "2700K–6500K",
+      "Input Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mg-use-11.jpg",
       "assets/img/magnetic/mg-13.jpg"
-      ]
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Smart Tuneable & Dimmable Magnetic Light",
+    "model": "SL M 4110",
+    "description": "The SL M 4110 is a 12W Osram magnetic light with tuneable CCT and dimmable functionality. Designed For Online Control via wireless gateway or luxury wireless switch, ideal for smart and energy-efficient interiors.",
+    "details": {
+      "Product Details": "Operating on DC 48V, this 12W fixture delivers smooth, stable, and controllable light with low power consumption.",
+      "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
+      "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
+      "Control Features": "Supports online control with wireless gateway, luxury wireless switch, and remote control."
     },
-    {
-        "id": 49,
-  "title": "Smart Tuneable & Dimmable Magnetic Light",
-      "model": "SL M 4110",
-      "description": "The SL M 4110 is a 12W Osram magnetic light with tuneable CCT and dimmable functionality. Designed For Online Control via wireless gateway or luxury wireless switch, ideal for smart and energy-efficient interiors.",
-      "details": {
-        "Product Details": "Operating on DC 48V, this 12W fixture delivers smooth, stable, and controllable light with low power consumption.",
-        "Premium Construction": "Durable magnetic mounting allows easy installation and repositioning. Minimalistic design integrates seamlessly into contemporary interiors.",
-        "Lighting Performance": "CCT range of 2700K–6500K with dimmable feature provides customizable, glare-free illumination suitable for different moods and tasks.",
-        "Control Features": "Supports online control with wireless gateway, luxury wireless switch, and remote control."
-      },
-      "specifications": {
-        "Model Number": "SL M 4110",
-        "Watt": "12W",
-        "LED": "Osram",
-        "CCT": "2700K–6500K",
-        "Input Voltage": "DC 48V",
-        "Warranty": "2 Years"
-        
-      },
-      "images": [
-          "assets/img/magnetic/mg-use-11.jpg",
+    "specifications": {
+      "Model Number": "SL M 4110",
+      "Watt": "12W",
+      "LED": "Osram",
+      "CCT": "2700K–6500K",
+      "Input Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mg-use-11.jpg",
       "assets/img/magnetic/mggg-2.jpg"
-      ]
-    },
-    
+    ]
+  },
   {
     "id": 50,
     "title": "Magnetic Lights Accessories",
@@ -1228,7 +1210,6 @@
     "specifications": {
       "Model Number": "V-10 Surface-2.0 Magnetic Channel",
       "Warranty": "2 Years"
-      
     },
     "images": [
       "assets/img/magnetic/p-1.jpg"
@@ -1248,7 +1229,6 @@
     "specifications": {
       "Model Number": "V-10 Recessed-2.0 Magnetic Channel",
       "Warranty": "2 Years"
-      
     },
     "images": [
       "assets/img/magnetic/p-2.jpg"
@@ -1268,7 +1248,6 @@
     "specifications": {
       "Model Number": "V-10 Chimney-2.0 Deep Recessed",
       "Warranty": "2 Years"
-      
     },
     "images": [
       "assets/img/magnetic/p-3.jpg"
@@ -1288,7 +1267,6 @@
     "specifications": {
       "Model Number": "SLM 2104-2.0 Trimless Recessed Magnetic Channel",
       "Warranty": "2 Years"
-      
     },
     "images": [
       "assets/img/magnetic/p-4.jpg"
@@ -1308,7 +1286,6 @@
     "specifications": {
       "Model Number": "SLM 2454 Mini Trimless Recessed Magnetic Channel",
       "Warranty": "2 Years",
-      
       "Note": "Low Height"
     },
     "images": [
@@ -1329,7 +1306,6 @@
     "specifications": {
       "Model Number": "SLM 2400 Trimless Recessed Magnetic Channel",
       "Warranty": "2 Years"
-      
     },
     "images": [
       "assets/img/magnetic/p-6.jpg"
@@ -1450,327 +1426,326 @@
     ]
   },
   {
-  "id": 62,
-  "title": "Premium Magnetic Lights Accessories",
-  "model": "Power Connector",
-  "description": "The Power Connector is a vital accessory for magnetic lighting systems, designed to deliver reliable and efficient electrical connectivity. It ensures uninterrupted power distribution across tracks, enhancing both safety and performance.",
-  "details": {
-    "Product Details": "Essential component for supplying power to magnetic track lighting systems with ease.",
-    "Premium Construction": "Durable and high-quality build to ensure long-lasting functionality and safety.",
-    "Lighting Performance": "Provides consistent electrical flow across connected magnetic lights.",
-    "Versatile Application": "Widely used in commercial, residential, and retail projects to maintain reliable lighting."
+    "id": 62,
+    "title": "Premium Magnetic Lights Accessories",
+    "model": "Power Connector",
+    "description": "The Power Connector is a vital accessory for magnetic lighting systems, designed to deliver reliable and efficient electrical connectivity. It ensures uninterrupted power distribution across tracks, enhancing both safety and performance.",
+    "details": {
+      "Product Details": "Essential component for supplying power to magnetic track lighting systems with ease.",
+      "Premium Construction": "Durable and high-quality build to ensure long-lasting functionality and safety.",
+      "Lighting Performance": "Provides consistent electrical flow across connected magnetic lights.",
+      "Versatile Application": "Widely used in commercial, residential, and retail projects to maintain reliable lighting."
+    },
+    "specifications": {
+      "Model Number": "Power Connector",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mm-7.jpg"
+    ]
   },
-  "specifications": {
-    "Model Number": "Power Connector",
-    "Warranty": "2 Years"
+  {
+    "id": 63,
+    "title": "Premium Magnetic Lights Accessories",
+    "model": "Internal Corner L Track Wire Jointer",
+    "description": "The Internal Corner L Track Wire Jointer is engineered to connect two magnetic tracks at a 90° internal angle. It guarantees strong electrical conduction and a neat, professional finish for complex lighting layouts.",
+    "details": {
+      "Product Details": "Specially designed for connecting magnetic tracks at internal 90° corners.",
+      "Premium Construction": "Manufactured with high-strength materials for secure and long-lasting joints.",
+      "Lighting Performance": "Maintains uninterrupted current flow and stable lighting across corner joints.",
+      "Versatile Application": "Perfect for retail stores, galleries, offices, and luxury interiors requiring angled layouts."
+    },
+    "specifications": {
+      "Model Number": "Internal Corner L Track Wire Jointer",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mm-8.jpg"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/mm-7.jpg"
-  ]
-},
-{
-  "id": 63,
-  "title": "Premium Magnetic Lights Accessories",
-  "model": "Internal Corner L Track Wire Jointer",
-  "description": "The Internal Corner L Track Wire Jointer is engineered to connect two magnetic tracks at a 90° internal angle. It guarantees strong electrical conduction and a neat, professional finish for complex lighting layouts.",
-  "details": {
-    "Product Details": "Specially designed for connecting magnetic tracks at internal 90° corners.",
-    "Premium Construction": "Manufactured with high-strength materials for secure and long-lasting joints.",
-    "Lighting Performance": "Maintains uninterrupted current flow and stable lighting across corner joints.",
-    "Versatile Application": "Perfect for retail stores, galleries, offices, and luxury interiors requiring angled layouts."
+  {
+    "id": 64,
+    "title": "Premium Magnetic Lights Accessories",
+    "model": "Live End With 4 Wire",
+    "description": "The Live End With 4 Wire is a robust accessory that provides a reliable live current input for magnetic tracks. It supports efficient and safe installations while ensuring continuous current flow across the system.",
+    "details": {
+      "Product Details": "Accessory for providing power input to magnetic track systems.",
+      "Premium Construction": "Designed with high-grade components for durability and reliability.",
+      "Lighting Performance": "Delivers consistent electrical current for smooth operation of connected lights.",
+      "Versatile Application": "Commonly applied in residential, office, and commercial lighting installations."
+    },
+    "specifications": {
+      "Model Number": "Live End With 4 Wire",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mm-9.jpg"
+    ]
   },
-  "specifications": {
-    "Model Number": "Internal Corner L Track Wire Jointer",
-    "Warranty": "2 Years"
+  {
+    "id": 65,
+    "title": "Premium Magnetic Lights Accessories",
+    "model": "Internal Track Straight Jointer",
+    "description": "The Internal Track Straight Jointer is designed to seamlessly connect two straight magnetic tracks. It ensures strong alignment and reliable conductivity, making it ideal for extended track systems.",
+    "details": {
+      "Product Details": "Accessory to join straight tracks while maintaining electrical flow.",
+      "Premium Construction": "High-quality build ensures longevity and stability in installations.",
+      "Lighting Performance": "Provides smooth current transfer across straight joints without flicker.",
+      "Versatile Application": "Used in retail, offices, and galleries where long magnetic track runs are required."
+    },
+    "specifications": {
+      "Model Number": "Internal Track Straight Jointer",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mm-10.jpg"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/mm-8.jpg"
-  ]
-},
-{
-  "id": 64,
-  "title": "Premium Magnetic Lights Accessories",
-  "model": "Live End With 4 Wire",
-  "description": "The Live End With 4 Wire is a robust accessory that provides a reliable live current input for magnetic tracks. It supports efficient and safe installations while ensuring continuous current flow across the system.",
-  "details": {
-    "Product Details": "Accessory for providing power input to magnetic track systems.",
-    "Premium Construction": "Designed with high-grade components for durability and reliability.",
-    "Lighting Performance": "Delivers consistent electrical current for smooth operation of connected lights.",
-    "Versatile Application": "Commonly applied in residential, office, and commercial lighting installations."
+  {
+    "id": 66,
+    "title": "Premium Magnetic Lights Accessories",
+    "model": "External Track Jointer",
+    "description": "The External Track Jointer connects magnetic tracks externally, ensuring precise alignment and reliable power transfer. It is perfect for versatile installations requiring extended layouts.",
+    "details": {
+      "Product Details": "Accessory made to connect external joints of magnetic tracks securely.",
+      "Premium Construction": "Durable construction ensures safe and long-term usage.",
+      "Lighting Performance": "Maintains stable electrical flow across externally connected tracks.",
+      "Versatile Application": "Suitable for flexible track layouts in modern interior and architectural designs."
+    },
+    "specifications": {
+      "Model Number": "External Track Jointer",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mm-11.jpg"
+    ]
   },
-  "specifications": {
-    "Model Number": "Live End With 4 Wire",
-    "Warranty": "2 Years"
+  {
+    "id": 67,
+    "title": "Premium Magnetic Lights Accessories",
+    "model": "End Cap",
+    "description": "The End Cap is a finishing accessory that protects exposed track ends while giving the system a neat and professional appearance. It enhances safety and aesthetics in magnetic lighting installations.",
+    "details": {
+      "Product Details": "Protects exposed ends of magnetic tracks with a seamless finish.",
+      "Premium Construction": "Made with durable materials to ensure longevity and safety.",
+      "Lighting Performance": "Improves safety by preventing accidental exposure of electrical ends.",
+      "Versatile Application": "Used in residential, retail, and office lighting for polished designs."
+    },
+    "specifications": {
+      "Model Number": "End Cap",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mm-12.jpg"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/mm-9.jpg"
-  ]
-},
-{
-  "id": 65,
-  "title": "Premium Magnetic Lights Accessories",
-  "model": "Internal Track Straight Jointer",
-  "description": "The Internal Track Straight Jointer is designed to seamlessly connect two straight magnetic tracks. It ensures strong alignment and reliable conductivity, making it ideal for extended track systems.",
-  "details": {
-    "Product Details": "Accessory to join straight tracks while maintaining electrical flow.",
-    "Premium Construction": "High-quality build ensures longevity and stability in installations.",
-    "Lighting Performance": "Provides smooth current transfer across straight joints without flicker.",
-    "Versatile Application": "Used in retail, offices, and galleries where long magnetic track runs are required."
+  {
+    "id": 68,
+    "title": "Premium Magnetic Lights Accessories",
+    "model": "V-10 Recessed Mounting Clip",
+    "description": "The V-10 Recessed Mounting Clip is a reliable fixture for securing recessed magnetic tracks. It ensures proper alignment and long-lasting installation integrity.",
+    "details": {
+      "Product Details": "Mounting clip for recessed magnetic channels to hold tracks securely.",
+      "Premium Construction": "Engineered for strength and precision to maintain stability.",
+      "Lighting Performance": "Supports optimal track positioning for consistent lighting effects.",
+      "Versatile Application": "Ideal for professional recessed installations in showrooms, offices, and homes."
+    },
+    "specifications": {
+      "Model Number": "V-10 Recessed Mounting Clip",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mm-13.jpg"
+    ]
   },
-  "specifications": {
-    "Model Number": "Internal Track Straight Jointer",
-    "Warranty": "2 Years"
+  {
+    "id": 69,
+    "title": "Premium Magnetic Lights Accessories",
+    "model": "Suspension Set With 2 Mtr PVC Coated Wire",
+    "description": "The Suspension Set is designed to hang magnetic track systems securely from ceilings. With a 2-meter PVC coated wire, it offers durability, flexibility, and enhanced safety during installation.",
+    "details": {
+      "Product Details": "Complete suspension kit to mount magnetic tracks from ceilings.",
+      "Premium Construction": "Includes PVC coated wire for strength and longevity.",
+      "Lighting Performance": "Ensures stable suspended installations without compromising performance.",
+      "Versatile Application": "Widely used in retail showrooms, exhibition spaces, and modern interiors."
+    },
+    "specifications": {
+      "Model Number": "Suspension Set With 2 Mtr PVC Coated Wire",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/mm-14.jpg"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/mm-10.jpg"
-  ]
-},
-{
-  "id": 66,
-  "title": "Premium Magnetic Lights Accessories",
-  "model": "External Track Jointer",
-  "description": "The External Track Jointer connects magnetic tracks externally, ensuring precise alignment and reliable power transfer. It is perfect for versatile installations requiring extended layouts.",
-  "details": {
-    "Product Details": "Accessory made to connect external joints of magnetic tracks securely.",
-    "Premium Construction": "Durable construction ensures safe and long-term usage.",
-    "Lighting Performance": "Maintains stable electrical flow across externally connected tracks.",
-    "Versatile Application": "Suitable for flexible track layouts in modern interior and architectural designs."
+  {
+    "id": 70,
+    "title": "Premium Smart Magnetic SMPS",
+    "model": "MGT 48-100",
+    "description": "The MGT 48-100 Smart Magnetic SMPS is a reliable and efficient power supply unit designed for magnetic lighting systems. With its stable DC output and compact design, it ensures consistent performance for both residential and commercial lighting applications.",
+    "details": {
+      "Product Details": "High-quality SMPS engineered to deliver 100W power with consistent output for magnetic track lights.",
+      "Premium Construction": "Built with durable components ensuring long-lasting performance and safety compliance.",
+      "Performance": "Maintains stable DC 48V output, ensuring uninterrupted lighting performance without flicker.",
+      "Applications": "Ideal for use in luxury homes, offices, hotels, and retail showrooms."
+    },
+    "specifications": {
+      "Model Number": "MGT 48-100",
+      "Wattage": "100W",
+      "Input Voltage": "AC 185V-265V",
+      "Output Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/ch-5.jpg",
+      "assets/img/magnetic/ch-use.jpg"
+    ]
   },
-  "specifications": {
-    "Model Number": "External Track Jointer",
-    "Warranty": "2 Years"
+  {
+    "id": 71,
+    "title": "Premium Smart Magnetic SMPS",
+    "model": "MGT 48-200",
+    "description": "The MGT 48-200 Smart Magnetic SMPS delivers powerful 200W output, designed to handle larger magnetic lighting setups with efficiency and reliability. It provides excellent thermal management and ensures smooth operation for extended periods.",
+    "details": {
+      "Product Details": "Advanced SMPS that offers a robust 200W power supply for heavy-duty lighting installations.",
+      "Premium Construction": "Crafted with high-grade components for durability, safety, and long service life.",
+      "Performance": "Ensures consistent 48V DC output with superior load regulation and efficiency.",
+      "Applications": "Perfect for high-end projects such as malls, galleries, hospitality lighting, and architectural spaces."
+    },
+    "specifications": {
+      "Model Number": "MGT 48-200",
+      "Wattage": "200W",
+      "Input Voltage": "AC 185V-265V",
+      "Output Voltage": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/ch-6.jpg",
+      "assets/img/magnetic/ch-use.jpg"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/mm-11.jpg"
-  ]
-},
-{
-  "id": 67,
-  "title": "Premium Magnetic Lights Accessories",
-  "model": "End Cap",
-  "description": "The End Cap is a finishing accessory that protects exposed track ends while giving the system a neat and professional appearance. It enhances safety and aesthetics in magnetic lighting installations.",
-  "details": {
-    "Product Details": "Protects exposed ends of magnetic tracks with a seamless finish.",
-    "Premium Construction": "Made with durable materials to ensure longevity and safety.",
-    "Lighting Performance": "Improves safety by preventing accidental exposure of electrical ends.",
-    "Versatile Application": "Used in residential, retail, and office lighting for polished designs."
+  {
+    "id": 72,
+    "title": "Magnetic Channel Accessories",
+    "model": "SL WY 5345-2",
+    "description": "The SL WY 5345-2 Magnetic Channel is a premium accessory designed for modern lighting installations. With its sleek dimensions and durable build, it ensures stability and seamless integration with magnetic lighting systems.",
+    "details": {
+      "Product Details": "High-quality magnetic channel built for versatile applications and smooth installation.",
+      "Premium Construction": "Manufactured with strong materials for durability and long-term reliability.",
+      "Design": "Compact design with precise measurements, making it ideal for architectural lighting layouts.",
+      "Applications": "Suitable for use in residences, hotels, offices, and showrooms."
+    },
+    "specifications": {
+      "Model Number": "SL WY 5345-2",
+      "Size": "L1000 x W53 x H45 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/ch-1.jpg"
+    ]
   },
-  "specifications": {
-    "Model Number": "End Cap",
-    "Warranty": "2 Years"
+  {
+    "id": 73,
+    "title": "Magnetic Channel Accessories",
+    "model": "SL5345 L Jointer",
+    "description": "The SL5345 L Jointer is designed to connect magnetic channels at 90° angles, providing strong support and uninterrupted electrical connectivity. Its compact build ensures clean alignment in architectural spaces.",
+    "details": {
+      "Product Details": "Efficient connector for creating L-shaped channel joints with precision.",
+      "Premium Construction": "Durable and safe design ensuring long-lasting performance.",
+      "Performance": "Guarantees uninterrupted current flow and structural support.",
+      "Applications": "Best suited for homes, galleries, offices, and luxury interiors."
+    },
+    "specifications": {
+      "Model Number": "SL5345 L Jointer",
+      "Size": "95 x 17 x 17 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/ch-2.jpg"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/mm-12.jpg"
-  ]
-},
-{
-  "id": 68,
-  "title": "Premium Magnetic Lights Accessories",
-  "model": "V-10 Recessed Mounting Clip",
-  "description": "The V-10 Recessed Mounting Clip is a reliable fixture for securing recessed magnetic tracks. It ensures proper alignment and long-lasting installation integrity.",
-  "details": {
-    "Product Details": "Mounting clip for recessed magnetic channels to hold tracks securely.",
-    "Premium Construction": "Engineered for strength and precision to maintain stability.",
-    "Lighting Performance": "Supports optimal track positioning for consistent lighting effects.",
-    "Versatile Application": "Ideal for professional recessed installations in showrooms, offices, and homes."
+  {
+    "id": 74,
+    "title": "Magnetic Channel Accessories",
+    "model": "SL5345 L Wire Jointer",
+    "description": "The SL5345 L Wire Jointer is a specialized accessory designed to enable seamless wiring connections at 90° corners. It ensures both structural alignment and efficient power transfer for magnetic lighting systems.",
+    "details": {
+      "Product Details": "Connector designed for wiring continuity in L-shaped channel connections.",
+      "Premium Construction": "Strong and safe design that maintains electrical stability.",
+      "Performance": "Facilitates smooth current flow across corner joints.",
+      "Applications": "Widely used in hotels, offices, retail, and residential projects."
+    },
+    "specifications": {
+      "Model Number": "SL5345 L Wire Jointer",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/ch-3.jpg"
+    ]
   },
-  "specifications": {
-    "Model Number": "V-10 Recessed Mounting Clip",
-    "Warranty": "2 Years"
+  {
+    "id": 75,
+    "title": "Magnetic Channel Accessories",
+    "model": "SL 4345 | Jointer",
+    "description": "The SL 4345 Jointer is engineered to connect magnetic channels in straight or angled layouts. Its robust construction ensures seamless structural integration and stable electrical performance.",
+    "details": {
+      "Product Details": "Reliable joint accessory for extending or aligning magnetic channels.",
+      "Premium Construction": "Built with durable materials to ensure strength and precision.",
+      "Performance": "Provides uninterrupted connectivity and structural consistency.",
+      "Applications": "Commonly used in premium lighting layouts for commercial and residential projects."
+    },
+    "specifications": {
+      "Model Number": "SL 4345 | Jointer",
+      "Size": "126 x 17 x 17 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/ch-4.jpg"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/mm-13.jpg"
-  ]
-},
-{
-  "id": 69,
-  "title": "Premium Magnetic Lights Accessories",
-  "model": "Suspension Set With 2 Mtr PVC Coated Wire",
-  "description": "The Suspension Set is designed to hang magnetic track systems securely from ceilings. With a 2-meter PVC coated wire, it offers durability, flexibility, and enhanced safety during installation.",
-  "details": {
-    "Product Details": "Complete suspension kit to mount magnetic tracks from ceilings.",
-    "Premium Construction": "Includes PVC coated wire for strength and longevity.",
-    "Lighting Performance": "Ensures stable suspended installations without compromising performance.",
-    "Versatile Application": "Widely used in retail showrooms, exhibition spaces, and modern interiors."
+  {
+    "id": 76,
+    "title": "Premium Smart Magnetic SMPS",
+    "model": "MGT 6100",
+    "description": "The MGT 6100 is a high-performance 100W Smart Magnetic SMPS designed to deliver stable DC 48V output for magnetic lighting systems. With advanced safety features and durable construction, it ensures long-lasting and efficient operation.",
+    "details": {
+      "Product Details": "Smart Magnetic SMPS providing stable current flow with high energy efficiency.",
+      "Premium Construction": "Strong build quality designed for consistent long-term performance.",
+      "Safety Features": "Built-in surge and overload protection for added reliability.",
+      "Applications": "Ideal for homes, offices, hotels, and commercial lighting setups."
+    },
+    "specifications": {
+      "Model Number": "MGT 6100",
+      "Wattage": "100W",
+      "Input": "AC 185V-265V",
+      "Output": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/ch-5.jpg"
+    ]
   },
-  "specifications": {
-    "Model Number": "Suspension Set With 2 Mtr PVC Coated Wire",
-    "Warranty": "2 Years"
+  {
+    "id": 77,
+    "title": "Premium Smart Magnetic SMPS",
+    "model": "MGT 6200",
+    "description": "The MGT 6200 is a powerful 200W Smart Magnetic SMPS designed for heavy-duty applications. It delivers reliable DC 48V output, making it perfect for larger magnetic lighting installations requiring high efficiency and durability.",
+    "details": {
+      "Product Details": "200W Smart Magnetic SMPS with enhanced load capacity and stable performance.",
+      "Premium Construction": "Engineered with durable materials for demanding lighting systems.",
+      "Safety Features": "Equipped with thermal, overload, and surge protection mechanisms.",
+      "Applications": "Perfect for luxury residences, showrooms, hotels, and large-scale lighting projects."
+    },
+    "specifications": {
+      "Model Number": "MGT 6200",
+      "Wattage": "200W",
+      "Input": "AC 185V-265V",
+      "Output": "DC 48V",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/magnetic/ch-6.jpg"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/mm-14.jpg"
-  ]
-},
-{
-  "id": 70,
-  "title": "Premium Smart Magnetic SMPS",
-  "model": "MGT 48-100",
-  "description": "The MGT 48-100 Smart Magnetic SMPS is a reliable and efficient power supply unit designed for magnetic lighting systems. With its stable DC output and compact design, it ensures consistent performance for both residential and commercial lighting applications.",
-  "details": {
-    "Product Details": "High-quality SMPS engineered to deliver 100W power with consistent output for magnetic track lights.",
-    "Premium Construction": "Built with durable components ensuring long-lasting performance and safety compliance.",
-    "Performance": "Maintains stable DC 48V output, ensuring uninterrupted lighting performance without flicker.",
-    "Applications": "Ideal for use in luxury homes, offices, hotels, and retail showrooms."
-  },
-  "specifications": {
-    "Model Number": "MGT 48-100",
-    "Wattage": "100W",
-    "Input Voltage": "AC 185V-265V",
-    "Output Voltage": "DC 48V",
-    "Warranty": "2 Years"
-  },
-  "images": [
-    "assets/img/magnetic/ch-5.jpg",
-    "assets/img/magnetic/ch-use.jpg"
-  ]
-},
-{
-  "id": 71,
-  "title": "Premium Smart Magnetic SMPS",
-  "model": "MGT 48-200",
-  "description": "The MGT 48-200 Smart Magnetic SMPS delivers powerful 200W output, designed to handle larger magnetic lighting setups with efficiency and reliability. It provides excellent thermal management and ensures smooth operation for extended periods.",
-  "details": {
-    "Product Details": "Advanced SMPS that offers a robust 200W power supply for heavy-duty lighting installations.",
-    "Premium Construction": "Crafted with high-grade components for durability, safety, and long service life.",
-    "Performance": "Ensures consistent 48V DC output with superior load regulation and efficiency.",
-    "Applications": "Perfect for high-end projects such as malls, galleries, hospitality lighting, and architectural spaces."
-  },
-  "specifications": {
-    "Model Number": "MGT 48-200",
-    "Wattage": "200W",
-    "Input Voltage": "AC 185V-265V",
-    "Output Voltage": "DC 48V",
-    "Warranty": "2 Years"
-  },
-  "images": [
-    "assets/img/magnetic/ch-6.jpg",
-    "assets/img/magnetic/ch-use.jpg"
-  ]
-},
-{
-  "id": 72,
-  "title": "Magnetic Channel Accessories",
-  "model": "SL WY 5345-2",
-  "description": "The SL WY 5345-2 Magnetic Channel is a premium accessory designed for modern lighting installations. With its sleek dimensions and durable build, it ensures stability and seamless integration with magnetic lighting systems.",
-  "details": {
-    "Product Details": "High-quality magnetic channel built for versatile applications and smooth installation.",
-    "Premium Construction": "Manufactured with strong materials for durability and long-term reliability.",
-    "Design": "Compact design with precise measurements, making it ideal for architectural lighting layouts.",
-    "Applications": "Suitable for use in residences, hotels, offices, and showrooms."
-  },
-  "specifications": {
-    "Model Number": "SL WY 5345-2",
-    "Size": "L1000 x W53 x H45 mm",
-    "Warranty": "2 Years"
-  },
-  "images": [
-    "assets/img/magnetic/ch-1.jpg"
-  ]
-},
-{
-  "id": 73,
-  "title": "Magnetic Channel Accessories",
-  "model": "SL5345 L Jointer",
-  "description": "The SL5345 L Jointer is designed to connect magnetic channels at 90° angles, providing strong support and uninterrupted electrical connectivity. Its compact build ensures clean alignment in architectural spaces.",
-  "details": {
-    "Product Details": "Efficient connector for creating L-shaped channel joints with precision.",
-    "Premium Construction": "Durable and safe design ensuring long-lasting performance.",
-    "Performance": "Guarantees uninterrupted current flow and structural support.",
-    "Applications": "Best suited for homes, galleries, offices, and luxury interiors."
-  },
-  "specifications": {
-    "Model Number": "SL5345 L Jointer",
-    "Size": "95 x 17 x 17 mm",
-    "Warranty": "2 Years"
-  },
-  "images": [
-    "assets/img/magnetic/ch-2.jpg"
-  ]
-},
-{
-  "id": 74,
-  "title": "Magnetic Channel Accessories",
-  "model": "SL5345 L Wire Jointer",
-  "description": "The SL5345 L Wire Jointer is a specialized accessory designed to enable seamless wiring connections at 90° corners. It ensures both structural alignment and efficient power transfer for magnetic lighting systems.",
-  "details": {
-    "Product Details": "Connector designed for wiring continuity in L-shaped channel connections.",
-    "Premium Construction": "Strong and safe design that maintains electrical stability.",
-    "Performance": "Facilitates smooth current flow across corner joints.",
-    "Applications": "Widely used in hotels, offices, retail, and residential projects."
-  },
-  "specifications": {
-    "Model Number": "SL5345 L Wire Jointer",
-    "Warranty": "2 Years"
-  },
-  "images": [
-    "assets/img/magnetic/ch-3.jpg"
-  ]
-},
-{
-  "id": 75,
-  "title": "Magnetic Channel Accessories",
-  "model": "SL 4345 | Jointer",
-  "description": "The SL 4345 Jointer is engineered to connect magnetic channels in straight or angled layouts. Its robust construction ensures seamless structural integration and stable electrical performance.",
-  "details": {
-    "Product Details": "Reliable joint accessory for extending or aligning magnetic channels.",
-    "Premium Construction": "Built with durable materials to ensure strength and precision.",
-    "Performance": "Provides uninterrupted connectivity and structural consistency.",
-    "Applications": "Commonly used in premium lighting layouts for commercial and residential projects."
-  },
-  "specifications": {
-    "Model Number": "SL 4345 | Jointer",
-    "Size": "126 x 17 x 17 mm",
-    "Warranty": "2 Years"
-  },
-  "images": [
-    "assets/img/magnetic/ch-4.jpg"
-  ]
-},
-{
-  "id": 76,
-  "title": "Premium Smart Magnetic SMPS",
-  "model": "MGT 6100",
-  "description": "The MGT 6100 is a high-performance 100W Smart Magnetic SMPS designed to deliver stable DC 48V output for magnetic lighting systems. With advanced safety features and durable construction, it ensures long-lasting and efficient operation.",
-  "details": {
-    "Product Details": "Smart Magnetic SMPS providing stable current flow with high energy efficiency.",
-    "Premium Construction": "Strong build quality designed for consistent long-term performance.",
-    "Safety Features": "Built-in surge and overload protection for added reliability.",
-    "Applications": "Ideal for homes, offices, hotels, and commercial lighting setups."
-  },
-  "specifications": {
-    "Model Number": "MGT 6100",
-    "Wattage": "100W",
-    "Input": "AC 185V-265V",
-    "Output": "DC 48V",
-    "Warranty": "2 Years"
-  },
-  "images": [
-    "assets/img/magnetic/ch-5.jpg"
-  ]
-},
-{
-  "id": 77,
-  "title": "Premium Smart Magnetic SMPS",
-  "model": "MGT 6200",
-  "description": "The MGT 6200 is a powerful 200W Smart Magnetic SMPS designed for heavy-duty applications. It delivers reliable DC 48V output, making it perfect for larger magnetic lighting installations requiring high efficiency and durability.",
-  "details": {
-    "Product Details": "200W Smart Magnetic SMPS with enhanced load capacity and stable performance.",
-    "Premium Construction": "Engineered with durable materials for demanding lighting systems.",
-    "Safety Features": "Equipped with thermal, overload, and surge protection mechanisms.",
-    "Applications": "Perfect for luxury residences, showrooms, hotels, and large-scale lighting projects."
-  },
-  "specifications": {
-    "Model Number": "MGT 6200",
-    "Wattage": "200W",
-    "Input": "AC 185V-265V",
-    "Output": "DC 48V",
-    "Warranty": "2 Years"
-  },
-  "images": [
-    "assets/img/magnetic/ch-6.jpg"
-  ]
-},
-
   {
     "id": 78,
     "title": "Magnetic Smart Light System",
@@ -1792,10 +1767,9 @@
       "Body Color": "Black"
     },
     "images": [
-    "assets/img/zz-indoor/mg-78.png"
+      "assets/img/zz-indoor/mg-78.png"
     ]
   },
-
   {
     "id": 79,
     "title": "Magnetic Smart Light System",
@@ -1848,7 +1822,6 @@
       "assets/img/zz-indoor/mg-80.png"
     ]
   },
-  
   {
     "id": 81,
     "title": "Magnetic Smart Light System",
@@ -1898,10 +1871,9 @@
       "LED": "Cree / Osram"
     },
     "images": [
-     "assets/img/zz-indoor/mg-82.png"
+      "assets/img/zz-indoor/mg-82.png"
     ]
   },
-  
   {
     "id": 83,
     "title": "Magnetic Smart Light System",
@@ -2000,7 +1972,7 @@
       "LED": "Cree/Osram"
     },
     "images": [
-     "assets/img/zz-indoor/mg-86.png"
+      "assets/img/zz-indoor/mg-86.png"
     ]
   },
   {
@@ -2025,7 +1997,7 @@
       "LED": "Cree/Osram"
     },
     "images": [
-     "assets/img/zz-indoor/mg-87.png"
+      "assets/img/zz-indoor/mg-87.png"
     ]
   },
   {
@@ -2050,7 +2022,7 @@
       "LED": "Cree/Osram"
     },
     "images": [
-     "assets/img/zz-indoor/mg-88.png"
+      "assets/img/zz-indoor/mg-88.png"
     ]
   },
   {
@@ -2075,11 +2047,9 @@
       "LED": "Cree/Osram"
     },
     "images": [
-     "assets/img/zz-indoor/mg-89.png"
+      "assets/img/zz-indoor/mg-89.png"
     ]
   },
-
-
   {
     "id": 91,
     "title": "Round Shape Magnetic Track Light",
@@ -2092,11 +2062,11 @@
       "Versatile Application": "Ideal for retail stores, art galleries, offices, showrooms, and modern homes. Its adjustable lighting angle makes it perfect for highlighting artworks, displays, or architectural features with precision."
     },
     "specifications": {
-    "Model": "SLV2104 Trimless Recessed",
-    "Body Color": "Black",
-    "Material": "Aluminium",
-    "Size": "600, 900, 1200 mm"
-  },
+      "Model": "SLV2104 Trimless Recessed",
+      "Body Color": "Black",
+      "Material": "Aluminium",
+      "Size": "600, 900, 1200 mm"
+    },
     "images": [
       "assets/img/all-in-details-img/c-8.jpeg",
       "assets/img/Indoor-light-img/round-magnetic-light/c-3.png",
@@ -2107,7 +2077,8 @@
       "assets/img/all-in-details-img/c-6.png",
       "assets/img/all-in-details-img/c-10.jpg"
     ]
-  }, {
+  },
+  {
     "id": 92,
     "title": "Round Shape Magnetic Track Light",
     "model": "Model: SLV11 Surface/Hanging",
@@ -2119,40 +2090,40 @@
       "Versatile Application": "Ideal for retail stores, art galleries, offices, showrooms, and modern homes. Its adjustable lighting angle makes it perfect for highlighting artworks, displays, or architectural features with precision."
     },
     "specifications": {
-    "Model": "SLV11 Surface/ Hanging",
-    "Body Color": "BK",
-    "Material": "Aluminium",
-    "Size": "600, 900, 1200 mm"
-  },
+      "Model": "SLV11 Surface/ Hanging",
+      "Body Color": "BK",
+      "Material": "Aluminium",
+      "Size": "600, 900, 1200 mm"
+    },
     "images": [
       "assets/img/Indoor-light-img/round-magnetic-light/c-11.png",
-      "assets/img/Indoor-light-img/round-magnetic-light/h-1.png",  
+      "assets/img/Indoor-light-img/round-magnetic-light/h-1.png",
       "assets/img/Indoor-light-img/round-magnetic-light/c-13.png",
       "assets/img/Indoor-light-img/round-magnetic-light/c-12.png",
       "assets/img/Indoor-light-img/round-magnetic-light/c-14.jpeg",
       "assets/img/Indoor-light-img/round-magnetic-light/magnetic-hanging.jpg"
-    
     ]
-  }, {
+  },
+  {
     "id": 93,
     "title": "Curve Shape Magnetic Track Light",
     "model": "",
     "description": "The New Generation Curved Shape Magnetic Light is a futuristic indoor lighting solution that combines artistic curves with advanced magnetic technology. Its elegant flowing design and smooth illumination bring a modern, luxurious touch to interiors. Designed for flexibility, it allows dynamic layouts and creative lighting patterns in homes, offices, galleries, and showrooms.",
-  "details": {
-    "Product Details": "The Curved Shape Magnetic Light introduces a new dimension in lighting design with its arc-shaped profile. Its trimless, minimal aesthetic blends seamlessly into interiors, while the magnetic system allows effortless repositioning and flexible layouts without tools.",
-    "Premium Construction": "Crafted from high-quality aluminum with a durable powder-coated finish for excellent heat dissipation and strength. Integrated with advanced LED technology, it ensures bright, energy-efficient, and long-lasting illumination, while the curved form adds a futuristic design element.",
-    "Easy Installation": "The magnetic track mechanism makes installation simple and tool-free. Just place the fixture onto the magnetic rail, and it locks firmly in place. Adjustments and repositioning can be done anytime with ease, giving complete freedom in lighting design.",
-    "Versatile Application": "Perfect for luxury homes, retail outlets, hotels, art galleries, offices, and creative studios. The curved design allows architects and designers to create flowing arcs, unique light patterns, and immersive ambiences that enhance both functionality and style."
- },
+    "details": {
+      "Product Details": "The Curved Shape Magnetic Light introduces a new dimension in lighting design with its arc-shaped profile. Its trimless, minimal aesthetic blends seamlessly into interiors, while the magnetic system allows effortless repositioning and flexible layouts without tools.",
+      "Premium Construction": "Crafted from high-quality aluminum with a durable powder-coated finish for excellent heat dissipation and strength. Integrated with advanced LED technology, it ensures bright, energy-efficient, and long-lasting illumination, while the curved form adds a futuristic design element.",
+      "Easy Installation": "The magnetic track mechanism makes installation simple and tool-free. Just place the fixture onto the magnetic rail, and it locks firmly in place. Adjustments and repositioning can be done anytime with ease, giving complete freedom in lighting design.",
+      "Versatile Application": "Perfect for luxury homes, retail outlets, hotels, art galleries, offices, and creative studios. The curved design allows architects and designers to create flowing arcs, unique light patterns, and immersive ambiences that enhance both functionality and style."
+    },
     "specifications": {
-    "Model": " SL",
-    "Body Color": "BK",
-    "Material": "Aluminium"
-  },
+      "Model": " SL",
+      "Body Color": "BK",
+      "Material": "Aluminium"
+    },
     "images": [
       "assets/img/Indoor-light-img/round-magnetic-light/cr-1.png",
       "assets/img/Indoor-light-img/round-magnetic-light/c-12.png",
-      "assets/img/Indoor-light-img/round-magnetic-light/crv-1.jpeg",      
+      "assets/img/Indoor-light-img/round-magnetic-light/crv-1.jpeg",
       "assets/img/Indoor-light-img/round-magnetic-light/curve1.png",
       "assets/img/Indoor-light-img/round-magnetic-light/crv-2.jpeg",
       "assets/img/Indoor-light-img/round-magnetic-light/crv-3.jpeg",
@@ -2161,63 +2132,770 @@
     ]
   },
   {
-  "id": 94,
-  "title": "For Offline Control",
-  "model": "Remote Control",
-  "description": "For Offline Control is a reliable and user-friendly remote control solution designed to manage devices without internet connectivity. Its compact and ergonomic design ensures comfortable handling while offering precise control over connected appliances. Perfect for homes, offices, and industrial setups.",
-  "details": {
-    "Product Details": "For Offline Control provides seamless device operation offline. With intuitive buttons and clear labeling, users can easily operate multiple functions without technical knowledge.",
-    "Premium Construction": "Built with durable, high-quality materials to ensure longevity and resistance to daily wear and tear. Lightweight yet robust, making it suitable for frequent use.",
-    "Easy Installation": "No installation or configuration needed. Simply pair the remote with compatible devices and start controlling instantly.",
-    "Versatile Application": "Ideal for controlling lighting systems, fans, home appliances, and other electronic devices in homes, offices, hotels, and commercial spaces."
+    "id": 94,
+    "title": "For Offline Control",
+    "model": "Remote Control",
+    "description": "For Offline Control is a reliable and user-friendly remote control solution designed to manage devices without internet connectivity. Its compact and ergonomic design ensures comfortable handling while offering precise control over connected appliances. Perfect for homes, offices, and industrial setups.",
+    "details": {
+      "Product Details": "For Offline Control provides seamless device operation offline. With intuitive buttons and clear labeling, users can easily operate multiple functions without technical knowledge.",
+      "Premium Construction": "Built with durable, high-quality materials to ensure longevity and resistance to daily wear and tear. Lightweight yet robust, making it suitable for frequent use.",
+      "Easy Installation": "No installation or configuration needed. Simply pair the remote with compatible devices and start controlling instantly.",
+      "Versatile Application": "Ideal for controlling lighting systems, fans, home appliances, and other electronic devices in homes, offices, hotels, and commercial spaces."
+    },
+    "specifications": {
+      "Model": "Remote Controle"
+    },
+    "images": [
+      "assets/img/magnetic/remote.png"
+    ]
   },
-  "specifications": {
-    "Model": "Remote Controle"
+  {
+    "id": 95,
+    "title": "For Offline Control ",
+    "model": "Luxury Switch (Wireless)",
+    "description": "The For Offline Control Luxury Switch (Wireless) combines elegance with advanced offline control technology. Designed for modern interiors, it provides a seamless, wireless way to operate lighting and other devices without relying on internet connectivity. Its sleek, premium finish adds a touch of sophistication to any space.",
+    "details": {
+      "Product Details": "This luxury switch offers precise offline control for multiple devices. Its wireless design ensures hassle-free operation, making it ideal for homes, offices, and commercial spaces.",
+      "Premium Construction": "Crafted from high-quality materials, the switch is durable, long-lasting, and built to withstand everyday use. The smooth, stylish surface complements contemporary interiors.",
+      "Easy Installation": "Installation is quick and simple. No wiring changes or complex setup are required—just place the switch and start using it immediately.",
+      "Versatile Application": "Perfect for modern homes, luxury offices, hotels, and other commercial spaces. The wireless design allows flexible placement and convenient device control."
+    },
+    "specifications": {
+      "Model": "Luxury Switch (Wireless)"
+    },
+    "images": [
+      "assets/img/magnetic/remote-2.png"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/remote.png"
-  ]
-},{
-  "id": 95,
-  "title": "For Offline Control ",
-  "model": "Luxury Switch (Wireless)",
-  "description": "The For Offline Control Luxury Switch (Wireless) combines elegance with advanced offline control technology. Designed for modern interiors, it provides a seamless, wireless way to operate lighting and other devices without relying on internet connectivity. Its sleek, premium finish adds a touch of sophistication to any space.",
-  "details": {
-    "Product Details": "This luxury switch offers precise offline control for multiple devices. Its wireless design ensures hassle-free operation, making it ideal for homes, offices, and commercial spaces.",
-    "Premium Construction": "Crafted from high-quality materials, the switch is durable, long-lasting, and built to withstand everyday use. The smooth, stylish surface complements contemporary interiors.",
-    "Easy Installation": "Installation is quick and simple. No wiring changes or complex setup are required—just place the switch and start using it immediately.",
-    "Versatile Application": "Perfect for modern homes, luxury offices, hotels, and other commercial spaces. The wireless design allows flexible placement and convenient device control."
+  {
+    "id": 96,
+    "title": "For Online Control",
+    "model": "Wireless Gateway",
+    "description": "The For Online Control Wireless Gateway is a cutting-edge solution for smart device management, allowing seamless online connectivity and control. It provides a reliable bridge between devices and the network, enabling remote operation and monitoring through apps or cloud services.",
+    "details": {
+      "Product Details": "This wireless gateway enables efficient online control of connected devices. It supports multiple protocols and ensures stable, secure connectivity for homes, offices, and commercial setups.",
+      "Premium Construction": "Designed with high-quality components for long-lasting performance and durability. Compact and sleek design fits effortlessly into modern interiors.",
+      "Easy Installation": "Quick and straightforward setup with guided instructions. Simply connect to your network and pair devices for instant online control.",
+      "Versatile Application": "Ideal for smart homes, offices, hotels, and other spaces where centralized online device management is needed. Supports lighting, appliances, and other compatible smart devices."
+    },
+    "specifications": {
+      "Model": "Wireless Gateway"
+    },
+    "images": [
+      "assets/img/magnetic/remote-3.png"
+    ]
   },
-  "specifications": {
-    "Model": "Luxury Switch (Wireless)"
+  {
+    "id": 1086,
+    "title": "New Generation Round Shape Magnetic Track",
+    "model": "Live end with wire 100mm",
+    "description": "New Generation Round Shape Magnetic Track (Live end with wire 100mm) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "Live end with wire 100mm belongs to the New Generation Round Shape Magnetic Track series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Notes: Round Shape Magnetic Track Accessory.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "Live end with wire 100mm",
+      "Body Color": "Black"
+    },
+    "images": [
+      "assets/img/products/product_86.png"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/remote-2.png"
-  ]
-},{
-  "id": 96,
-  "title": "For Online Control",
-  "model": "Wireless Gateway",
-  "description": "The For Online Control Wireless Gateway is a cutting-edge solution for smart device management, allowing seamless online connectivity and control. It provides a reliable bridge between devices and the network, enabling remote operation and monitoring through apps or cloud services.",
-  "details": {
-    "Product Details": "This wireless gateway enables efficient online control of connected devices. It supports multiple protocols and ensures stable, secure connectivity for homes, offices, and commercial setups.",
-    "Premium Construction": "Designed with high-quality components for long-lasting performance and durability. Compact and sleek design fits effortlessly into modern interiors.",
-    "Easy Installation": "Quick and straightforward setup with guided instructions. Simply connect to your network and pair devices for instant online control.",
-    "Versatile Application": "Ideal for smart homes, offices, hotels, and other spaces where centralized online device management is needed. Supports lighting, appliances, and other compatible smart devices."
+  {
+    "id": 1087,
+    "title": "New Generation Round Shape Magnetic Track",
+    "model": "V11 Built in Curved SMPS",
+    "description": "New Generation Round Shape Magnetic Track (V11 Built in Curved SMPS) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "V11 Built in Curved SMPS belongs to the New Generation Round Shape Magnetic Track series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Notes: Suitable for all round shape magnetic track.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "V11 Built in Curved SMPS",
+      "Body Color": "Black"
+    },
+    "images": [
+      "assets/img/products/product_87.png"
+    ]
   },
-  "specifications": {
-    "Model": "Wireless Gateway"
+  {
+    "id": 1091,
+    "title": "New Generation Round Shape Magnetic Track",
+    "model": "Curved L wire jointer",
+    "description": "New Generation Round Shape Magnetic Track (Curved L wire jointer) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "Curved L wire jointer belongs to the New Generation Round Shape Magnetic Track series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Notes: Round Shape Magnetic Track Accessory.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "Curved L wire jointer",
+      "Body Color": "Black"
+    },
+    "images": [
+      "assets/img/products/product_91.png"
+    ]
   },
-  "images": [
-    "assets/img/magnetic/remote-3.png"
-  ]
-}
-
-
-
-  
-
-
-
-
+  {
+    "id": 1092,
+    "title": "New Generation Round Shape Magnetic Track",
+    "model": "Hanging wire",
+    "description": "New Generation Round Shape Magnetic Track (Hanging wire) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "Hanging wire belongs to the New Generation Round Shape Magnetic Track series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: -. Notes: Round Shape Magnetic Track Accessory.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "Hanging wire"
+    },
+    "images": [
+      "assets/img/products/product_92.png"
+    ]
+  },
+  {
+    "id": 1093,
+    "title": "New Generation Curved Shape Magnetic Track",
+    "model": "V-15/ V-16/ V-17-PC",
+    "description": "New Generation Curved Shape Magnetic Track (V-15/ V-16/ V-17-PC) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "V-15/ V-16/ V-17-PC belongs to the New Generation Curved Shape Magnetic Track series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: BK | CCT: 3000K/4000K (3000K / 4000K). Notes: Versions: ON/OFF, DALI, 1-10V, TRIAC | Suitable for: 600/ 900/ 1200MM Ring.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "V-15/ V-16/ V-17-PC",
+      "Input": "DC48V",
+      "Body Color": "BK",
+      "CCT": "3000K/4000K (3000K / 4000K)",
+      "Size": "W22*H25*L360MM",
+      "IP Rating": "IP20",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_93.png"
+    ]
+  },
+  {
+    "id": 1094,
+    "title": "New Generation Curved Shape Magnetic Track",
+    "model": "V-21/V-22/V-23-TR",
+    "description": "New Generation Curved Shape Magnetic Track (V-21/V-22/V-23-TR) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "V-21/V-22/V-23-TR belongs to the New Generation Curved Shape Magnetic Track series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: BK | CCT: 3000K/4000K (3000K / 4000K). Notes: Versions: ON/OFF, DALI, 1-10V, TRIAC | Suitable for: 600/ 900/ 1200MM Ring.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "V-21/V-22/V-23-TR",
+      "Input": "DC48V",
+      "Body Color": "BK",
+      "CCT": "3000K/4000K (3000K / 4000K)",
+      "Size": "W22*H25*L360MM",
+      "IP Rating": "IP20",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_94.png"
+    ]
+  },
+  {
+    "id": 1095,
+    "title": "New Generation Curved Shape Magnetic Track",
+    "model": "V-18/ V-19/ V-20-LB",
+    "description": "New Generation Curved Shape Magnetic Track (V-18/ V-19/ V-20-LB) — 12W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "V-18/ V-19/ V-20-LB belongs to the New Generation Curved Shape Magnetic Track series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: BK | CCT: 3000K/4000K (3000K / 4000K). Notes: Versions: ON/OFF, DALI, 1-10V, TRIAC | Suitable for: 600/ 900/ 1200MM Ring.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "V-18/ V-19/ V-20-LB",
+      "Watt": "12W",
+      "Input": "DC48V",
+      "Body Color": "BK",
+      "CCT": "3000K/4000K (3000K / 4000K)",
+      "Size": "W22*H25*L360MM",
+      "IP Rating": "IP20",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_95.png"
+    ]
+  },
+  {
+    "id": 1096,
+    "title": "Premium 10MM Slim Magnetic Track Rail & SMPS",
+    "model": "SL M-1010-TRIMLESS",
+    "description": "Premium 10MM Slim Magnetic Track Rail & SMPS (SL M-1010-TRIMLESS) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-1010-TRIMLESS belongs to the Premium 10MM Slim Magnetic Track Rail & SMPS series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Notes: RECESSED.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-1010-TRIMLESS",
+      "Input": "DC48V",
+      "Body Color": "Black",
+      "Size": "W50*H40*3000MM"
+    },
+    "images": [
+      "assets/img/products/product_96.png"
+    ]
+  },
+  {
+    "id": 1097,
+    "title": "Premium 10MM Slim Magnetic Track Rail & SMPS",
+    "model": "SL M-1010-SURFACE",
+    "description": "Premium 10MM Slim Magnetic Track Rail & SMPS (SL M-1010-SURFACE) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-1010-SURFACE belongs to the Premium 10MM Slim Magnetic Track Rail & SMPS series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-1010-SURFACE",
+      "Input": "DC48V",
+      "Body Color": "Black",
+      "Size": "W17*H26*3000MM"
+    },
+    "images": [
+      "assets/img/products/product_97.png"
+    ]
+  },
+  {
+    "id": 1098,
+    "title": "Premium 10MM Slim Magnetic Track Rail & SMPS",
+    "model": "SL-MGT1010-100W",
+    "description": "Premium 10MM Slim Magnetic Track Rail & SMPS (SL-MGT1010-100W) — 100W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-MGT1010-100W belongs to the Premium 10MM Slim Magnetic Track Rail & SMPS series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-MGT1010-100W",
+      "Watt": "100W",
+      "Body Color": "Black",
+      "Size": "250*70*23MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_98.png"
+    ]
+  },
+  {
+    "id": 1099,
+    "title": "Premium 10MM Slim Magnetic Track Rail & SMPS",
+    "model": "SL-MGT1010-200W",
+    "description": "Premium 10MM Slim Magnetic Track Rail & SMPS (SL-MGT1010-200W) — 200W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-MGT1010-200W belongs to the Premium 10MM Slim Magnetic Track Rail & SMPS series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-MGT1010-200W",
+      "Watt": "200W",
+      "Body Color": "Black",
+      "Size": "250*70*23MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_99.png"
+    ]
+  },
+  {
+    "id": 1100,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL M-1010SF-600-C90",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL M-1010SF-600-C90) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-1010SF-600-C90 belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-1010SF-600-C90",
+      "Body Color": "Black",
+      "Size": "600*400MM SF Corner"
+    },
+    "images": [
+      "assets/img/products/product_100.png"
+    ]
+  },
+  {
+    "id": 1101,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL M-1010SF-900-C90",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL M-1010SF-900-C90) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-1010SF-900-C90 belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-1010SF-900-C90",
+      "Body Color": "Black",
+      "Size": "900*550MM SF Corner"
+    },
+    "images": [
+      "assets/img/products/product_101.png"
+    ]
+  },
+  {
+    "id": 1102,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL M-1010RH-600-C90",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL M-1010RH-600-C90) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-1010RH-600-C90 belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-1010RH-600-C90",
+      "Body Color": "Black",
+      "Size": "600*400MM Recessed Corner"
+    },
+    "images": [
+      "assets/img/products/product_102.png"
+    ]
+  },
+  {
+    "id": 1103,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL M-1010RH-900-C90",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL M-1010RH-900-C90) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-1010RH-900-C90 belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-1010RH-900-C90",
+      "Body Color": "Black",
+      "Size": "900*550MM Recessed Corner"
+    },
+    "images": [
+      "assets/img/products/product_103.png"
+    ]
+  },
+  {
+    "id": 1104,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL 1010SF-L90",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL 1010SF-L90) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 1010SF-L90 belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 1010SF-L90",
+      "Body Color": "Black",
+      "Size": "70*70MM"
+    },
+    "images": [
+      "assets/img/products/product_104.png"
+    ]
+  },
+  {
+    "id": 1105,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL 1010RH-L-90",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL 1010RH-L-90) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 1010RH-L-90 belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 1010RH-L-90",
+      "Body Color": "Black",
+      "Size": "70*70MM"
+    },
+    "images": [
+      "assets/img/products/product_105.png"
+    ]
+  },
+  {
+    "id": 1106,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL-1010-4 WIRE LIVE END",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL-1010-4 WIRE LIVE END) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-1010-4 WIRE LIVE END belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-1010-4 WIRE LIVE END",
+      "Input": "DC48V",
+      "Body Color": "Black",
+      "Size": "80*10.5MM"
+    },
+    "images": [
+      "assets/img/products/product_106.png"
+    ]
+  },
+  {
+    "id": 1107,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL-1010 STRAIGHT JOINTER",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL-1010 STRAIGHT JOINTER) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-1010 STRAIGHT JOINTER belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-1010 STRAIGHT JOINTER",
+      "Input": "DC48V",
+      "Body Color": "Black",
+      "Size": "80*10.5MM"
+    },
+    "images": [
+      "assets/img/products/product_107.png"
+    ]
+  },
+  {
+    "id": 1108,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL-1010L-WIRE JOINTER",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL-1010L-WIRE JOINTER) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-1010L-WIRE JOINTER belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-1010L-WIRE JOINTER",
+      "Input": "DC48V",
+      "Body Color": "Black",
+      "Size": "200*10.5MM"
+    },
+    "images": [
+      "assets/img/products/product_108.png"
+    ]
+  },
+  {
+    "id": 1109,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL-1010 RH END CAP",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL-1010 RH END CAP) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-1010 RH END CAP belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-1010 RH END CAP",
+      "Body Color": "Black",
+      "Size": "33*17MM"
+    },
+    "images": [
+      "assets/img/products/product_109.png"
+    ]
+  },
+  {
+    "id": 1110,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL-1010SF-END CAP",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL-1010SF-END CAP) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-1010SF-END CAP belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-1010SF-END CAP",
+      "Body Color": "Black",
+      "Size": "18.4*17MM"
+    },
+    "images": [
+      "assets/img/products/product_110.png"
+    ]
+  },
+  {
+    "id": 1111,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL-1010RH JOINTER",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL-1010RH JOINTER) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL-1010RH JOINTER belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL-1010RH JOINTER",
+      "Body Color": "Black",
+      "Size": "Recessed Connector"
+    },
+    "images": [
+      "assets/img/products/product_111.png"
+    ]
+  },
+  {
+    "id": 1112,
+    "title": "Premium 10MM Slim Magnetic Lights Accessories",
+    "model": "SL 1010SF JOINTER",
+    "description": "Premium 10MM Slim Magnetic Lights Accessories (SL 1010SF JOINTER) — architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL 1010SF JOINTER belongs to the Premium 10MM Slim Magnetic Lights Accessories series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Precision optical control and durable housing.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL 1010SF JOINTER",
+      "Body Color": "Black",
+      "Size": "Recessed Connector"
+    },
+    "images": [
+      "assets/img/products/product_112.png"
+    ]
+  },
+  {
+    "id": 1113,
+    "title": "Premium 10MM Slim Magnetic Flood Lights",
+    "model": "SL M-3101",
+    "description": "Premium 10MM Slim Magnetic Flood Lights (SL M-3101) — 8W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3101 belongs to the Premium 10MM Slim Magnetic Flood Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K. Notes: Effect: Flood Light.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3101",
+      "Watt": "8W",
+      "Input": "DC48V",
+      "LED": "Epistar",
+      "Body Color": "Black",
+      "CCT": "3K/4K",
+      "Size": "300*10.5*30MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_113.png"
+    ]
+  },
+  {
+    "id": 1114,
+    "title": "Premium 10MM Slim Magnetic Flood Lights",
+    "model": "SL M-3102",
+    "description": "Premium 10MM Slim Magnetic Flood Lights (SL M-3102) — 16W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3102 belongs to the Premium 10MM Slim Magnetic Flood Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K. Notes: Effect: Flood Light.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3102",
+      "Watt": "16W",
+      "Input": "DC48V",
+      "LED": "Epistar",
+      "Body Color": "Black",
+      "CCT": "3K/4K",
+      "Size": "600*10.5*30MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_114.png"
+    ]
+  },
+  {
+    "id": 1115,
+    "title": "Premium 10MM Slim Magnetic Flood Lights",
+    "model": "SL M-3103",
+    "description": "Premium 10MM Slim Magnetic Flood Lights (SL M-3103) — 10W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3103 belongs to the Premium 10MM Slim Magnetic Flood Lights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black+Milky | CCT: 3K/4K. Notes: Effect: Flexi Corner | Flood Light.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3103",
+      "Watt": "10W",
+      "Input": "DC48V",
+      "LED": "Epistar",
+      "Body Color": "Black+Milky",
+      "CCT": "3K/4K",
+      "Size": "1000*10.5*30MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_115.png"
+    ]
+  },
+  {
+    "id": 1116,
+    "title": "Premium 10MM Slim Magnetic Grill Spotlights",
+    "model": "SL M-3104",
+    "description": "Premium 10MM Slim Magnetic Grill Spotlights (SL M-3104) — 10W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3104 belongs to the Premium 10MM Slim Magnetic Grill Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K. Notes: Effect: Grill Spotlight.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3104",
+      "Watt": "10W",
+      "Input": "DC48V",
+      "LED": "Osram",
+      "Body Color": "Black",
+      "CCT": "3K/4K",
+      "Size": "195*30*10.5MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_116.png"
+    ]
+  },
+  {
+    "id": 1117,
+    "title": "Premium 10MM Slim Magnetic Grill Spotlights",
+    "model": "SL M-3105",
+    "description": "Premium 10MM Slim Magnetic Grill Spotlights (SL M-3105) — 15W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3105 belongs to the Premium 10MM Slim Magnetic Grill Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K. Notes: Effect: Grill Spotlight.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3105",
+      "Watt": "15W",
+      "Input": "DC48V",
+      "LED": "Osram",
+      "Body Color": "Black",
+      "CCT": "3K/4K",
+      "Size": "307*10.5*38MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_117.png"
+    ]
+  },
+  {
+    "id": 1118,
+    "title": "Premium 10MM Slim Magnetic Wall Spotlights",
+    "model": "SL M-3107",
+    "description": "Premium 10MM Slim Magnetic Wall Spotlights (SL M-3107) — 5W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3107 belongs to the Premium 10MM Slim Magnetic Wall Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K. Notes: Effect: Wall Spot Light.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3107",
+      "Watt": "5W",
+      "Input": "DC48V",
+      "LED": "Osram",
+      "Shape": "Round",
+      "Body Color": "Black",
+      "CCT": "3K/4K",
+      "Size": "35*H80MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_118.png"
+    ]
+  },
+  {
+    "id": 1119,
+    "title": "Premium 10MM Slim Magnetic Wall Spotlights",
+    "model": "SL M-3108",
+    "description": "Premium 10MM Slim Magnetic Wall Spotlights (SL M-3108) — 10W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3108 belongs to the Premium 10MM Slim Magnetic Wall Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K. Notes: Effect: Wall Spot Light.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3108",
+      "Watt": "10W",
+      "Input": "DC48V",
+      "LED": "Osram",
+      "Shape": "Round",
+      "Body Color": "Black",
+      "CCT": "3K/4K",
+      "Size": "D45*100MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_119.png"
+    ]
+  },
+  {
+    "id": 1120,
+    "title": "Premium 10MM Slim Magnetic Foldable Grill Spotlights",
+    "model": "SL M-3109",
+    "description": "Premium 10MM Slim Magnetic Foldable Grill Spotlights (SL M-3109) — 5W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3109 belongs to the Premium 10MM Slim Magnetic Foldable Grill Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K. Notes: Effect: Foldable Grill Spotlight.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3109",
+      "Watt": "5W",
+      "Input": "DC48V",
+      "LED": "Osram",
+      "Body Color": "Black",
+      "CCT": "3K/4K",
+      "Size": "113*75*10.5MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_120.png"
+    ]
+  },
+  {
+    "id": 1121,
+    "title": "Premium 10MM Slim Magnetic Foldable Grill Spotlights",
+    "model": "SL M-3110",
+    "description": "Premium 10MM Slim Magnetic Foldable Grill Spotlights (SL M-3110) — 10W architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3110 belongs to the Premium 10MM Slim Magnetic Foldable Grill Spotlights series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black | CCT: 3K/4K. Notes: Effect: Foldable Grill Spotlight.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3110",
+      "Watt": "10W",
+      "Input": "DC48V",
+      "LED": "Osram",
+      "Body Color": "Black",
+      "CCT": "3K/4K",
+      "Size": "195*75*10.5MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_121.png"
+    ]
+  },
+  {
+    "id": 1122,
+    "title": "Premium 10MM Slim Magnetic Bluetooth Speaker",
+    "model": "SL M-3111",
+    "description": "Premium 10MM Slim Magnetic Bluetooth Speaker (SL M-3111) — 10W Track Audio architectural lighting fixture from the SunnyLight 2026-27 Master Catalogue.",
+    "details": {
+      "Product Details": "SL M-3111 belongs to the Premium 10MM Slim Magnetic Bluetooth Speaker series, engineered for consistent visual comfort, thermal stability, and architectural integration.",
+      "Technical Highlights": "Color Theme: Body: Black. Notes: Source : Bluetooth/Tuya App | BT.",
+      "Applications": "Designed for modern residential, hospitality, retail, and commercial installations (01. MAGNETIC LIGHTS)."
+    },
+    "specifications": {
+      "Model Number": "SL M-3111",
+      "Watt": "10W Track Audio",
+      "Input": "DC48V",
+      "Body Color": "Black",
+      "Size": "D 67*H 75MM",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/products/product_122.png"
+    ]
+  }
 ]

@@ -17,13 +17,13 @@ function scrollThumbnails(amount) {
 
 function openLightbox() {
   let mainImage = document.getElementById("mainImage");
-  let lightbox = document.getElementById("lightbox");
-  let lightboxImage = document.getElementById("lightboxImage");
-
-  lightbox.style.display = "flex";
-  lightboxImage.src = mainImage.src;
+  if (mainImage && window.openImagePreview) {
+    window.openImagePreview(mainImage.src, 'Product Image Detail');
+  }
 }
 
 function closeLightbox() {
-  document.getElementById("lightbox").style.display = "none";
+  if (window.closePreview) {
+    window.closePreview();
+  }
 }
