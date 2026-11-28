@@ -125,6 +125,6 @@
 </div>
 
 <!-- Universal Product Image Preview & Zoom System -->
-<link rel="stylesheet" href="assets/CSS/image-preview.css">
-<script src="assets/JS/image-preview.js"></script>
+<link rel="stylesheet" href="assets/CSS/image-preview.css" media="print" onload="this.media='all'">
+<script src="assets/JS/image-preview.js" defer></script>
 

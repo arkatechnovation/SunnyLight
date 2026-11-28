@@ -2,6 +2,8 @@
 <html lang="en">
 
 <head>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Outdoor LED Lighting | Durable & Bright Solutions by Sunny Light</title>
@@ -10,51 +12,23 @@
 
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="assets/CSS/main.css">
-    <link rel="stylesheet" href="assets/CSS/outdoor-lights-productpage.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>picture{display:contents}.modal{display:none}.collapse:not(.show){display:none}.dropdown-menu{display:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding:0!important}.navbar>.container-fluid{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.nav{display:flex;flex-wrap:wrap;padding-left:0;margin-bottom:0;list-style:none}.d-flex{display:flex!important}.justify-content-between{justify-content:space-between!important}.align-items-center{align-items:center!important}.gap-3{gap:1rem!important}@media(min-width:768px){.d-md-none{display:none!important}}*{padding:0;margin:0;box-sizing:border-box;font-family:'Times New Roman',serif;scroll-behavior:smooth}html,body{overflow-x:clip}picture{display:contents}h1,.D-h1,.pdt-h1,.offer-content h2,.review-heading h2{font-size:2rem !important}h5,.D-details h3,.pdt-details h3{font-size:1.2rem !important}.D-details h3,.pdt-details h3{font-weight:500;line-height:1.2}.footer-title{font-size:calc(1.3rem + 0.6vw)}@media (min-width:1200px){.footer-title{font-size:1.75rem}}.container-fluid{padding:0 70px !important}.page-width{padding:0 40px}.mr-b{margin-bottom:10px}.pd-bl{padding-block:25px;border:none}.my-btn{padding:10px 20px;border:none}.colortext{color:#1e7e34}.desktop-view-banner{display:block!important}.mobile-view-banner{display:none!important}.Head-section{position:sticky;top:0;z-index:1000;background:#fff}.second-nav{position:sticky;top:61px;background:#fff}.mynavbar{background-color:white}.navbar{padding:0 !important}.header,.navbar{position:relative;z-index:1000}.logo img{max-height:60px;width:auto;display:block}.Search-bar{border:1px solid gray;border-radius:50px;overflow:hidden}.Search-bar form{display:flex;align-items:center}.Search-bar:focus-within{border-color:forestgreen}.Search-bar input[type="text"]{width:100%;height:40px;font-size:15px;padding-left:15px;border:none;background-color:#f0f0f0}.Search-bar input[type="text"]:focus{outline:none}.search-icon{padding:8px 16px;border:none;background-color:#f0f0f0}.search-icon i{font-size:20px}.search-icon i:hover{cursor:pointer;color:green}.quote-button button{border:none;padding:6px 10px;color:white;background-color:#0505b9;font-size:12px}.hearder-list li a{color:rgb(7,7,7);font-size:15px}.hearder-list li a:hover{color:#ed1c24}.quote-button button{border:none;padding:6px 14px;color:white;background-color:#cc0000;font-size:14px;border-radius:3px;cursor:pointer;animation:swing 1.2s ease-in-out infinite}@keyframes swing{0%{transform:rotate(0deg)}25%{transform:rotate(6deg)}50%{transform:rotate(-6deg)}75%{transform:rotate(4deg)}100%{transform:rotate(0deg)}}.hearder-mobile{padding:10px 15px;background-color:white}.hearder-mobile i{font-size:24px;color:#0a0909;background-color:#e8e7e7;cursor:pointer;border-radius:50%;padding:8px;box-shadow:0 2px 8px rgba(0,0,0,0.25);transition:all 0.3s ease}.mobile-logo img{transform:scale(1.7)}#side-panel{position:fixed;top:0;right:-350px;width:350px;height:100%;background:white;box-shadow:-2px 0 8px rgba(0,0,0,0.2);transition:right 0.5s ease;z-index:1050;padding:20px 30px;overflow-y:auto}#side-panel.active{right:0}.side-panel-header{display:flex;justify-content:space-between;align-items:center;font-weight:700;font-size:20px;margin-bottom:20px}.side-panel-header i{cursor:pointer;font-size:24px}.side-panel-menu{list-style:none;padding:0;margin:0}.side-panel-menu li{margin-bottom:15px;border-bottom:1px solid rgb(191,194,196)}.side-panel-menu a{text-decoration:none;color:#000;font-size:18px;display:block;transition:color 0.3s}.side-panel-menu a:hover{color:#43c553}#overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.4);opacity:0;visibility:hidden;transition:opacity 0.3s ease;z-index:1040}#overlay.active{opacity:1;visibility:visible}.nav-list{display:flex;align-items:center;justify-content:flex-start;list-style:none;border-top:1px solid gray;margin-bottom:0px;gap:10px}.nav-list ul{padding-left:0 !important}.nav-list li{padding:6px 15px;position:relative}.nav-list li a{text-decoration:none;font-size:15px;color:#000;display:block;font-weight:500}.nav-list span i{font-size:0.7em;margin-left:5px}.navbar-part .nav-list>li.dropdown{position:relative}.navbar-part .nav-list>li.dropdown:hover>.dropdown-menu{display:block;opacity:1;visibility:visible;transform:translateY(0)}.navbar-part .dropdown-menu{position:absolute;top:90%;left:0;z-index:1000;display:none;float:left;min-width:220px;padding:5px 0;margin:2px 0 0;font-size:13px;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:4px;box-shadow:0 6px 12px rgba(0,0,0,.175);opacity:0;visibility:hidden;transform:translateY(-10px);transition:all 0.3s ease;max-height:300px;overflow-y:auto}.navbar-part .dropdown-menu li{position:relative}.navbar-part .dropdown-menu a{display:block;padding:5px 15px;clear:both;font-weight:400;line-height:1.3;color:#333;white-space:nowrap;text-decoration:none;transition:all 0.2s ease;border-bottom:1px solid #f5f5f5}.navbar-part .dropdown-menu a:hover{background-color:#f5f5f5;color:#007bff}.nav-list li{padding:4px 10px;position:relative}.second-nav{z-index:999}.dropdown-menu li a{display:block;padding:5px;color:#737272;line-height:1;white-space:nowrap}.dropdown-menu li a:hover{background:#f0f0f0}.banner-part{position:relative}.container-body img{width:100%;max-height:470px !important;object-fit:cover;position:relative;display:block;object-fit:cover}.arrows{position:absolute;bottom:-18px;right:70px;display:flex;gap:15px;align-items:center;justify-content:flex-end;z-index:10}.arrows span i{display:inline-block;text-align:center;line-height:40px;width:40px;height:40px;font-size:23px;border-radius:50%;cursor:pointer;background-color:white;box-shadow:0 4px 8px rgba(0,0,0,0.2);transition:transform 0.3s ease,background-color 0.3s ease}.arrows span i:hover{background-color:#f0f0f0;transform:scale(1.1)}.product-category{margin-bottom:30px;padding:35px 0}.category-item{text-decoration:none;color:#333;font-weight:500;display:block;text-align:center}.self{width:200px;height:200px;margin:auto}.self img{width:100%;height:auto}.swiper-cube .swiper-cube-shadow:before{background:none!important}.self .swiper-slide{display:flex;align-items:center;justify-content:center;background:#fff;border-radius:12px;padding:10px;outline:none}.category-item p{margin-top:18px;font-weight:500;color:#333;font-size:21px}.about-sec{background-color:rgb(220,220,220)}.about-text{height:100%;display:flex;justify-content:center;flex-direction:column;align-items:flex-start}.about-text span{color:#cc0000}.about-text h3{font-size:35px;padding:10px 0px;line-height:35px}.about-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 20px;border-radius:20px;background-color:rgb(255,255,255);border:none;color:#000;font-weight:600;text-decoration:none;transition:all 0.3s ease}.about-btn i{transition:transform 0.3s ease}.about-btn:hover{cursor:pointer;background-color:white;box-shadow:0 3px 8px #b4b4b4}.about-btn:hover span{transform:translateX(5px);transition:transform 0.3s ease}.about-btn:hover i{transform:translateX(10px)}.main-img-box{position:relative}.box-img{position:relative;display:inline-block;transition:border 0.3s ease}.box-img img{height:auto;vertical-align:middle}.image1{margin-left:50px;width:50%;border-radius:25px}.image2{width:50%;border-radius:25px;position:absolute;top:25%;left:45%}.image1:hover,.image2:hover{transition:transform 0.3s ease;border:2px solid transparent;transition:border 0.4s,box-shadow 0.4s}.image1:hover,.image2:hover{border:2px solid transparent;animation:borderGlow 1.5s infinite alternate;border-radius:4px}@keyframes borderGlow{from{border-color:transparent;box-shadow:0 0 5px rgba(255,255,255,0)}to{border-color:#00ff15;box-shadow:0 6px 15px #6bfa91,0 0 25px #7ffa8c}}.video-container{margin-bottom:10px;text-align:center;position:relative;overflow:hidden}.video-container::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,15,25,0.38) 0%,rgba(10,15,25,0.48) 100%);pointer-events:none;z-index:1}.video{width:100%;max-width:100%;max-height:500px;object-fit:cover;filter:brightness(0.68) contrast(1.08);display:block}.video-overlay-text{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:white;text-shadow:0 2px 6px rgba(0,0,0,0.7);text-align:center;padding:0 20px;z-index:2}.video-overlay-text h2{font-size:2.5rem;margin-bottom:10px}.video-overlay-text button,.video-overlay-text a.video-cta-btn{display:inline-block;margin-top:40px;font-size:1.5rem;padding:10px 20px;font-weight:bold;text-decoration:none;color:rgb(231,185,68);background-color:transparent;border:2px solid rgb(228,187,81);border-radius:30px;box-shadow:0 3px 6px rgb(243,202,98);cursor:pointer}.video-overlay-text button a{text-decoration:none;color:rgb(231,185,68)}.video-overlay-text button:hover,.video-overlay-text a.video-cta-btn:hover{color:rgb(231,185,68);background-color:white;box-shadow:0 3px 12px rgb(243,202,98)}.D-section{padding-block:25px}.D-row{padding-bottom:25px}.D-heading{display:flex;align-items:center;margin-bottom:20px}.D-heading,.D-h1{flex:1 1 auto}.D-link{font-weight:700;font-size:17px;color:#000}.D-container{cursor:pointer;overflow:hidden;position:relative}.D-img{height:220px;margin-bottom:16px;position:relative;overflow:hidden}.D-img img{width:100%;height:100%;object-fit:cover;display:block;position:absolute;top:0;left:0;transition:opacity 0.3s ease;cursor:pointer}.hover-img{opacity:0}.D-container:hover .hover-img{opacity:1}.D-container:hover .default-img{opacity:0}.mid-banner{position:relative;width:100%}.mid-banner img{width:100%;height:auto;object-fit:cover;display:block;transform:scale(1.1);animation:zoomInLoad 1.2s ease forwards}.mid-overlay-btn{position:absolute;bottom:30px;left:47%}.mid-overlay-btn button,.mid-overlay-btn a.mid-cta-btn{border:none;padding:6px 15px;background-color:#f0f0f0;display:inline-block;line-height:1.5;font-weight:400}.mid-overlay-btn a{text-decoration:none;color:#000}.google-banner{width:100%}.google-banner img{width:100%;height:450px;display:block;transform:scale(1.1);animation:zoomInLoad 1.2s ease forwards}@keyframes zoomInLoad{from{transform:scale(1.2)}to{transform:scale(1)}}.pdt-h1{display:block;margin-bottom:40px}.pdt-img{height:195px;padding:9px;background-color:#f8f8f8;transition:transform 0.3s ease;cursor:pointer}.pdt-img:hover{transform:translateY(-4px);box-shadow:0px 4px 6px rgba(0,0,0,0.3);background-color:rgb(253,249,249)}.pdt-img img{width:100%;height:100%;object-fit:cover;display:block}.pdt-details{margin-top:10px}.bottomSwiper{position:relative;width:100%}.slide-content{color:rgb(255,255,255)}.slide-content .my-btn{font-size:17px;font-weight:600;display:inline-block;background-color:#f0f0f0;color:#000;text-decoration:none;cursor:pointer}.bottomSwiper .myslide-image{width:100%;height:auto;transition:transform 1s ease}.bottomSwiper .swiper-slide-active .slide-image{transform:scale(1.1)}.bottomSwiper .slide-content{position:absolute;top:65%;left:50%;transform:translate(-50%,-50%);text-align:center}.bottomSwiper .heading,.bottomSwiper .text,.bottomSwiper .my-btn{opacity:0;transform:scale(0.1);transition:opacity 0.5s ease,transform 0.5s ease}.bottomSwiper .heading.show{opacity:1;transform:scale(1)}.bottomSwiper .text.show{opacity:1;transform:scale(1);transition-delay:0.3s}.bottomSwiper .my-btn.show{opacity:1;transform:scale(1);transition-delay:0.6s}.faq-section{background-image:url('assets/CSS/IMG-20250725-WA0023.jpg');background-image:image-set( url('assets/CSS/IMG-20250725-WA0023.jpg.webp') type('image/webp'),url('assets/CSS/IMG-20250725-WA0023.jpg') type('image/jpeg') )}.faq-heading{font-size:2rem;margin-bottom:15px;border-bottom:2px solid #28a745;color:#0505b9}.faq-item{border-bottom:1px solid #ddd;padding:15px 0}.faq-question{width:100%;text-align:left;font-size:1.1rem;font-weight:500;background:none;border:none;outline:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center}.faq-answer{display:none;margin-top:10px;font-size:1rem;color:#555;line-height:1.5}.faq-item.active .faq-answer{display:block}.faq-item.active .arrow{transform:rotate(180deg)}.yt-video{display:flex;justify-content:center;align-items:center;width:100%}.yt-video video{max-width:100%;border-radius:12px}.my-btm-top-bnr{position:relative;width:100%;height:470px;background:url("assets/img/banners/sunnylights.jpg") no-repeat center center;background-image:image-set( url("assets/img/banners/sunnylights.jpg.webp") type("image/webp"),url("assets/img/banners/sunnylights.jpg") type("image/jpeg") );background-repeat:no-repeat;background-position:center center;background-size:cover;overflow:hidden;display:flex;align-items:center;justify-content:center;color:#fff}.my-btm-top-bnr::before{content:"";position:absolute;inset:0;background:rgba(59,59,59,0.45);z-index:1}.btm-top-container{position:relative;z-index:2;width:100%;padding:0 8%;display:flex;align-items:center;min-height:200px}.btm-top-banner-overlay{max-width:350px}.btm-top-banner-overlay h2{font-size:36px;line-height:1.3;font-weight:450;margin-bottom:20px}.btm-top-banner-overlay .btm-bnr-btn{display:inline-block;padding:12px 28px;border:2px solid #fff;color:#fff;text-decoration:none;font-weight:bold;transition:0.3s}.btm-top-banner-overlay .btm-bnr-btn:hover{background:#fff;color:#000}@media (max-width:768px){.btm-top-banner-overlay h2{font-size:24px;margin-bottom:40px}.yt-video video{height:250px}.desktop-view-banner{display:none !important}.mobile-view-banner{display:block !important}.mid-overlay-btn{left:37%}.my-btm-top-bnr{background-image:url("assets/img/banners/mobile-viwe-sunnybanner2.jpg");background-image:image-set( url("assets/img/banners/mobile-viwe-sunnybanner2.jpg.webp") type("image/webp"),url("assets/img/banners/mobile-viwe-sunnybanner2.jpg") type("image/jpeg") );background-repeat:no-repeat;background-position:center center;background-size:cover}.google-banner img{height:auto;object-fit:cover}}.offer-container{background-image:url("https://images.unsplash.com/photo-1528458909336-e7a0adfed0a5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D");background-size:cover;background-position:center;background-repeat:no-repeat;height:250px;display:flex;align-items:center;justify-content:center;text-align:center;position:relative}.offer-content{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);align-items:center}.offer-btn{display:flex;max-width:400px;margin:0 auto;border:1px solid #ccc;overflow:hidden;border-radius:0;margin-top:10px}.offer-btn input[type="text"]{flex:1;padding:10px 15px;border:none;outline:none;font-size:1rem}.offer-btn button.mt-btn{background-color:#000;color:#fff;border:none;padding:10px 20px;cursor:pointer;font-weight:bold;font-size:1rem;transition:background 0.3s}.bottom-footer-part-1{background-image:url("assets/CSS/color-temperature-comparison-led-lights.jpg");background-size:cover;background-position:center;background-repeat:no-repeat;width:100%;height:400px;display:flex;align-items:center;justify-content:center;text-align:center;position:relative}.bottom-banner-part-content{color:white;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);align-items:center}.client{height:140px;background:rgb(199,198,198);padding:20px;border-top-left-radius:30px;align-items:center;border:1px solid #c8c4c4;box-shadow:rgb(38,57,77) 0px 20px 30px -10px}.client img{height:100%;max-width:150px;max-height:150px;margin-bottom:10px;object-fit:contain}.footer-part{padding-top:40px;background-color:#f9f8f8}.footer-logo img{width:113px;height:auto;object-fit:cover;margin-bottom:5px}.footer-desc{margin-bottom:22px}.footer-social{display:flex;align-items:center;justify-content:flex-start;gap:10px;padding-left:3px}.footer-social li{list-style:none}.footer-social li a{display:inline-block;width:45px;height:45px;border-radius:50%;font-size:15px;text-align:center;line-height:45px;transition:transform 2s,background-color 0.6s,color 0.6s;border:1px solid #ccc;box-shadow:0 2px 5px rgba(0,0,0,0.1)}.footer-social li a.icofont-facebook:hover{transform:rotateY(360deg);background-color:#1877f2;color:white}.footer-social li a.icofont-linkedin:hover{transform:rotateY(360deg);background-color:#0077b5;color:white}.footer-social li a.icofont-instagram:hover{transform:rotateY(360deg);background:radial-gradient( circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90% );color:white}.icofont-instagram a:hover{background:radial-gradient( circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90% );color:white}.lineheightset li{margin-bottom:5px !important}.footer-contact li{display:flex;align-items:center;margin-bottom:12px}.footer-contact li a{text-decoration:none;color:black;display:inline-block;transition:color 0.3s ease}.footer-contact li a i{font-size:15px;margin-right:10px;color:rgb(15,15,107)}.footer-contact li a span,.footer-desc,.footer-copytext,.footer-title{white-space:normal;word-wrap:break-word;overflow-wrap:break-word}.footer-contact li a:hover{color:#0f0f81;transform:translateX(5px)}.footer-title{margin-bottom:20px;margin-left:32px;letter-spacing:-0.3px;text-transform:capitalize}.footer-bottom{margin-top:30px;padding:5px 40px;display:flex;align-items:center;justify-content:space-between;background-color:#333;color:white}.footer-copytext{margin-bottom:5px !important}.footer-bottom a{text-decoration:none;color:#ff7a7a;font-weight:bold}@media (max-width:767px){ul{padding-left:1rem !important}.container-fluid{padding:0px 20px !important}.page-width{padding:0 20px}.mynavbar{display:none !important}.navbar-part{display:none !important}.mobile-logo{margin-block:12px;margin-left:10px}.container-body img{width:100%;height:300px;max-height:none;object-fit:cover}.self{width:120px;max-width:100%;height:120px}.category-item p{font-size:14px}.row.py-4{flex-direction:column;align-items:flex-start}.col-lg-6.col-md-5{width:100%;max-width:100%}.main-img-box{display:none}.about-text h1{font-size:28px}.about-text p{font-size:16px}.about-btn{margin-left:0}.video{height:350px !important;max-height:none !important;object-fit:cover}.video-overlay-text{width:90%;max-width:400px}.video-overlay-text h2{font-size:2rem}.video-overlay-text button,.video-overlay-text a.video-cta-btn{font-size:1rem;padding:6px 12px;margin-top:15px}.row.D-row{display:flex;flex-wrap:nowrap !important;overflow-x:auto;scrollbar-width:none}.row.D-row>[class*="col"]{flex:0 0 auto !important;width:200px;scroll-snap-align:start}.D-img{height:165px}.D-container:hover .hover-img{opacity:1}.D-container:hover .default-img{opacity:0}.indoor-outdoor-row{display:grid !important;grid-template-columns:repeat(2,1fr);gap:10px}.indoor-outdoor-row>*{min-width:0}.upper-footer{padding-inline:30px}.upper-footer .row{flex-direction:column;align-items:flex-start}.upper-footer .col-sm-6,.upper-footer .col-md-3,.upper-footer .col-xl-3{width:100% !important;margin-bottom:25px}.footer-title{margin-left:0}.footer-contact li a span{margin-left:0px !important;padding-left:0px}.footer-contact li,.footer-social{justify-content:flex-start}.footer-social{padding-left:0;gap:15px}.footer-copytext{text-align:left !important}.footer-bottom{flex-direction:column;text-align:center;padding:10px 20px}.footer-bottom p{margin:5px 0}.footer-bottom a span{display:block}}@media (max-width:992px){.product-img{height:300px}}@media (min-width:767px) and (max-width:982px){.container-fluid{padding:0px 45px !important}.about-text h1{font-size:30px}.image1{width:90%}.image2{width:90%;top:40%;left:51%}.video-overlay-text{width:90%;max-width:600px}.video-overlay-text h2{font-size:2rem}.video-overlay-text button,.video-overlay-text a.video-cta-btn{font-size:1.3rem;padding:8px 16px}.upper-footer{padding-inline:60px}.upper-footer .row{justify-content:flex-start}.footer-widget{margin-bottom:20px}.upper-footer .col-md-3{margin-bottom:20px}.footer-bottom{flex-direction:column;text-align:center;padding:10px 20px}.footer-bottom p{margin:5px 0}.footer-bottom a span{display:block}}.mobile-search-bar{display:none;position:absolute;top:100%;left:0;right:0;background:white;padding:15px;z-index:1000;border-top:1px solid #ddd;cursor:pointer}.mobile-search-bar.active{display:block;cursor:pointer}.mobile-search-container{display:flex;align-items:center;gap:10px}#mobileSearchInput{flex:1;padding:10px 15px;border:1px solid #ddd;border-radius:4px;font-size:14px;outline:none}#mobileSearchInput:focus{border-color:#43c553}.mobile-search-close{background:none;border:none;font-size:16px;color:#666;padding:8px;cursor:pointer}.mobile-search-suggestions{list-style:none;margin:10px 0 0 0;padding:0;max-height:200px;overflow-y:auto;border-radius:4px;background:white}.mobile-search-suggestions li{padding:12px 15px;border-bottom:1px solid #f5f5f5;cursor:pointer;font-size:14px;cursor:pointer}.mobile-search-suggestions li:last-child{border-bottom:none}.mobile-search-suggestions li:hover,.mobile-search-suggestions li.highlighted{background:#007bff;color:white}.mobile-search-suggestions .suggestion-heading{font-weight:bold;background:#f8f9fa !important;color:#666 !important;cursor:default}.hearder-mobile{position:relative}.mobile-search-icon{display:block !important;cursor:pointer}.mobile-search-bar.active~.mobile-search-icon{display:block !important}.side-panel-menu .dropdown .submenu{display:none;padding-left:15px;list-style:none;border-radius:5px}.side-panel-menu .dropdown.active>a{color:#34be3d}.side-panel-menu .dropdown .submenu li{padding:5px 0}.side-panel-menu .dropdown .submenu a{font-size:14px}.side-panel-menu .dropdown-toggle i{float:right;transition:transform 0.3s ease}.side-panel-menu .dropdown-toggle i.rotate{transform:rotate(180deg)}.side-panel-menu .submenu{display:none;max-height:300px;overflow-y:auto;padding-left:15px}.side-panel-menu .has-submenu.active .submenu{display:block}.dropdown-toggle::after{display:none !important}:root{--myprimary-color:#3498db;--mysecondary-color:#2c3e50;--myaccent-color:#e74c3c;--mylight-color:#ecf0f1;--mytext-color:#2c3e50;--mytext-light:#7f8c8d;--myborder-radius:8px;--mybox-shadow:0 5px 15px rgba(0,0,0,0.08);--mytransition:all 0.3s ease}.main-productcategory{display:flex;gap:30px;margin-top:40px}.productpage-category{margin-top:24px}.mysidebar{background:#fff;border:1px solid #eee;border-radius:var(--myborder-radius);padding:12px;width:250px;position:sticky;top:90px;max-height:90vh;overflow-y:auto;box-shadow:var(--mybox-shadow)}.mysidebar-header{display:flex;justify-content:space-between;align-items:center;cursor:pointer;padding:8px 0;border-bottom:1px solid #f1f1f1}.mysidebar-header h4{font-size:15px;margin:0;font-weight:600;color:#333}.mysidebar-btn{border:none;background:none;font-size:14px;cursor:pointer;color:#666;transition:transform 0.3s ease,color 0.3s ease}.mysidebar-btn:hover{color:var(--myprimary-color)}.mysidebar-section.active .mysidebar-btn{transform:rotate(180deg)}.mysidebar-content{margin-top:8px;padding-left:10px}.mysidebar-list{list-style:none;padding:0;margin:0}.mysidebar-list li{margin:6px 0;border-bottom:1px solid #f0f0f0}.mysidebar-list a{text-decoration:none;color:var(--mytext-light);font-size:14px;transition:var(--mytransition);display:block;padding:5px 0;cursor:pointer}.mysidebar-list a:hover,.mysidebar-list a.active{color:var(--myprimary-color);transform:translateX(5px)}.products-grid{flex:1}.products-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:25px}.section-title{font-size:24px;color:var(--mytext-color);font-weight:700}.sort-options{display:flex;align-items:center}.sort-options select{padding:8px 15px;border:1px solid #ddd;border-radius:6px;margin-left:10px;background-color:#fff;cursor:pointer;transition:border-color 0.3s}.sort-options select:hover{border-color:var(--myprimary-color)}.products-container{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:25px}.product-group{margin-bottom:50px;grid-column:1 / -1}.product-group-title{font-size:24px;font-weight:600;margin-bottom:25px;padding-left:12px;border-left:4px solid var(--myprimary-color);color:#333}.product-group .products-container{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:25px;align-items:stretch}.product-card{background-color:#fff;border-radius:10px;overflow:hidden;box-shadow:var(--mybox-shadow);transition:transform 0.3s ease,box-shadow 0.3s ease;position:relative;cursor:pointer}.product-group .products-container .product-card-link .product-card{display:flex;flex-direction:column;height:360px;width:100%}.product-badge-new,.product-badge-new-inline{display:none !important}.product-image{position:relative;height:230px;flex:0 0 230px;overflow:hidden;object-fit:cover}.product-image img{width:100%;height:100%;object-fit:contain;padding:8px;box-sizing:border-box;transition:opacity 0.5s ease,transform 0.5s ease}.product-image .default-image{opacity:1}.product-image .hover-image{opacity:0}.product-card:hover .default-image{opacity:0}.product-card:hover .hover-image{opacity:1}.product-image .hover-image{position:absolute;top:0;left:0;opacity:0}.product-card:hover .product-image img{transform:scale(1.05)}.product-info{padding:12px 15px;text-align:center}.product-group .products-container .product-card-link .product-info{flex:1 1 130px;height:130px;display:flex;flex-direction:column;justify-content:center;align-items:center;overflow:hidden}.product-name{font-size:16px;font-weight:600;margin-bottom:6px;color:var(--mytext-color)}.product-group .products-container .product-card-link .product-name{font-size:15px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis;max-width:100%}.product-model{font-size:15px;color:var(--mytext-color);margin-bottom:8px;font-weight:500}.product-group .products-container .product-card-link .product-model{font-size:14px;line-height:1.3;margin-bottom:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}.product-price{font-size:18px;font-weight:700;color:var(--myaccent-color)}.product-group.hidden{display:none}.product-card-link{display:flex;flex-direction:column;height:100%;text-decoration:none;color:inherit;transition:var(--mytransition);border-radius:10px}.product-card-link:hover .product-card{transform:translateY(-6px);box-shadow:0 12px 25px rgba(0,0,0,0.12)}.product-card-link:hover{text-decoration:none;color:inherit}.dropdown-toggle{display:none;background:none;border:none;font-size:18px;cursor:pointer}@media (max-width:992px){.main-productcategory{flex-direction:column}.mysidebar{width:100%;position:static;max-height:none;margin-bottom:20px}}@media (max-width:768px){.mysidebar{width:100%;background:#f5f5f5;border-bottom:1px solid #ddd;padding:5px 8px}.mysidebar-header{padding:10px 15px;background:#fff;font-weight:600;font-size:16px;display:flex;justify-content:space-between;align-items:center}.dropdown-toggle{display:inline-block}.mysidebar-content{display:none;background:#fff;padding:0 15px}.mysidebar-content.active{display:block}.mysidebar-list{list-style:none;padding:0;margin:0}.mysidebar-list li{border-bottom:1px solid #eee}.mysidebar-list a{display:block;padding:10px 0;text-decoration:none;color:#333}.mysidebar-list a:hover{color:#007bff}.main-productcategory{margin-top:20px}.product-group-title{font-size:21px}.product-group .products-container{grid-template-columns:repeat(2,1fr);gap:15px}.product-group .products-container .product-card-link .product-card{height:270px}.product-image{height:160px;flex:0 0 160px}.product-group .products-container .product-card-link .product-info{flex:1 1 110px;height:110px;padding:8px 10px}.product-group .products-container .product-card-link .product-name{font-size:13px}.product-group .products-container .product-card-link .product-model{font-size:12px}.product-group{margin-bottom:25px}}.product-group{display:block}.product-group.hidden{display:none}.back-to-all{display:none;margin-bottom:20px;background-color:#f8f9fa;padding:10px 15px;border-radius:5px;border-left:4px solid #007bff}.back-to-all button{background:none;border:none;color:#007bff;cursor:pointer;font-size:16px;display:flex;align-items:center;gap:8px}.back-to-all button:hover{color:#0056b3}.filter-link.active{font-weight:bold;color:#007bff !important}.mysidebar{scroll-behavior:smooth}.nav-link{padding:.5rem 1rem}@media(min-width:768px){.Head-section{min-height:98px}.second-nav{min-height:32px}}@media(max-width:767px){.Head-section{min-height:89px}.second-nav{min-height:0}}</style>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" fetchpriority="low" onload="this.media='all'">
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" media="print" fetchpriority="low" onload="this.media='all'">
 
     <!-- Swiper CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" media="print" onload="this.media='all'">
 
     <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-    <link rel="shortcut icon" href="assets\img\logoH__1_-removebg-preview.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
    
-</head>
 
-<body>
-    <!-- Header Section -->
-    <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sunny Light</title>
-  <link rel="stylesheet" href="assets/CSS/main.css">
-  <link rel="stylesheet" href="assets/CSS/mobile-product.css">
-
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Bootstrap Icons  -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-  <!-- Include Swiper CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
-
-  <!-- Bootstrap JS (dropdowns, modals, etc. ke liye) -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
-
-
-     <style>
+<style>
       /* Search bar container ko higher z-index dena hoga */
 
 
@@ -162,12 +136,11 @@
   }
 }
 </style>
-    
-
-
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script>
+  <script src="assets/JS/index.min.js" defer></script>
 </head>
-
 <body>
+
 
   <section class="Head-section">
     <!-- Mobile Screen start-->
@@ -175,7 +148,7 @@
 
       <!-- Left: Logo -->
       <div class="mobile-logo">
-        <a href="index.php"> <img src="assets\img\logoH__1_-removebg-preview.png" alt="Logo" height="45"> </a>
+        <a href="index.php"> <picture><source srcset="assets/img/logoH__1_-removebg-preview.png.webp" type="image/webp"><img src="assets/img/logoH__1_-removebg-preview.png" alt="Logo" height="45"></picture> </a>
       </div>
 
       <!-- Right: Search + Menu Icons -->
@@ -183,7 +156,7 @@
         <div class="mobile-search-bar" id="mobileSearchBar">
             <div class="mobile-search-container">
                 <input type="text" id="mobileSearchInput" placeholder="Search..." autocomplete="off">
-                <button class="mobile-search-close" id="mobileSearchClose">
+                <button class="mobile-search-close" id="mobileSearchClose" type="button" aria-label="Close search">
                     <i class="fas fa-times"></i>
                 </button>
             </div>
@@ -276,7 +249,7 @@
 
             <!-- Logo -->
             <a class="hearder-logo" href="index.php">
-              <img src="assets\img\logoH__1_-removebg-preview.png" alt="Logo" class="d-inline-block align-text-top">
+              <picture><source srcset="assets/img/logoH__1_-removebg-preview.png.webp" type="image/webp"><img src="assets/img/logoH__1_-removebg-preview.png" alt="Logo" class="d-inline-block align-text-top"></picture>
             </a>
 
           
@@ -285,7 +258,7 @@
               
               <input type="text" id="searchInput" placeholder="Search..."
                 aria-label="Search" /> 
-                <button class="search-icon" type="submit"> <i
+                <button class="search-icon" type="submit" aria-label="Search products"> <i
                   class="fa-solid fa-magnifying-glass"></i> </button> 
 
                    <!-- suggestions container -->
@@ -1121,12 +1094,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- Mobile search bar script end -->
 
   <?php include 'get-a-quote.php'; ?>
-  <script src="assets/JS/index.js"></script> 
-</body>
 
-</html>
-
-    <!-- production category section -->
+  <main>
+<!-- production category section -->
     <section class="productpage-category ">
         <div class="page-width main-productcategory">
             <!-- left part -->
@@ -1134,7 +1104,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="mysidebar-section">
                     <div class="mysidebar-header">
                         <h4>Outdoor Lights</h4>
-                         <button class="dropdown-toggle" id="mobileDropdownBtn">
+                         <button class="dropdown-toggle" id="mobileDropdownBtn" type="button" aria-label="Toggle category menu">
         <i class="fa fa-chevron-down"></i>
       </button>
                     </div>
@@ -1208,10 +1178,10 @@ document.addEventListener('DOMContentLoaded', function() {
                          <a href="outdoor-product-detail-page.php?id=3" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-11.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-8.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-11.jpg.webp" type="image/webp"><img fetchpriority="high" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-11.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-8.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-8.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Step Light</h3>
@@ -1223,10 +1193,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=2" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/OUTDOOR-RECESSED-STEP-LIGHT2-z.png"
-                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-3.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/OUTDOOR-RECESSED-STEP-LIGHT2-z.png.webp" type="image/webp"><img fetchpriority="high" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/OUTDOOR-RECESSED-STEP-LIGHT2-z.png"
+                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-3.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-3.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Step Light</h3>
@@ -1239,10 +1209,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1" class="product-card-link">
                                 <div class="product-card" data-price="1500">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/OUTDOOR-RECESSED-STEP-LIGHT-m.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/9627-1.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/OUTDOOR-RECESSED-STEP-LIGHT-m.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/OUTDOOR-RECESSED-STEP-LIGHT-m.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/9627-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/9627-1.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image" fetchpriority="low"></picture>
 
                                     </div>
                                     <div class="product-info">
@@ -1257,10 +1227,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=4" class="product-card-link">
                                 <div class="product-card" data-price="1500">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/outdoor-step-light-3.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/main-pdt-uses-area/9628-use.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/outdoor-step-light-3.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/outdoor-step-light-3.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/main-pdt-uses-area/9628-use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/main-pdt-uses-area/9628-use.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Step Light</h3>
@@ -1274,10 +1244,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=5" class="product-card-link">
                                 <div class="product-card" data-price="1200">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/outdoor-step-light-5-z.png"
-                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-19.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/outdoor-step-light-5-z.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/outdoor-step-light-5-z.png"
+                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-19.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-19.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Step Light</h3>
@@ -1290,10 +1260,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=6" class="product-card-link">
                                 <div class="product-card" data-price="900">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-20.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-22.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-20.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-20.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-22.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-22.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Step Light</h3>
@@ -1306,10 +1276,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=7" class="product-card-link">
                                 <div class="product-card" data-price="1250">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/outdoor-step-light-4.png"
-                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/M-25-imgs/9625-3.jpg"
-                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/outdoor-step-light-4.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/outdoor-step-light-4.png"
+                                            alt="OUTDOOR RECESSED STEP LIGHT" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/M-25-imgs/9625-3.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/M-25-imgs/9625-3.jpg"
+                                            alt="OUTDOOR RECESSED STEP LIGHT USE" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Step Light</h3>
@@ -1332,10 +1302,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=8" class="product-card-link">
                                 <div class="product-card" data-price="900">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-25.jpg"
-                                            alt="Outdoor Surface Step/Wall Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-27.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-25.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-25.jpg"
+                                            alt="Outdoor Surface Step/Wall Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-27.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-27.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Surface Step/Wall Light</h3>
@@ -1346,10 +1316,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=9" class="product-card-link">
                                 <div class="product-card" data-price="900">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-32.jpg"
-                                            alt="Outdoor Surface Step/Wall Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-36.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-32.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-32.jpg"
+                                            alt="Outdoor Surface Step/Wall Light" class="default-image"></picture>
+                                        <img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-36.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Surface Step/Wall Light</h3>
@@ -1362,10 +1332,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=10" class="product-card-link">
                                 <div class="product-card" data-price="1800">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-38.jpg"
-                                            alt="Outdoor Surface Step/Wall Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-40.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-38.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/img-o-38.jpg"
+                                            alt="Outdoor Surface Step/Wall Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-40.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-40.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Surface Step/Wall Light</h3>
@@ -1376,8 +1346,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1635" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_635.png" alt="SL FL-004R" class="default-image">
-                                        <img src="assets/img/products/product_635_2.png" alt="SL FL-004R" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_635.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_635.png" alt="SL FL-004R" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_635_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_635_2.png" alt="SL FL-004R" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Surface Step/Wall Lights</h3>
@@ -1388,8 +1358,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1636" class="product-card-link">
                                 <div class="product-card" data-price="2100">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_636.png" alt="SL CYSF-221" class="default-image">
-                                        <img src="assets/img/products/product_636_2.png" alt="SL CYSF-221" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_636.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_636.png" alt="SL CYSF-221" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_636_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_636_2.png" alt="SL CYSF-221" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Surface Step/Wall Lights</h3>
@@ -1413,10 +1383,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=11" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/mini-1-1.jpg"
-                                            alt="Smart Watch" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-48.png"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/mini-1-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/mini-1-1.jpg"
+                                            alt="Smart Watch" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-48.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-48.png"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Light</h3>
@@ -1428,10 +1398,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=12" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-50.jpg"
-                                            alt="Wireless Headphones" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/mini-use-7.png"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-50.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/img-o-50.jpg"
+                                            alt="Wireless Headphones" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/mini-use-7.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/mini-use-7.png"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Light</h3>
@@ -1444,10 +1414,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=13" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/mini-1-1.jpg"
-                                            alt="Portable Speaker" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/mini-use-8.png"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/mini-1-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-recessed-step-light-imgs/model-9627/mini-1-1.jpg"
+                                            alt="Portable Speaker" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/mini-use-8.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/mini-use-8.png"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Light</h3>
@@ -1460,10 +1430,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=14" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/Mini-Series-Outdoor-Wall-Lights4-1.jpg"
-                                            alt="DSLR Camera" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/mini-9.png"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/Mini-Series-Outdoor-Wall-Lights4-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/Mini-Series-Outdoor-Wall-Lights4-1.jpg"
+                                            alt="DSLR Camera" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/mini-9.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/mini-9.png"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Light</h3>
@@ -1476,10 +1446,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=15" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/m-s1-1.png"
-                                            alt="Mini Series Outdoor Wall Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/M-S-1USE.png"
-                                            alt="Mini Series Outdoor Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/m-s1-1.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/m-s1-1.png"
+                                            alt="Mini Series Outdoor Wall Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/M-S-1USE.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/M-S-1USE.png"
+                                            alt="Mini Series Outdoor Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Light</h3>
@@ -1492,10 +1462,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=16" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/m-s2-1.png"
-                                            alt="Mini Series Outdoor Wall Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/m-s-2use.png"
-                                            alt="Mini Series Outdoor Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/m-s2-1.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/m-s2-1.png"
+                                            alt="Mini Series Outdoor Wall Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/m-s-2use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/m-s-2use.png"
+                                            alt="Mini Series Outdoor Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Light</h3>
@@ -1507,10 +1477,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=17" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/img-o-60.jpg"
-                                            alt="Mini Series Outdoor Wall Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/m-s-o-l/m-s-3use.png"
-                                            alt="Mini Series Outdoor Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/img-o-60.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/img-o-60.jpg"
+                                            alt="Mini Series Outdoor Wall Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/m-s-o-l/m-s-3use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/m-s-o-l/m-s-3use.png"
+                                            alt="Mini Series Outdoor Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Light</h3>
@@ -1521,8 +1491,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1650" class="product-card-link">
                                 <div class="product-card" data-price="900">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_650.png" alt="SL CY 9003 WHITE" class="default-image">
-                                        <img src="assets/img/products/product_650_2.png" alt="SL CY 9003 WHITE" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_650.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_650.png" alt="SL CY 9003 WHITE" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_650_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_650_2.png" alt="SL CY 9003 WHITE" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1533,8 +1503,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1651" class="product-card-link">
                                 <div class="product-card" data-price="1600">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_651.png" alt="SL CY-2192 DARK GREY" class="default-image">
-                                        <img src="assets/img/products/product_651_2.png" alt="SL CY-2192 DARK GREY" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_651.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_651.png" alt="SL CY-2192 DARK GREY" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_651_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_651_2.png" alt="SL CY-2192 DARK GREY" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1545,8 +1515,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1652" class="product-card-link">
                                 <div class="product-card" data-price="1100">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_652.png" alt="SL CY 9001 BLACK" class="default-image">
-                                        <img src="assets/img/products/product_652_2.png" alt="SL CY 9001 BLACK" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_652.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_652.png" alt="SL CY 9001 BLACK" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_652_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_652_2.png" alt="SL CY 9001 BLACK" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1557,8 +1527,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1653" class="product-card-link">
                                 <div class="product-card" data-price="1300">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_653.png" alt="SL CY 9009 BLACK" class="default-image">
-                                        <img src="assets/img/products/product_653_2.png" alt="SL CY 9009 BLACK" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_653.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_653.png" alt="SL CY 9009 BLACK" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_653_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_653_2.png" alt="SL CY 9009 BLACK" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1569,8 +1539,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1654" class="product-card-link">
                                 <div class="product-card" data-price="800">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_654.png" alt="SL CY 9002" class="default-image">
-                                        <img src="assets/img/products/product_654_2.png" alt="SL CY 9002" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_654.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_654.png" alt="SL CY 9002" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_654_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_654_2.png" alt="SL CY 9002" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1581,8 +1551,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1655" class="product-card-link">
                                 <div class="product-card" data-price="1000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_655.png" alt="SL CY 9002-2" class="default-image">
-                                        <img src="assets/img/products/product_655_2.png" alt="SL CY 9002-2" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_655.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_655.png" alt="SL CY 9002-2" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_655_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_655_2.png" alt="SL CY 9002-2" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1593,8 +1563,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1656" class="product-card-link">
                                 <div class="product-card" data-price="1100">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_656.png" alt="SL CY 9004" class="default-image">
-                                        <img src="assets/img/products/product_656_2.png" alt="SL CY 9004" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_656.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_656.png" alt="SL CY 9004" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_656_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_656_2.png" alt="SL CY 9004" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1605,8 +1575,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1657" class="product-card-link">
                                 <div class="product-card" data-price="1400">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_657.png" alt="SL CY 9004-2" class="default-image">
-                                        <img src="assets/img/products/product_657_2.png" alt="SL CY 9004-2" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_657.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_657.png" alt="SL CY 9004-2" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_657_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_657_2.png" alt="SL CY 9004-2" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1617,8 +1587,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1658" class="product-card-link">
                                 <div class="product-card" data-price="1400">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_658.png" alt="SL CY 9006" class="default-image">
-                                        <img src="assets/img/products/product_658_2.png" alt="SL CY 9006" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_658.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_658.png" alt="SL CY 9006" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_658_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_658_2.png" alt="SL CY 9006" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1629,8 +1599,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1659" class="product-card-link">
                                 <div class="product-card" data-price="1800">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_659.png" alt="SL CY 9006-2" class="default-image">
-                                        <img src="assets/img/products/product_659_2.png" alt="SL CY 9006-2" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_659.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_659.png" alt="SL CY 9006-2" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_659_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_659_2.png" alt="SL CY 9006-2" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Series Outdoor Wall Lights</h3>
@@ -1649,10 +1619,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=18" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/linear-l-2.jpg"
-                                            alt="Smart Watch" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-66.png"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/linear-l-2.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/linear-l-2.jpg"
+                                            alt="Smart Watch" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-66.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-66.png"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Led Linear Adjustable Outdoor Wall Washer Light</h3>
@@ -1665,10 +1635,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=19" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/linear-l-3.jpg"
-                                            alt="Wireless Headphones" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-66.png"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/linear-l-3.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/linear-l-3.jpg"
+                                            alt="Wireless Headphones" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-66.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-66.png"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Led Linear Adjustable Outdoor Wall Washer Light</h3>
@@ -1681,10 +1651,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=20" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/linear-l-7.jpg"
-                                            alt="Portable Speaker" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/linear-l-10.png"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/linear-l-7.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/linear-l-7.jpg"
+                                            alt="Portable Speaker" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/linear-l-10.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/linear-l-10.png"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Led Linear Adjustable Outdoor Wall Washer Light</h3>
@@ -1703,8 +1673,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1660" class="product-card-link">
                                 <div class="product-card" data-price="1500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_660.png" alt="SL CY-2188" class="default-image">
-                                        <img src="assets/img/products/product_660_2.png" alt="SL CY-2188" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_660.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_660.png" alt="SL CY-2188" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_660_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_660_2.png" alt="SL CY-2188" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">2 In 1 Angle Adjustable Outdoor Wall Lights</h3>
@@ -1722,8 +1692,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1661" class="product-card-link">
                                 <div class="product-card" data-price="2000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_661.png" alt="SL CY-2190" class="default-image">
-                                        <img src="assets/img/products/product_661_2.png" alt="SL CY-2190" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_661.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_661.png" alt="SL CY-2190" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_661_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_661_2.png" alt="SL CY-2190" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Angle Adjustable Outdoor Wall Lights</h3>
@@ -1734,8 +1704,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1662" class="product-card-link">
                                 <div class="product-card" data-price="1800">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_662.png" alt="SL CY-2191" class="default-image">
-                                        <img src="assets/img/products/product_662_2.png" alt="SL CY-2191" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_662.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_662.png" alt="SL CY-2191" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_662_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_662_2.png" alt="SL CY-2191" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Angle Adjustable Outdoor Wall Lights</h3>
@@ -1751,8 +1721,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1663" class="product-card-link">
                                 <div class="product-card" data-price="1600">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_663.png" alt="SL CY-2189" class="default-image">
-                                        <img src="assets/img/products/product_663_2.png" alt="SL CY-2189" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_663.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_663.png" alt="SL CY-2189" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_663_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_663_2.png" alt="SL CY-2189" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Adjustable Outdoor Wall Lights</h3>
@@ -1771,10 +1741,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=21" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/spike-l-3-2.png"
-                                            alt="Outdoor Garden Spike Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/spike-l-1use.png"
-                                            alt="Outdoor Garden Spike Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/spike-l-3-2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/spike-l-3-2.png"
+                                            alt="Outdoor Garden Spike Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/spike-l-1use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/spike-l-1use.png"
+                                            alt="Outdoor Garden Spike Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Tree Spike Light</h3>
@@ -1787,10 +1757,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=22" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/img-o-80.jpg"
-                                            alt="Outdoor Garden Spike Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/spike-l-2use.png"
-                                            alt="Outdoor Garden Spike Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/img-o-80.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/img-o-80.jpg"
+                                            alt="Outdoor Garden Spike Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/spike-l-2use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/spike-l-2use.png"
+                                            alt="Outdoor Garden Spike Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Tree Spike Light</h3>
@@ -1801,10 +1771,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=23" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/img-o-79.jpg"
-                                            alt="Outdoor Garden Spike Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/spike-l-2use.png"
-                                            alt="Outdoor Garden Spike Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/img-o-79.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/img-o-79.jpg"
+                                            alt="Outdoor Garden Spike Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/spike-l-2use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/spike-l-2use.png"
+                                            alt="Outdoor Garden Spike Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Tree Spike Light</h3>
@@ -1815,10 +1785,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=24" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/img-o-81.jpg"
-                                            alt="Outdoor Garden Spike Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/spike-l-3use.jpg"
-                                            alt="Outdoor Garden Spike Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/img-o-81.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/img-o-81.jpg"
+                                            alt="Outdoor Garden Spike Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/spike-l-3use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/spike-l-3use.jpg"
+                                            alt="Outdoor Garden Spike Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Tree Spike Light</h3>
@@ -1831,10 +1801,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=25" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/ad-light.jpg"
-                                            alt="Outdoor Garden Spike Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/ad-light-2.png"
-                                            alt="Outdoor Garden Spike Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/ad-light.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/ad-light.jpg"
+                                            alt="Outdoor Garden Spike Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/ad-light-2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/ad-light-2.png"
+                                            alt="Outdoor Garden Spike Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Adjustable Spike/ Wall Light</h3>
@@ -1847,10 +1817,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=26" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/ad-light.jpg"
-                                            alt="Outdoor Garden Spike Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/ad-light-3.png"
-                                            alt="Outdoor Garden Spike Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/ad-light.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/ad-light.jpg"
+                                            alt="Outdoor Garden Spike Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/ad-light-3.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/ad-light-3.png"
+                                            alt="Outdoor Garden Spike Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Adjustable Spike/ Wall Light</h3>
@@ -1862,8 +1832,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1600" class="product-card-link">
                                 <div class="product-card" data-price="1500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_600.png" alt="SL-S721" class="default-image">
-                                        <img src="assets/img/products/product_600_2.png" alt="SL-S721" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_600.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_600.png" alt="SL-S721" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_600_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_600_2.png" alt="SL-S721" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Tree Spike Lights</h3>
@@ -1874,8 +1844,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1601" class="product-card-link">
                                 <div class="product-card" data-price="1400">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_601.png" alt="SL-S722" class="default-image">
-                                        <img src="assets/img/products/product_600_2.png" alt="SL-S722" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_601.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_601.png" alt="SL-S722" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_600_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_600_2.png" alt="SL-S722" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Tree Spike Lights</h3>
@@ -1895,10 +1865,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=27" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/img-o-100.jpg"
-                                            alt="Wireless Headphones" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-91.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/img-o-100.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/img-o-100.jpg"
+                                            alt="Wireless Headphones" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/img-o-91.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-91.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Inground Burial Pathway Light</h3>
@@ -1911,10 +1881,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=28" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/spike-light/imh-o-90.png"
-                                            alt="Smart Watch" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-93.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/spike-light/imh-o-90.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/spike-light/imh-o-90.png"
+                                            alt="Smart Watch" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/img-o-93.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-93.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Inground Burial Pathway Light</h3>
@@ -1936,10 +1906,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=29" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-106.jpg"
-                                            alt="Smart Watch" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-105.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/img-o-106.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-106.jpg"
+                                            alt="Smart Watch" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/img-o-105.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-105.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Tiltable Garden Bollard Light</h3>
@@ -1952,10 +1922,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=30" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-109.jpg"
-                                            alt="Wireless Headphones" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-105.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/img-o-109.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-109.jpg"
+                                            alt="Wireless Headphones" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/img-o-105.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/img-o-105.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Tiltable Garden Bollard Light</h3>
@@ -1976,10 +1946,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=31" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/imh-o-116.png"
-                                            alt="Smart Watch" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-118.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/imh-o-116.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/imh-o-116.png"
+                                            alt="Smart Watch" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-118.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-118.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Inground LED Burial Light</h3>
@@ -1992,10 +1962,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=32" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-115.jpg"
-                                            alt="Wireless Headphones" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-126.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-115.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-115.jpg"
+                                            alt="Wireless Headphones" class="default-image"></picture>
+                                        <img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-126.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Inground LED Burial Light</h3>
@@ -2008,10 +1978,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=33" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-113.png"
-                                            alt="Portable Speaker" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-123.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-113.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-113.png"
+                                            alt="Portable Speaker" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-123.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-123.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Inground LED Burial Light</h3>
@@ -2024,10 +1994,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=34" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-114.jpg"
-                                            alt="DSLR Camera" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-121.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-114.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-114.jpg"
+                                            alt="DSLR Camera" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-121.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-121.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Inground LED Burial Light</h3>
@@ -2040,10 +2010,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=35" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-107.jpg"
-                                            alt="DSLR Camera" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-120.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-107.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-107.jpg"
+                                            alt="DSLR Camera" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-120.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-120.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Inground LED Burial Light</h3>
@@ -2056,10 +2026,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=36" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-111.jpg"
-                                            alt="DSLR Camera" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-122.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-111.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-111.jpg"
+                                            alt="DSLR Camera" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-122.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-122.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Inground LED Burial Light</h3>
@@ -2073,10 +2043,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=37" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-127.jpg"
-                                            alt="DSLR Camera" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-135.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-127.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-127.jpg"
+                                            alt="DSLR Camera" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-135.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-135.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Symmetric Inground LED Burial Light</h3>
@@ -2090,10 +2060,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=38" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-146.jpg"
-                                            alt="DSLR Camera" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-139.jpg"
-                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-146.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-146.jpg"
+                                            alt="DSLR Camera" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-139.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-139.jpg"
+                                            alt="Outdoor Surface Step/Wall Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Tiltable Inground LED Burial Light</h3>
@@ -2105,8 +2075,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1687" class="product-card-link">
                                 <div class="product-card" data-price="1200">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_687.png" alt="SLGB-M711-1" class="default-image">
-                                        <img src="assets/img/products/product_687_2.png" alt="SLGB-M711-1" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_687.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_687.png" alt="SLGB-M711-1" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_687_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_687_2.png" alt="SLGB-M711-1" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor In Ground Burial Lights</h3>
@@ -2117,8 +2087,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1688" class="product-card-link">
                                 <div class="product-card" data-price="1300">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_688.png" alt="SLGB-M711-2" class="default-image">
-                                        <img src="assets/img/products/product_688_2.png" alt="SLGB-M711-2" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_688.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_688.png" alt="SLGB-M711-2" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_688_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_688_2.png" alt="SLGB-M711-2" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor In Ground Burial Lights</h3>
@@ -2129,8 +2099,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1689" class="product-card-link">
                                 <div class="product-card" data-price="1400">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_689.png" alt="SLGB-M711-3" class="default-image">
-                                        <img src="assets/img/products/product_689_2.png" alt="SLGB-M711-3" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_689.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_689.png" alt="SLGB-M711-3" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_689_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_689_2.png" alt="SLGB-M711-3" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor In Ground Burial Lights</h3>
@@ -2141,8 +2111,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1690" class="product-card-link">
                                 <div class="product-card" data-price="1500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_690.png" alt="SLGB-M711-4" class="default-image">
-                                        <img src="assets/img/products/product_690_2.png" alt="SLGB-M711-4" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_690.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_690.png" alt="SLGB-M711-4" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_690_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_690_2.png" alt="SLGB-M711-4" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor In Ground Burial Lights</h3>
@@ -2163,10 +2133,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=39" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-155.jpg"
-                                            alt="Outdoor Narrow Beam Uplighter" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-158.jpg"
-                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-155.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-155.jpg"
+                                            alt="Outdoor Narrow Beam Uplighter" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-158.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-158.jpg"
+                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Inground Light</h3>
@@ -2178,10 +2148,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=40" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-151.jpg"
-                                            alt="Outdoor Narrow Beam Uplighter" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-161.jpg"
-                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-151.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-151.jpg"
+                                            alt="Outdoor Narrow Beam Uplighter" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-161.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-161.jpg"
+                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Inground Light</h3>
@@ -2194,10 +2164,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=41" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-153.jpg"
-                                            alt="Outdoor Narrow Beam Uplighter" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-164.jpg"
-                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-153.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-153.jpg"
+                                            alt="Outdoor Narrow Beam Uplighter" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-164.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-164.jpg"
+                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Inground Light</h3>
@@ -2211,10 +2181,10 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=42" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-157.jpg"
-                                            alt="Outdoor Narrow Beam Uplighter" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-161.jpg"
-                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-157.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-157.jpg"
+                                            alt="Outdoor Narrow Beam Uplighter" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-161.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-161.jpg"
+                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Mini Inground Light</h3>
@@ -2235,10 +2205,10 @@ document.addEventListener('DOMContentLoaded', function() {
         <a href="outdoor-product-detail-page.php?id=43" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/nbu-3.png"
-                                            alt="Outdoor Narrow Beam Uplighter" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/nbu-2use.png"
-                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/nbu-3.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/nbu-3.png"
+                                            alt="Outdoor Narrow Beam Uplighter" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/nbu-2use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/nbu-2use.png"
+                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Narrow Beam Uplighter</h3>
@@ -2251,10 +2221,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=44" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/n-b-u-2.png"
-                                            alt="Outdoor Narrow Beam Uplighter" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/img-o-172.jpg"
-                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/n-b-u-2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/n-b-u-2.png"
+                                            alt="Outdoor Narrow Beam Uplighter" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/img-o-172.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/img-o-172.jpg"
+                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Narrow Beam Uplighter</h3>
@@ -2269,10 +2239,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=45" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/n-b-u-2.png"
-                                            alt="Outdoor Narrow Beam Uplighter" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/N-B-U/nbu-1use.png"
-                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/n-b-u-2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/n-b-u-2.png"
+                                            alt="Outdoor Narrow Beam Uplighter" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/N-B-U/nbu-1use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/N-B-U/nbu-1use.png"
+                                            alt="Outdoor Narrow Beam Uplighter-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Narrow Beam Uplighter</h3>
@@ -2293,10 +2263,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=46" class="product-card-link">
                                 <div class="product-card" data-price="550">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-2.jpg"
-                                            alt="Outdoor Solar Garden Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-iuse.png"
-                                            alt="Outdoor Solar Garden Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/s-l-2.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-2.jpg"
+                                            alt="Outdoor Solar Garden Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/sgl-iuse.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-iuse.png"
+                                            alt="Outdoor Solar Garden Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Solar Garden Light</h3>
@@ -2308,10 +2278,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=47" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-3.jpg"
-                                            alt="Outdoor Solar Garden Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-2use.png"
-                                            alt="Outdoor Solar Garden Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/s-l-3.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-3.jpg"
+                                            alt="Outdoor Solar Garden Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/sgl-2use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-2use.png"
+                                            alt="Outdoor Solar Garden Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Solar Garden Light</h3>
@@ -2323,10 +2293,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=48" class="product-card-link">
                                 <div class="product-card" data-price="650">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-4.jpg"
-                                            alt="Outdoor Solar Garden Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-3use.png"
-                                            alt="Outdoor Solar Garden Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/s-l-4.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-4.jpg"
+                                            alt="Outdoor Solar Garden Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/sgl-3use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-3use.png"
+                                            alt="Outdoor Solar Garden Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Solar Garden Light</h3>
@@ -2338,10 +2308,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=49" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-7.jpg"
-                                            alt="Outdoor Solar Garden Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-4use.png"
-                                            alt="Outdoor Solar Garden Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/s-l-7.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-7.jpg"
+                                            alt="Outdoor Solar Garden Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/sgl-4use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-4use.png"
+                                            alt="Outdoor Solar Garden Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Solar Garden Light</h3>
@@ -2353,10 +2323,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=50" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-9.jpg"
-                                            alt="Outdoor Solar Garden Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-5use.png"
-                                            alt="Outdoor Solar Garden Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/s-l-9.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-9.jpg"
+                                            alt="Outdoor Solar Garden Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/sgl-5use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-5use.png"
+                                            alt="Outdoor Solar Garden Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Solar Garden Light</h3>
@@ -2367,10 +2337,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=51" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-6.png"
-                                            alt="Outdoor Solar Garden Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-6use.png"
-                                            alt="Outdoor Solar Garden Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/s-l-6.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-6.png"
+                                            alt="Outdoor Solar Garden Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/sgl-6use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-6use.png"
+                                            alt="Outdoor Solar Garden Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Solar Garden Light</h3>
@@ -2381,10 +2351,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=52" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-11.jpg"
-                                            alt="Outdoor Solar Garden Light" class="default-image">
-                                        <img src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-7use.png"
-                                            alt="Outdoor Solar Garden Light-use" class="hover-image">
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/s-l-11.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/s-l-11.jpg"
+                                            alt="Outdoor Solar Garden Light" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor-light-products-img/solar-garden-light/sgl-7use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/solar-garden-light/sgl-7use.png"
+                                            alt="Outdoor Solar Garden Light-use" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Solar Garden Light</h3>
@@ -2406,12 +2376,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=53" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/sensor/s-l-20.jpg"
+                                        <picture><source srcset="assets/img/sensor/s-l-20.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/sensor/s-l-20.jpg"
                                             alt="Automatic Sensor Based Outdoor Solar Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/sensor/s-l-17.webp"
+                                            class="default-image"></picture>
+                                        <img loading="lazy" decoding="async" src="assets/img/sensor/s-l-17.webp"
                                             alt="Automatic Sensor Based Outdoor Solar Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Automatic Sensor Based Solar Garden Bollard Light</h3>
@@ -2437,12 +2407,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=54" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-1-1.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-1-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-1-1.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-1use.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-1use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-1use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2455,12 +2425,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=55" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-1-1.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-1-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-1-1.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-1use.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-1use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-1use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2472,12 +2442,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=56" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-2.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-2.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-2.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out2use.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out2use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out2use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2488,12 +2458,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=57" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-3.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-3.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-3.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out2use.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out2use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out2use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2505,12 +2475,12 @@ document.addEventListener('DOMContentLoaded', function() {
                               <a href="outdoor-product-detail-page.php?id=58" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-4.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-4.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-4.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-4.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-4.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-4.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2522,12 +2492,12 @@ document.addEventListener('DOMContentLoaded', function() {
                               <a href="outdoor-product-detail-page.php?id=59" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-5.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-5.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-5.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-5.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-5.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-5.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2539,12 +2509,12 @@ document.addEventListener('DOMContentLoaded', function() {
                               <a href="outdoor-product-detail-page.php?id=60" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-6.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-6.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-6.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-6use.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-6use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-6use.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2556,12 +2526,12 @@ document.addEventListener('DOMContentLoaded', function() {
                               <a href="outdoor-product-detail-page.php?id=61" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-7.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-7.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-7.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-10.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-10.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-10.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2573,12 +2543,12 @@ document.addEventListener('DOMContentLoaded', function() {
                               <a href="outdoor-product-detail-page.php?id=62" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-8.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-8.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-8.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-10.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-10.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-10.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2590,12 +2560,12 @@ document.addEventListener('DOMContentLoaded', function() {
                               <a href="outdoor-product-detail-page.php?id=63" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-9.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-9.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-9.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-7use.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-7use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-7use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2607,12 +2577,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=64" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-12.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-12.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-12.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-12.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-12.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-12.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2624,12 +2594,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=65" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-11.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-11.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-11.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-11.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-11.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-11.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2641,12 +2611,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=66" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-13.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-13.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-13.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-11use.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-11use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-11use.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2658,12 +2628,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=67" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-14.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-14.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-14.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-11use.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-11use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-11use.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2675,12 +2645,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=68" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-15.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-15.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-15.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-15.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-15.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-15.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2692,12 +2662,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=69" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-16.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-16.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-16.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-16.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-16.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-16.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2709,12 +2679,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=70" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-17.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-17.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-17.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-17.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-17.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-17.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2726,12 +2696,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=71" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-18.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-18.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-18.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-18.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-18.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-18.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2743,12 +2713,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=72" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-19.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-19.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-19.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-19use.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-19use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-19use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2760,12 +2730,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=73" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-20.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-20.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-20.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-20use.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-20use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-20use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2777,12 +2747,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <!-- <a href="outdoor-product-detail-page.php?id=74" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-21.jpg"
+                                        <img loading="lazy" decoding="async" src="assets/img/outdoor/out-21.jpg"
                                             alt="Outdoor Garden Light"
                                             class="default-image">
-                                        <img src="assets/img/outdoor/out-21use.png"
+                                        <img loading="lazy" decoding="async" src="assets/img/outdoor/out-21use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2794,12 +2764,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=75" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-22.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-22.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-22.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-22.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-22.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-22.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2811,12 +2781,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=76" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-23.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-23.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-23.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-23use.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-23use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-23use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2828,12 +2798,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=77" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-24.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-24.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-24.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-23use.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-23use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-23use.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2845,12 +2815,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=78" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-25.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-25.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-25.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-25.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-25.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-25.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Light</h3>
@@ -2876,12 +2846,12 @@ document.addEventListener('DOMContentLoaded', function() {
        <a href="outdoor-product-detail-page.php?id=79" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-26.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-26.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-26.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-26.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-26.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-26.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Surface/Wall Foot Light</h3>
@@ -2893,12 +2863,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=80" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-27.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-27.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-27.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-27.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-27.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-27.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Surface/Wall Foot Light</h3>
@@ -2910,12 +2880,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=81" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-29.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-29.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-29.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-30.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-30.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-30.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Surface/Wall Foot Light</h3>
@@ -2940,12 +2910,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=82" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-31.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-31.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-31.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-31.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-31.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-31.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Foot Light</h3>
@@ -2957,12 +2927,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=83" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-32.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-32.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-32.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-32.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-32.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-32.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Foot Light</h3>
@@ -2974,12 +2944,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=84" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-33.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-33.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-33.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-33.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-33.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-33.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Foot Light</h3>
@@ -2991,12 +2961,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=85" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-34.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-34.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-34.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-34use.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-34use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-34use.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Foot Light</h3>
@@ -3022,12 +2992,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=86" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-36.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-36.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-36.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-36.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-36.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-36.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3039,12 +3009,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=87" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-37.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-37.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-37.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-37.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-37.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-37.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3056,12 +3026,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=88" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-38.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-38.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-38.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-38.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-38.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-38.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3073,12 +3043,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=89" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-39.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-39.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-39.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-39.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-39.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-39.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3090,12 +3060,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                <a href="outdoor-product-detail-page.php?id=90" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-40.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-40.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-40.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-40use.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-40use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-40use.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3107,12 +3077,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                <a href="outdoor-product-detail-page.php?id=91" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-41.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-41.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-41.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-41.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-41.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-41.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3124,12 +3094,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                <a href="outdoor-product-detail-page.php?id=92" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-42.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-42.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-42.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-42.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-42.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-42.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3141,12 +3111,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                <a href="outdoor-product-detail-page.php?id=93" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-43.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-43.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-43.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-43.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-43.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-43.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3158,12 +3128,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                <a href="outdoor-product-detail-page.php?id=94" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-44.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-44.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-44.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-44.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-44.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-44.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3175,12 +3145,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=95" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-45.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-45.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-45.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-45.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-45.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-45.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Light</h3>
@@ -3191,8 +3161,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1667" class="product-card-link">
                                 <div class="product-card" data-price="2200">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_667.png" alt="SL WL-5606" class="default-image">
-                                        <img src="assets/img/products/product_667_2.png" alt="SL WL-5606" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_667.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_667.png" alt="SL WL-5606" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_667_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_667_2.png" alt="SL WL-5606" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Lights</h3>
@@ -3203,8 +3173,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1668" class="product-card-link">
                                 <div class="product-card" data-price="2500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_668.png" alt="SL WL-5607" class="default-image">
-                                        <img src="assets/img/products/product_668_2.png" alt="SL WL-5607" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_668.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_668.png" alt="SL WL-5607" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_668_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_668_2.png" alt="SL WL-5607" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Lights</h3>
@@ -3215,8 +3185,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1669" class="product-card-link">
                                 <div class="product-card" data-price="3500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_669.png" alt="SL WL-5608" class="default-image">
-                                        <img src="assets/img/products/product_669_2.png" alt="SL WL-5608" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_669.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_669.png" alt="SL WL-5608" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_669_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_669_2.png" alt="SL WL-5608" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Lights</h3>
@@ -3227,8 +3197,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1674" class="product-card-link">
                                 <div class="product-card" data-price="2800">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_674.png" alt="SL PR-BL-9801" class="default-image">
-                                        <img src="assets/img/products/product_674.png" alt="SL PR-BL-9801" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_674.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_674.png" alt="SL PR-BL-9801" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_674.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_674.png" alt="SL PR-BL-9801" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Lights</h3>
@@ -3253,12 +3223,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=96" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-46.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-46.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-46.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-46use.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-46use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-46use.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Bollard Light</h3>
@@ -3270,12 +3240,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=97" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-48.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-48.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-48.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-48.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-48.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-48.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Bollard Light</h3>
@@ -3287,12 +3257,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=98" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-47.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-47.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-47.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-48use.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-48use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-48use.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Bollard Light</h3>
@@ -3304,12 +3274,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=99" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-49.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-49.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-49.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-49.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-49.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-49.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Bollard Light</h3>
@@ -3321,12 +3291,12 @@ document.addEventListener('DOMContentLoaded', function() {
                            <a href="outdoor-product-detail-page.php?id=100" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-50.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-50.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-50.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-50.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-50.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-50.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Bollard Light</h3>
@@ -3337,8 +3307,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1705" class="product-card-link">
                                 <div class="product-card" data-price="7000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_705.png" alt="SL PR- BL-9803-3" class="default-image">
-                                        <img src="assets/img/products/product_705_2.png" alt="SL PR- BL-9803-3" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_705.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_705.png" alt="SL PR- BL-9803-3" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_705_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_705_2.png" alt="SL PR- BL-9803-3" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
@@ -3349,8 +3319,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1706" class="product-card-link">
                                 <div class="product-card" data-price="9500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_706.png" alt="SL PR-BL-9803-6" class="default-image">
-                                        <img src="assets/img/products/product_705_2.png" alt="SL PR-BL-9803-6" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_706.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_706.png" alt="SL PR-BL-9803-6" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_705_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_705_2.png" alt="SL PR-BL-9803-6" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
@@ -3361,8 +3331,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1707" class="product-card-link">
                                 <div class="product-card" data-price="4000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_707.png" alt="SL PR-BL-9801-3" class="default-image">
-                                        <img src="assets/img/products/product_707_2.png" alt="SL PR-BL-9801-3" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_707.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_707.png" alt="SL PR-BL-9801-3" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_707_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_707_2.png" alt="SL PR-BL-9801-3" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
@@ -3373,8 +3343,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1708" class="product-card-link">
                                 <div class="product-card" data-price="5500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_708.png" alt="SL PR BL-9801-6" class="default-image">
-                                        <img src="assets/img/products/product_707_2.png" alt="SL PR BL-9801-6" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_708.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_708.png" alt="SL PR BL-9801-6" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_707_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_707_2.png" alt="SL PR BL-9801-6" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
@@ -3385,8 +3355,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1709" class="product-card-link">
                                 <div class="product-card" data-price="7000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_709.png" alt="SL PR BL-9801-8" class="default-image">
-                                        <img src="assets/img/products/product_707_2.png" alt="SL PR BL-9801-8" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_709.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_709.png" alt="SL PR BL-9801-8" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_707_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_707_2.png" alt="SL PR BL-9801-8" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
@@ -3397,8 +3367,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1711" class="product-card-link">
                                 <div class="product-card" data-price="5500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_711.png" alt="SL PR-BL-9802-3" class="default-image">
-                                        <img src="assets/img/products/product_711_2.png" alt="SL PR-BL-9802-3" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_711.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_711.png" alt="SL PR-BL-9802-3" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_711_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_711_2.png" alt="SL PR-BL-9802-3" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
@@ -3409,8 +3379,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1712" class="product-card-link">
                                 <div class="product-card" data-price="7500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_712.png" alt="SL PR-BL-9802-6" class="default-image">
-                                        <img src="assets/img/products/product_711_2.png" alt="SL PR-BL-9802-6" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_712.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_712.png" alt="SL PR-BL-9802-6" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_711_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_711_2.png" alt="SL PR-BL-9802-6" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Premium Garden Bollard Lights</h3>
@@ -3421,8 +3391,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1716" class="product-card-link">
                                 <div class="product-card" data-price="3100">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_716.png" alt="SL BL-1011-5" class="default-image">
-                                        <img src="assets/img/products/product_716_2.png" alt="SL BL-1011-5" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_716.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_716.png" alt="SL BL-1011-5" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_716_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_716_2.png" alt="SL BL-1011-5" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Bollard Lights</h3>
@@ -3433,8 +3403,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1717" class="product-card-link">
                                 <div class="product-card" data-price="4200">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_717.png" alt="SL BL-1011-8" class="default-image">
-                                        <img src="assets/img/products/product_716_2.png" alt="SL BL-1011-8" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_717.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_717.png" alt="SL BL-1011-8" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_716_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_716_2.png" alt="SL BL-1011-8" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Bollard Lights</h3>
@@ -3445,8 +3415,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1718" class="product-card-link">
                                 <div class="product-card" data-price="3500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_718.png" alt="SL BL-780-6" class="default-image">
-                                        <img src="assets/img/products/product_718_2.png" alt="SL BL-780-6" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_718.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_718.png" alt="SL BL-780-6" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_718_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_718_2.png" alt="SL BL-780-6" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden Bollard Lights</h3>
@@ -3471,12 +3441,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=101" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-51.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-51.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-51.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-51.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-51.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-51.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Gate Light</h3>
@@ -3488,12 +3458,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=102" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-52.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-52.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-52.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-52.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-52.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-52.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Gate Light</h3>
@@ -3505,12 +3475,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=103" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-53.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-53.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-53.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-53.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-53.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-53.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Gate Light</h3>
@@ -3522,12 +3492,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=104" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-55.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-55.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-55.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-55.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-55.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-55.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Gate Light</h3>
@@ -3539,12 +3509,12 @@ document.addEventListener('DOMContentLoaded', function() {
                            <a href="outdoor-product-detail-page.php?id=105" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-56.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-56.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-56.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-56.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-56.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-56.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Gate Light</h3>
@@ -3556,12 +3526,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=106" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-60.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-60.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-60.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-63use.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-63use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-63use.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Gate Light</h3>
@@ -3573,12 +3543,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=107" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-61.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-61.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-61.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-61use.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-61use.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-61use.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Gate Light</h3>
@@ -3589,8 +3559,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1719" class="product-card-link">
                                 <div class="product-card" data-price="2800">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_719.png" alt="SL GT-779" class="default-image">
-                                        <img src="assets/img/products/product_719_2.png" alt="SL GT-779" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_719.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_719.png" alt="SL GT-779" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_719_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_719_2.png" alt="SL GT-779" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden/Gate Lights</h3>
@@ -3601,8 +3571,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1720" class="product-card-link">
                                 <div class="product-card" data-price="2500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_720.png" alt="SL GT-780" class="default-image">
-                                        <img src="assets/img/products/product_720_2.png" alt="SL GT-780" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_720.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_720.png" alt="SL GT-780" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_720_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_720_2.png" alt="SL GT-780" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden/Gate Lights</h3>
@@ -3613,8 +3583,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1721" class="product-card-link">
                                 <div class="product-card" data-price="3100">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_721.png" alt="SL GT-781" class="default-image">
-                                        <img src="assets/img/products/product_721_2.png" alt="SL GT-781" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_721.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_721.png" alt="SL GT-781" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_721_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_721_2.png" alt="SL GT-781" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden/Gate Lights</h3>
@@ -3625,8 +3595,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1722" class="product-card-link">
                                 <div class="product-card" data-price="2800">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_722.png" alt="SL GT-889-S" class="default-image">
-                                        <img src="assets/img/products/product_722_2.png" alt="SL GT-889-S" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_722.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_722.png" alt="SL GT-889-S" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_722_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_722_2.png" alt="SL GT-889-S" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Premium Outdoor Garden/Gate Lights</h3>
@@ -3637,8 +3607,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1723" class="product-card-link">
                                 <div class="product-card" data-price="4000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_723.png" alt="SL GT-889-B" class="default-image">
-                                        <img src="assets/img/products/product_722_2.png" alt="SL GT-889-B" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_723.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_723.png" alt="SL GT-889-B" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_722_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_722_2.png" alt="SL GT-889-B" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Premium Outdoor Garden/Gate Lights</h3>
@@ -3649,8 +3619,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1724" class="product-card-link">
                                 <div class="product-card" data-price="2200">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_724.png" alt="SL GT-782 RD" class="default-image">
-                                        <img src="assets/img/products/product_724_2.png" alt="SL GT-782 RD" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_724.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_724.png" alt="SL GT-782 RD" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_724_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_724_2.png" alt="SL GT-782 RD" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Gate Lights</h3>
@@ -3661,8 +3631,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1725" class="product-card-link">
                                 <div class="product-card" data-price="2400">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_725.png" alt="SL GT-782 SQ" class="default-image">
-                                        <img src="assets/img/products/product_725_2.png" alt="SL GT-782 SQ" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_725.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_725.png" alt="SL GT-782 SQ" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_725_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_725_2.png" alt="SL GT-782 SQ" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Gate Lights</h3>
@@ -3686,12 +3656,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=108" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-62.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-62.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-62.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-62.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-62.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-62.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washer</h3>
@@ -3703,12 +3673,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=109" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-62.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-62.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-62.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-62.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-62.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-62.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washer</h3>
@@ -3720,12 +3690,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=110" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-62.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-62.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-62.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-62.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-62.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-62.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washer</h3>
@@ -3737,12 +3707,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=111" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-65.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-65.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-65.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-65.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-65.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-65.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washer</h3>
@@ -3754,12 +3724,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=112" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-66.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-66.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-66.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-66.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-66.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-66.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washer</h3>
@@ -3771,12 +3741,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=113" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-67.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-67.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-67.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-67.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-67.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-67.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washer</h3>
@@ -3787,8 +3757,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1736" class="product-card-link">
                                 <div class="product-card" data-price="1200">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_736.png" alt="SLGB-M723-5W" class="default-image">
-                                        <img src="assets/img/products/product_736_2.png" alt="SLGB-M723-5W" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_736.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_736.png" alt="SLGB-M723-5W" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_736_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_736_2.png" alt="SLGB-M723-5W" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washers</h3>
@@ -3799,8 +3769,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1737" class="product-card-link">
                                 <div class="product-card" data-price="1500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_737.png" alt="SLGB-M713-10W" class="default-image">
-                                        <img src="assets/img/products/product_736_2.png" alt="SLGB-M713-10W" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_737.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_737.png" alt="SLGB-M713-10W" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_736_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_736_2.png" alt="SLGB-M713-10W" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Recessed Ground Burial Wall Washers</h3>
@@ -3823,12 +3793,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=114" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-f-1.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-f-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-f-1.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/products/product_588_2.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_588_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_588_2.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor IP68 Underwater/Outdoor Flexible Wall Washer</h3>
@@ -3840,12 +3810,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=115" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-f-2.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-f-2.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-f-2.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/products/product_588_2.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_588_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_588_2.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor IP68 Underwater/Outdoor Flexible Wall Washer</h3>
@@ -3856,8 +3826,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1588" class="product-card-link">
                                 <div class="product-card" data-price="1600">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_588.png" alt="SL FX WWR-124-18" class="default-image">
-                                        <img src="assets/img/products/product_588_2.png" alt="SL FX WWR-124-18" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_588.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_588.png" alt="SL FX WWR-124-18" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_588_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_588_2.png" alt="SL FX WWR-124-18" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">IP 65 Outdoor Flexible Wall Washers</h3>
@@ -3882,12 +3852,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=116" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/outdoor/out-69.jpg"
+                                        <picture><source srcset="assets/img/outdoor/out-69.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-69.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-69.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-69.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-69.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Washer</h3>
@@ -3899,12 +3869,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="outdoor-product-detail-page.php?id=117" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-70.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-70.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-70.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-70.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-70.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-70.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Washer</h3>
@@ -3916,12 +3886,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                       <a href="outdoor-product-detail-page.php?id=118" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-71.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-71.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-71.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-71.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-71.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-71.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Washer</h3>
@@ -3933,12 +3903,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                       <a href="outdoor-product-detail-page.php?id=119" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-72.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-72.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-72.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-72.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-72.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-72.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Washer</h3>
@@ -3950,12 +3920,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                       <a href="outdoor-product-detail-page.php?id=120" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-73.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-73.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-73.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-73.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-73.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-73.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Washer</h3>
@@ -3967,12 +3937,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                       <a href="outdoor-product-detail-page.php?id=121" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-72.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-72.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-72.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-72.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-72.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-72.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Washer</h3>
@@ -3984,12 +3954,12 @@ document.addEventListener('DOMContentLoaded', function() {
                                       <a href="outdoor-product-detail-page.php?id=122" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                         <img src="assets/img/outdoor/out-75.jpg"
+                                         <picture><source srcset="assets/img/outdoor/out-75.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-75.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/outdoor/out-75.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/outdoor/out-75.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-75.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Wall Washer</h3>
@@ -4000,8 +3970,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1753" class="product-card-link">
                                 <div class="product-card" data-price="5000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_753.png" alt="SL CY-248" class="default-image">
-                                        <img src="assets/img/products/product_753_2.png" alt="SL CY-248" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_753.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_753.png" alt="SL CY-248" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_753_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_753_2.png" alt="SL CY-248" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden/Wall Washer Lights</h3>
@@ -4012,8 +3982,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1754" class="product-card-link">
                                 <div class="product-card" data-price="6000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_754.png" alt="SL CY-272" class="default-image">
-                                        <img src="assets/img/products/product_753_2.png" alt="SL CY-272" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_754.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_754.png" alt="SL CY-272" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_753_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_753_2.png" alt="SL CY-272" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Garden/Wall Washer Lights</h3>
@@ -4024,8 +3994,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1755" class="product-card-link">
                                 <div class="product-card" data-price="2000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_755.png" alt="SL WWR 902" class="default-image">
-                                        <img src="assets/img/products/product_755_2.png" alt="SL WWR 902" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_755.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_755.png" alt="SL WWR 902" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_755_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_755_2.png" alt="SL WWR 902" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Slim Wall Washer</h3>
@@ -4036,8 +4006,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1756" class="product-card-link">
                                 <div class="product-card" data-price="3000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_756.png" alt="SL WWR 903" class="default-image">
-                                        <img src="assets/img/products/product_755_2.png" alt="SL WWR 903" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_756.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_756.png" alt="SL WWR 903" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_755_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_755_2.png" alt="SL WWR 903" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Slim Wall Washer</h3>
@@ -4048,8 +4018,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1757" class="product-card-link">
                                 <div class="product-card" data-price="4000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_757.png" alt="SL WWR 224" class="default-image">
-                                        <img src="assets/img/products/product_755_2.png" alt="SL WWR 224" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_757.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_757.png" alt="SL WWR 224" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_755_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_755_2.png" alt="SL WWR 224" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor Slim Wall Washer</h3>
@@ -4060,8 +4030,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1768" class="product-card-link">
                                 <div class="product-card" data-price="12000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_768.png" alt="SL WWR 347" class="default-image">
-                                        <img src="assets/img/products/product_768_2.png" alt="SL WWR 347" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_768.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_768.png" alt="SL WWR 347" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_768_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_768_2.png" alt="SL WWR 347" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">High Power Narrow Beam Outdoor Wall Washer</h3>
@@ -4072,8 +4042,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1769" class="product-card-link">
                                 <div class="product-card" data-price="12000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_769.png" alt="SL WWR 348" class="default-image">
-                                        <img src="assets/img/products/product_768_2.png" alt="SL WWR 348" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_769.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_769.png" alt="SL WWR 348" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_768_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_768_2.png" alt="SL WWR 348" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">High Power Narrow Beam Outdoor Wall Washer</h3>
@@ -4103,12 +4073,12 @@ document.addEventListener('DOMContentLoaded', function() {
                          <a href="indoor-p.php?id=70" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-49.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-49.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-49.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-49.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-49.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-49.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Outdoor Lights - Cloudy Series</h3>
@@ -4119,12 +4089,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=71" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-46.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-46.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-46.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-46.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-46.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-46.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Outdoor Lights - Cloudy Series</h3>
@@ -4144,12 +4114,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=72" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-43.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-43.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-43.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-43.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-43.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-43.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Foot Lights</h3>
@@ -4168,12 +4138,12 @@ document.addEventListener('DOMContentLoaded', function() {
                         <a href="indoor-p.php?id=73" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-42.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-42.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-42.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-42.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-42.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-42.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Outdoor Wall / Ground Burial Lights</h3>
@@ -4184,12 +4154,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=75" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-41.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-41.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-41.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-41.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-41.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-41.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Outdoor Wall / Ground Burial Lights</h3>
@@ -4210,12 +4180,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=76" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-35.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-35.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-35.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-35.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-35.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-35.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Parking Lights</h3>
@@ -4236,12 +4206,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=77" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-34.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-34.webp"
                                             alt="Outdoor Garden Light"
                                             class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-34.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-34.webp"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Outdoor Surface COB Downlights</h3>
@@ -4261,12 +4231,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=78" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-33.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-33.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-33.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-33.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-33.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-33.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Garden Lights</h3>
@@ -4286,12 +4256,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=67" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-32.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-32.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-32.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-32.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-32.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-32.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Bollard Lights</h3>
@@ -4310,12 +4280,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=68" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-30.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-30.webp"
                                             alt="Outdoor Garden Light"
                                             class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-30.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-30.webp"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL 360° Trick Light</h3>
@@ -4325,8 +4295,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1778" class="product-card-link">
                                 <div class="product-card" data-price="1500">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_778.png" alt="SL-180" class="default-image">
-                                        <img src="assets/img/products/product_778_2.png" alt="SL-180" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_778.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_778.png" alt="SL-180" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_778_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_778_2.png" alt="SL-180" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Window Trick Lights</h3>
@@ -4337,8 +4307,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1779" class="product-card-link">
                                 <div class="product-card" data-price="2000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_779.png" alt="SL-181" class="default-image">
-                                        <img src="assets/img/products/product_778_2.png" alt="SL-181" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_779.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_779.png" alt="SL-181" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_778_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_778_2.png" alt="SL-181" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Window Trick Lights</h3>
@@ -4359,12 +4329,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=69" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-50.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-50.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-50.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-50.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-50.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-50.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Wall Washer</h3>
@@ -4384,12 +4354,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=79" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-20.png"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-20.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-20.png"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-20.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-20.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-20.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Underwater Lights</h3>
@@ -4400,12 +4370,12 @@ document.addEventListener('DOMContentLoaded', function() {
                              <a href="indoor-p.php?id=80" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-17.jpg"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-17.jpg"
                                             alt="Outdoor Garden Light"
                                             class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-17.jpg"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-17.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Underwater Lights</h3>
@@ -4427,12 +4397,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=81" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-16.png"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-16.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-16.png"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-16.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-16.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-16.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Drivers for Underwater Lights</h3>
@@ -4452,12 +4422,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=82" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-13.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-13.webp"
                                             alt="Outdoor Garden Light"
                                             class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-13.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-13.webp"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SSL High Bay Lights</h3>
@@ -4467,8 +4437,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1785" class="product-card-link">
                                 <div class="product-card" data-price="2800">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_785.png" alt="SL UFO Ed100" class="default-image">
-                                        <img src="assets/img/products/product_785_2.png" alt="SL UFO Ed100" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_785.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_785.png" alt="SL UFO Ed100" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_785_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_785_2.png" alt="SL UFO Ed100" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">UFO/Hibay Lights</h3>
@@ -4479,8 +4449,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1786" class="product-card-link">
                                 <div class="product-card" data-price="4000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_786.png" alt="SL UFO Ed150" class="default-image">
-                                        <img src="assets/img/products/product_785_2.png" alt="SL UFO Ed150" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_786.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_786.png" alt="SL UFO Ed150" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_785_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_785_2.png" alt="SL UFO Ed150" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">UFO/Hibay Lights</h3>
@@ -4501,12 +4471,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=83" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-12.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-12.webp"
                                             alt="Outdoor Garden Light"
                                             class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-12.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-12.webp"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL COB LED Flood Lights</h3>
@@ -4525,12 +4495,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=84" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-10.png"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-10.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-10.png"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-10.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-10.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-10.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL SMD LED Flood Lights - Nano Series</h3>
@@ -4549,12 +4519,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=85" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-8.png"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-8.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-8.png"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-8.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-8.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-8.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL SMD LED Flood Lights - Blush Series</h3>
@@ -4574,12 +4544,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=86" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-7.png"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-7.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-7.png"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-7.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-7.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-7.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Colored LED Flood Lights - Splash Series</h3>
@@ -4589,8 +4559,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1781" class="product-card-link">
                                 <div class="product-card" data-price="1400">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_781.png" alt="SL FL-RGB 30" class="default-image">
-                                        <img src="assets/img/products/product_781_2.png" alt="SL FL-RGB 30" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_781.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_781.png" alt="SL FL-RGB 30" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_781_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_781_2.png" alt="SL FL-RGB 30" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor RGB Flood Lights</h3>
@@ -4601,8 +4571,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1782" class="product-card-link">
                                 <div class="product-card" data-price="1800">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_782.png" alt="SL FL-RGB 50" class="default-image">
-                                        <img src="assets/img/products/product_781_2.png" alt="SL FL-RGB 50" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_782.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_782.png" alt="SL FL-RGB 50" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_781_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_781_2.png" alt="SL FL-RGB 50" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor RGB Flood Lights</h3>
@@ -4613,8 +4583,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1783" class="product-card-link">
                                 <div class="product-card" data-price="3600">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_783.png" alt="SL FL-RGB 100" class="default-image">
-                                        <img src="assets/img/products/product_781_2.png" alt="SL FL-RGB 100" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_783.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_783.png" alt="SL FL-RGB 100" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_781_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_781_2.png" alt="SL FL-RGB 100" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor RGB Flood Lights</h3>
@@ -4625,8 +4595,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="outdoor-product-detail-page.php?id=1784" class="product-card-link">
                                 <div class="product-card" data-price="7000">
                                     <div class="product-image">
-                                        <img src="assets/img/products/product_784.png" alt="SL FL-RGB 200" class="default-image">
-                                        <img src="assets/img/products/product_781_2.png" alt="SL FL-RGB 200" class="hover-image">
+                                        <picture><source srcset="assets/img/products/product_784.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_784.png" alt="SL FL-RGB 200" class="default-image"></picture>
+                                        <picture><source srcset="assets/img/products/product_781_2.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/products/product_781_2.png" alt="SL FL-RGB 200" class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">Outdoor RGB Flood Lights</h3>
@@ -4647,12 +4617,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=87" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-6.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-6.webp"
                                             alt="Outdoor Garden Light"
                                             class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-6.webp"
+                                        <img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-6.webp"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Edison LED Street Lights</h3>
@@ -4663,12 +4633,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=88" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/oou-sl-5.jpg"
+                                        <picture><source srcset="assets/img/zz-indoor/oou-sl-5.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/oou-sl-5.jpg"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/oou-sl-5.jpg"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/oou-sl-5.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/oou-sl-5.jpg"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL Edison LED Street Lights</h3>
@@ -4687,12 +4657,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-p.php?id=89" class="product-card-link">
                                 <div class="product-card" data-price="950">
                                     <div class="product-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-1.png"
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-1.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-1.png"
                                             alt="Outdoor Garden Light"
-                                            class="default-image">
-                                        <img src="assets/img/zz-indoor/ou-sl-1.png"
+                                            class="default-image"></picture>
+                                        <picture><source srcset="assets/img/zz-indoor/ou-sl-1.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/ou-sl-1.png"
                                             alt="Outdoor Garden Light-use"
-                                            class="hover-image">
+                                            class="hover-image" fetchpriority="low"></picture>
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name">SL OSRAM LED Street Lights</h3>
@@ -4806,7 +4776,7 @@ document.addEventListener('DOMContentLoaded', function() {
             });
 
             // Sort functionality (existing code)
-            document.getElementById('sort').addEventListener('change', function () {
+            if (document.getElementById('sort')) document.getElementById('sort').addEventListener('change', function () {
                 const sortValue = this.value;
 
                 document.querySelectorAll('.product-group').forEach(group => {
@@ -4850,29 +4820,9 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 </script>
+  </main>
 
-
-    <!-- Footer Section -->
-    <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sunny Light</title>
-  <link rel="stylesheet" href="assets/CSS/main.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Bootstrap Icons  -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-
-
-  <!-- Bootstrap JS (dropdowns, modals, etc. ke liye) -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-</head>
-
-<body>
+  <!-- Footer Section -->
 
   <!-- Our Client -->
   <!-- <section class="my-section">
@@ -4882,192 +4832,192 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="swiper-wrapper our-client">
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/apollo-logo-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/apollo-logo-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/bombay-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/bombay-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/core-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/core-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/haldiram-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/haldiram-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/home-saaz-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/home-saaz-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Hero-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Hero-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/airtel-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/airtel-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/bnw-logo (2).png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/bnw-logo (2).png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Costa_Coffee-Logo-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Costa_Coffee-Logo-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/hindware-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/hindware-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/kfc-logo-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/kfc-logo-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/lakme-salon.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/lakme-salon.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/lava.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/lava.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/luxuria.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/luxuria.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/max-health-care.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/max-health-care.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/nike-logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/nike-logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/ramada-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/ramada-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/sony-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/sony-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/suzuki-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/suzuki-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/tanishq-logo (2).png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/tanishq-logo (2).png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/tecno-logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/tecno-logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/vivo-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/vivo-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/royal-enfield-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/royal-enfield-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/timex-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/timex-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/vodafone-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/vodafone-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Reebok-Logo.wine.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Reebok-Logo.wine.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/gd doenka.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/gd doenka.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/taj-hotel-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/taj-hotel-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/indian-oil-logo-png.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/indian-oil-logo-png.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/audi-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/audi-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/gionee-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/gionee-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/p.p_jewellers-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/p.p_jewellers-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Intex_Logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Intex_Logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/sarvodaya-logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/sarvodaya-logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/giani-logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/giani-logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/fortune-hotel-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/fortune-hotel-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/titan-logo-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/titan-logo-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Redico Logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Redico Logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
         </div>
@@ -5084,16 +5034,16 @@ document.addEventListener('DOMContentLoaded', function() {
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget">
               <a class="footer-logo" href="index.php">
-                <img src="assets/img/logoH__1_-removebg-preview.png" alt="logo"></a>
+                <picture><source srcset="assets/img/logoH__1_-removebg-preview.png.webp" type="image/webp"><img src="assets/img/logoH__1_-removebg-preview.png" alt="logo"></picture></a>
               <p class="footer-desc">We believe in a brighter future.
 Through innovation and new technologies, we transform spaces and create meaningful experiences with light.</p>
               <div class="social-icons">
                 <ul class="footer-social">
-                  <li><a class="icofont-facebook" href="https://www.facebook.com/profile.php?id=61578299321011" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                  <li><a class="icofont-facebook" href="https://www.facebook.com/profile.php?id=61578299321011" target="_blank" rel="noopener" aria-label="Sunny Lights on Facebook"><i class="fa-brands fa-facebook-f"></i></a>
                   </li>
                   <!--<li><a class="icofont-linkedin" href="#" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>-->
                   </li>
-                  <li><a class="icofont-instagram" href="https://www.instagram.com/_sunny_lights_/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                  <li><a class="icofont-instagram" href="https://www.instagram.com/_sunny_lights_/" target="_blank" rel="noopener" aria-label="Sunny Lights on Instagram"><i class="fa-brands fa-instagram"></i></a>
                   </li>
                 </ul>
               </div>
@@ -5102,7 +5052,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
           </div>
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget contact">
-              <h3 class="footer-title">Quick Link</h3>
+              <h2 class="footer-title">Quick Link</h2>
               <ul class="footer-contact lineheightset">
                 <li><a href="index.php"><span><i class="bi bi-chevron-double-right "></i>Home</span></a></li>
                 <li><a href="about.php"><span><i class="bi bi-chevron-double-right "></i>About</span></a></li>
@@ -5116,7 +5066,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
           </div>
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget contact">
-              <h3 class="footer-title">Products</h3>
+              <h2 class="footer-title">Products</h2>
               <ul class="footer-contact lineheightset">
                 <li><a href="outdoor-lights.php"><span><i class="bi bi-chevron-double-right "></i>Outdoor Lights</span></a></li>
                 <li><a href="indoor-lights-products.php"><span><i class="bi bi-chevron-double-right "></i>Indoor Lights</span></a></li>
@@ -5130,7 +5080,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
           </div>
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget contact">
-              <h3 class="footer-title">Contact us</h3>
+              <h2 class="footer-title">Contact us</h2>
               <ul class="footer-contact">
                 <li><a href="mailto:sunnylights377@gmail.com"><i class="fa-solid fa-at"></i>
                     <span>sunnylights377@gmail.com</span></a>
@@ -5159,8 +5109,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
-            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/" target="_blank" rel="noopener"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>
@@ -5168,11 +5117,11 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
 
 
-  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  
 
   <!-- Swiper -->
   <script>
-    var myswiper2 = new Swiper(".myswiper2", {
+    if (typeof Swiper !== "undefined" && document.querySelector(".myswiper2")) var myswiper2 = new Swiper(".myswiper2", {
       loop: true,
       slidesPerView: 1,
       spaceBetween: 20,
@@ -5203,10 +5152,4 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
   </script>
 </body>
-
-</html>
-
-    <script src="assets/JS/index.js"></script>
-</body>
-
 </html>

@@ -1,3 +1,4 @@
+<?php if (!ob_get_level() && !ini_get('zlib.output_compression') && isset($_SERVER['HTTP_ACCEPT_ENCODING']) && strpos($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip') !== false) { ob_start('ob_gzhandler'); } ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,57 +7,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>Sunny Light | Innovative LED Lighting Solutions in India</title>
-<meta name="description" content="Discover premium LED lighting solutions for indoor and outdoor spaces. Energy-efficient, elegant, and high-performance lighting by Sunny Light.">
-<meta name="keywords" content="LED lighting, LED lights India, indoor lighting, outdoor lighting, smart lighting, LED profiles, energy efficient lights, modern lighting, Sunny Light">
+  <meta name="description" content="Discover premium LED lighting solutions for indoor and outdoor spaces. Energy-efficient, elegant, and high-performance lighting by Sunny Light.">
+  <meta name="keywords" content="LED lighting, LED lights India, indoor lighting, outdoor lighting, smart lighting, LED profiles, energy efficient lights, modern lighting, Sunny Light">
 
-  <link rel="stylesheet" href="assets/CSS/main.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Bootstrap Icons  -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-  <!-- Include Swiper CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+  <link rel="preload" as="image" media="(max-width: 767px)" href="assets/img/3d-rendering-modern-dining-room-living-room-with-luxury-decor.jpg.mob.webp" type="image/webp" fetchpriority="high">
+  <link rel="preload" as="image" media="(min-width: 768px)" href="assets/img/3d-rendering-modern-dining-room-living-room-with-luxury-decor.jpg.webp" type="image/webp" fetchpriority="high">
 
-  <!-- Bootstrap JS (dropdowns, modals, etc. ke liye) -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="icon" href="assets/img/favicon.png" type="image/png">
 
-  <link rel="shortcut icon" href="assets\img\logoH__1_-removebg-preview.png" type="image/x-icon">
+  <!-- Core CSS (Bootstrap synchronous -> zero CLS; custom main CSS inlined & gzipped) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" fetchpriority="low" onload="var e=this;setTimeout(function(){e.media='all'},80)">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" media="print" fetchpriority="low" onload="var e=this;setTimeout(function(){e.media='all'},80)">
+  <noscript>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  </noscript>
+  <style>.modal{display:none}.collapse:not(.show){display:none}.dropdown-menu{display:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding:0!important}.navbar>.container-fluid{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.nav{display:flex;flex-wrap:wrap;padding-left:0;margin-bottom:0;list-style:none}.nav-link{display:block;padding:.5rem 1rem;text-decoration:none}.row{display:flex;flex-wrap:wrap;margin-left:calc(-.5 * var(--bs-gutter-x, 0px));margin-right:calc(-.5 * var(--bs-gutter-x, 0px))}.col{flex:1 0 0%}.col-4{flex:0 0 auto;width:33.33333333%}.col-md-12{flex:0 0 auto;width:100%}.g-3{--bs-gutter-x:1rem;--bs-gutter-y:1rem}.g-3>*{padding-left:calc(.5 * var(--bs-gutter-x));padding-right:calc(.5 * var(--bs-gutter-x));margin-top:var(--bs-gutter-y)}.m-0{margin:0!important}.p-0{padding:0!important}.px-4{padding-left:1.5rem!important;padding-right:1.5rem!important}.d-flex{display:flex!important}.justify-content-between{justify-content:space-between!important}.align-items-center{align-items:center!important}.gap-3{gap:1rem!important}.text-center{text-align:center!important}.d-none{display:none!important}.py-4{padding-top:1.5rem!important;padding-bottom:1.5rem!important}.py-3{padding-top:1rem!important;padding-bottom:1rem!important}.mb-3{margin-bottom:1rem!important}h1,h2,h3,p,ul{margin-top:0}@media(min-width:768px){.d-md-none{display:none!important}.col-md-4{flex:0 0 auto;width:33.33333333%}.col-md-5{flex:0 0 auto;width:41.66666667%}.col-lg-6{flex:0 0 auto;width:50%}.Head-section{min-height:95px}}@media(max-width:767px){.Head-section{min-height:89px}}.swiper{position:relative;overflow:hidden;list-style:none;padding:0;z-index:1;display:block}.swiper-wrapper{position:relative;width:100%;height:100%;z-index:1;display:flex;box-sizing:content-box}.swiper-slide{flex-shrink:0;width:100%;height:100%;position:relative;display:block}.video-container .video{height:500px;width:100%}@media(max-width:767px){.video-container .video{height:350px}}*{padding:0;margin:0;box-sizing:border-box;font-family:'Times New Roman',serif;scroll-behavior:smooth}html,body{overflow-x:clip}picture{display:contents}h1,.D-h1,.pdt-h1,.offer-content h2,.review-heading h2{font-size:2rem !important}h5,.D-details h3,.pdt-details h3{font-size:1.2rem !important}.D-details h3,.pdt-details h3{font-weight:500;line-height:1.2}.footer-title{font-size:calc(1.3rem + 0.6vw)}@media (min-width:1200px){.footer-title{font-size:1.75rem}}.container-fluid{padding:0 70px !important}.page-width{padding:0 40px}.mr-b{margin-bottom:10px}.pd-bl{padding-block:25px;border:none}.my-btn{padding:10px 20px;border:none}.colortext{color:#1e7e34}.desktop-view-banner{display:block!important}.mobile-view-banner{display:none!important}.Head-section{position:sticky;top:0;z-index:1000;background:#fff}.second-nav{position:sticky;top:61px;background:#fff}.mynavbar{background-color:white}.navbar{padding:0 !important}.header,.navbar{position:relative;z-index:1000}.logo img{max-height:60px;width:auto;display:block}.Search-bar{border:1px solid gray;border-radius:50px;overflow:hidden}.Search-bar form{display:flex;align-items:center}.Search-bar:focus-within{border-color:forestgreen}.Search-bar input[type="text"]{width:100%;height:40px;font-size:15px;padding-left:15px;border:none;background-color:#f0f0f0}.Search-bar input[type="text"]:focus{outline:none}.search-icon{padding:8px 16px;border:none;background-color:#f0f0f0}.search-icon i{font-size:20px}.search-icon i:hover{cursor:pointer;color:green}.quote-button button{border:none;padding:6px 10px;color:white;background-color:#0505b9;font-size:12px}.hearder-list li a{color:rgb(7,7,7);font-size:15px}.hearder-list li a:hover{color:#ed1c24}.quote-button button{border:none;padding:6px 14px;color:white;background-color:#cc0000;font-size:14px;border-radius:3px;cursor:pointer;animation:swing 1.2s ease-in-out infinite}@keyframes swing{0%{transform:rotate(0deg)}25%{transform:rotate(6deg)}50%{transform:rotate(-6deg)}75%{transform:rotate(4deg)}100%{transform:rotate(0deg)}}.hearder-mobile{padding:10px 15px;background-color:white}.hearder-mobile i{font-size:24px;color:#0a0909;background-color:#e8e7e7;cursor:pointer;border-radius:50%;padding:8px;box-shadow:0 2px 8px rgba(0,0,0,0.25);transition:all 0.3s ease}.mobile-logo img{transform:scale(1.7)}#side-panel{position:fixed;top:0;right:-350px;width:350px;height:100%;background:white;box-shadow:-2px 0 8px rgba(0,0,0,0.2);transition:right 0.5s ease;z-index:1050;padding:20px 30px;overflow-y:auto}#side-panel.active{right:0}.side-panel-header{display:flex;justify-content:space-between;align-items:center;font-weight:700;font-size:20px;margin-bottom:20px}.side-panel-header i{cursor:pointer;font-size:24px}.side-panel-menu{list-style:none;padding:0;margin:0}.side-panel-menu li{margin-bottom:15px;border-bottom:1px solid rgb(191,194,196)}.side-panel-menu a{text-decoration:none;color:#000;font-size:18px;display:block;transition:color 0.3s}.side-panel-menu a:hover{color:#43c553}#overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.4);opacity:0;visibility:hidden;transition:opacity 0.3s ease;z-index:1040}#overlay.active{opacity:1;visibility:visible}.nav-list{display:flex;align-items:center;justify-content:flex-start;list-style:none;border-top:1px solid gray;margin-bottom:0px;gap:10px}.nav-list ul{padding-left:0 !important}.nav-list li{padding:6px 15px;position:relative}.nav-list li a{text-decoration:none;font-size:15px;color:#000;display:block;font-weight:500}.nav-list span i{font-size:0.7em;margin-left:5px}.navbar-part .nav-list>li.dropdown{position:relative}.navbar-part .nav-list>li.dropdown:hover>.dropdown-menu{display:block;opacity:1;visibility:visible;transform:translateY(0)}.navbar-part .dropdown-menu{position:absolute;top:90%;left:0;z-index:1000;display:none;float:left;min-width:220px;padding:5px 0;margin:2px 0 0;font-size:13px;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:4px;box-shadow:0 6px 12px rgba(0,0,0,.175);opacity:0;visibility:hidden;transform:translateY(-10px);transition:all 0.3s ease;max-height:300px;overflow-y:auto}.navbar-part .dropdown-menu li{position:relative}.navbar-part .dropdown-menu a{display:block;padding:5px 15px;clear:both;font-weight:400;line-height:1.3;color:#333;white-space:nowrap;text-decoration:none;transition:all 0.2s ease;border-bottom:1px solid #f5f5f5}.navbar-part .dropdown-menu a:hover{background-color:#f5f5f5;color:#007bff}.nav-list li{padding:4px 10px;position:relative}.second-nav{z-index:999}.dropdown-menu li a{display:block;padding:5px;color:#737272;line-height:1;white-space:nowrap}.dropdown-menu li a:hover{background:#f0f0f0}.banner-part{position:relative}.container-body img{width:100%;max-height:470px !important;object-fit:cover;position:relative;display:block;object-fit:cover}.arrows{position:absolute;bottom:-18px;right:70px;display:flex;gap:15px;align-items:center;justify-content:flex-end;z-index:10}.arrows span i{display:inline-block;text-align:center;line-height:40px;width:40px;height:40px;font-size:23px;border-radius:50%;cursor:pointer;background-color:white;box-shadow:0 4px 8px rgba(0,0,0,0.2);transition:transform 0.3s ease,background-color 0.3s ease}.arrows span i:hover{background-color:#f0f0f0;transform:scale(1.1)}.product-category{margin-bottom:30px;padding:35px 0}.category-item{text-decoration:none;color:#333;font-weight:500;display:block;text-align:center}.self{width:200px;height:200px;margin:auto}.self img{width:100%;height:auto}.swiper-cube .swiper-cube-shadow:before{background:none!important}.self .swiper-slide{display:flex;align-items:center;justify-content:center;background:#fff;border-radius:12px;padding:10px;outline:none}.category-item p{margin-top:18px;font-weight:500;color:#333;font-size:21px}.about-sec{background-color:rgb(220,220,220)}.about-text{height:100%;display:flex;justify-content:center;flex-direction:column;align-items:flex-start}.about-text span{color:#cc0000}.about-text h3{font-size:35px;padding:10px 0px;line-height:35px}.about-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 20px;border-radius:20px;background-color:rgb(255,255,255);border:none;color:#000;font-weight:600;text-decoration:none;transition:all 0.3s ease}.about-btn i{transition:transform 0.3s ease}.about-btn:hover{cursor:pointer;background-color:white;box-shadow:0 3px 8px #b4b4b4}.about-btn:hover span{transform:translateX(5px);transition:transform 0.3s ease}.about-btn:hover i{transform:translateX(10px)}.main-img-box{position:relative}.box-img{position:relative;display:inline-block;transition:border 0.3s ease}.box-img img{height:auto;vertical-align:middle}.image1{margin-left:50px;width:50%;border-radius:25px}.image2{width:50%;border-radius:25px;position:absolute;top:25%;left:45%}.image1:hover,.image2:hover{transition:transform 0.3s ease;border:2px solid transparent;transition:border 0.4s,box-shadow 0.4s}.image1:hover,.image2:hover{border:2px solid transparent;animation:borderGlow 1.5s infinite alternate;border-radius:4px}@keyframes borderGlow{from{border-color:transparent;box-shadow:0 0 5px rgba(255,255,255,0)}to{border-color:#00ff15;box-shadow:0 6px 15px #6bfa91,0 0 25px #7ffa8c}}.video-container{margin-bottom:10px;text-align:center;position:relative;overflow:hidden}.video-container::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,15,25,0.38) 0%,rgba(10,15,25,0.48) 100%);pointer-events:none;z-index:1}.video{width:100%;max-width:100%;max-height:500px;object-fit:cover;filter:brightness(0.68) contrast(1.08);display:block}.video-overlay-text{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:white;text-shadow:0 2px 6px rgba(0,0,0,0.7);text-align:center;padding:0 20px;z-index:2}.video-overlay-text h2{font-size:2.5rem;margin-bottom:10px}.video-overlay-text button,.video-overlay-text a.video-cta-btn{display:inline-block;margin-top:40px;font-size:1.5rem;padding:10px 20px;font-weight:bold;text-decoration:none;color:rgb(231,185,68);background-color:transparent;border:2px solid rgb(228,187,81);border-radius:30px;box-shadow:0 3px 6px rgb(243,202,98);cursor:pointer}.video-overlay-text button a{text-decoration:none;color:rgb(231,185,68)}.video-overlay-text button:hover,.video-overlay-text a.video-cta-btn:hover{color:rgb(231,185,68);background-color:white;box-shadow:0 3px 12px rgb(243,202,98)}.D-section{padding-block:25px}.D-row{padding-bottom:25px}.D-heading{display:flex;align-items:center;margin-bottom:20px}.D-heading,.D-h1{flex:1 1 auto}.D-link{font-weight:700;font-size:17px;color:#000}.D-container{cursor:pointer;overflow:hidden;position:relative}.D-img{height:220px;margin-bottom:16px;position:relative;overflow:hidden}.D-img img{width:100%;height:100%;object-fit:cover;display:block;position:absolute;top:0;left:0;transition:opacity 0.3s ease;cursor:pointer}.hover-img{opacity:0}.D-container:hover .hover-img{opacity:1}.D-container:hover .default-img{opacity:0}.mid-banner{position:relative;width:100%}.mid-banner img{width:100%;height:auto;object-fit:cover;display:block;transform:scale(1.1);animation:zoomInLoad 1.2s ease forwards}.mid-overlay-btn{position:absolute;bottom:30px;left:47%}.mid-overlay-btn button,.mid-overlay-btn a.mid-cta-btn{border:none;padding:6px 15px;background-color:#f0f0f0;display:inline-block;line-height:1.5;font-weight:400}.mid-overlay-btn a{text-decoration:none;color:#000}.google-banner{width:100%}.google-banner img{width:100%;height:450px;display:block;transform:scale(1.1);animation:zoomInLoad 1.2s ease forwards}@keyframes zoomInLoad{from{transform:scale(1.2)}to{transform:scale(1)}}.pdt-h1{display:block;margin-bottom:40px}.pdt-img{height:195px;padding:9px;background-color:#f8f8f8;transition:transform 0.3s ease;cursor:pointer}.pdt-img:hover{transform:translateY(-4px);box-shadow:0px 4px 6px rgba(0,0,0,0.3);background-color:rgb(253,249,249)}.pdt-img img{width:100%;height:100%;object-fit:cover;display:block}.pdt-details{margin-top:10px}.bottomSwiper{position:relative;width:100%}.slide-content{color:rgb(255,255,255)}.slide-content .my-btn{font-size:17px;font-weight:600;display:inline-block;background-color:#f0f0f0;color:#000;text-decoration:none;cursor:pointer}.bottomSwiper .myslide-image{width:100%;height:auto;transition:transform 1s ease}.bottomSwiper .swiper-slide-active .slide-image{transform:scale(1.1)}.bottomSwiper .slide-content{position:absolute;top:65%;left:50%;transform:translate(-50%,-50%);text-align:center}.bottomSwiper .heading,.bottomSwiper .text,.bottomSwiper .my-btn{opacity:0;transform:scale(0.1);transition:opacity 0.5s ease,transform 0.5s ease}.bottomSwiper .heading.show{opacity:1;transform:scale(1)}.bottomSwiper .text.show{opacity:1;transform:scale(1);transition-delay:0.3s}.bottomSwiper .my-btn.show{opacity:1;transform:scale(1);transition-delay:0.6s}.faq-section{background-image:url('assets/CSS/IMG-20250725-WA0023.jpg');background-image:image-set( url('assets/CSS/IMG-20250725-WA0023.jpg.webp') type('image/webp'),url('assets/CSS/IMG-20250725-WA0023.jpg') type('image/jpeg') )}.faq-heading{font-size:2rem;margin-bottom:15px;border-bottom:2px solid #28a745;color:#0505b9}.faq-item{border-bottom:1px solid #ddd;padding:15px 0}.faq-question{width:100%;text-align:left;font-size:1.1rem;font-weight:500;background:none;border:none;outline:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center}.faq-answer{display:none;margin-top:10px;font-size:1rem;color:#555;line-height:1.5}.faq-item.active .faq-answer{display:block}.faq-item.active .arrow{transform:rotate(180deg)}.yt-video{display:flex;justify-content:center;align-items:center;width:100%}.yt-video video{max-width:100%;border-radius:12px}.my-btm-top-bnr{position:relative;width:100%;height:470px;background:url("assets/img/banners/sunnylights.jpg") no-repeat center center;background-image:image-set( url("assets/img/banners/sunnylights.jpg.webp") type("image/webp"),url("assets/img/banners/sunnylights.jpg") type("image/jpeg") );background-repeat:no-repeat;background-position:center center;background-size:cover;overflow:hidden;display:flex;align-items:center;justify-content:center;color:#fff}.my-btm-top-bnr::before{content:"";position:absolute;inset:0;background:rgba(59,59,59,0.45);z-index:1}.btm-top-container{position:relative;z-index:2;width:100%;padding:0 8%;display:flex;align-items:center;min-height:200px}.btm-top-banner-overlay{max-width:350px}.btm-top-banner-overlay h2{font-size:36px;line-height:1.3;font-weight:450;margin-bottom:20px}.btm-top-banner-overlay .btm-bnr-btn{display:inline-block;padding:12px 28px;border:2px solid #fff;color:#fff;text-decoration:none;font-weight:bold;transition:0.3s}.btm-top-banner-overlay .btm-bnr-btn:hover{background:#fff;color:#000}@media (max-width:768px){.btm-top-banner-overlay h2{font-size:24px;margin-bottom:40px}.yt-video video{height:250px}.desktop-view-banner{display:none !important}.mobile-view-banner{display:block !important}.mid-overlay-btn{left:37%}.my-btm-top-bnr{background-image:url("assets/img/banners/mobile-viwe-sunnybanner2.jpg");background-image:image-set( url("assets/img/banners/mobile-viwe-sunnybanner2.jpg.webp") type("image/webp"),url("assets/img/banners/mobile-viwe-sunnybanner2.jpg") type("image/jpeg") );background-repeat:no-repeat;background-position:center center;background-size:cover}.google-banner img{height:auto;object-fit:cover}}.offer-container{background-image:url("https://images.unsplash.com/photo-1528458909336-e7a0adfed0a5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D");background-size:cover;background-position:center;background-repeat:no-repeat;height:250px;display:flex;align-items:center;justify-content:center;text-align:center;position:relative}.offer-content{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);align-items:center}.offer-btn{display:flex;max-width:400px;margin:0 auto;border:1px solid #ccc;overflow:hidden;border-radius:0;margin-top:10px}.offer-btn input[type="text"]{flex:1;padding:10px 15px;border:none;outline:none;font-size:1rem}.offer-btn button.mt-btn{background-color:#000;color:#fff;border:none;padding:10px 20px;cursor:pointer;font-weight:bold;font-size:1rem;transition:background 0.3s}.bottom-footer-part-1{background-image:url("assets/CSS/color-temperature-comparison-led-lights.jpg");background-size:cover;background-position:center;background-repeat:no-repeat;width:100%;height:400px;display:flex;align-items:center;justify-content:center;text-align:center;position:relative}.bottom-banner-part-content{color:white;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);align-items:center}.client{height:140px;background:rgb(199,198,198);padding:20px;border-top-left-radius:30px;align-items:center;border:1px solid #c8c4c4;box-shadow:rgb(38,57,77) 0px 20px 30px -10px}.client img{height:100%;max-width:150px;max-height:150px;margin-bottom:10px;object-fit:contain}.footer-part{padding-top:40px;background-color:#f9f8f8}.footer-logo img{width:113px;height:auto;object-fit:cover;margin-bottom:5px}.footer-desc{margin-bottom:22px}.footer-social{display:flex;align-items:center;justify-content:flex-start;gap:10px;padding-left:3px}.footer-social li{list-style:none}.footer-social li a{display:inline-block;width:45px;height:45px;border-radius:50%;font-size:15px;text-align:center;line-height:45px;transition:transform 2s,background-color 0.6s,color 0.6s;border:1px solid #ccc;box-shadow:0 2px 5px rgba(0,0,0,0.1)}.footer-social li a.icofont-facebook:hover{transform:rotateY(360deg);background-color:#1877f2;color:white}.footer-social li a.icofont-linkedin:hover{transform:rotateY(360deg);background-color:#0077b5;color:white}.footer-social li a.icofont-instagram:hover{transform:rotateY(360deg);background:radial-gradient( circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90% );color:white}.icofont-instagram a:hover{background:radial-gradient( circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90% );color:white}.lineheightset li{margin-bottom:5px !important}.footer-contact li{display:flex;align-items:center;margin-bottom:12px}.footer-contact li a{text-decoration:none;color:black;display:inline-block;transition:color 0.3s ease}.footer-contact li a i{font-size:15px;margin-right:10px;color:rgb(15,15,107)}.footer-contact li a span,.footer-desc,.footer-copytext,.footer-title{white-space:normal;word-wrap:break-word;overflow-wrap:break-word}.footer-contact li a:hover{color:#0f0f81;transform:translateX(5px)}.footer-title{margin-bottom:20px;margin-left:32px;letter-spacing:-0.3px;text-transform:capitalize}.footer-bottom{margin-top:30px;padding:5px 40px;display:flex;align-items:center;justify-content:space-between;background-color:#333;color:white}.footer-copytext{margin-bottom:5px !important}.footer-bottom a{text-decoration:none;color:#ff7a7a;font-weight:bold}@media (max-width:767px){ul{padding-left:1rem !important}.container-fluid{padding:0px 20px !important}.page-width{padding:0 20px}.mynavbar{display:none !important}.navbar-part{display:none !important}.mobile-logo{margin-block:12px;margin-left:10px}.container-body img{width:100%;height:300px;max-height:none;object-fit:cover}.self{width:120px;max-width:100%;height:120px}.category-item p{font-size:14px}.row.py-4{flex-direction:column;align-items:flex-start}.col-lg-6.col-md-5{width:100%;max-width:100%}.main-img-box{display:none}.about-text h1{font-size:28px}.about-text p{font-size:16px}.about-btn{margin-left:0}.video{height:350px !important;max-height:none !important;object-fit:cover}.video-overlay-text{width:90%;max-width:400px}.video-overlay-text h2{font-size:2rem}.video-overlay-text button,.video-overlay-text a.video-cta-btn{font-size:1rem;padding:6px 12px;margin-top:15px}.row.D-row{display:flex;flex-wrap:nowrap !important;overflow-x:auto;scrollbar-width:none}.row.D-row>[class*="col"]{flex:0 0 auto !important;width:200px;scroll-snap-align:start}.D-img{height:165px}.D-container:hover .hover-img{opacity:1}.D-container:hover .default-img{opacity:0}.indoor-outdoor-row{display:grid !important;grid-template-columns:repeat(2,1fr);gap:10px}.indoor-outdoor-row>*{min-width:0}.upper-footer{padding-inline:30px}.upper-footer .row{flex-direction:column;align-items:flex-start}.upper-footer .col-sm-6,.upper-footer .col-md-3,.upper-footer .col-xl-3{width:100% !important;margin-bottom:25px}.footer-title{margin-left:0}.footer-contact li a span{margin-left:0px !important;padding-left:0px}.footer-contact li,.footer-social{justify-content:flex-start}.footer-social{padding-left:0;gap:15px}.footer-copytext{text-align:left !important}.footer-bottom{flex-direction:column;text-align:center;padding:10px 20px}.footer-bottom p{margin:5px 0}.footer-bottom a span{display:block}}@media (max-width:992px){.product-img{height:300px}}@media (min-width:767px) and (max-width:982px){.container-fluid{padding:0px 45px !important}.about-text h1{font-size:30px}.image1{width:90%}.image2{width:90%;top:40%;left:51%}.video-overlay-text{width:90%;max-width:600px}.video-overlay-text h2{font-size:2rem}.video-overlay-text button,.video-overlay-text a.video-cta-btn{font-size:1.3rem;padding:8px 16px}.upper-footer{padding-inline:60px}.upper-footer .row{justify-content:flex-start}.footer-widget{margin-bottom:20px}.upper-footer .col-md-3{margin-bottom:20px}.footer-bottom{flex-direction:column;text-align:center;padding:10px 20px}.footer-bottom p{margin:5px 0}.footer-bottom a span{display:block}}.mobile-search-bar{display:none;position:absolute;top:100%;left:0;right:0;background:white;padding:15px;z-index:1000;border-top:1px solid #ddd;cursor:pointer}.mobile-search-bar.active{display:block;cursor:pointer}.mobile-search-container{display:flex;align-items:center;gap:10px}#mobileSearchInput{flex:1;padding:10px 15px;border:1px solid #ddd;border-radius:4px;font-size:14px;outline:none}#mobileSearchInput:focus{border-color:#43c553}.mobile-search-close{background:none;border:none;font-size:16px;color:#666;padding:8px;cursor:pointer}.mobile-search-suggestions{list-style:none;margin:10px 0 0 0;padding:0;max-height:200px;overflow-y:auto;border-radius:4px;background:white}.mobile-search-suggestions li{padding:12px 15px;border-bottom:1px solid #f5f5f5;cursor:pointer;font-size:14px;cursor:pointer}.mobile-search-suggestions li:last-child{border-bottom:none}.mobile-search-suggestions li:hover,.mobile-search-suggestions li.highlighted{background:#007bff;color:white}.mobile-search-suggestions .suggestion-heading{font-weight:bold;background:#f8f9fa !important;color:#666 !important;cursor:default}.hearder-mobile{position:relative}.mobile-search-icon{display:block !important;cursor:pointer}.mobile-search-bar.active~.mobile-search-icon{display:block !important}.side-panel-menu .dropdown .submenu{display:none;padding-left:15px;list-style:none;border-radius:5px}.side-panel-menu .dropdown.active>a{color:#34be3d}.side-panel-menu .dropdown .submenu li{padding:5px 0}.side-panel-menu .dropdown .submenu a{font-size:14px}.side-panel-menu .dropdown-toggle i{float:right;transition:transform 0.3s ease}.side-panel-menu .dropdown-toggle i.rotate{transform:rotate(180deg)}.side-panel-menu .submenu{display:none;max-height:300px;overflow-y:auto;padding-left:15px}.side-panel-menu .has-submenu.active .submenu{display:block}.dropdown-toggle::after{display:none !important}.nav{display:flex;flex-wrap:wrap;padding-left:0;margin-bottom:0;list-style:none}.nav-link{display:block;padding:.5rem 1rem;line-height:1.5;text-decoration:none}.mb-3{margin-bottom:1rem!important}.py-3{padding-top:1rem!important;padding-bottom:1rem!important}.py-4{padding-top:1.5rem!important;padding-bottom:1.5rem!important}.px-4{padding-left:1.5rem!important;padding-right:1.5rem!important}@media(min-width:768px){.Head-section{min-height:98px}.second-nav{min-height:32px}}@media(max-width:767px){.Head-section{min-height:89px}.second-nav{min-height:0}}.self:not(.swiper-initialized) .swiper-slide:not(:first-child){visibility:hidden}</style>
 
+  <!-- Deferred Scripts (loaded once) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
+  <script src="assets/JS/index.min.js" defer></script>
+  <script src="assets/JS/faq.min.js" defer></script>
 
-    
-
-
-
-</head>
-
-<body>
-  <!-- Header Section -->
-  <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sunny Light</title>
-  <link rel="stylesheet" href="assets/CSS/main.css">
-  <link rel="stylesheet" href="assets/CSS/mobile-product.css">
-
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Bootstrap Icons  -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-  <!-- Include Swiper CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
-
-  <!-- Bootstrap JS (dropdowns, modals, etc. ke liye) -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
-
-
-     <style>
+  <style>
       /* Search bar container ko higher z-index dena hoga */
 
 
@@ -177,7 +157,7 @@
 
       <!-- Left: Logo -->
       <div class="mobile-logo">
-        <a href="index.php"> <img src="assets\img\logoH__1_-removebg-preview.png" alt="Logo" height="45"> </a>
+        <a href="index.php"> <picture><source srcset="assets/img/logoH__1_-removebg-preview.png.webp" type="image/webp"><img decoding="async" src="assets/img/logoH__1_-removebg-preview.png" alt="Logo" width="61" height="45"></picture> </a>
       </div>
 
       <!-- Right: Search + Menu Icons -->
@@ -185,7 +165,7 @@
         <div class="mobile-search-bar" id="mobileSearchBar">
             <div class="mobile-search-container">
                 <input type="text" id="mobileSearchInput" placeholder="Search..." autocomplete="off">
-                <button class="mobile-search-close" id="mobileSearchClose">
+                <button class="mobile-search-close" id="mobileSearchClose" type="button" aria-label="Close search">
                     <i class="fas fa-times"></i>
                 </button>
             </div>
@@ -278,7 +258,7 @@
 
             <!-- Logo -->
             <a class="hearder-logo" href="index.php">
-              <img src="assets\img\logoH__1_-removebg-preview.png" alt="Logo" class="d-inline-block align-text-top">
+              <picture><source srcset="assets/img/logoH__1_-removebg-preview.png.webp" type="image/webp"><img decoding="async" src="assets/img/logoH__1_-removebg-preview.png" alt="Logo" class="d-inline-block align-text-top" width="417" height="310"></picture>
             </a>
 
           
@@ -287,7 +267,7 @@
               
               <input type="text" id="searchInput" placeholder="Search..."
                 aria-label="Search" /> 
-                <button class="search-icon" type="submit"> <i
+                <button class="search-icon" type="submit" aria-label="Search products"> <i
                   class="fa-solid fa-magnifying-glass"></i> </button> 
 
                    <!-- suggestions container -->
@@ -1123,12 +1103,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- Mobile search bar script end -->
 
   <?php include 'get-a-quote.php'; ?>
-  <script src="assets/JS/index.js"></script> 
-</body>
 
-</html>
-
-  <!-- Body Section -->
+  <main>
+<!-- Body Section -->
   <section class="hero-section mr-b">
     <div class="banner-part ">
       <div class="container-fluid" style="padding:0px !important">
@@ -1138,20 +1115,20 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="swiper mySwiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <img src="assets/img/3d-rendering-modern-dining-room-living-room-with-luxury-decor.jpg"
-                    alt="home_slider" />
+                  <picture><source media="(max-width: 767px)" srcset="assets/img/3d-rendering-modern-dining-room-living-room-with-luxury-decor.jpg.mob.webp" type="image/webp"><source srcset="assets/img/3d-rendering-modern-dining-room-living-room-with-luxury-decor.jpg.webp" type="image/webp"><img fetchpriority="high" decoding="async" src="assets/img/3d-rendering-modern-dining-room-living-room-with-luxury-decor.jpg"
+                    alt="home_slider"  width="1440" height="960" /></picture>
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/beautiful-hotel-insights-details.jpg" alt="home_slider" />
+                  <picture><source media="(max-width: 767px)" srcset="assets/img/beautiful-hotel-insights-details.jpg.mob.webp" type="image/webp"><source srcset="assets/img/beautiful-hotel-insights-details.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/beautiful-hotel-insights-details.jpg" alt="home_slider"  width="1440" height="960" /></picture>
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/home-banner/modern-office.jpg" alt="home_slider" />
+                  <picture><source media="(max-width: 767px)" srcset="assets/img/home-banner/modern-office.jpg.mob.webp" type="image/webp"><source srcset="assets/img/home-banner/modern-office.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-banner/modern-office.jpg" alt="home_slider"  width="1440" height="720" /></picture>
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/home-banner/luxury-modern.jpg" alt="home_slider" />
+                  <picture><source media="(max-width: 767px)" srcset="assets/img/home-banner/luxury-modern.jpg.mob.webp" type="image/webp"><source srcset="assets/img/home-banner/luxury-modern.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-banner/luxury-modern.jpg" alt="home_slider"  width="1440" height="823" /></picture>
                 </div>
                 <!-- <div class="swiper-slide">
-                  <img src="assets/img/3d-render-contemporary-living-space.jpg" alt="home_slider" />
+                  <img src="assets/img/3d-render-contemporary-living-space.jpg" alt="home_slider" fetchpriority="low" />
                 </div> -->
 
               </div>
@@ -1179,10 +1156,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <a href="outdoor-lights.php" class="category-item">
             <div class="self">
               <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image17.jpg" alt="Outdoor Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image31.jpg" alt="Outdoor Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/image7.jpg"  alt="Outdoor Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image32.jpg" alt="Outdoor Lights"></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image17.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image17.jpg" alt="Outdoor Lights" width="536" height="700"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image31.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image31.jpg" alt="Outdoor Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/image7.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/image7.jpg"  alt="Outdoor Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image32.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image32.jpg" alt="Outdoor Lights" width="248" height="324"></picture></div>
               </div>
             </div>
             <p>Outdoor Lights</p>
@@ -1192,10 +1169,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <a href="indoor-lights-products.php" class="category-item">
             <div class="self">
               <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image24-1.jpg" alt="Indoor light"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image9-1.jpg" alt="Indoor light"></div> 
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image10.jpg" alt="Indoor light"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image4.jpg" alt="Indoor light"></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image24-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image24-1.jpg" alt="Indoor light" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image9-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image9-1.jpg" alt="Indoor light" width="536" height="700"></picture></div> 
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image10.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image10.jpg" alt="Indoor light" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image4.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image4.jpg" alt="Indoor light" width="248" height="324"></picture></div>
               </div>
             </div>
             <p>Indoor Lights</p>
@@ -1205,10 +1182,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <a href="waterprooflights.php" class="category-item">
             <div class="self">
               <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image14-.jpg" alt="Waterproof Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image24.jpg"  alt="Waterproof Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image23.jpg"  alt="Waterproof Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image39.jpg"  alt="Waterproof Lights"></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image14-.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image14-.jpg" alt="Waterproof Lights" width="536" height="700"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image24.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image24.jpg"  alt="Waterproof Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image23.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image23.jpg"  alt="Waterproof Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image39.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image39.jpg"  alt="Waterproof Lights" width="248" height="324"></picture></div>
               </div>
             </div>
             <p>Waterproof Lights</p>
@@ -1218,10 +1195,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <a href="main-solar-page.php" class="category-item">
             <div class="self">
               <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image16.jpg" alt="Chandeliers"></div>
-                <div class="swiper-slide"><img src="assets/img/outdoor-light-products-img/outdoor-main-page-products/image5.jpg" alt="Chandeliers"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image18.jpg" alt="Chandeliers"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image19.jpg" alt="Chandeliers"></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image16.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image16.jpg" alt="Chandeliers" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/outdoor-light-products-img/outdoor-main-page-products/image5.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor-light-products-img/outdoor-main-page-products/image5.jpg" alt="Chandeliers" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image18.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image18.jpg" alt="Chandeliers" width="536" height="700"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image19.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image19.jpg" alt="Chandeliers" width="248" height="324"></picture></div>
               </div>
             </div>
             <p>Solar Lights</p>
@@ -1231,10 +1208,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <a href="main-surfacelight-page.php" class="category-item">
             <div class="self">
               <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image37.jpg" alt="Waterproof Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image38.jpg" alt="Waterproof Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image28.jpg" alt="Waterproof Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image40.jpg" alt="Waterproof Lights"></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image37.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image37.jpg" alt="Waterproof Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image38.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image38.jpg" alt="Waterproof Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image28.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image28.jpg" alt="Waterproof Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image40.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image40.jpg" alt="Waterproof Lights" width="536" height="700"></picture></div>
               </div>
             </div>
             <p>Surface Lights</p>
@@ -1244,10 +1221,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <a href="main-track-light.php" class="category-item">
             <div class="self">
               <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image12.jpg" alt="Track Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image20.jpg" alt="Track Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image21.jpg" alt="Track Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image22.jpg" alt="Track Lights"></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image12.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image12.jpg" alt="Track Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image20.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image20.jpg" alt="Track Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image21.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image21.jpg" alt="Track Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image22.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image22.jpg" alt="Track Lights" width="248" height="324"></picture></div>
               </div>
             </div>
             <p>Track Lights</p>
@@ -1257,10 +1234,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <a href="main-sensor.php" class="category-item">
             <div class="self ">
               <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image36.jpg" alt="Sensor Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image30.jpg" alt="Sensor Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image33.jpg" alt="Sensor Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image35.jpg" alt="Sensor Lights"></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image36.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image36.jpg" alt="Sensor Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image30.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image30.jpg" alt="Sensor Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image33.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image33.jpg" alt="Sensor Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image35.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image35.jpg" alt="Sensor Lights" width="248" height="324"></picture></div>
               </div>
             </div>
             <p>Sensor Lights</p>
@@ -1270,10 +1247,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <a href="main-magnetic-page.php" class="category-item">
             <div class="self">
               <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image27.jpg" alt="Magnetic Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image26.jpg" alt="Magnetic Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image34.jpg" alt="Magnetic Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image25.jpg" alt="Magnetic Lights"></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image27.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image27.jpg" alt="Magnetic Lights" width="536" height="700"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image26.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image26.jpg" alt="Magnetic Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image34.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image34.jpg" alt="Magnetic Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image25.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image25.jpg" alt="Magnetic Lights" width="248" height="324"></picture></div>
               </div>
             </div>
             <p>Magnetic Lights</p>
@@ -1283,10 +1260,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <a href="main-projector-page.php" class="category-item">
             <div class="self">
               <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image2-1.jpg" alt="Projector Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image29.jpg"  alt="Projector Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image2-1.jpg" alt="Projector Lights"></div>
-                <div class="swiper-slide"><img src="assets/img/in-prodoct/image29.jpg"  alt="Projector Lights"></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image2-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image2-1.jpg" alt="Projector Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image29.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image29.jpg"  alt="Projector Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image2-1.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image2-1.jpg" alt="Projector Lights" width="248" height="324"></picture></div>
+                <div class="swiper-slide"><picture><source srcset="assets/img/in-prodoct/image29.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/in-prodoct/image29.jpg"  alt="Projector Lights" width="248" height="324"></picture></div>
               </div>
             </div>
             <p>Projector Lights</p>
@@ -1315,8 +1292,8 @@ With a focus on efficiency, aesthetics, and well-being, we create lighting that 
 Driven by passion and purpose, we continue to shape the way people experience light.
             </p>
             <a href="about.php" class="about-btn">
-              <span>Read More</span>
-              <i class="fa-solid fa-arrow-right"></i>
+              <span>Read More<span class="visually-hidden"> about Sunny Light</span></span>
+              <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
             </a>
           </div>
 
@@ -1324,8 +1301,8 @@ Driven by passion and purpose, we continue to shape the way people experience li
 
         <div class="col-lg-6 col-md-5 main-img-box">
           <div class="box-img">
-            <img class="image1" src="assets/img/about-img1.png" alt="About-img" />
-            <img class="image2" src="assets/img/about-img2.png" alt="About-img" />
+            <picture><source srcset="assets/img/about-img1.png.webp" type="image/webp"><img loading="lazy" decoding="async" class="image1" src="assets/img/about-img1.png" alt="About-img"  width="465" height="454" /></picture>
+            <picture><source srcset="assets/img/about-img2.png.webp" type="image/webp"><img loading="lazy" decoding="async" class="image2" src="assets/img/about-img2.png" alt="About-img"  width="502" height="498" /></picture>
           </div>
         </div>
       </div>
@@ -1334,8 +1311,8 @@ Driven by passion and purpose, we continue to shape the way people experience li
   <!-- Video Section -->
   <section class="video-sec">
     <div class="video-container">
-      <video class="video" autoplay muted loop>
-        <source src="assets\video\4948849_Interior_Design_Lounge_1920x1080.mp4" type="video/mp4" />
+      <video class="video" width="1280" height="500" autoplay muted loop playsinline preload="none" poster="assets/img/video-poster-1.webp" data-lazy-video>
+        <source data-src="assets/video/4948849_Interior_Design_Lounge_1920x1080.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
@@ -1343,7 +1320,7 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <!-- <h2>Welcome to Our Website</h2> -->
         <h2>Create Warmth & Style with Premium Decor Lights.</h2>
         <div class="button">
-          <button><a href="contact.php">Contact Us</a></button>
+          <a href="contact.php" class="video-cta-btn">Contact Us</a>
         </div>
 
       </div>
@@ -1356,7 +1333,7 @@ Driven by passion and purpose, we continue to shape the way people experience li
   <section class="my-section pd-bl ">
     <div class="page-width">
       <div class="D-heading">
-        <h1 class="D-h1">Discover The New</h1>
+        <h2 class="D-h1">Discover The New</h2>
         <a href="discover-new.php" class="D-link">View all</a>
       </div>
     </div>
@@ -1366,11 +1343,11 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/Discover-imgs/curve-shape-magnetic-light.png" alt="" class="default-img">
-              <img src="assets/img/Discover-imgs/curve-shape-light-image.png" alt="" class="hover-img">
+              <picture><source srcset="assets/img/Discover-imgs/curve-shape-magnetic-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/curve-shape-magnetic-light.png" alt="" class="default-img" width="500" height="499"></picture>
+              <picture><source srcset="assets/img/Discover-imgs/curve-shape-light-image.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/curve-shape-light-image.png" alt="" class="hover-img" fetchpriority="low" width="505" height="652"></picture>
             </div>
             <div class="D-details">
-              <h5>Curved Shape Magnetic Lights</h5>
+              <h3>Curved Shape Magnetic Lights</h3>
               <!-- <spam>Price 20000</spam> -->
             </div>
           </div>
@@ -1378,11 +1355,11 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/Discover-imgs/tree-spike-light.png" alt="" class="default-img">
-              <img src="assets/img/Discover-imgs/tree-spike-light-use.png" alt="" class="hover-img">
+              <picture><source srcset="assets/img/Discover-imgs/tree-spike-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/tree-spike-light.png" alt="" class="default-img" width="381" height="354"></picture>
+              <picture><source srcset="assets/img/Discover-imgs/tree-spike-light-use.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/tree-spike-light-use.png" alt="" class="hover-img" fetchpriority="low" width="367" height="444"></picture>
             </div>
             <div class="D-details">
-              <h5>Outdoor Garden Tree Spike Light</h5>
+              <h3>Outdoor Garden Tree Spike Light</h3>
               <!-- <spam>Price 20000</spam> -->
             </div>
           </div>
@@ -1390,11 +1367,11 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/Discover-imgs/display-counter-light.jpeg" alt="" class="default-img">
-              <img src="assets/img/Discover-imgs/display-counter-light-img.jpg" alt="" class="hover-img">
+              <picture><source srcset="assets/img/Discover-imgs/display-counter-light.jpeg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/display-counter-light.jpeg" alt="" class="default-img" width="700" height="700"></picture>
+              <picture><source srcset="assets/img/Discover-imgs/display-counter-light-img.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/display-counter-light-img.jpg" alt="" class="hover-img" fetchpriority="low" width="424" height="700"></picture>
             </div>
             <div class="D-details">
-              <h5>Exclusively Jewellery/ Watches Display Counter Light</h5>
+              <h3>Exclusively Jewellery/ Watches Display Counter Light</h3>
               <!-- <spam>Price 20000</spam> -->
             </div>
           </div>
@@ -1402,11 +1379,11 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/Discover-imgs/Movable-project-light.png" alt="" class="default-img">
-              <img src="assets/img/Discover-imgs/projector-light-img.jpg" alt="" class="hover-img">
+              <picture><source srcset="assets/img/Discover-imgs/Movable-project-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/Movable-project-light.png" alt="" class="default-img" width="341" height="405"></picture>
+              <picture><source srcset="assets/img/Discover-imgs/projector-light-img.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/projector-light-img.jpg" alt="" class="hover-img" fetchpriority="low" width="700" height="700"></picture>
             </div>
             <div class="D-details">
-              <h5>Outdoor 4 Logo Projector Movable Projector Light</h5>
+              <h3>Outdoor 4 Logo Projector Movable Projector Light</h3>
               <!-- <spam>Price 20000</spam> -->
             </div>
           </div>
@@ -1414,11 +1391,11 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/Discover-imgs/niche-spotlight.png" alt="" class="default-img">
-              <img src="assets/img/Discover-imgs/niche-spotlight-img.png" alt="" class="hover-img">
+              <picture><source srcset="assets/img/Discover-imgs/niche-spotlight.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/niche-spotlight.png" alt="" class="default-img" width="330" height="360"></picture>
+              <picture><source srcset="assets/img/Discover-imgs/niche-spotlight-img.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Discover-imgs/niche-spotlight-img.png" alt="" class="hover-img" fetchpriority="low" width="465" height="450"></picture>
             </div>
             <div class="D-details">
-              <h5>Mini Series Niche Spotlights</h5>
+              <h3>Mini Series Niche Spotlights</h3>
               <!-- <spam>Price 20000</spam> -->
             </div>
           </div>
@@ -1432,14 +1409,14 @@ Driven by passion and purpose, we continue to shape the way people experience li
   <section class="my-section ">
     <div class="mid-banner">
       <!-- desktop view banner -->
-      <img src="assets/img/banners/banner...(2).jpg" alt="mid-banner" class="desktop-view-banner"> 
+      <img loading="lazy" decoding="async" src="assets/img/banners/banner...(2).jpg" alt="mid-banner" class="desktop-view-banner" width="1264" height="500"> 
 
       <!-- mobile view banner -->
-      <img src="assets/img/banners/sunnybanner-mobile-view.jpg" alt="mid-banner" class="mobile-view-banner"> 
+      <picture><source media="(max-width: 767px)" srcset="assets/img/banners/sunnybanner-mobile-view.jpg.mob.webp" type="image/webp"><source srcset="assets/img/banners/sunnybanner-mobile-view.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/banners/sunnybanner-mobile-view.jpg" alt="mid-banner" class="mobile-view-banner" width="700" height="500"></picture> 
 
 
       <div class="mid-overlay-btn">
-       <button><a href="gallery.php">EXPLORE</a></button>
+       <a href="gallery.php" class="mid-cta-btn">EXPLORE</a>
       </div>
     </div>
   </section>
@@ -1448,7 +1425,7 @@ Driven by passion and purpose, we continue to shape the way people experience li
   <section class="my-section pd-bl ">
     <div class="page-width ">
       <div class="D-heading">
-        <h1 class="D-h1">Home Decor Lights</h1>
+        <h2 class="D-h1">Home Decor Lights</h2>
         <a href="home-d-light.php" class="D-link">View all</a>
       </div>
     </div>
@@ -1458,22 +1435,22 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/home-decore-light/living-room-light.png" alt="" class="default-img">
-              <img src="assets/img/home-decore-light/living-room-img.png" alt="" class="hover-img">
+              <picture><source srcset="assets/img/home-decore-light/living-room-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-decore-light/living-room-light.png" alt="" class="default-img" width="371" height="435"></picture>
+              <picture><source srcset="assets/img/home-decore-light/living-room-img.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-decore-light/living-room-img.png" alt="" class="hover-img" fetchpriority="low" width="674" height="604"></picture>
             </div>
             <div class="D-details">
-              <h5>360° Recessed Light Telescope</h5>
+              <h3>360° Recessed Light Telescope</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/home-decore-light/sensor-light.png" alt="" class="default-img">
-              <img src="assets/img/home-decore-light/768b5272-6e30-49d0-bada-463aa70ee044.jpg" alt="" class="hover-img">
+              <picture><source srcset="assets/img/home-decore-light/sensor-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-decore-light/sensor-light.png" alt="" class="default-img" width="341" height="424"></picture>
+              <picture><source srcset="assets/img/home-decore-light/768b5272-6e30-49d0-bada-463aa70ee044.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-decore-light/768b5272-6e30-49d0-bada-463aa70ee044.jpg" alt="" class="hover-img" fetchpriority="low" width="700" height="700"></picture>
             </div>
             <div class="D-details">
-              <h5>PIR Motion Sensor Light</h5>
+              <h3>PIR Motion Sensor Light</h3>
               <!-- <spam>Price 20000</spam> -->
             </div>
           </div>
@@ -1481,11 +1458,11 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/zz-indoor/track-2-r.png" alt="" class="default-img">
-              <img src="assets/img/home-decore-light/track-light-img.jpg" alt="" class="hover-img">
+              <picture><source srcset="assets/img/zz-indoor/track-2-r.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/zz-indoor/track-2-r.png" alt="" class="default-img" width="538" height="464"></picture>
+              <picture><source srcset="assets/img/home-decore-light/track-light-img.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-decore-light/track-light-img.jpg" alt="" class="hover-img" fetchpriority="low" width="550" height="700"></picture>
             </div>
             <div class="D-details">
-              <h5>Track Lights</h5>
+              <h3>Track Lights</h3>
               <!-- <spam>Price 20000</spam> -->
             </div>
           </div>
@@ -1493,11 +1470,11 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/home-decore-light/ceiling-light.png" alt="" class="default-img">
-              <img src="assets/img/home-decore-light/ceiling-light-img.png" alt="" class="hover-img">
+              <picture><source srcset="assets/img/home-decore-light/ceiling-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-decore-light/ceiling-light.png" alt="" class="default-img" width="328" height="375"></picture>
+              <picture><source srcset="assets/img/home-decore-light/ceiling-light-img.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-decore-light/ceiling-light-img.png" alt="" class="hover-img" fetchpriority="low" width="387" height="399"></picture>
             </div>
             <div class="D-details">
-              <h5>Led Profile/Flexible Neon Profile</h5>
+              <h3>Led Profile/Flexible Neon Profile</h3>
               <!-- <spam>Price 20000</spam> -->
             </div>
           </div>
@@ -1505,11 +1482,11 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="D-container">
             <div class="D-img">
-              <img src="assets/img/home-decore-light/room-wash-room-light.png" alt="" class="default-img">
-              <img src="assets/img/home-decore-light/room-wash-room-light-img.png" alt="" class="hover-img">
+              <picture><source srcset="assets/img/home-decore-light/room-wash-room-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-decore-light/room-wash-room-light.png" alt="" class="default-img" width="451" height="553"></picture>
+              <picture><source srcset="assets/img/home-decore-light/room-wash-room-light-img.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/home-decore-light/room-wash-room-light-img.png" alt="" class="hover-img" fetchpriority="low" width="606" height="550"></picture>
             </div>
             <div class="D-details">
-              <h5>Steam Room/Wash Room Downlight</h5>
+              <h3>Steam Room/Wash Room Downlight</h3>
               <!-- <spam>Price 20000</spam> -->
             </div>
           </div>
@@ -1530,7 +1507,7 @@ Driven by passion and purpose, we continue to shape the way people experience li
   <section class="my-section pd-bl">
     <div class="page-width">
       <div class="pdt-heading">
-        <h1 class="pdt-h1 ">Indoor Lights</h1>
+        <h2 class="pdt-h1 ">Indoor Lights</h2>
       </div>
     </div>
     <div class="page-width text-center">
@@ -1539,60 +1516,60 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-             <a href="surface-light-details-page.php?id=2"> <img src="assets/img/Indoor-light-img/COB-Surface-lights.png" alt=""></a>
+             <a href="surface-light-details-page.php?id=2"> <picture><source srcset="assets/img/Indoor-light-img/COB-Surface-lights.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Indoor-light-img/COB-Surface-lights.png" alt="COB Surface Light" width="337" height="339"></picture></a>
             </div>
             <div class="pdt-details">
-              <h5>COB Surface Light</h5>
+              <h3>COB Surface Light</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-             <a href="track-light-details-page.php?id=1"> <img src="assets/img/Indoor-light-img/Track-lights.png" alt=""></a>
+             <a href="track-light-details-page.php?id=1"> <picture><source srcset="assets/img/Indoor-light-img/Track-lights.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Indoor-light-img/Track-lights.png" alt="Track Light" width="391" height="492"></picture></a>
             </div>
             <div class="pdt-details">
-              <h5>Track Light</h5>
+              <h3>Track Light</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-             <a href="surface-light-details-page.php?id=3"> <img src="assets/img/Indoor-light-img/SMD-light.png" alt=""></a>
+             <a href="surface-light-details-page.php?id=3"> <picture><source srcset="assets/img/Indoor-light-img/SMD-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Indoor-light-img/SMD-light.png" alt="SMD Surface Lights" width="480" height="520"></picture></a>
             </div>
             <div class="pdt-details">
-              <h5>SMD Surface Lights</h5>
+              <h3>SMD Surface Lights</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-            <a href="indoor-product-detail-page.php?id=102"> <img src="assets/img/Indoor-light-img/Wall-Washers-Recessed-Downlights.png" alt=""></a> 
+            <a href="indoor-product-detail-page.php?id=102"> <picture><source srcset="assets/img/Indoor-light-img/Wall-Washers-Recessed-Downlights.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Indoor-light-img/Wall-Washers-Recessed-Downlights.png" alt="Wall Washers Recessed Downlights" width="396" height="559"></picture></a> 
             </div>
             <div class="pdt-details">
-              <h5>Wall Washers Recessed Downlights</h5>
+              <h3>Wall Washers Recessed Downlights</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-             <a href="surface-light-details-page.php?id=8"> <img src="assets/img/Indoor-light-img/surface-downlight.png" alt="" class="default-img"></a>
+             <a href="surface-light-details-page.php?id=8"> <picture><source srcset="assets/img/Indoor-light-img/surface-downlight.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Indoor-light-img/surface-downlight.png" alt="Surface Cob Downlights" class="default-img" width="355" height="453"></picture></a>
             </div>
             <div class="pdt-details">
-              <h5>Surface Cob Downlights</h5>
+              <h3>Surface Cob Downlights</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-             <a href="indoor-product-detail-page.php?id=73"><img src="assets/img/Indoor-light-img/High-Neck-Led-Spot-Light.png" alt=""></a> 
+             <a href="indoor-product-detail-page.php?id=73"><picture><source srcset="assets/img/Indoor-light-img/High-Neck-Led-Spot-Light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Indoor-light-img/High-Neck-Led-Spot-Light.png" alt="Adjustable High Neck LED Spot Light" width="353" height="421"></picture></a> 
             </div>
             <div class="pdt-details">
-              <h5>Adjustable High Neck LED Spot Light</h5>
+              <h3>Adjustable High Neck LED Spot Light</h3>
             </div>
           </div>
         </div>
@@ -1610,29 +1587,29 @@ Driven by passion and purpose, we continue to shape the way people experience li
             <div class="swiper bottomSwiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <img src="assets\img\modern-dining.jpg" alt="home_slider" class="myslide-image" />
+                  <picture><source media="(max-width: 767px)" srcset="assets/img/modern-dining.jpg.mob.webp" type="image/webp"><source srcset="assets/img/modern-dining.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/modern-dining.jpg" alt="home_slider" class="myslide-image"  width="1440" height="960" /></picture>
                   <div class="slide-content">
                     <h2 class="heading">Brighten Your Home</h2>
                     <p class="text">Master Piece</p>
-                    <a href="blog.php"> <button class="my-btn">Know More</button></a>
+                    <a href="blog.php" class="my-btn">Know More</a>
                   </div>
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets\img\modern-elegance.jpg" alt="home_slider" class="myslide-image" />
+                  <picture><source media="(max-width: 767px)" srcset="assets/img/modern-elegance.jpg.mob.webp" type="image/webp"><source srcset="assets/img/modern-elegance.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/modern-elegance.jpg" alt="home_slider" class="myslide-image"  width="1440" height="823" /></picture>
                   <div class="slide-content">
                     <h2 class="heading">Style in Every Light.</h2>
                     <p class="text"> Premium Lighting Decor</p>
-                    <a href="blog.php"> <button class="my-btn">Know More</button></a>
+                    <a href="blog.php" class="my-btn">Know More</a>
                   </div>
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets\img\modern-living-room.jpg" alt="home_slider" class="myslide-image" />
+                  <picture><source media="(max-width: 767px)" srcset="assets/img/modern-living-room.jpg.mob.webp" type="image/webp"><source srcset="assets/img/modern-living-room.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/modern-living-room.jpg" alt="home_slider" class="myslide-image"  width="1440" height="810" /></picture>
                   <div class="slide-content">
                     <h2 class="heading">Elegant Indoor Glow</h2>
                     <p class="text">
                       Recently Launched
                     </p>
-                   <a href="blog.php"> <button class="my-btn">Know More</button></a>
+                   <a href="blog.php" class="my-btn">Know More</a>
                   </div>
                 </div>
               </div>
@@ -1702,8 +1679,8 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col-lg-6">
           <div class="yt-video pb-0 text-center">
               <div style="position: relative; width: 100%; max-width: 1200px;">
-               <video  id="video" width="100%" height="410" autoplay muted loop>
-        <source src="assets/video/1111942_Turkey_Oven_3840x2160.mp4" type="video/mp4" />
+               <video id="video" width="100%" height="410" autoplay muted loop playsinline preload="none" poster="assets/img/video-poster-2.webp" data-lazy-video>
+        <source data-src="assets/video/1111942_Turkey_Oven_3840x2160.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
             </div>
@@ -1731,7 +1708,7 @@ Driven by passion and purpose, we continue to shape the way people experience li
   <section class="my-section pd-bl ">
     <div class="page-width">
       <div class="pdt-heading">
-        <h1 class="pdt-h1 ">Outdoor Lights</h1>
+        <h2 class="pdt-h1 ">Outdoor Lights</h2>
       </div>
     </div>
     <div class="page-width text-center">
@@ -1740,60 +1717,60 @@ Driven by passion and purpose, we continue to shape the way people experience li
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-              <a href="outdoor-product-detail-page.php?id=89"><img src="assets/img/outdoor/out-39.jpg" alt=""></a>
+              <a href="outdoor-product-detail-page.php?id=89"><picture><source srcset="assets/img/outdoor/out-39.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-39.jpg" alt="Outdoor Wall Light" width="1000" height="730"></picture></a>
             </div>
             <div class="pdt-details">
-              <h5>Outdoor Wall Light</h5>
+              <h3>Outdoor Wall Light</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-             <a href="outdoor-product-detail-page.php?id=49"><img src="assets/img/Solar-light.png" alt=""></a> 
+             <a href="outdoor-product-detail-page.php?id=49"><picture><source srcset="assets/img/Solar-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Solar-light.png" alt="Outdoor Solar Garden Light" width="316" height="328"></picture></a> 
             </div>
             <div class="pdt-details">
-              <h5>Outdoor Solar Garden Light</h5>
+              <h3>Outdoor Solar Garden Light</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-            <a href="outdoor-product-detail-page.php?id=116"><img src="assets/img/outdoor/out-69.jpg" alt=""></a>  
+            <a href="outdoor-product-detail-page.php?id=116"><picture><source srcset="assets/img/outdoor/out-69.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-69.jpg" alt="Outdoor Wall Washer" width="1000" height="778"></picture></a>  
             </div>
             <div class="pdt-details">
-              <h5>Outdoor Wall Washer</h5>
+              <h3>Outdoor Wall Washer</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-             <a href="outdoor-product-detail-page.php?id=66"> <img src="assets/img/outdoor/out-13.jpg" alt=""></a>
+             <a href="outdoor-product-detail-page.php?id=66"> <picture><source srcset="assets/img/outdoor/out-13.jpg.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/outdoor/out-13.jpg" alt="Outdoor Garden Light" width="1000" height="935"></picture></a>
             </div>
             <div class="pdt-details">
-              <h5>Outdoor Garden Light</h5>
+              <h3>Outdoor Garden Light</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-              <a href="sensor-details-page.php?id=8" ><img src="assets/img/Motion-sensor-light.png" alt="" class="default-img"></a>
+              <a href="sensor-details-page.php?id=8" ><picture><source srcset="assets/img/Motion-sensor-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/Motion-sensor-light.png" alt="Outdoor Motion Sensor Light" class="default-img" width="374" height="389"></picture></a>
             </div>
             <div class="pdt-details">
-              <h5>Outdoor Motion Sensor Light</h5>
+              <h3>Outdoor Motion Sensor Light</h3>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="pdt-container">
             <div class="pdt-img">
-              <a href="outdoor-product-detail-page.php?id=29"><img src="assets/img/pathway-light.png" alt=""></a>
+              <a href="outdoor-product-detail-page.php?id=29"><picture><source srcset="assets/img/pathway-light.png.webp" type="image/webp"><img loading="lazy" decoding="async" src="assets/img/pathway-light.png" alt="Tiltable Garden Bollard Light" width="329" height="458"></picture></a>
             </div>
             <div class="pdt-details">
-              <h5>Tiltable Garden Bollard Light</h5>
+              <h3>Tiltable Garden Bollard Light</h3>
             </div>
           </div>
         </div>
@@ -1806,7 +1783,7 @@ Driven by passion and purpose, we continue to shape the way people experience li
   <section class="my-section">
   <div class="offer-container">
     <div class="offer-content" id="offerContent">
-      <h1 class="mr-b">Get Exclusive Offers</h1>
+      <h2 class="mr-b">Get Exclusive Offers</h2>
       <p class="mr-b">Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>
       
       <!-- Form with FormSubmit -->
@@ -1835,113 +1812,113 @@ Driven by passion and purpose, we continue to shape the way people experience li
 
 
   <!-- Include Swiper JS -->
-  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  
 
-  <!-- Top home page Swiper -->
+  <!-- Top home page, Product category, Bottom Swipers & Lazy Video -->
   <script>
-    const swiper = new Swiper(".mySwiper", {
-      loop: true,
-      effect: "fade", // fade effect instead of slide
-      fadeEffect: {
-        crossFade: true,
-      },
-      autoplay: {
-        delay: 5000,
-        disableOnInteraction: false,
-      },
-      navigation: {
-        nextEl: ".right-arrow",
-        prevEl: ".left-arrow",
-      },
+    document.addEventListener("DOMContentLoaded", function () {
+      if (typeof Swiper !== "undefined") {
+        new Swiper(".mySwiper", {
+          loop: true,
+          effect: "fade",
+          fadeEffect: { crossFade: true },
+          autoplay: { delay: 5000, disableOnInteraction: false },
+          navigation: { nextEl: ".right-arrow", prevEl: ".left-arrow" },
+        });
+
+        var initSecondarySwipers = function () {
+          document.querySelectorAll(".self").forEach(function (el) {
+            var s = new Swiper(el, {
+              loop: true,
+              effect: "cube",
+              cubeEffect: {
+                shadow: true,
+                slideShadows: true,
+                shadowOffset: 20,
+                shadowScale: 0.94,
+              },
+              autoplay: { delay: 2000, disableOnInteraction: false },
+              speed: 600,
+              pagination: { el: el.querySelector(".swiper-pagination") },
+            });
+            el.addEventListener("mouseenter", function () { s.autoplay.stop(); });
+            el.addEventListener("mouseleave", function () { s.autoplay.start(); });
+          });
+
+          new Swiper(".bottomSwiper", {
+            loop: true,
+            effect: "fade",
+            autoplay: { delay: 4000, disableOnInteraction: false },
+            navigation: { nextEl: ".right-arrow", prevEl: ".left-arrow" },
+            on: {
+              init: function () { animateSlide(this.slides[this.activeIndex]); },
+              slideChangeTransitionStart: function () { resetSlideAnimation(); },
+              slideChangeTransitionEnd: function () { animateSlide(this.slides[this.activeIndex]); },
+            },
+          });
+        };
+
+        if ("requestIdleCallback" in window) {
+          setTimeout(initSecondarySwipers, 120);
+        } else {
+          setTimeout(initSecondarySwipers, 0);
+        }
+      }
+
+      function animateSlide(slide) {
+        if (!slide) return;
+        var heading = slide.querySelector(".heading");
+        var text = slide.querySelector(".text");
+        var button = slide.querySelector(".my-btn");
+        if (heading) heading.classList.add("show");
+        if (text) text.classList.add("show");
+        if (button) button.classList.add("show");
+      }
+
+      function resetSlideAnimation() {
+        document.querySelectorAll(".bottomSwiper .heading, .bottomSwiper .text, .bottomSwiper .my-btn").forEach(function (el) {
+          el.classList.remove("show");
+        });
+        document.querySelectorAll(".bottomSwiper .slide-image").forEach(function (img) {
+          img.style.transform = "scale(1)";
+        });
+      }
+
+      // Lazy-load videos strictly after user interaction + viewport intersection
+      var lazyVideos = document.querySelectorAll("video[data-lazy-video]");
+      if (lazyVideos.length) {
+        var interacted = false;
+        var activateVideo = function (vid) {
+          if (vid.dataset.loaded) return;
+          vid.dataset.loaded = "1";
+          vid.querySelectorAll("source[data-src]").forEach(function (src) {
+            src.src = src.dataset.src;
+          });
+          vid.load();
+          var p = vid.play();
+          if (p && typeof p.catch === "function") p.catch(function () {});
+        };
+        var checkAndLoadVideos = function () {
+          if (!interacted) return;
+          var vh = window.innerHeight || 800;
+          lazyVideos.forEach(function (v) {
+            var r = v.getBoundingClientRect();
+            if (r.top < vh + 100 && r.bottom > -100) activateVideo(v);
+          });
+        };
+        var onInteract = function () {
+          interacted = true;
+          checkAndLoadVideos();
+          window.removeEventListener("pointerdown", onInteract);
+          window.removeEventListener("touchstart", onInteract);
+          window.removeEventListener("keydown", onInteract);
+        };
+        window.addEventListener("scroll", function () { interacted = true; checkAndLoadVideos(); }, { passive: true });
+        window.addEventListener("pointerdown", onInteract, { passive: true });
+        window.addEventListener("touchstart", onInteract, { passive: true });
+        window.addEventListener("keydown", onInteract, { passive: true });
+      }
     });
-  </script>
-
-  <!-- Product category swiper -->
-
-  <script>
-    let selfSwipers = [];
-
-    document.querySelectorAll(".self").forEach((el) => {
-      let swiper = new Swiper(el, {
-        loop: true,
-        effect: "cube",
-        // grabCursor: true,
-        cubeEffect: {
-          shadow: true,
-          slideShadows: true,
-          shadowOffset: 20,
-          shadowScale: 0.94,
-        },
-        autoplay: {
-         delay: 2000,
-         disableOnInteraction: false, // ✅ important for sync
-        },
-        speed: 600,
-        pagination: {
-          el: el.querySelector(".swiper-pagination"),
-        },
-      });
-
-      // Hover -> pause only this swiper
-      el.addEventListener("mouseenter", () => {
-        swiper.autoplay.stop();
-      });
-
-      // Hover out -> resume this swiper (will catch global autoplay timing)
-      el.addEventListener("mouseleave", () => {
-        swiper.autoplay.start();
-      });
-
-      selfSwipers.push(swiper);
-    });
-  </script>
-
-  <!-- Bottom swiper -->
-  <script>
-    var bottomSwiper = new Swiper(".bottomSwiper", {
-      loop: true,
-      effect: "fade", // ya "fade", "cube", "coverflow", "flip"
-      autoplay: {
-        delay: 4000,
-        disableOnInteraction: false,
-      },
-      navigation: {
-        nextEl: ".right-arrow",
-        prevEl: ".left-arrow",
-      },
-      on: {
-        init: function () {
-          animateSlide(this.slides[this.activeIndex]);
-        },
-        slideChangeTransitionStart: function () {
-          resetSlideAnimation();
-        },
-        slideChangeTransitionEnd: function () {
-          animateSlide(this.slides[this.activeIndex]);
-        },
-      },
-    });
-
-    function animateSlide(slide) {
-      const heading = slide.querySelector(".heading");
-      const text = slide.querySelector(".text");
-      const button = slide.querySelector(".my-btn");
-
-      heading.classList.add("show");
-      text.classList.add("show");
-      button.classList.add("show");
-    }
-
-    function resetSlideAnimation() {
-      document.querySelectorAll(".bottomSwiper .heading, .bottomSwiper .text, .bottomSwiper .my-btn").forEach(el => {
-        el.classList.remove("show");
-      });
-
-      document.querySelectorAll(".bottomSwiper .slide-image").forEach(img => {
-        img.style.transform = "scale(1)"; // reset image zoom
-      });
-    }
-
   </script>
  
  
@@ -1979,230 +1956,9 @@ Driven by passion and purpose, we continue to shape the way people experience li
 </script>
 
 <!-- subsription script end-->
+  </main>
 
   <!-- Footer Section -->
-  <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sunny Light</title>
-  <link rel="stylesheet" href="assets/CSS/main.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Bootstrap Icons  -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-
-
-  <!-- Bootstrap JS (dropdowns, modals, etc. ke liye) -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-</head>
-
-<body>
-
-  <!-- Our Client -->
-  <!-- <section class="my-section">
-    <div class="page-width text-center ourClient-section py-3">
-      <h1 class="colortext">Our Client</h1>
-      <div class="swiper myswiper2 py-5">
-        <div class="swiper-wrapper our-client">
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/apollo-logo-.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/bombay-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/core-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/haldiram-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/home-saaz-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/Hero-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/airtel-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/bnw-logo (2).png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/Costa_Coffee-Logo-.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/hindware-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/kfc-logo-.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/lakme-salon.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/lava.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/luxuria.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/max-health-care.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/nike-logo.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/ramada-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/sony-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/suzuki-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/tanishq-logo (2).png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/tecno-logo.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/vivo-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/royal-enfield-.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/timex-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/vodafone-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/Reebok-Logo.wine.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/gd doenka.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/taj-hotel-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/indian-oil-logo-png.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/audi-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/gionee-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/p.p_jewellers-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/Intex_Logo.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/sarvodaya-logo.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/giani-logo.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/fortune-hotel-logo.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/titan-logo-.png" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="client">
-              <img src="assets/img/our-client/Redico Logo.jpg" alt="BPTP Logo" width="100%">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-
 
   <!-- Footer Section -->
   <section>
@@ -2212,16 +1968,16 @@ Driven by passion and purpose, we continue to shape the way people experience li
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget">
               <a class="footer-logo" href="index.php">
-                <img src="assets/img/logoH__1_-removebg-preview.png" alt="logo"></a>
+                <picture><source srcset="assets/img/logoH__1_-removebg-preview.png.webp" type="image/webp"><img decoding="async" src="assets/img/logoH__1_-removebg-preview.png" alt="logo" width="417" height="310"></picture></a>
               <p class="footer-desc">We believe in a brighter future.
 Through innovation and new technologies, we transform spaces and create meaningful experiences with light.</p>
               <div class="social-icons">
                 <ul class="footer-social">
-                  <li><a class="icofont-facebook" href="https://www.facebook.com/profile.php?id=61578299321011" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                  <li><a class="icofont-facebook" href="https://www.facebook.com/profile.php?id=61578299321011" target="_blank" rel="noopener" aria-label="Sunny Lights on Facebook"><i class="fa-brands fa-facebook-f"></i></a>
                   </li>
                   <!--<li><a class="icofont-linkedin" href="#" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>-->
                   </li>
-                  <li><a class="icofont-instagram" href="https://www.instagram.com/_sunny_lights_/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                  <li><a class="icofont-instagram" href="https://www.instagram.com/_sunny_lights_/" target="_blank" rel="noopener" aria-label="Sunny Lights on Instagram"><i class="fa-brands fa-instagram"></i></a>
                   </li>
                 </ul>
               </div>
@@ -2230,7 +1986,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
           </div>
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget contact">
-              <h3 class="footer-title">Quick Link</h3>
+              <h2 class="footer-title">Quick Link</h2>
               <ul class="footer-contact lineheightset">
                 <li><a href="index.php"><span><i class="bi bi-chevron-double-right "></i>Home</span></a></li>
                 <li><a href="about.php"><span><i class="bi bi-chevron-double-right "></i>About</span></a></li>
@@ -2244,7 +2000,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
           </div>
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget contact">
-              <h3 class="footer-title">Products</h3>
+              <h2 class="footer-title">Products</h2>
               <ul class="footer-contact lineheightset">
                 <li><a href="outdoor-lights.php"><span><i class="bi bi-chevron-double-right "></i>Outdoor Lights</span></a></li>
                 <li><a href="indoor-lights-products.php"><span><i class="bi bi-chevron-double-right "></i>Indoor Lights</span></a></li>
@@ -2258,7 +2014,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
           </div>
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget contact">
-              <h3 class="footer-title">Contact us</h3>
+              <h2 class="footer-title">Contact us</h2>
               <ul class="footer-contact">
                 <li><a href="mailto:sunnylights377@gmail.com"><i class="fa-solid fa-at"></i>
                     <span>sunnylights377@gmail.com</span></a>
@@ -2287,8 +2043,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
-            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/" target="_blank" rel="noopener"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>
@@ -2296,11 +2051,13 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
 
 
-  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  
 
   <!-- Swiper -->
   <script>
-    var myswiper2 = new Swiper(".myswiper2", {
+    document.addEventListener("DOMContentLoaded", function () {
+      if (typeof Swiper === "undefined" || !document.querySelector(".myswiper2")) return;
+      var myswiper2 = new Swiper(".myswiper2", {
       loop: true,
       slidesPerView: 1,
       spaceBetween: 20,
@@ -2328,14 +2085,8 @@ Through innovation and new technologies, we transform spaces and create meaningf
         },
       },
     });
+    });
 
   </script>
 </body>
-
-</html>
-  <!--  -->
-  <script src="assets/JS/index.js"></script>
-  <script src="assets/JS/faq.js"></script>
-</body>
-
 </html>

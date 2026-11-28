@@ -25,18 +25,21 @@ if(!$product){
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $product['title']; ?> - Product Details</title>
-    <link rel="stylesheet" href="assets/CSS/main.css">
+    <style>picture{display:contents}.modal{display:none}.collapse:not(.show){display:none}.dropdown-menu{display:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding:0!important}.navbar>.container-fluid{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.nav{display:flex;flex-wrap:wrap;padding-left:0;margin-bottom:0;list-style:none}.d-flex{display:flex!important}.justify-content-between{justify-content:space-between!important}.align-items-center{align-items:center!important}.gap-3{gap:1rem!important}@media(min-width:768px){.d-md-none{display:none!important}}*{padding:0;margin:0;box-sizing:border-box;font-family:'Times New Roman',serif;scroll-behavior:smooth}html,body{overflow-x:clip}picture{display:contents}h1,.D-h1,.pdt-h1,.offer-content h2,.review-heading h2{font-size:2rem !important}h5,.D-details h3,.pdt-details h3{font-size:1.2rem !important}.D-details h3,.pdt-details h3{font-weight:500;line-height:1.2}.footer-title{font-size:calc(1.3rem + 0.6vw)}@media (min-width:1200px){.footer-title{font-size:1.75rem}}.container-fluid{padding:0 70px !important}.page-width{padding:0 40px}.mr-b{margin-bottom:10px}.pd-bl{padding-block:25px;border:none}.my-btn{padding:10px 20px;border:none}.colortext{color:#1e7e34}.desktop-view-banner{display:block!important}.mobile-view-banner{display:none!important}.Head-section{position:sticky;top:0;z-index:1000;background:#fff}.second-nav{position:sticky;top:61px;background:#fff}.mynavbar{background-color:white}.navbar{padding:0 !important}.header,.navbar{position:relative;z-index:1000}.logo img{max-height:60px;width:auto;display:block}.Search-bar{border:1px solid gray;border-radius:50px;overflow:hidden}.Search-bar form{display:flex;align-items:center}.Search-bar:focus-within{border-color:forestgreen}.Search-bar input[type="text"]{width:100%;height:40px;font-size:15px;padding-left:15px;border:none;background-color:#f0f0f0}.Search-bar input[type="text"]:focus{outline:none}.search-icon{padding:8px 16px;border:none;background-color:#f0f0f0}.search-icon i{font-size:20px}.search-icon i:hover{cursor:pointer;color:green}.quote-button button{border:none;padding:6px 10px;color:white;background-color:#0505b9;font-size:12px}.hearder-list li a{color:rgb(7,7,7);font-size:15px}.hearder-list li a:hover{color:#ed1c24}.quote-button button{border:none;padding:6px 14px;color:white;background-color:#cc0000;font-size:14px;border-radius:3px;cursor:pointer;animation:swing 1.2s ease-in-out infinite}@keyframes swing{0%{transform:rotate(0deg)}25%{transform:rotate(6deg)}50%{transform:rotate(-6deg)}75%{transform:rotate(4deg)}100%{transform:rotate(0deg)}}.hearder-mobile{padding:10px 15px;background-color:white}.hearder-mobile i{font-size:24px;color:#0a0909;background-color:#e8e7e7;cursor:pointer;border-radius:50%;padding:8px;box-shadow:0 2px 8px rgba(0,0,0,0.25);transition:all 0.3s ease}.mobile-logo img{transform:scale(1.7)}#side-panel{position:fixed;top:0;right:-350px;width:350px;height:100%;background:white;box-shadow:-2px 0 8px rgba(0,0,0,0.2);transition:right 0.5s ease;z-index:1050;padding:20px 30px;overflow-y:auto}#side-panel.active{right:0}.side-panel-header{display:flex;justify-content:space-between;align-items:center;font-weight:700;font-size:20px;margin-bottom:20px}.side-panel-header i{cursor:pointer;font-size:24px}.side-panel-menu{list-style:none;padding:0;margin:0}.side-panel-menu li{margin-bottom:15px;border-bottom:1px solid rgb(191,194,196)}.side-panel-menu a{text-decoration:none;color:#000;font-size:18px;display:block;transition:color 0.3s}.side-panel-menu a:hover{color:#43c553}#overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.4);opacity:0;visibility:hidden;transition:opacity 0.3s ease;z-index:1040}#overlay.active{opacity:1;visibility:visible}.nav-list{display:flex;align-items:center;justify-content:flex-start;list-style:none;border-top:1px solid gray;margin-bottom:0px;gap:10px}.nav-list ul{padding-left:0 !important}.nav-list li{padding:6px 15px;position:relative}.nav-list li a{text-decoration:none;font-size:15px;color:#000;display:block;font-weight:500}.nav-list span i{font-size:0.7em;margin-left:5px}.navbar-part .nav-list>li.dropdown{position:relative}.navbar-part .nav-list>li.dropdown:hover>.dropdown-menu{display:block;opacity:1;visibility:visible;transform:translateY(0)}.navbar-part .dropdown-menu{position:absolute;top:90%;left:0;z-index:1000;display:none;float:left;min-width:220px;padding:5px 0;margin:2px 0 0;font-size:13px;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:4px;box-shadow:0 6px 12px rgba(0,0,0,.175);opacity:0;visibility:hidden;transform:translateY(-10px);transition:all 0.3s ease;max-height:300px;overflow-y:auto}.navbar-part .dropdown-menu li{position:relative}.navbar-part .dropdown-menu a{display:block;padding:5px 15px;clear:both;font-weight:400;line-height:1.3;color:#333;white-space:nowrap;text-decoration:none;transition:all 0.2s ease;border-bottom:1px solid #f5f5f5}.navbar-part .dropdown-menu a:hover{background-color:#f5f5f5;color:#007bff}.nav-list li{padding:4px 10px;position:relative}.second-nav{z-index:999}.dropdown-menu li a{display:block;padding:5px;color:#737272;line-height:1;white-space:nowrap}.dropdown-menu li a:hover{background:#f0f0f0}.banner-part{position:relative}.container-body img{width:100%;max-height:470px !important;object-fit:cover;position:relative;display:block;object-fit:cover}.arrows{position:absolute;bottom:-18px;right:70px;display:flex;gap:15px;align-items:center;justify-content:flex-end;z-index:10}.arrows span i{display:inline-block;text-align:center;line-height:40px;width:40px;height:40px;font-size:23px;border-radius:50%;cursor:pointer;background-color:white;box-shadow:0 4px 8px rgba(0,0,0,0.2);transition:transform 0.3s ease,background-color 0.3s ease}.arrows span i:hover{background-color:#f0f0f0;transform:scale(1.1)}.product-category{margin-bottom:30px;padding:35px 0}.category-item{text-decoration:none;color:#333;font-weight:500;display:block;text-align:center}.self{width:200px;height:200px;margin:auto}.self img{width:100%;height:auto}.swiper-cube .swiper-cube-shadow:before{background:none!important}.self .swiper-slide{display:flex;align-items:center;justify-content:center;background:#fff;border-radius:12px;padding:10px;outline:none}.category-item p{margin-top:18px;font-weight:500;color:#333;font-size:21px}.about-sec{background-color:rgb(220,220,220)}.about-text{height:100%;display:flex;justify-content:center;flex-direction:column;align-items:flex-start}.about-text span{color:#cc0000}.about-text h3{font-size:35px;padding:10px 0px;line-height:35px}.about-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 20px;border-radius:20px;background-color:rgb(255,255,255);border:none;color:#000;font-weight:600;text-decoration:none;transition:all 0.3s ease}.about-btn i{transition:transform 0.3s ease}.about-btn:hover{cursor:pointer;background-color:white;box-shadow:0 3px 8px #b4b4b4}.about-btn:hover span{transform:translateX(5px);transition:transform 0.3s ease}.about-btn:hover i{transform:translateX(10px)}.main-img-box{position:relative}.box-img{position:relative;display:inline-block;transition:border 0.3s ease}.box-img img{height:auto;vertical-align:middle}.image1{margin-left:50px;width:50%;border-radius:25px}.image2{width:50%;border-radius:25px;position:absolute;top:25%;left:45%}.image1:hover,.image2:hover{transition:transform 0.3s ease;border:2px solid transparent;transition:border 0.4s,box-shadow 0.4s}.image1:hover,.image2:hover{border:2px solid transparent;animation:borderGlow 1.5s infinite alternate;border-radius:4px}@keyframes borderGlow{from{border-color:transparent;box-shadow:0 0 5px rgba(255,255,255,0)}to{border-color:#00ff15;box-shadow:0 6px 15px #6bfa91,0 0 25px #7ffa8c}}.video-container{margin-bottom:10px;text-align:center;position:relative;overflow:hidden}.video-container::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,15,25,0.38) 0%,rgba(10,15,25,0.48) 100%);pointer-events:none;z-index:1}.video{width:100%;max-width:100%;max-height:500px;object-fit:cover;filter:brightness(0.68) contrast(1.08);display:block}.video-overlay-text{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:white;text-shadow:0 2px 6px rgba(0,0,0,0.7);text-align:center;padding:0 20px;z-index:2}.video-overlay-text h2{font-size:2.5rem;margin-bottom:10px}.video-overlay-text button,.video-overlay-text a.video-cta-btn{display:inline-block;margin-top:40px;font-size:1.5rem;padding:10px 20px;font-weight:bold;text-decoration:none;color:rgb(231,185,68);background-color:transparent;border:2px solid rgb(228,187,81);border-radius:30px;box-shadow:0 3px 6px rgb(243,202,98);cursor:pointer}.video-overlay-text button a{text-decoration:none;color:rgb(231,185,68)}.video-overlay-text button:hover,.video-overlay-text a.video-cta-btn:hover{color:rgb(231,185,68);background-color:white;box-shadow:0 3px 12px rgb(243,202,98)}.D-section{padding-block:25px}.D-row{padding-bottom:25px}.D-heading{display:flex;align-items:center;margin-bottom:20px}.D-heading,.D-h1{flex:1 1 auto}.D-link{font-weight:700;font-size:17px;color:#000}.D-container{cursor:pointer;overflow:hidden;position:relative}.D-img{height:220px;margin-bottom:16px;position:relative;overflow:hidden}.D-img img{width:100%;height:100%;object-fit:cover;display:block;position:absolute;top:0;left:0;transition:opacity 0.3s ease;cursor:pointer}.hover-img{opacity:0}.D-container:hover .hover-img{opacity:1}.D-container:hover .default-img{opacity:0}.mid-banner{position:relative;width:100%}.mid-banner img{width:100%;height:auto;object-fit:cover;display:block;transform:scale(1.1);animation:zoomInLoad 1.2s ease forwards}.mid-overlay-btn{position:absolute;bottom:30px;left:47%}.mid-overlay-btn button,.mid-overlay-btn a.mid-cta-btn{border:none;padding:6px 15px;background-color:#f0f0f0;display:inline-block;line-height:1.5;font-weight:400}.mid-overlay-btn a{text-decoration:none;color:#000}.google-banner{width:100%}.google-banner img{width:100%;height:450px;display:block;transform:scale(1.1);animation:zoomInLoad 1.2s ease forwards}@keyframes zoomInLoad{from{transform:scale(1.2)}to{transform:scale(1)}}.pdt-h1{display:block;margin-bottom:40px}.pdt-img{height:195px;padding:9px;background-color:#f8f8f8;transition:transform 0.3s ease;cursor:pointer}.pdt-img:hover{transform:translateY(-4px);box-shadow:0px 4px 6px rgba(0,0,0,0.3);background-color:rgb(253,249,249)}.pdt-img img{width:100%;height:100%;object-fit:cover;display:block}.pdt-details{margin-top:10px}.bottomSwiper{position:relative;width:100%}.slide-content{color:rgb(255,255,255)}.slide-content .my-btn{font-size:17px;font-weight:600;display:inline-block;background-color:#f0f0f0;color:#000;text-decoration:none;cursor:pointer}.bottomSwiper .myslide-image{width:100%;height:auto;transition:transform 1s ease}.bottomSwiper .swiper-slide-active .slide-image{transform:scale(1.1)}.bottomSwiper .slide-content{position:absolute;top:65%;left:50%;transform:translate(-50%,-50%);text-align:center}.bottomSwiper .heading,.bottomSwiper .text,.bottomSwiper .my-btn{opacity:0;transform:scale(0.1);transition:opacity 0.5s ease,transform 0.5s ease}.bottomSwiper .heading.show{opacity:1;transform:scale(1)}.bottomSwiper .text.show{opacity:1;transform:scale(1);transition-delay:0.3s}.bottomSwiper .my-btn.show{opacity:1;transform:scale(1);transition-delay:0.6s}.faq-section{background-image:url('assets/CSS/IMG-20250725-WA0023.jpg');background-image:image-set( url('assets/CSS/IMG-20250725-WA0023.jpg.webp') type('image/webp'),url('assets/CSS/IMG-20250725-WA0023.jpg') type('image/jpeg') )}.faq-heading{font-size:2rem;margin-bottom:15px;border-bottom:2px solid #28a745;color:#0505b9}.faq-item{border-bottom:1px solid #ddd;padding:15px 0}.faq-question{width:100%;text-align:left;font-size:1.1rem;font-weight:500;background:none;border:none;outline:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center}.faq-answer{display:none;margin-top:10px;font-size:1rem;color:#555;line-height:1.5}.faq-item.active .faq-answer{display:block}.faq-item.active .arrow{transform:rotate(180deg)}.yt-video{display:flex;justify-content:center;align-items:center;width:100%}.yt-video video{max-width:100%;border-radius:12px}.my-btm-top-bnr{position:relative;width:100%;height:470px;background:url("assets/img/banners/sunnylights.jpg") no-repeat center center;background-image:image-set( url("assets/img/banners/sunnylights.jpg.webp") type("image/webp"),url("assets/img/banners/sunnylights.jpg") type("image/jpeg") );background-repeat:no-repeat;background-position:center center;background-size:cover;overflow:hidden;display:flex;align-items:center;justify-content:center;color:#fff}.my-btm-top-bnr::before{content:"";position:absolute;inset:0;background:rgba(59,59,59,0.45);z-index:1}.btm-top-container{position:relative;z-index:2;width:100%;padding:0 8%;display:flex;align-items:center;min-height:200px}.btm-top-banner-overlay{max-width:350px}.btm-top-banner-overlay h2{font-size:36px;line-height:1.3;font-weight:450;margin-bottom:20px}.btm-top-banner-overlay .btm-bnr-btn{display:inline-block;padding:12px 28px;border:2px solid #fff;color:#fff;text-decoration:none;font-weight:bold;transition:0.3s}.btm-top-banner-overlay .btm-bnr-btn:hover{background:#fff;color:#000}@media (max-width:768px){.btm-top-banner-overlay h2{font-size:24px;margin-bottom:40px}.yt-video video{height:250px}.desktop-view-banner{display:none !important}.mobile-view-banner{display:block !important}.mid-overlay-btn{left:37%}.my-btm-top-bnr{background-image:url("assets/img/banners/mobile-viwe-sunnybanner2.jpg");background-image:image-set( url("assets/img/banners/mobile-viwe-sunnybanner2.jpg.webp") type("image/webp"),url("assets/img/banners/mobile-viwe-sunnybanner2.jpg") type("image/jpeg") );background-repeat:no-repeat;background-position:center center;background-size:cover}.google-banner img{height:auto;object-fit:cover}}.offer-container{background-image:url("https://images.unsplash.com/photo-1528458909336-e7a0adfed0a5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D");background-size:cover;background-position:center;background-repeat:no-repeat;height:250px;display:flex;align-items:center;justify-content:center;text-align:center;position:relative}.offer-content{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);align-items:center}.offer-btn{display:flex;max-width:400px;margin:0 auto;border:1px solid #ccc;overflow:hidden;border-radius:0;margin-top:10px}.offer-btn input[type="text"]{flex:1;padding:10px 15px;border:none;outline:none;font-size:1rem}.offer-btn button.mt-btn{background-color:#000;color:#fff;border:none;padding:10px 20px;cursor:pointer;font-weight:bold;font-size:1rem;transition:background 0.3s}.bottom-footer-part-1{background-image:url("assets/CSS/color-temperature-comparison-led-lights.jpg");background-size:cover;background-position:center;background-repeat:no-repeat;width:100%;height:400px;display:flex;align-items:center;justify-content:center;text-align:center;position:relative}.bottom-banner-part-content{color:white;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);align-items:center}.client{height:140px;background:rgb(199,198,198);padding:20px;border-top-left-radius:30px;align-items:center;border:1px solid #c8c4c4;box-shadow:rgb(38,57,77) 0px 20px 30px -10px}.client img{height:100%;max-width:150px;max-height:150px;margin-bottom:10px;object-fit:contain}.footer-part{padding-top:40px;background-color:#f9f8f8}.footer-logo img{width:113px;height:auto;object-fit:cover;margin-bottom:5px}.footer-desc{margin-bottom:22px}.footer-social{display:flex;align-items:center;justify-content:flex-start;gap:10px;padding-left:3px}.footer-social li{list-style:none}.footer-social li a{display:inline-block;width:45px;height:45px;border-radius:50%;font-size:15px;text-align:center;line-height:45px;transition:transform 2s,background-color 0.6s,color 0.6s;border:1px solid #ccc;box-shadow:0 2px 5px rgba(0,0,0,0.1)}.footer-social li a.icofont-facebook:hover{transform:rotateY(360deg);background-color:#1877f2;color:white}.footer-social li a.icofont-linkedin:hover{transform:rotateY(360deg);background-color:#0077b5;color:white}.footer-social li a.icofont-instagram:hover{transform:rotateY(360deg);background:radial-gradient( circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90% );color:white}.icofont-instagram a:hover{background:radial-gradient( circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90% );color:white}.lineheightset li{margin-bottom:5px !important}.footer-contact li{display:flex;align-items:center;margin-bottom:12px}.footer-contact li a{text-decoration:none;color:black;display:inline-block;transition:color 0.3s ease}.footer-contact li a i{font-size:15px;margin-right:10px;color:rgb(15,15,107)}.footer-contact li a span,.footer-desc,.footer-copytext,.footer-title{white-space:normal;word-wrap:break-word;overflow-wrap:break-word}.footer-contact li a:hover{color:#0f0f81;transform:translateX(5px)}.footer-title{margin-bottom:20px;margin-left:32px;letter-spacing:-0.3px;text-transform:capitalize}.footer-bottom{margin-top:30px;padding:5px 40px;display:flex;align-items:center;justify-content:space-between;background-color:#333;color:white}.footer-copytext{margin-bottom:5px !important}.footer-bottom a{text-decoration:none;color:#ff7a7a;font-weight:bold}@media (max-width:767px){ul{padding-left:1rem !important}.container-fluid{padding:0px 20px !important}.page-width{padding:0 20px}.mynavbar{display:none !important}.navbar-part{display:none !important}.mobile-logo{margin-block:12px;margin-left:10px}.container-body img{width:100%;height:300px;max-height:none;object-fit:cover}.self{width:120px;max-width:100%;height:120px}.category-item p{font-size:14px}.row.py-4{flex-direction:column;align-items:flex-start}.col-lg-6.col-md-5{width:100%;max-width:100%}.main-img-box{display:none}.about-text h1{font-size:28px}.about-text p{font-size:16px}.about-btn{margin-left:0}.video{height:350px !important;max-height:none !important;object-fit:cover}.video-overlay-text{width:90%;max-width:400px}.video-overlay-text h2{font-size:2rem}.video-overlay-text button,.video-overlay-text a.video-cta-btn{font-size:1rem;padding:6px 12px;margin-top:15px}.row.D-row{display:flex;flex-wrap:nowrap !important;overflow-x:auto;scrollbar-width:none}.row.D-row>[class*="col"]{flex:0 0 auto !important;width:200px;scroll-snap-align:start}.D-img{height:165px}.D-container:hover .hover-img{opacity:1}.D-container:hover .default-img{opacity:0}.indoor-outdoor-row{display:grid !important;grid-template-columns:repeat(2,1fr);gap:10px}.indoor-outdoor-row>*{min-width:0}.upper-footer{padding-inline:30px}.upper-footer .row{flex-direction:column;align-items:flex-start}.upper-footer .col-sm-6,.upper-footer .col-md-3,.upper-footer .col-xl-3{width:100% !important;margin-bottom:25px}.footer-title{margin-left:0}.footer-contact li a span{margin-left:0px !important;padding-left:0px}.footer-contact li,.footer-social{justify-content:flex-start}.footer-social{padding-left:0;gap:15px}.footer-copytext{text-align:left !important}.footer-bottom{flex-direction:column;text-align:center;padding:10px 20px}.footer-bottom p{margin:5px 0}.footer-bottom a span{display:block}}@media (max-width:992px){.product-img{height:300px}}@media (min-width:767px) and (max-width:982px){.container-fluid{padding:0px 45px !important}.about-text h1{font-size:30px}.image1{width:90%}.image2{width:90%;top:40%;left:51%}.video-overlay-text{width:90%;max-width:600px}.video-overlay-text h2{font-size:2rem}.video-overlay-text button,.video-overlay-text a.video-cta-btn{font-size:1.3rem;padding:8px 16px}.upper-footer{padding-inline:60px}.upper-footer .row{justify-content:flex-start}.footer-widget{margin-bottom:20px}.upper-footer .col-md-3{margin-bottom:20px}.footer-bottom{flex-direction:column;text-align:center;padding:10px 20px}.footer-bottom p{margin:5px 0}.footer-bottom a span{display:block}}.mobile-search-bar{display:none;position:absolute;top:100%;left:0;right:0;background:white;padding:15px;z-index:1000;border-top:1px solid #ddd;cursor:pointer}.mobile-search-bar.active{display:block;cursor:pointer}.mobile-search-container{display:flex;align-items:center;gap:10px}#mobileSearchInput{flex:1;padding:10px 15px;border:1px solid #ddd;border-radius:4px;font-size:14px;outline:none}#mobileSearchInput:focus{border-color:#43c553}.mobile-search-close{background:none;border:none;font-size:16px;color:#666;padding:8px;cursor:pointer}.mobile-search-suggestions{list-style:none;margin:10px 0 0 0;padding:0;max-height:200px;overflow-y:auto;border-radius:4px;background:white}.mobile-search-suggestions li{padding:12px 15px;border-bottom:1px solid #f5f5f5;cursor:pointer;font-size:14px;cursor:pointer}.mobile-search-suggestions li:last-child{border-bottom:none}.mobile-search-suggestions li:hover,.mobile-search-suggestions li.highlighted{background:#007bff;color:white}.mobile-search-suggestions .suggestion-heading{font-weight:bold;background:#f8f9fa !important;color:#666 !important;cursor:default}.hearder-mobile{position:relative}.mobile-search-icon{display:block !important;cursor:pointer}.mobile-search-bar.active~.mobile-search-icon{display:block !important}.side-panel-menu .dropdown .submenu{display:none;padding-left:15px;list-style:none;border-radius:5px}.side-panel-menu .dropdown.active>a{color:#34be3d}.side-panel-menu .dropdown .submenu li{padding:5px 0}.side-panel-menu .dropdown .submenu a{font-size:14px}.side-panel-menu .dropdown-toggle i{float:right;transition:transform 0.3s ease}.side-panel-menu .dropdown-toggle i.rotate{transform:rotate(180deg)}.side-panel-menu .submenu{display:none;max-height:300px;overflow-y:auto;padding-left:15px}.side-panel-menu .has-submenu.active .submenu{display:block}.dropdown-toggle::after{display:none !important}.nav-link{padding:.5rem 1rem}@media(min-width:768px){.Head-section{min-height:98px}.second-nav{min-height:32px}}@media(max-width:767px){.Head-section{min-height:89px}.second-nav{min-height:0}}</style>
     <link rel="stylesheet" href="assets/CSS/mobile-product.css">
     <link rel="stylesheet" href="assets/CSS/outdoor-recessed-step-light-page.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
-    <link rel="shortcut icon" href="assets/img/logoH__1_-removebg-preview.png" type="image/x-icon">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" fetchpriority="low" onload="this.media='all'">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" media="print" fetchpriority="low" onload="this.media='all'">
+    
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/png">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script>
+  <script src="assets/JS/index.min.js" defer></script>
 </head>
 <body>
 
@@ -163,7 +166,7 @@ if(!$product){
 
       <!-- Left: Logo -->
       <div class="mobile-logo">
-        <a href="index.php"> <img src="assets\img\logoH__1_-removebg-preview.png" alt="Logo" height="45"> </a>
+        <a href="index.php"> <picture><source srcset="assets/img/logoH__1_-removebg-preview.png.webp" type="image/webp"><img src="assets/img/logoH__1_-removebg-preview.png" alt="Logo" height="45"></picture> </a>
       </div>
 
       <!-- Right: Search + Menu Icons -->
@@ -171,7 +174,7 @@ if(!$product){
         <div class="mobile-search-bar" id="mobileSearchBar">
             <div class="mobile-search-container">
                 <input type="text" id="mobileSearchInput" placeholder="Search..." autocomplete="off">
-                <button class="mobile-search-close" id="mobileSearchClose">
+                <button class="mobile-search-close" id="mobileSearchClose" type="button" aria-label="Close search">
                     <i class="fas fa-times"></i>
                 </button>
             </div>
@@ -264,7 +267,7 @@ if(!$product){
 
             <!-- Logo -->
             <a class="hearder-logo" href="index.php">
-              <img src="assets\img\logoH__1_-removebg-preview.png" alt="Logo" class="d-inline-block align-text-top">
+              <picture><source srcset="assets/img/logoH__1_-removebg-preview.png.webp" type="image/webp"><img src="assets/img/logoH__1_-removebg-preview.png" alt="Logo" class="d-inline-block align-text-top"></picture>
             </a>
 
           
@@ -273,7 +276,7 @@ if(!$product){
               
               <input type="text" id="searchInput" placeholder="Search..."
                 aria-label="Search" /> 
-                <button class="search-icon" type="submit"> <i
+                <button class="search-icon" type="submit" aria-label="Search products"> <i
                   class="fa-solid fa-magnifying-glass"></i> </button> 
 
                    <!-- suggestions container -->
@@ -1109,11 +1112,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- Mobile search bar script end -->
 
   <?php include 'get-a-quote.php'; ?>
-  <script src="assets/JS/index.js"></script> 
-</body>
 
-</html>
-
+  <main>
 <section>
     <div class="page-width">
         <div class="product-container">
@@ -1124,7 +1124,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </button>
                     <div class="thumbnail-images" id="thumbnailContainer">
                         <?php foreach($product['images'] as $index => $img): ?>
-                            <img src="<?php echo $img; ?>" class="thumbnail <?php echo $index === 0 ? 'active' : ''; ?>"
+                            <img loading="lazy" decoding="async" src="<?php echo $img; ?>" class="thumbnail <?php echo $index === 0 ? 'active' : ''; ?>"
                                  alt="Product view <?php echo $index; ?>" onclick="changeImage(this, <?php echo $index; ?>)">
                         <?php endforeach; ?>
                     </div>
@@ -1137,7 +1137,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         <i class="fas fa-chevron-left"></i>
                     </button>
                     <div class="main-image-wrapper" id="imageWrapper" onclick="openLightbox()">
-                        <img src="<?php echo $product['images'][0]; ?>" class="main-image" id="mainImage" 
+                        <img loading="lazy" decoding="async" src="<?php echo $product['images'][0]; ?>" class="main-image" id="mainImage" 
                              alt="<?php echo $product['title']; ?>">
                     </div>
                     <button class="image-nav-btn next-btn" id="nextImgBtn" onclick="nextImage(event)" aria-label="Next Image">
@@ -1321,199 +1321,199 @@ document.getElementById('queryModal').onclick = function(e) {
         <div class="swiper-wrapper our-client">
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/apollo-logo-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/apollo-logo-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/bombay-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/bombay-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/core-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/core-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/haldiram-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/haldiram-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/home-saaz-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/home-saaz-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Hero-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Hero-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/airtel-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/airtel-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/bnw-logo (2).png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/bnw-logo (2).png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Costa_Coffee-Logo-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Costa_Coffee-Logo-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/hindware-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/hindware-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/kfc-logo-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/kfc-logo-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/lakme-salon.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/lakme-salon.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/lava.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/lava.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/luxuria.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/luxuria.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/max-health-care.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/max-health-care.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/nike-logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/nike-logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/ramada-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/ramada-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/sony-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/sony-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/suzuki-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/suzuki-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/tanishq-logo (2).png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/tanishq-logo (2).png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/tecno-logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/tecno-logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/vivo-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/vivo-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/royal-enfield-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/royal-enfield-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/timex-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/timex-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/vodafone-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/vodafone-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Reebok-Logo.wine.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Reebok-Logo.wine.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/gd doenka.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/gd doenka.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/taj-hotel-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/taj-hotel-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/indian-oil-logo-png.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/indian-oil-logo-png.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/audi-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/audi-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/gionee-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/gionee-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/p.p_jewellers-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/p.p_jewellers-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Intex_Logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Intex_Logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/sarvodaya-logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/sarvodaya-logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/giani-logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/giani-logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/fortune-hotel-logo.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/fortune-hotel-logo.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/titan-logo-.png" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/titan-logo-.png" alt="BPTP Logo" width="100%">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="client">
-              <img src="assets/img/our-client/Redico Logo.jpg" alt="BPTP Logo" width="100%">
+              <img loading="lazy" decoding="async" src="assets/img/our-client/Redico Logo.jpg" alt="BPTP Logo" width="100%">
             </div>
           </div>
         </div>
       </div>
     </div>
   </section> -->
-
+  </main>
 
   <!-- Footer Section -->
   <section>
@@ -1523,16 +1523,16 @@ document.getElementById('queryModal').onclick = function(e) {
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget">
               <a class="footer-logo" href="index.php">
-                <img src="assets/img/logoH__1_-removebg-preview.png" alt="logo"></a>
+                <picture><source srcset="assets/img/logoH__1_-removebg-preview.png.webp" type="image/webp"><img src="assets/img/logoH__1_-removebg-preview.png" alt="logo"></picture></a>
               <p class="footer-desc">We believe in a brighter future.
 Through innovation and new technologies, we transform spaces and create meaningful experiences with light.</p>
               <div class="social-icons">
                 <ul class="footer-social">
-                  <li><a class="icofont-facebook" href="https://www.facebook.com/profile.php?id=61578299321011" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                  <li><a class="icofont-facebook" href="https://www.facebook.com/profile.php?id=61578299321011" target="_blank" rel="noopener" aria-label="Sunny Lights on Facebook"><i class="fa-brands fa-facebook-f"></i></a>
                   </li>
                   <!--<li><a class="icofont-linkedin" href="#" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>-->
                   </li>
-                  <li><a class="icofont-instagram" href="https://www.instagram.com/_sunny_lights_/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                  <li><a class="icofont-instagram" href="https://www.instagram.com/_sunny_lights_/" target="_blank" rel="noopener" aria-label="Sunny Lights on Instagram"><i class="fa-brands fa-instagram"></i></a>
                   </li>
                 </ul>
               </div>
@@ -1541,7 +1541,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
           </div>
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget contact">
-              <h3 class="footer-title">Quick Link</h3>
+              <h2 class="footer-title">Quick Link</h2>
               <ul class="footer-contact lineheightset">
                 <li><a href="index.php"><span><i class="bi bi-chevron-double-right "></i>Home</span></a></li>
                 <li><a href="about.php"><span><i class="bi bi-chevron-double-right "></i>About</span></a></li>
@@ -1555,7 +1555,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
           </div>
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget contact">
-              <h3 class="footer-title">Products</h3>
+              <h2 class="footer-title">Products</h2>
               <ul class="footer-contact lineheightset">
                 <li><a href="outdoor-lights.php"><span><i class="bi bi-chevron-double-right "></i>Outdoor Lights</span></a></li>
                 <li><a href="indoor-lights-products.php"><span><i class="bi bi-chevron-double-right "></i>Indoor Lights</span></a></li>
@@ -1569,7 +1569,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
           </div>
           <div class="col-sm-6 col-xl-3 col-md-3">
             <div class="footer-widget contact">
-              <h3 class="footer-title">Contact us</h3>
+              <h2 class="footer-title">Contact us</h2>
               <ul class="footer-contact">
                 <li><a href="mailto:sunnylights377@gmail.com"><i class="fa-solid fa-at"></i>
                     <span>sunnylights377@gmail.com</span></a>
@@ -1598,8 +1598,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
       <div class="footer-bottom">
         <p class="footer-copytext">© All Copyrights Reserved by Sunny Lights</p>
-        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/"
-            target="_blank"><span>Arka Technovation Pvt Limited</span></a></p>
+        <p class="footer-copytext">© 2025 Designed &amp; Developed By <a href="http://arkatechnovation.com/" target="_blank" rel="noopener"><span>Arka Technovation Pvt Limited</span></a></p>
 
       </div>
     </div>
@@ -1611,7 +1610,7 @@ Through innovation and new technologies, we transform spaces and create meaningf
 
   <!-- Swiper -->
   <script>
-    var myswiper2 = new Swiper(".myswiper2", {
+    if (typeof Swiper !== "undefined" && document.querySelector(".myswiper2")) var myswiper2 = new Swiper(".myswiper2", {
       loop: true,
       slidesPerView: 1,
       spaceBetween: 20,
@@ -1641,9 +1640,5 @@ Through innovation and new technologies, we transform spaces and create meaningf
     });
 
   </script>
-</body>
-
-</html>
-  <script src="assets/JS/index.js"></script>
 </body>
 </html>

@@ -1,23 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<title>Custom Review Swiper</title>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-
 <style>
-body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-font-family: 'Times New Roman', serif;
-}
-
 .review-container {
   padding: 40px 0;
- background-image: url('Img/background-img/banner.jpg');
- background-size: cover;     /* optional, makes image cover the area */
+  background-image: url('assets/img/background-img/banner.jpg');
+  background-image: image-set(
+    url('assets/img/background-img/banner.jpg.webp') type('image/webp'),
+    url('assets/img/background-img/banner.jpg') type('image/jpeg')
+  );
+  background-size: cover;     /* optional, makes image cover the area */
   background-position: center; /* optional, centers the image */
   background-repeat: no-repeat; /* optional, prevents tiling */
 }
@@ -27,7 +16,7 @@ font-family: 'Times New Roman', serif;
   margin-bottom: 20px;
 }
 
-.review-heading h1 {
+.review-heading h2 {
   color: red;
 }
 
@@ -86,7 +75,28 @@ font-family: 'Times New Roman', serif;
 
 .user-info span {
   font-size: 12px;
-  color: gray;
+  color: #666666;
+}
+
+.review-container .swiper-pagination-bullet {
+  width: 24px;
+  height: 24px;
+  background: transparent !important;
+  opacity: 1 !important;
+  position: relative;
+  margin: 0 !important;
+}
+.review-container .swiper-pagination-bullet::after {
+  content: "";
+  position: absolute;
+  inset: 8px;
+  border-radius: 50%;
+  background: var(--swiper-pagination-bullet-inactive-color, #000);
+  opacity: var(--swiper-pagination-bullet-inactive-opacity, 0.2);
+}
+.review-container .swiper-pagination-bullet-active::after {
+  background: var(--swiper-theme-color, #007aff);
+  opacity: 1;
 }
 
 /* Active slide zoom */
@@ -111,15 +121,15 @@ font-family: 'Times New Roman', serif;
 { 
   position: absolute; 
   bottom: 20px; left: 0; 
-  width: 100%; text-align: 
-  center; z-index: 10; 
+  width: 100%; text-align: center;
+  z-index: 10; 
 }
  /* Arrows */ 
  .swiper-button-next, .swiper-button-prev 
  {
    color: white; 
    background: rgba(0, 0, 0, 0.4); 
-   padding: 20 px; 
+   padding: 20px; 
    border-radius: 50%; 
    width: 40px; 
    height: 40px; 
@@ -165,16 +175,20 @@ font-family: 'Times New Roman', serif;
 
 
 </style>
-</head>
-<body>
 
   <!-- Google Review banner part -->
   <section class="my-section mr-b">
     <div class="google-container">
       <div class="google-banner">
-        <img src="assets/img/banners/reivew-banner.jpg" alt="google-banner" class="desktop-view-banner">
-        <img src="assets/img/banners/mobile-view-review-banner.jpg" alt="google-banner" class="mobile-view-banner">
-        
+        <picture>
+          <source srcset="assets/img/banners/reivew-banner.jpg.webp" type="image/webp">
+          <img src="assets/img/banners/reivew-banner.jpg" alt="Google Customer Reviews" class="desktop-view-banner" width="1440" height="480" loading="lazy" decoding="async">
+        </picture>
+        <picture>
+          <source media="(max-width: 767px)" srcset="assets/img/banners/mobile-view-review-banner.jpg.mob.webp" type="image/webp">
+          <source srcset="assets/img/banners/mobile-view-review-banner.jpg.webp" type="image/webp">
+          <img src="assets/img/banners/mobile-view-review-banner.jpg" alt="Google Customer Reviews" class="mobile-view-banner" width="1440" height="1029" loading="lazy" decoding="async">
+        </picture>
       </div>
     </div>
   </section>
@@ -182,7 +196,7 @@ font-family: 'Times New Roman', serif;
   <section class="myreview-Section">
 <div class="review-container">
   <div class="review-heading ">
-    <h1>What Our Customers Say</h1>
+    <h2>What Our Customers Say</h2>
     <p>Real reviews from people who love our products</p>
   </div>
 
@@ -198,7 +212,7 @@ font-family: 'Times New Roman', serif;
           Definitely a product worth the investment!"
         </div>
         <div class="review-user">
-          <img src="https://randomuser.me/api/portraits/men/28.jpg" alt="user">
+          <img src="https://randomuser.me/api/portraits/men/28.jpg" alt="Amit Patel" width="40" height="40" loading="lazy" decoding="async">
           <div class="user-info">
             <strong>Amit Patel</strong>
             <span>Ahmedabad, India</span>
@@ -216,7 +230,7 @@ font-family: 'Times New Roman', serif;
           Our neighbors even complimented us on how amazing it looks now!"
         </div>
         <div class="review-user">
-          <img src="https://randomuser.me/api/portraits/women/12.jpg" alt="user">
+          <img src="https://randomuser.me/api/portraits/women/12.jpg" alt="Sneha Kapoor" width="40" height="40" loading="lazy" decoding="async">
           <div class="user-info">
             <strong>Sneha Kapoor</strong>
             <span>Bangalore, India</span>
@@ -235,7 +249,7 @@ font-family: 'Times New Roman', serif;
           I’m very happy with the purchase!"
         </div>
         <div class="review-user">
-          <img src="https://randomuser.me/api/portraits/men/54.jpg" alt="user">
+          <img src="https://randomuser.me/api/portraits/men/54.jpg" alt="Rohit Mehra" width="40" height="40" loading="lazy" decoding="async">
           <div class="user-info">
             <strong>Rohit Mehra</strong>
             <span>Chandigarh, India</span>
@@ -253,7 +267,7 @@ font-family: 'Times New Roman', serif;
           It has truly enhanced the shopping experience for my clients."
         </div>
         <div class="review-user">
-          <img src="https://randomuser.me/api/portraits/women/33.jpg" alt="user">
+          <img src="https://randomuser.me/api/portraits/women/33.jpg" alt="Priya Singh" width="40" height="40" loading="lazy" decoding="async">
           <div class="user-info">
             <strong>Priya Singh</strong>
             <span>Delhi, India</span>
@@ -271,7 +285,7 @@ font-family: 'Times New Roman', serif;
           I’m impressed with both the quality and the customer service provided!"
         </div>
         <div class="review-user">
-          <img src="https://randomuser.me/api/portraits/men/61.jpg" alt="user">
+          <img src="https://randomuser.me/api/portraits/men/61.jpg" alt="Vikram Joshi" width="40" height="40" loading="lazy" decoding="async">
           <div class="user-info">
             <strong>Vikram Joshi</strong>
             <span>Mumbai, India</span>
@@ -296,9 +310,10 @@ font-family: 'Times New Roman', serif;
 
 
 <!-- scripts -->
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
-var reviewSwiper = new Swiper(".reviewSwiper", {
+document.addEventListener("DOMContentLoaded", function () {
+  if (typeof Swiper === "undefined") return;
+  var reviewSwiper = new Swiper(".reviewSwiper", {
   slidesPerView: 3,
   spaceBetween: 20,
   centeredSlides: true,
@@ -334,6 +349,5 @@ reviewSwiper.on('paginationClick', function(swiper, e) {
   }
   
 });
+});
 </script>
-</body>
-</html>
